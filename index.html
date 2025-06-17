@@ -78,7 +78,7 @@
             // 首次加载：从本地 JSON 读取
             if (allArticles.length === 0) {
                 try {
-                    const response = await fetch('./articles.json');
+                    const response = await fetch('articles.json');
                     allArticles = await response.json();
                 } catch (error) {
                     console.error('加载文章失败：', error);
