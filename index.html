@@ -34,7 +34,7 @@
 <body>
     <div class="container mt-4">
         <h1 class="text-center mb-4">新闻聚合</h1>
-        
+
         <!-- Category Tags -->
         <div class="d-flex justify-content-center mb-4">
             <div class="category-tag active" data-category="all">全部</div>
@@ -51,7 +51,8 @@
     </div>
 
     <script>
-        // Function to create a news card
+        let allArticles = [];
+
         function createNewsCard(article) {
             return `
                 <div class="col-md-4">
@@ -71,35 +72,40 @@
             `;
         }
 
-        // Function to load articles
         async function loadArticles(category = 'all') {
-            const url = './articles.json';
-            
-            try {
-                const response = await fetch(url);
-                const articles = await response.json();
-                const container = document.getElementById('news-container');
-                container.innerHTML = articles.map(createNewsCard).join('');
-            } catch (error) {
-                console.error('Error loading articles:', error);
+            const container = document.getElementById('news-container');
+
+            // 首次加载：从本地 JSON 读取
+            if (allArticles.length === 0) {
+                try {
+                    const response = await fetch('./articles.json');
+                    allArticles = await response.json();
+                } catch (error) {
+                    console.error('加载文章失败：', error);
+                    container.innerHTML = `<p class="text-danger">无法加载文章。</p>`;
+                    return;
+                }
             }
+
+            // 分类过滤
+            const filtered = category === 'all'
+                ? allArticles
+                : allArticles.filter(a => a.category === category);
+
+            container.innerHTML = filtered.map(createNewsCard).join('');
         }
 
-        // Event listeners for category tags
+        // 绑定分类点击事件
         document.querySelectorAll('.category-tag').forEach(tag => {
             tag.addEventListener('click', () => {
-                // Update active state
                 document.querySelectorAll('.category-tag').forEach(t => t.classList.remove('active'));
                 tag.classList.add('active');
-                
-                // Load articles for selected category
-                const category = tag.dataset.category;
-                loadArticles(category);
+                loadArticles(tag.dataset.category);
             });
         });
 
-        // Load all articles on page load
+        // 初始加载全部文章
         loadArticles();
     </script>
 </body>
-</html> 
+</html>
