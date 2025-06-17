@@ -1,111 +1,816 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>新闻聚合</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .category-tag {
-            cursor: pointer;
-            padding: 10px 20px;
-            margin: 0 5px;
-            border-radius: 20px;
-            background-color: #f0f0f0;
-            transition: all 0.3s;
-        }
-        .category-tag.active {
-            background-color: #007bff;
-            color: white;
-        }
-        .news-card {
-            margin-bottom: 20px;
-            transition: transform 0.3s;
-        }
-        .news-card:hover {
-            transform: translateY(-5px);
-        }
-        .news-image {
-            height: 200px;
-            object-fit: cover;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>新闻聚合</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    .category-tag {
+      cursor: pointer;
+      padding: 10px 20px;
+      margin: 0 5px;
+      border-radius: 20px;
+      background-color: #f0f0f0;
+      transition: all 0.3s;
+    }
+    .category-tag.active {
+      background-color: #007bff;
+      color: white;
+    }
+    .news-card {
+      margin-bottom: 20px;
+      transition: transform 0.3s;
+    }
+    .news-card:hover {
+      transform: translateY(-5px);
+    }
+    .news-image {
+      height: 200px;
+      object-fit: cover;
+    }
+  </style>
 </head>
 <body>
-    <div class="container mt-4">
-        <h1 class="text-center mb-4">新闻聚合</h1>
+  <div class="container mt-4">
+    <h1 class="text-center mb-4">新闻聚合</h1>
 
-        <!-- Category Tags -->
-        <div class="d-flex justify-content-center mb-4">
-            <div class="category-tag active" data-category="all">全部</div>
-            <div class="category-tag" data-category="游戏">游戏</div>
-            <div class="category-tag" data-category="社交">社交</div>
-            <div class="category-tag" data-category="AI">AI</div>
-            <div class="category-tag" data-category="其他">其他</div>
-        </div>
-
-        <!-- News Grid -->
-        <div class="row" id="news-container">
-            <!-- News cards will be inserted here -->
-        </div>
+    <!-- Category Tags -->
+    <div class="d-flex justify-content-center mb-4">
+      <div class="category-tag active" data-category="all">全部</div>
+      <div class="category-tag" data-category="游戏">游戏</div>
+      <div class="category-tag" data-category="社交">社交</div>
+      <div class="category-tag" data-category="AI">AI</div>
+      <div class="category-tag" data-category="其他">其他</div>
     </div>
 
-    <script>
-        let allArticles = [];
+    <!-- News Grid -->
+    <div class="row" id="news-container"></div>
+  </div>
 
-        function createNewsCard(article) {
-            return `
-                <div class="col-md-4">
-                    <div class="card news-card">
-                        <img src="${article.image_url}" class="card-img-top news-image" alt="${article.title}">
-                        <div class="card-body">
-                            <h5 class="card-title">${article.title}</h5>
-                            <p class="card-text">${article.summary}</p>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <small class="text-muted">${article.time}</small>
-                                <small class="text-muted">${article.source}</small>
-                            </div>
-                            <a href="${article.url}" class="btn btn-primary mt-2" target="_blank">阅读更多</a>
-                        </div>
-                    </div>
-                </div>
-            `;
-        }
+  <script>
+    // JSON 数据直接嵌入
+    const articles = [
+  {
+    "title": "《战舰世界》军团战中的秘密文件",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "《战舰世界》即将开启全新军团战赛季，代号为“僧帽水母”。此次更新引入了新的机制——秘密文件，玩家可以在战斗中自由选择这些文件以增强进攻和防御。秘密文件可以针对特定敌舰，带来战斗中的策略灵活性。此外，赛季将于6月16日开启，持续至8月4日，玩家可在特定时间段内参与军团战，并有机会获得丰厚奖励。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061611942799.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939233.html"
+  },
+  {
+    "title": "下一代Xbox要变PC？传言反转：微软或回归传统主机",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "关于下一代Xbox的硬件设计，外界的猜测不断。最初有传言称新主机将采用接近PC的架构以支持PC平台游戏，然而最新爆料显示，微软可能会继续沿用传统游戏主机的设计。知名爆料人eXtas1s引用AMD内部人士的说法，确认新主机将兼容现有Xbox生态系统的所有游戏，并强调其架构将更倾向于传统主机的性能提升。微软尚未对具体架构做出回应，进一步消息仍需等待。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061655715320.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939333.html"
+  },
+  {
+    "title": "NEXON《跑跑卡丁车：飘移》即将结束维持两年服务",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "NEXON宣布旗下线上赛车游戏《跑跑卡丁车：飘移》即将结束服务，并计划推出全新游戏《跑跑卡丁车经典》。该游戏自2023年上线后未能达到预期成绩，NEXON逐步缩减服务区域，最终决定终止运营。尽管如此，NEXON将继续投入经典IP的开发，承诺会在未来提供更多关于新游戏的信息，以满足玩家的期待。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061654715270.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939327.html"
+  },
+  {
+    "title": "《剑星》新一批性感美图赏：这身材恐怕真要包不住了！",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "Shift Up美少女动作游戏《剑星》（Stellar Blade）已正式发售，游戏中的角色伊芙因其完美身材和性感服装受到了玩家的热烈关注。许多玩家在社交媒体上分享了伊芙的美图，本文汇总了这些美图，展示了游戏的视觉魅力。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061654651377.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939321.html"
+  },
+  {
+    "title": "《巫师4》开发将以主机为主！避免《2077》错误复现",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "CD Projekt RED（CDPR）在开发《巫师4》时将改变以往优先开发PC版本的策略，改为以主机平台为主。技术总监Charles Tremblay表示，此次将以主机优先的开发策略，以避免重蹈《赛博朋克2077》的覆辙，并设定60fps作为主要性能目标。对于性能较弱的Xbox Series S，团队承认实现60fps的挑战性。该游戏预计将在2025年发售。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061654238704.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939325.html"
+  },
+  {
+    "title": "大型MMORPG游戏《伊米尔传奇》公布国际版前导网站",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "大型MMORPG《尤弥尔传奇》的国际版前导网站正式上线。该游戏以北欧神话为背景，预计将在2025年下半年正式上线，玩家将能够在PC、iOS和Android平台上体验。游戏引入创新的区块链技术，允许玩家通过游戏活动获得加密货币WEMIX，形成独特的代币经济体系。国际版的宣传口号为“PLAY YMIR，EARN WEMIX”，旨在吸引对加密货币感兴趣的玩家。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061655935738.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939335.html"
+  },
+  {
+    "title": "CS2赛事游侠说：BLAST奥斯汀major第三阶段门票局结束！",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "6月16日，CS2奥斯汀MAJOR第三阶段的最后一轮比赛落下帷幕，The Mongolz、paiN和MOUZ成功晋级淘汰赛。特别是The Mongolz以2-0战胜G2，连续两届major进入八强，确保亚洲赛区的直邀资格。其他比赛中，VP遗憾出局，而paiN队史首次杀入major主舞台。八强对阵也随之确定，将于6月20日在穆迪中心进行。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061624947188.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939273.html"
+  },
+  {
+    "title": "打破魔咒！GCAT勇夺《坦克世界》2025WCL夏季赛总冠军",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "GCAT在2025WCL坦克世界冠军联赛夏季赛决赛中以7:6战胜ONEONE，成功夺冠。赛事回顾中，GCAT在淘汰赛首日表现不佳，但在胜者组决赛中逆转。总决赛中，GCAT利用战术优势，最终取得胜利，GCAT.帅锅获得决赛FMVP。赛事还推出电竞币活动，关注官方微信公众号获取更多资讯。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061632726950.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939293.html"
+  },
+  {
+    "title": "不止地面?《GTA6》爆料水下也可探索！还有专属任务",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "Rockstar Games正在开发的《侠盗猎车手6》（GTA6）预计将于明年5月26日发布。最新爆料透露，游戏将首次引入完整的水下探索区域，并为此设计了一系列支线任务，玩家可能需要通过水下进行运毒任务，发现毒枭的秘密运输路线。此外，游戏世界中可探索的建筑超过700栋，为玩家提供更丰富的互动体验。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061634423327.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939299.html"
+  },
+  {
+    "title": "《剑星》成人mod占比超四成 媒体批评物化女性引反噬",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "PC平台版《剑星》推出后，模组社群迅速发展，其中约有41%的模组属于成人向内容，引发部分西方媒体及社群的强烈反应。报道指出，这类内容物化女性，并引发关于媒体对待成人内容的双重标准的讨论。面对批评，社群反弹并质疑媒体在不同作品中的态度差异，认为媒体的容忍度与特定议题取向相关。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061633122911.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939295.html"
+  },
+  {
+    "title": "眼睛要睁不开了!《宝可梦朱紫》NS2惊见场景钛晶化！",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "2022年推出的《宝可梦 朱/紫》发布了NS2专用版免费更新，虽然画质与帧数表现有所提升，但玩家发现了全地图太晶化的Bug，导致画面闪耀到难以直视，甚至引发玩家吐槽和幽默评论。该Bug发生频率较低，可能与NS2驱动程序有关。这让人想起该游戏以往的搞笑Bug合集，成为玩家讨论的热点。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061640651260.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939305.html"
+  },
+  {
+    "title": "CS2赛事游侠说：奥斯汀Major淘汰赛Spirit vs MOUZ、Vitality vs NAVI",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "6月20日，CS2奥斯汀MAJOR的淘汰赛将会在北京时间凌晨3点准时开战，首轮对阵将会在FURIA和paiN之间展开，接着第二场下半区的Spirit将与MOUZ展开大战，第二天的首轮Faze将对阵MGLZ，然后是NAVI与Vitality的对决。这场比赛备受关注，玩家们期待看到各大战队的精彩表现。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061615520551.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939257.html"
+  },
+  {
+    "title": "这么爱吃史？外网有2714名玩家请愿复活《星鸣特攻》",
+    "time": "2025-06-16",
+    "source": "互联网",
+    "summary": "索尼旗下的英雄射击游戏《星鸣特攻》因质量问题上线仅三周后被关停，开发商Firewalk Studio解散。尽管如此，玩家在Change.org发起请愿，要求索尼重新考虑该游戏的未来，已有2714人支持此倡议。玩家认为这款游戏具备独特魅力，应该被复活。尽管请愿声量不小，但游戏的争议仍在持续，复活的可能性微乎其微，反映出游戏行业在高成本背景下的创新风险与商业回报的矛盾。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061642858416.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939313.html"
+  },
+  {
+    "title": "《剑星》有望登陆Mac和NS2：我们对新平台有浓厚兴趣",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "《剑星》制作人金亨泰在接受采访时表示，游戏对新平台的支持充满兴趣，未来可能会登陆Mac和Nintendo Switch 2。他提到，虽然尚未确定，但开发团队希望在多平台上满足玩家的期待。同时，他们也在探讨动画和衍生内容的可能性，但会谨慎推进，避免盲目扩张。主线故事将继续，但暂时没有大规模剧情扩充的计划。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061640313306.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939307.html"
+  },
+  {
+    "title": "新衣添彩，新局已开！和刀刀一起清凉一夏！",
+    "time": "2025-06-16",
+    "source": "官方",
+    "summary": "随着夏天的到来，江湖游戏《天涯明月刀》推出了全新外观系列【浮光·光与沫】和【心王·临洮曲】。前者灵感来源于深海生物，后者则融入了历史元素，展现了武将的威严。此外，游戏新赛季【四盟旧弈天元赛季】也已开启，简化了玩法和结算规则，鼓励玩家参与。玩家们可通过【刀哥信箱】反馈意见，共同推动游戏发展。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_202506164214975.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939311.html"
+  },
+  {
+    "title": "小孩美国CEO格斗游戏大赛夺冠：再度拿下饿狼传说冠军",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "在2025年6月16日的美国CEO格斗游戏大赛中，中国格斗电竞选手“小孩”曾卓君以3-1战胜日本选手NEMO，再次夺得《饿狼传说：群狼之城》的国际大赛冠军。这是他继5月10日EVO Japan 2025夺冠后的又一成就，展现了他出色的操作与战术能力，成功扭转战局，赢得比赛。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061640930246.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939303.html"
+  },
+  {
+    "title": "无限暖暖XBW2025参展确定！期待现场相见",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "无限暖暖官方近日宣布将参加BilibiliWorld 2025展会，展会时间为2025年7月11日至13日，地点位于国家会展中心4.1H馆4A02。尽管具体活动内容尚未公布，预计将包括线下小活动和独特周边产品，吸引众多粉丝参与。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061645115175.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939317.html"
+  },
+  {
+    "title": "NBA与2K续签多年合作伙伴关系",
+    "time": "2025-06-16",
+    "source": "GamesIndustry.biz",
+    "summary": "NBA与2K达成了一项新的多年全球合作伙伴关系，2K将继续与NBA及其相关组织合作，打造最真实和引人入胜的篮球视频游戏体验。此外，NBA和2K将推出NBA Take-Two Media，以通过竞争性游戏、社交内容、原创节目和现场活动将粉丝和玩家连接在一起。2K还确认其篮球系列在全球销量已超过1.5亿部。",
+    "image_url": "https://assetsio.gnwcdn.com/LeBron-James-NBA-2K.png?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/nba-signs-another-multiyear-partnership-with-2k"
+  },
+  {
+    "title": "Epic起诉Fortnite作弊软件开发者及其转售商",
+    "time": "2025-06-11",
+    "source": "GamesIndustry.biz",
+    "summary": "Epic Games最近对Fortnite作弊软件开发者Sincey Cheats及其转售商提起诉讼，指控其自2023年1月以来通过开发和销售作弊软件获取非法收益。Epic表示，自2022年2月以来，已对“数万”使用Sincey Cheats软件的Fortnite账户采取封禁措施，并声称在美国已封禁超过15,000个账户。诉讼还涉及五名未公开姓名的转售商，Epic要求赔偿由于作弊造成的损失和律师费用等。",
+    "image_url": "https://assetsio.gnwcdn.com/fortnite-coins.jpg?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/epic-sues-creator-and-resellers-of-fortnite-cheat-software"
+  },
+  {
+    "title": "Switch 2在日本销售近100万台，成为该国最大主机首发",
+    "time": "2025-06-13",
+    "source": "GamesIndustry.biz",
+    "summary": "任天堂最新硬件Switch 2在日本的销售量已接近100万台，成为该国历史上最大的主机首发。根据Famitsu的数据，Switch 2在发布第一周售出947,931台，而原版Switch在同一时段仅售出330,637台。此外，Switch 2在全球四天内售出350万台，创下任天堂的新纪录。任天堂预计到2026年3月，Switch 2的销量将达到1500万台。",
+    "image_url": "https://assetsio.gnwcdn.com/mario-kart-1.jpg?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/switch-2-sells-almost-1m-units-in-japan-making-it-countrys-biggest-console-launch"
+  },
+  {
+    "title": "《Stellar Blade》销量达300万",
+    "time": "2025-06-16",
+    "source": "GamesIndustry.biz",
+    "summary": "由索尼互动娱乐发行的动作冒险游戏《Stellar Blade》在发布后的三天内便售出了100万份，整体销量达到了300万份。这款游戏由Shift Up开发，成为了索尼在Steam上最大的游戏。该游戏的成功标志着其在市场上的强劲表现。",
+    "image_url": "https://assetsio.gnwcdn.com/stellar-blade-1_1ZMgY4z.jpg?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/stellar-blade-sells-3m-copies-news-in-brief"
+  },
+  {
+    "title": "任天堂Switch 2打破美国首周销量纪录，售出超110万台",
+    "time": "2025-06-16",
+    "source": "GamesIndustry.biz",
+    "summary": "任天堂Switch 2在美国的首周销量超过110万台，打破了由PlayStation 4保持的纪录。据Circana数据，79%的销量包括了Mario Kart World的实体和捆绑购买。值得注意的是，110万台的销量并未包括My Nintendo Store的销售。Switch 2在日本的销量也接近100万台，成为该国最大的主机首发。任天堂预计到2026年3月，Switch 2的销量将达到1500万台。",
+    "image_url": "https://assetsio.gnwcdn.com/switch-2-(1).jpg?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/switch-2-breaks-us-launch-week-records-selling-over-11m-units"
+  },
+  {
+    "title": "腾讯胜诉和平精英泄密者的知识产权诉讼",
+    "time": "2025-06-11",
+    "source": "GamesIndustry.biz",
+    "summary": "腾讯在一起诉讼中获胜，法院裁定泄密者小胖评论侵犯了《和平精英》的知识产权。被告李某某因数据挖掘和逆向工程获取并泄露未公布内容而被判定有罪，法院命令其道歉、停止侵权，并支付赔偿。此案涉及的《和平精英》是《PUBG Mobile》的中国版本。腾讯在此案件中的胜利显示了其对知识产权的重视及保护力度。",
+    "image_url": "https://assetsio.gnwcdn.com/d84adc99099303.5eec5cb1c8b1f-3619014555.jpg?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/tencent-wins-ip-lawsuit-against-peacekeeper-elite-leaker"
+  },
+  {
+    "title": "Bloober Team和Konami宣布《寂静岭》重制版",
+    "time": "2025-06-13",
+    "source": "GamesIndustry.biz",
+    "summary": "Bloober Team与Konami联合宣布将重制经典生存恐怖游戏《寂静岭》。该系列最初由Team Silent开发，重制版将于2024年发布，旨在为新一代玩家带来经典恐怖体验。重制版将保留原作的精髓，同时利用现代技术提升游戏的图形和音效，吸引更多的玩家关注这一经典系列。",
+    "image_url": "https://assetsio.gnwcdn.com/silent-hill_fTT4q8f.jpg?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/bloober-team-and-konami-announce-silent-hill-remake-news-in-brief"
+  },
+  {
+    "title": "街头霸王6全球销量突破500万",
+    "time": "2025-06-11",
+    "source": "GamesIndustry.biz",
+    "summary": "卡普空宣布，街头霸王6的全球销量已超过500万份。为了进一步扩大用户群，卡普空计划将该游戏作为Switch 2的发售标题推出。这一举措旨在利用新平台的市场潜力，吸引更多玩家体验这一经典格斗游戏。",
+    "image_url": "https://assetsio.gnwcdn.com/street-fighter-6_wTnX7dE.webp?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/street-fighter-6-surpasses-5m-units-worldwide-news-in-brief"
+  },
+  {
+    "title": "《星际刀锋》成为索尼在Steam上玩家同时在线人数最多的游戏",
+    "time": "2025-06-12",
+    "source": "GamesIndustry.biz",
+    "summary": "《星际刀锋》现已成为索尼在Steam上发布的单人游戏中，玩家同时在线人数最多的游戏，超过了其他所有单人游戏的记录，玩家峰值超过了183,000人。该游戏于6月11日发布，并在Steam上获得了“极为积极”的用户评价。尽管多人游戏《地狱潜行者2》的峰值超过了450,000人，但《星际刀锋》的表现仍然引人注目。该游戏突破了《幽灵行者》、《战神》和《漫威蜘蛛侠重制版》等其他单人冒险游戏的记录。",
+    "image_url": "https://assetsio.gnwcdn.com/ss_2d4ad1a81618920416e7b68d02dc266ac898f144.1920x1080.jpg?width=690&quality=70&format=jpg&auto=webp",
+    "category": "游戏",
+    "url": "https://www.gamesindustry.biz/stellar-blade-is-now-sonys-biggest-ever-game-on-steam-by-concurrent-players"
+  },
+  {
+    "title": "微信鸿蒙版 App 获 1.0.7.39 邀测升级，支持预览 QQ 邮箱提醒",
+    "time": "2025-06-16",
+    "source": "IT之家",
+    "summary": "微信鸿蒙版 App 在华为应用市场开启了新版本的邀测升级。此次更新的版本为1.0.7.39，用户在收到短信通知后可以进行安装。新版本支持预览 QQ 邮箱提醒，并修复了一些已知问题。截止目前，微信鸿蒙版的安装量已超过600万次。该应用还支持基础通讯、社交、微信支付等主要功能，并将于7月15日结束测试。",
+    "image_url": "https://n.sinaimg.cn/spider20250616/309/w1008h901/20250616/0189-652d73f13d0b42e018f5909993c62f72.jpg",
+    "category": "社交",
+    "url": "https://finance.sina.com.cn/tech/digi/2025-06-17/doc-infahvfw2852876.shtml"
+  },
+  {
+    "title": "昔日“精英社区”，被霸总文学占领",
+    "time": "2023-10-06",
+    "source": "创业邦",
+    "summary": "知乎正在从一个专业问答社区逐渐演变为短篇网文的聚集地，其付费会员收入中，短篇网文占比已达57.3%。这项业务的崛起吸引了大量女性和年轻用户，推动知乎进行商业化转型。尽管网文的收入增长迅速，但知乎整体月活用户数却在下降，面临着用户流失的风险。",
+    "image_url": "https://oss.cyzone.cn/2025/0617/df750f9ddb5904573889d7c63acb83b9.jpeg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "社交",
+    "url": "https://www.cyzone.cn/article/801313.html"
+  },
+  {
+    "title": "Instagram测试重发功能",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "Instagram正在测试用户重发帖子的功能，该公司周一向TechCrunch确认此消息。虽然这一变化并不令人意外，但用户对这一功能的反应却不一。重发功能将允许用户在Instagram的Feed中分享其他用户的帖子，可能会为内容创作者带来更多曝光率，同时也能确保原创者获得应有的信用。尽管这一功能尚处于测试阶段，Instagram尚未确定何时会向所有用户推出。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/instagram-GettyImages-2150186181.jpg?w=1024",
+    "category": "社交",
+    "url": "https://techcrunch.com/2025/06/16/instagram-tests-a-reposts-feature/"
+  },
+  {
+    "title": "Threads正在测试剧透文本，扎克伯格表示",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "Meta的微型博客平台Threads正在测试剧透文本功能。该功能允许用户在帖子中隐藏某些文字或图片，只有在点击后才能查看。这一功能旨在提升用户体验，并鼓励更多关于流行文化的讨论，减少剧透带来的困扰。Meta表示，流行节目如《最后生还者》和《白莲花》的讨论在Threads上频繁出现，显示出该平台在娱乐和流行文化爱好者中的日益增长的社区。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?w=1024",
+    "category": "社交",
+    "url": "https://techcrunch.com/2025/06/16/threads-is-testing-spoiler-text-zuckerberg-says/"
+  },
+  {
+    "title": "Patreon将提高新创作者的提成比例",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "Patreon宣布将改变其定价结构，将从新创作者的收入中提取10%的费用，之前的费率为8%。这一变化只会影响在2025年8月4日之后创建新页面的创作者。Patreon表示，自六年前最后一次调整价格以来，平台已经增加了许多新功能，包括媒体托管、社区建设和发现功能。现有创作者不会受到此价格上涨的影响。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v2.jpg?w=1024",
+    "category": "社交",
+    "url": "https://techcrunch.com/2025/06/16/patreon-will-increase-the-cut-it-takes-from-new-creators/"
+  },
+  {
+    "title": "Instagram正在测试重发按钮",
+    "time": "2025-06-17",
+    "source": "The Verge",
+    "summary": "Instagram正在对一项新功能进行测试，该功能允许用户重发其他用户的内容。自2022年以来，Instagram一直在开发这一重发功能，现有部分用户已经看到新按钮。Instagram发言人确认了这一测试，但未透露更多的推广细节。这一功能的推出可能会改变用户之间的内容分享方式，进一步增强平台的互动性。",
+    "image_url": "",
+    "category": "社交",
+    "url": "https://www.theverge.com/news/687858/instagram-is-trying-out-a-repost-button"
+  },
+  {
+    "title": "Threads将允许用户隐藏帖子中的剧透",
+    "time": "2025-06-17",
+    "source": "The Verge",
+    "summary": "Meta正在推出一项测试，允许用户在Threads平台上隐藏包含剧透的文本或图片。用户可以通过点击图像或高亮文本并选择“标记为剧透”选项来模糊内容。其他用户可以通过点击或点击剧透来查看隐藏的内容。这项功能类似于Reddit的剧透标签，旨在改善用户体验，避免意外看到剧透。该功能目前在移动设备上进行了优化，但也在努力改善桌面版本的体验。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/threads-spoiler.jpg?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
+    "category": "社交",
+    "url": "https://www.theverge.com/news/687655/threads-hide-spoilers-test-launch"
+  },
+  {
+    "title": "WhatsApp正式推出广告",
+    "time": "2025-06-16",
+    "source": "The Verge",
+    "summary": "Meta宣布WhatsApp将正式引入广告，广告将通过其状态功能展示。用户在“更新”标签下可以看到来自朋友的更新以及来自企业的赞助内容。Meta计划根据用户的兴趣定制广告，包括地区和互动行为。此举是Meta多年来的构想，尽管WhatsApp的创始人曾反对在应用中插入广告。Meta还将推出赞助频道和订阅功能，以便用户获取独家更新。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/meta-ads-whatsapp-copy.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "category": "社交",
+    "url": "https://www.theverge.com/news/687519/whatsapp-launch-advertising-status-updates"
+  },
+  {
+    "title": "Patreon即将提高新创作者的费用",
+    "time": "2025-06-17",
+    "source": "The Verge",
+    "summary": "Patreon宣布将在8月5日起更新其定价方案，将Pro和Premium计划合并为一个新的标准计划，新计划将收取创作者收入的10%，而目前Pro和Premium分别为8%和12%。新用户需在8月4日前注册以锁定现行费率。现有用户的费用不受影响。新标准计划将包括大部分Premium计划的功能，但需额外支付3%才能获得相关的商品销售选项。Patreon表示此次涨价是为了继续投资于平台的发展。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK326_PATREON_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "category": "社交",
+    "url": "https://www.theverge.com/news/687570/patreon-standard-price-plan-increase-10-dollars"
+  },
+  {
+    "title": "Reddit将帮助广告商将“积极”帖子转化为广告",
+    "time": "2025-06-17",
+    "source": "The Verge",
+    "summary": "Reddit推出了一项新功能，允许广告商在其广告下方插入用户的积极帖子。该功能名为Conversation Summary Add-ons，旨在将社区对话融入用户体验，同时结合AI驱动的效率与真实人类的观点。Reddit还推出了一款名为Reddit Insights的社交监听工具，以帮助营销人员制定更明智的决策。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK115_Reddit_03.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "category": "社交",
+    "url": "https://www.theverge.com/news/687604/reddit-positive-posts-ads-conversation-summary-add-ons-cannes-lions"
+  },
+  {
+    "title": "Instagram用户抱怨大规模封号，怀疑与AI有关",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "许多Instagram用户近期反映其账户被错误封禁，尽管没有违反社区规定。他们怀疑问题可能与AI自动化系统有关。用户在社交媒体上提出申诉却未获回复，部分用户甚至表示将对Meta提起集体诉讼。Meta尚未对此问题作出公开回应，用户的封号问题不仅影响个人使用，也波及到商业账户，影响了他们的生意和声誉。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2020/09/instagram-glitch2.jpg?w=1024",
+    "category": "社交",
+    "url": "https://techcrunch.com/2025/06/16/instagram-users-complain-of-mass-bans-pointing-finger-at-ai/"
+  },
+  {
+    "title": "WhatsApp将在状态屏幕上添加广告",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "WhatsApp宣布将在其状态屏幕上添加广告，标志着该应用在多年不显示广告后的一次重大变化。用户在浏览状态更新时，将会看到广告。WhatsApp表示，广告机制将基于用户的国家、语言及其关注的频道等信息，而不会使用用户的个人数据，如电话号码和消息内容。此外，WhatsApp还将允许公司和用户在发现部分推广其频道，并且将逐步推出这些新功能。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?w=1024",
+    "category": "社交",
+    "url": "https://techcrunch.com/2025/06/16/whatsapp-is-adding-ads-to-the-status-screen/"
+  },
+  {
+    "title": "我们对无人驾驶的想法，竟然狭隘了？",
+    "time": "2025-06-16",
+    "source": "创业邦",
+    "summary": "本文探讨了自动驾驶技术与新商业模式的结合，提出无人驾驶可能成为移动的第三空间，重塑城市商业结构。作者指出，传统的第三空间难以满足现代消费者的需求，而无人驾驶车辆有潜力成为灵活的服务空间，提供个性化的移动体验。随着技术的进步，城市的商业模式和社交方式也将发生深刻变化。",
+    "image_url": "https://oss.cyzone.cn/2025/0616/9dee550abd53e31db73d05f6d371a245.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "其他",
+    "url": "https://www.cyzone.cn/article/801218.html"
+  },
+  {
+    "title": "华为余承东解释“啥是鸿蒙”：连接硬件和软件协同在一起的操作系统，代表万物初开的元气",
+    "time": "2025-06-16",
+    "source": "IT之家",
+    "summary": "华为常务董事余承东在一段视频中解释了鸿蒙操作系统的概念，强调其在连接硬件和软件方面的重要性。他指出，现代人均使用超过9台智能设备，鸿蒙系统的设计旨在打通不同设备之间的生态，提供更流畅的用户体验。此外，余承东还分享了鸿蒙这一名称的由来及其代表的理念，表示系统已连接超过10亿台设备。",
+    "image_url": "https://n.sinaimg.cn/spider20250616/380/w739h441/20250616/8540-d5102f674cdf5ccc98ed79ad84d40f79.jpg",
+    "category": "其他",
+    "url": "https://finance.sina.com.cn/tech/digi/2025-06-17/doc-infahqye9519213.shtml"
+  },
+  {
+    "title": "如何通过数据，让管理更高效？",
+    "time": "2025-06-16",
+    "source": "创业邦",
+    "summary": "本文探讨了数据驱动管理的重要性和挑战，强调在组织管理中，利用数据来评估员工价值和创新能力是关键。尽管企业在业务端已经实现了数据驱动，但在组织端仍然依赖主观判断，导致管理效率低下。生成式人工智能的出现为解决这一问题提供了新的可能，能够更好地提取和分析与员工表现相关的数据，从而实现从人治到数治的转变。",
+    "image_url": "https://oss.cyzone.cn/2025/0616/6e2ffa2ab923c946f3b1c785e9239f86.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "AI",
+    "url": "https://www.cyzone.cn/article/801221.html"
+  },
+  {
+    "title": "消息称三星正与台积电竞逐 2nm 工艺量产，试图“截胡”后者客户扭转半导体业务颓势",
+    "time": "2025-06-16",
+    "source": "新浪科技",
+    "summary": "据外媒报道，三星正与台积电竞相加快2nm工艺的量产进度，目标在今年底前实现规模化生产。由于3nm工艺未能如预期取得突破，三星希望能通过2nm工艺扭转半导体业务的颓势。目前，台积电的2nm良率已达70%，多家主流芯片大厂正在评估使用台积电的技术。三星在GAA方面具有先行经验，可能在技术稳定性和优化空间上占优。能否截胡台积电的客户将是三星半导体业务能否复苏的关键。",
+    "image_url": "",
+    "category": "其他",
+    "url": "https://finance.sina.com.cn/tech/digi/2025-06-17/doc-infahvfw2849459.shtml"
+  },
+  {
+    "title": "消息称谷歌因 Meta 投资欲与 Scale AI 终止合作，AI 竞赛加剧巨头矛盾",
+    "time": "2025-06-16",
+    "source": "IT之家",
+    "summary": "初创公司 Scale AI 最近获得了 Meta AI 的巨额投资，估计高达143亿美元，这一举动引发了谷歌的不满。消息称，谷歌计划终止与 Scale AI 的合作。Scale AI 专注于安全和 AI 对齐领域，为多家企业和政府提供数据标注与评估服务。此次投资后，Scale AI 的估值飙升至290亿美元。在激烈的 AI 竞赛中，科技巨头们通过投资和收购加速布局，竞争与矛盾不断加剧。",
+    "image_url": "",
+    "category": "AI",
+    "url": "https://finance.sina.com.cn/tech/digi/2025-06-17/doc-infahvha9416653.shtml"
+  },
+  {
+    "title": "AI时代，苹果不想让硬件被管道化",
+    "time": "2025-06-17",
+    "source": "36氪",
+    "summary": "在WWDC2025上，苹果强调其AI战略仍以硬件为中心，尽管在AI领域的进展受挫。苹果推出了Apple Intelligence的新功能，着重于基础能力与开发者生态的建设，意在维持硬件的入口地位。文章探讨了苹果如何通过端侧小模型和云端大模型的结合，增强设备的AI能力，并对未来的AI应用生态进行了展望，认为苹果希望借此保持市场竞争优势。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250616/v2_b25d979ab30d40409cec491db0cf881c@5657172_oswg384172oswg1000oswg625_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "AI",
+    "url": "https://36kr.com/p/3339332565132807"
+  },
+  {
+    "title": "AI转绘动漫的爆发前夜",
+    "time": "2025-06-17",
+    "source": "36氪",
+    "summary": "AI转绘漫剧赛道正在快速崛起，灵境AI等公司通过AI技术提升动漫短剧的制作效率，从传统的30人两个月制作缩短到仅需3至5人一个月。灵境AI已获得数千万融资，并计划扩展到每月制作50至100部动漫短剧。该模式对传统动漫行业构成了挑战，同时也吸引了资本的关注，显示出AI动漫市场的巨大潜力。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250616/v2_6a46fc84825f4f889a1879466ba9a1be@000000_oswg125173oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "AI",
+    "url": "https://36kr.com/p/3339201481029381"
+  },
+  {
+    "title": "AI自己给自己当网管，实现安全“顿悟时刻”，风险率直降9.6%",
+    "time": "2025-06-13",
+    "source": "量子位",
+    "summary": "研究团队提出的SafeKey框架显著提升了大型推理模型的安全性，尤其在面对训练领域外的危险输入时，成功降低了9.6%的风险率。通过优化“关键句”生成和强化内部安全信号，SafeKey能够在不影响模型核心能力的前提下，提升安全决策的自主性和稳健性。实验结果表明，该框架在多个模型上保持了原有的性能，并且需要较少的计算资源。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/1b1bdeb100fa25e63e7b048651bae12d.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294384.html"
+  },
+  {
+    "title": "腾讯开源最强3D生成模型，消费级显卡就能跑 | CVPR",
+    "time": "2025-06-14",
+    "source": "量子位",
+    "summary": "在CVPR上，腾讯正式开源混元3D 2.1模型，主打几何与纹理的双重优化，适配消费级显卡。新模型的纹理贴面和几何精度相比于前一代有显著提升，支持多种复杂材质的高质量渲染，且全链路开源，便于开发者微调和使用。混元3D 2.1的发布标志着腾讯在3D生成模型领域的进一步发展，期待与全球开发者共同构建繁荣的3D开源生态。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d3d2c6f73d0ce55d2080ee71286bf72f.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294674.html"
+  },
+  {
+    "title": "20瓦就能运行下一代AI？科学家瞄上了神经形态计算",
+    "time": "2025-06-16",
+    "source": "量子位",
+    "summary": "科学家们正在研究神经形态计算，旨在模拟人脑的结构和运作，以实现低能耗和高效率的人工智能。最新进展显示，这种计算机的运行速度可能比生物大脑快25万到100万倍，功耗仅需20瓦，接近家用LED灯泡的能耗。这项技术的关键在于模仿生物神经网络的节能型电子和光子网络，未来可能推动人工智能向更高水平发展。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/216bba48c13fab3ab387d4629c5b4fad.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/295081.html"
+  },
+  {
+    "title": "10% KV Cache实现无损数学推理！这个开源方法解决推理大模型「记忆过载」难题",
+    "time": "2025-06-16",
+    "source": "量子位",
+    "summary": "R-KV团队提出了一种高效的KV缓存压缩方法，旨在解决大模型推理时的冗余信息问题。该方法能显著降低显存占用，提升推理速度，同时保持100%的准确率。通过对token进行重要性和冗余性评估，R-KV可以实时优化KV缓存，使得长时间推理变得更加高效，适用于消费级GPU和移动设备。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/bfaecd8082d66fabfc2a4b8ec7a0cec4.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/295072.html"
+  },
+  {
+    "title": "比马斯克Neuralink工艺更先进！我国成功开展首例侵入式脑机接口临床试验",
+    "time": "2025-06-15",
+    "source": "量子位",
+    "summary": "我国成功开展首例侵入式脑机接口临床试验，一名因意外事故截肢的男性仅凭意念就能进行简单操作，如玩五子棋和发短信。这项研究由中国科学院与复旦大学等合作完成，标志着我国成为全球第二个进入该技术临床试验阶段的国家。新的神经电极采用半导体加工工艺，尺寸和柔性均优于Neuralink产品，预计可提升相关患者的生活质量。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/03a984f85315be9cc4efb0303cabdb6a.gif",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294846.html"
+  },
+  {
+    "title": "AI ASMR突然火爆全网！3天狂揽近10万粉丝，一条切水果视频播放量破1650万",
+    "time": "2025-06-15",
+    "source": "量子位",
+    "summary": "近期，一种名为AI ASMR的视频在短视频平台上迅速走红，短短3天内便吸引了近10万粉丝，单条视频播放量超过1650万。这些视频主要展示用AI生成的切水果和其他物体的过程，尽管视觉细节有些不符，但听觉体验却令观众感到放松和愉悦。背后的技术支持来自Google DeepMind的Veo 3模型，简化了视频和音频的生成流程，促使AI ASMR迅速流行。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/35041b0010fcef083b4e9c271fa4b8a4.jpeg",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294724.html"
+  },
+  {
+    "title": "百度启动最大规模顶尖AI人才招聘，岗位招聘同比扩大60%",
+    "time": "2025-06-15",
+    "source": "量子位",
+    "summary": "百度于6月14日宣布启动其最大规模的AI人才招聘计划AIDU，招聘岗位同比扩大60%，覆盖23个核心业务与11类研究方向。该计划旨在选拔和培养技术领域的校园精英，涉及大模型算法、机器学习等前沿技术。百度为招聘人才提供不封顶的薪资，并为每位人才定制个性化的培养路径，期待推动AI领域的技术创新与发展。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/37f483ea5afd80ca5a59f759475c8e33.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294712.html"
+  },
+  {
+    "title": "从天价咨询到免费AI，夸克能改变志愿填报这门生意吗？",
+    "time": "2025-06-14",
+    "source": "量子位",
+    "summary": "夸克发布了国内首个高考志愿大模型，旨在为考生和家长提供免费的志愿填报服务。该模型能在5分钟内生成详细的志愿报告，涵盖考生情况分析及志愿院校推荐。其决策系统基于复杂的高考规则与个体需求，能够提供科学合理的填报方案，挑战传统高价咨询服务。专家团队参与模型训练，确保结果的专业性和准确性。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/527b3d6342d3b1c9e59b2455267daee2.jpeg",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294510.html"
+  },
+  {
+    "title": "分割/识别/解说一个模型搞定！3B参数刷新视觉理解SOTA，图像视频全适配",
+    "time": "2025-06-14",
+    "source": "量子位",
+    "summary": "PAM（Perceive Anything Model）模型由港中文MMLab、港理工和北京大学等机构联合开源，具备在图像和视频理解中进行分割、追踪及输出丰富语义信息的能力。该模型仅使用3B参数，已在多个基准测试中刷新或逼近SOTA，展现出更优的推理效率和显存占用。PAM支持图像与视频的语义信息输出，适用于多种实际场景，所有数据已完全开源。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/e29cc0509c28a009cd062facabcfbed7.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294699.html"
+  },
+  {
+    "title": "腾讯打响AI抢人大战！首次拿出数百万巨额奖金及Offer办算法大赛",
+    "time": "2025-06-16",
+    "source": "量子位",
+    "summary": "6月16日，腾讯发起算法大赛，提供数百万奖金和校招Offer，旨在吸引全球人才。此次大赛以“全模态生成式推荐”为赛题，是国内首个生成式推荐算法大赛。腾讯希望通过比赛识别优秀人才，同时为选手提供技术提升机会。大赛数据集将在赛后开源，促进多模态推荐研究方向的发展。这一举措是腾讯招聘计划的一部分，预计三年内新增28000个校招岗位，其中技术类占比超过60%。",
+    "image_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/295102.html"
+  },
+  {
+    "title": "破解三大数据库AI难题！北大＆亚马逊推出全球首个图中心RDB基础模型",
+    "time": "2025-06-15",
+    "source": "量子位",
+    "summary": "北京大学与亚马逊云科技合作推出了Griffin，一个以图为中心的关系型数据库基础模型，旨在解决复杂的数据库建模问题。该模型通过将RDB视为动态异质图，进行建模与推理，具备强泛化能力和可迁移性。Griffin在超过1.5亿行的表格数据上进行预训练，并已被国际顶级会议ICML 2025正式接收。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/ee3fd831aeeb0f4b7b53eaf7212a747a.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/06/294815.html"
+  },
+  {
+    "title": "OpenAI与微软关系的裂痕 reportedly 加深",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "根据《华尔街日报》的报道，OpenAI与微软的关系可能正处于转折点。报告称，OpenAI高层考虑公开指责微软的反竞争行为，并寻求对与微软合同的联邦监管审查。OpenAI希望放松微软对其知识产权和计算资源的控制，但又需要微软的批准来完成其盈利转型。此外，OpenAI与微软在其30亿美元收购AI编码初创公司Windsurf的协议上陷入僵局，OpenAI不希望微软获得Windsurf的知识产权，这可能会增强其自家AI编码工具GitHub Copilot的能力。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?w=1024",
+    "category": "AI",
+    "url": "https://techcrunch.com/2025/06/16/the-cracks-in-the-openai-microsoft-relationship-are-reportedly-widening/"
+  },
+  {
+    "title": "大厂抢滩的「稳定币」，能火多久？",
+    "time": "2025-06-16",
+    "source": "深眸财经",
+    "summary": "稳定币作为一种新兴的数字货币，因其与现实资产挂钩，保持价值相对稳定而受到市场追捧。近期，多个金融巨头纷纷布局稳定币，推动其快速发展，市场规模预计在2030年将达到1.6至3.7万亿美元。然而，稳定币市场也面临技术安全风险与脱锚风险，各国监管机构加快立法，旨在建立有效监管框架，以应对潜在风险并保护投资者利益。",
+    "image_url": "https://oss.cyzone.cn/2025/0616/f11504f3b15a51505cc82d2e2da22a68.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "其他",
+    "url": "https://www.cyzone.cn/article/801202.html"
+  },
+  {
+    "title": "REDMI K80至尊版\"月岩白\"外观展示！优雅且不失高级感",
+    "time": "2025-06-16",
+    "source": "互联网",
+    "summary": "REDMI官微发布了K80至尊版的全新“月岩白”配色，称其为REDMI史上最优雅的性能旗舰。该手机采用四曲包裹式金属中框和旗舰级玻纤背板，搭配6.83英寸直屏，设计提升了视觉和触感体验。同时，该手机将搭载联发科天玑9400+处理器，被誉为“3000元档最豪华的性能之王”。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061661008672.png",
+    "category": "其他",
+    "url": "https://www.ali213.net/news/html/2025-6/939341.html"
+  },
+  {
+    "title": "《第一狂战士卡赞》全球调价与更新:日本区降价千元",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "《第一狂战士：卡赞》官方宣布对部分地区价格进行动态调整，日本区售价下调约1000日元，现为7590日元。新版本更新推出限时福利礼包，老玩家可领取狂战士防具套装等内容。此外，针对卡赞（女）角色的DLC进行了外观与语音设计更新，但移除所有过场动画，部分玩家对此表示争议。此次调整被视为对市场差异化的回应，旨在提升用户粘性。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061654907979.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939323.html"
+  },
+  {
+    "title": "《碧蓝航线》可畏“甜蜜时光Ver.”预计于2026年3月发售",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "随着《碧蓝航线》中人气角色可畏的“甜蜜时光Ver.”模型即将于2026年3月正式发售，粉丝们期待已久。这款1/6比例的模型由Crane Nest公司推出，展现了可畏慵懒的姿态和享受甜食的神情，整体高度约为197毫米，售价为26,120日元（约1,470元人民币）。模型采用PVC和ABS材料，具备耐用性和收藏价值，是二次元文化的又一成功商品化案例。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061634407636.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939297.html"
+  },
+  {
+    "title": "游戏零售巨头GameStop首席执行官 怒斥DEI华而不实！",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "游戏零售巨头GameStop的CEO瑞安·科恩在股东大会上批评了美国企业界的DEI文化，认为其过于注重形式而忽视实质。他指出，GameStop在2025年第一季度实现盈利，强调门店员工和仓管团队的贡献，并表示公司将专注于集换式卡牌业务的发展。科恩对高管薪酬和短期管理方式表示不满，重申GameStop的运营理念。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061643518588.webp",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939301.html"
+  },
+  {
+    "title": "《蔚蓝档案》空井咲可动人偶将于2025年11月上市",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "知名模型制造商海洋堂宣布将于2025年11月正式发售《蔚蓝档案》中的人气角色空井咲的可动人偶。这款模型以其精致的制作工艺和丰富的可动性吸引了众多玩家的关注。模型高约150毫米，设计精细，具备多种可调节的关节和多种配件，售价为12,000日元（约680元人民币）。预购渠道多样，预计将受到热烈欢迎。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061642718646.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939315.html"
+  },
+  {
+    "title": "REDMI K80至尊版跑分突破324万！创同平台新纪录",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "REDMI K80至尊版将于6月底发布，近日REDMI官方公布了该机的安兔兔综合性能跑分超324万分，创下同平台新纪录。新机搭载天玑9400+旗舰芯片，并首发独显芯片D2，采用更高效的CPU架构。为了提升性能，K80至尊版配备REDMI史上最大3D冰封循环冷泵及狂暴引擎4.0，并使用优质材料打造机身，整体性能表现将更为出色。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061655842429.png",
+    "category": "其他",
+    "url": "https://www.ali213.net/news/html/2025-6/939337.html"
+  },
+  {
+    "title": "《蔚蓝档案》亚瑠（礼服）1/7模型将于2026年5月发售",
+    "time": "2025-06-16",
+    "source": "游侠网",
+    "summary": "日本模型制造商GSC宣布将于2026年5月发售《蔚蓝档案》中的人气角色亚瑠（礼服）1/7比例模型，定价为15000日元。该模型以华丽的礼服为主题，展现了角色的优雅气质和精致工艺，受到二次元文化爱好者的广泛关注。模型高度约235毫米，采用优质材料，确保收藏价值和美观性。预定将通过多种渠道进行，预计将在市场上引发热潮。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/06/16/584_2025061654037611.webp",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-6/939319.html"
+  },
+  {
+    "title": "中国创新药行业深度透视：热潮之下的生态重构、突围逻辑与终极目标",
+    "time": "2025-06-17",
+    "source": "钛媒体",
+    "summary": "近年来，中国创新药行业迎来了快速发展的热潮，尤其是BD（业务拓展）交易的频繁发生，使得市场对创新药的关注度大幅提升。港股市场成为创新药板块的主要阵地，许多未盈利的生物医药企业通过再融资加大投入。尽管面临集体困境，跨国药企的密集采购为行业注入了新活力，推动了创新药的国际化进程和市场重估。",
+    "image_url": "https://images.tmtpost.com/uploads/images/2025/06/806f5473ad3ce58ab0a4ecc2edbc54ae_1750081012.png",
+    "category": "其他",
+    "url": "https://www.tmtpost.com/7597859.html"
+  },
+  {
+    "title": "可能燃烧！罗马仕召回49万台充电宝，有人5年前「敲警钟」",
+    "time": "2023-06-17",
+    "source": "新浪科技",
+    "summary": "深圳罗马仕科技有限公司宣布召回491745台充电宝，因部分产品可能因电芯原材料问题过热，存在燃烧风险。事件源于多所北京高校禁用罗马仕充电宝，并称其在充电时更易爆炸。此品牌充电宝曾因自燃事件被召回，消费者反馈显示该产品存在安全隐患。罗马仕对此事件表示将承担责任，并与相关部门沟通。",
+    "image_url": "https://oss.cyzone.cn/2025/0617/c0a3d9337ed6f3460971108841fb13d0.png?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "其他",
+    "url": "https://www.cyzone.cn/article/801310.html"
+  },
+  {
+    "title": "官宣！6.23 上海张江 | 2025国际合成生物学产业发展论坛：开启全球创新与可持续未来",
+    "time": "2025-06-16",
+    "source": "DeepTech深科技",
+    "summary": "2025国际合成生物学产业发展论坛将于6月23日在上海张江举行，旨在构建全球合成生物学产业网络。论坛将汇聚顶尖学者和产业领袖，探讨合成生物学在生物医药、人类营养和地球健康等领域的创新应用。会议将重点讨论包括细胞治疗、基因治疗、绿色制造等关键话题，推动产业革新，助力可持续未来。",
+    "image_url": "https://n.sinaimg.cn/sinakd20250616s/88/w1080h608/20250616/63a1-0b55c67d693aa6f6397d11f587d51e76.jpg",
+    "category": "其他",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-06-16/doc-infahksh9625115.shtml"
+  },
+  {
+    "title": "羽西押注肖战：一场品牌年轻化的豪赌",
+    "time": "2025-06-17",
+    "source": "钛媒体",
+    "summary": "羽西品牌选择肖战作为代言人，销量暴涨，月销售额提升上百倍。这一策略旨在吸引年轻市场，尤其是在品牌业绩下滑的背景下。肖战的代言使羽西的白玉防晒霜成为热销产品，销售额激增。尽管短期内取得了显著成绩，但品牌未来的高端形象及持续增长仍面临挑战，需警惕品牌调性与营销策略的协调。",
+    "image_url": "https://images.tmtpost.com/uploads/images/2025/06/9bd22583b208db73407b6547a9cde4d4_1750123547.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1047/gravity/center/crop/!1400x1047&ext=.jpeg",
+    "category": "其他",
+    "url": "https://www.tmtpost.com/7598465.html"
+  },
+  {
+    "title": "动漫暑期档开打，年番成平台必争之地",
+    "time": "2025-06-17",
+    "source": "钛媒体",
+    "summary": "暑期档的动漫市场竞争日益激烈，各大平台纷纷推出新作以争夺用户。腾讯视频的《灵笼2》在热播榜中脱颖而出，而爱奇艺和优酷也不甘示弱，计划推出多部年番。腾讯动漫面临男频标签的挑战，需引入更多女性向内容以拓展观众群体。而B站希望通过《灵笼》的成功吸引用户，面对传统动漫市场的变化，各平台的策略调整将影响未来的动漫内容格局。",
+    "image_url": "https://images.tmtpost.com/uploads/images/2025/06/1d9a1dbe834cc843d6b3cd0feab1c7bb_1750119389.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1232/gravity/center/crop/!1400x1232&ext=.jpeg",
+    "category": "其他",
+    "url": "https://www.tmtpost.com/7598407.html"
+  },
+  {
+    "title": "户外博主踩在风口上",
+    "time": "2025-06-17",
+    "source": "钛媒体",
+    "summary": "户外运动在国内年轻人中日益流行，尤其是通过电商平台数据显示，相关商品销售额大幅增长。随着社交媒体的传播，户外博主以真实记录吸引了大量关注，推动了户外行业的商业化。然而，内容的专业性与用户的真实需求之间存在矛盾，市场仍需在热潮与泡沫中寻找可持续发展之路。",
+    "image_url": "https://images.tmtpost.com/uploads/images/2025/06/25b1a3b1c27832909ee8beed905cb632_1750123510.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1038/gravity/center/crop/!1400x1038&ext=.jpeg",
+    "category": "其他",
+    "url": "https://www.tmtpost.com/7598602.html"
+  },
+  {
+    "title": "Aspora获得5000万美元融资，旨在为印度侨民构建汇款解决方案",
+    "time": "2025-06-15",
+    "source": "TechCrunch",
+    "summary": "Aspora最近宣布获得5000万美元的融资，资金由红杉资本提供，计划用于开发针对印度侨民的汇款解决方案。该公司致力于简化和加速跨境汇款流程，以满足全球印度侨民的需求。Aspora的创始人表示，这一融资将帮助他们更好地服务于这一庞大的市场，同时推动金融科技的创新。",
+    "image_url": "",
+    "category": "其他",
+    "url": "https://techcrunch.com/2025/06/15/aspora-gets-50m-from-sequoia-to-build-remittance-solutions-for-indian-diaspora/"
+  },
+  {
+    "title": "美国海军更积极地向初创公司发出‘我们需要你’的邀请",
+    "time": "2025-06-15",
+    "source": "TechCrunch",
+    "summary": "美国海军首席技术官贾斯汀·法内利表示，过去两年半来，他们一直在消除繁文缛节，缩短与初创公司合作的采购周期。海军现在希望与科技公司建立更紧密的合作关系，尤其是在人工智能和网络安全等领域。法内利强调，海军的目标是用更灵活的方式解决问题，而不是预先设定解决方案。海军正在寻求与那些可以带来显著成果的初创公司合作，并希望吸引更多的科技公司参与到国防科技的创新中。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-526096656.jpg?w=784",
+    "category": "其他",
+    "url": "https://techcrunch.com/2025/06/15/the-u-s-navy-is-more-aggressively-telling-startups-we-want-you/"
+  },
+  {
+    "title": "巴奴冲刺港交所：国内最大的品质火锅品牌，胡晓明担任独立非执行董事",
+    "time": "2025-06-17",
+    "source": "36氪",
+    "summary": "巴奴国际控股有限公司近日向港交所递交招股说明书，拟主板挂牌上市。作为中国最大的品质火锅品牌，巴奴在2024年占据3.1%的市场份额，并已在全国开设145家直营门店，显示出在一线及二线城市的强劲增长。公司计划将IPO募集资金用于扩展门店、提升数字化管理和品牌建设等。胡晓明担任独立非执行董事，进一步增强公司治理结构。",
+    "image_url": "",
+    "category": "其他",
+    "url": "https://36kr.com/p/3339266773120768"
+  },
+  {
+    "title": "高盛再次唱多：全球资金回归中国，看好中国“十巨头”股票",
+    "time": "2025-06-17",
+    "source": "36氪",
+    "summary": "高盛首席中国股票策略师刘劲津发布了名为《中民营企业的回归：潮流已经逆转》的研究报告，指出中国民营企业的中期投资前景正在改善，并列出了中国“十巨头”，包括腾讯、阿里巴巴等。这些企业的市值占MSCI中国指数权重的42%，预计未来两年盈利将增长13%。高盛认为，中国民营企业领域的市场集中度将上升，投资者需选择性投资，以实现较高的回报。",
+    "image_url": "",
+    "category": "其他",
+    "url": "https://36kr.com/p/3339957079504648"
+  },
+  {
+    "title": "芬兰启动全球最大的沙子电池，经济前景看好",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "芬兰最近启动了全球最大的沙子电池，这种热能储存系统利用沙子或碎石存储热量。该电池的容量为100 MWh，能够有效降低Pornainen镇的碳排放，并减少对油的依赖，预计能降低60%的木屑消耗。通过储存从可再生能源获得的电力，该电池能在冬季供暖时提供稳定的热量，且经济性较高。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Polar-Night-Energy-Pornainen-Sand-Battery.jpeg?w=1024",
+    "category": "其他",
+    "url": "https://techcrunch.com/2025/06/16/finland-warms-up-the-worlds-largest-sand-battery-and-the-economics-look-appealing/"
+  },
+  {
+    "title": "Instagram用户抱怨大规模封禁，指责AI",
+    "time": "2025-06-16",
+    "source": "TechCrunch",
+    "summary": "多名Instagram用户近期反映，他们的账户遭遇了大规模封禁，许多人将责任归咎于AI技术的误判。随着用户的投诉增多，平台的处理机制受到质疑。用户们表示，他们在未违反任何社区准则的情况下，账户却被突然禁用，造成了严重的使用困扰。Instagram尚未对此事件做出正式回应。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2020/09/instagram-glitch2.jpg?w=668",
+    "category": "社交",
+    "url": "https://techcrunch.com/2025/06/16/a-comprehensive-list-of-2025-tech-layoffs/"
+  },
+  {
+    "title": "特朗普媒体公司申请推出比特币和以太坊ETF",
+    "time": "2025-06-17",
+    "source": "The Verge",
+    "summary": "特朗普的媒体公司近日宣布已向美国证券交易委员会（SEC）提交申请，计划推出一只交易所交易基金（ETF），其中75%的资产将投资于比特币，25%投资于以太坊。此举是在推出“特朗普手机”服务之后进行的，Crypto.com将负责托管和交易这些资产。",
+    "image_url": "",
+    "category": "其他",
+    "url": "https://www.theverge.com/news/687773/trump-media-files-to-launch-a-bitcoin-and-ethereum-etf"
+  },
+  {
+    "title": "微软的Windows Hello面部识别在黑暗中无法工作",
+    "time": "2025-06-16",
+    "source": "The Verge",
+    "summary": "微软在其Windows Hello面部解锁功能中进行了更新，使其在黑暗环境下无法正常工作。此更改是在4月份为了解决一个安全漏洞而实施的，微软表示这是为了增强安全性，而非bug。虽然用户可以通过禁用摄像头来绕过这一限制，但这将影响其他应用程序的使用。微软尚未确认未来是否会恢复该功能。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25281230/1247086031.jpg?quality=90&strip=all&crop=5.21%2C0%2C89.58%2C100&w=2400",
+    "category": "AI",
+    "url": "https://www.theverge.com/news/687547/microsoft-windows-hello-facial-recognition-unlock-dark-room-not-working"
+  },
+  {
+    "title": "贾斯廷·孙将加密公司上市——据报道获得埃里克·特朗普的帮助",
+    "time": "2025-06-17",
+    "source": "The Verge",
+    "summary": "贾斯廷·孙的加密资产平台Tron计划通过与SRM娱乐的反向合并在美国上市。埃里克·特朗普将据报道在新公司Tron Inc.担任职务。该交易由位于特朗普大厦的Dominari证券公司促成，SRM娱乐此前专注于主题公园商品设计，现已转向加密领域。此举是在孙面临联邦调查后进行的，他的公司将发行价值达2.1亿美元的股票和权证。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2212249714.jpg?quality=90&strip=all&crop=0.0045520757465383%2C0%2C99.990895848507%2C100&w=2400",
+    "category": "其他",
+    "url": "https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family"
+  }
+];
 
-        async function loadArticles(category = 'all') {
-            const container = document.getElementById('news-container');
+    // 渲染卡片
+    function createNewsCard(article) {
+      return `
+        <div class="col-md-4">
+          <div class="card news-card">
+            <img src="${article.image_url}" class="card-img-top news-image" alt="${article.title}">
+            <div class="card-body">
+              <h5 class="card-title">${article.title}</h5>
+              <p class="card-text">${article.summary}</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <small class="text-muted">${article.time}</small>
+                <small class="text-muted">${article.source}</small>
+              </div>
+              <a href="${article.url}" class="btn btn-primary mt-2" target="_blank">阅读更多</a>
+            </div>
+          </div>
+        </div>
+      `;
+    }
 
-            // 首次加载：从本地 JSON 读取
-            if (allArticles.length === 0) {
-                try {
-                    const response = await fetch('articles.json');
-                    allArticles = await response.json();
-                } catch (error) {
-                    console.error('加载文章失败：', error);
-                    container.innerHTML = `<p class="text-danger">无法加载文章。</p>`;
-                    return;
-                }
-            }
+    // 根据分类筛选文章
+    function loadArticles(category = 'all') {
+      const container = document.getElementById('news-container');
+      const filtered = category === 'all' ? articles : articles.filter(a => a.category === category);
+      container.innerHTML = filtered.map(createNewsCard).join('');
+    }
 
-            // 分类过滤
-            const filtered = category === 'all'
-                ? allArticles
-                : allArticles.filter(a => a.category === category);
+    // 点击分类按钮切换内容
+    document.querySelectorAll('.category-tag').forEach(tag => {
+      tag.addEventListener('click', () => {
+        document.querySelectorAll('.category-tag').forEach(t => t.classList.remove('active'));
+        tag.classList.add('active');
+        loadArticles(tag.dataset.category);
+      });
+    });
 
-            container.innerHTML = filtered.map(createNewsCard).join('');
-        }
-
-        // 绑定分类点击事件
-        document.querySelectorAll('.category-tag').forEach(tag => {
-            tag.addEventListener('click', () => {
-                document.querySelectorAll('.category-tag').forEach(t => t.classList.remove('active'));
-                tag.classList.add('active');
-                loadArticles(tag.dataset.category);
-            });
-        });
-
-        // 初始加载全部文章
-        loadArticles();
-    </script>
+    // 页面首次加载时渲染所有文章
+    loadArticles();
+  </script>
 </body>
 </html>
