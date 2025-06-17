@@ -73,9 +73,7 @@
 
         // Function to load articles
         async function loadArticles(category = 'all') {
-            const url = category === 'all' 
-                ? '/api/articles'
-                : `/api/articles/${category}`;
+            const url = './articles.json';
             
             try {
                 const response = await fetch(url);
