@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>新闻聚合</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    .category-tag {
+      cursor: pointer;
+      padding: 10px 20px;
+      margin: 0 5px;
+      border-radius: 20px;
+      background-color: #f0f0f0;
+      transition: all 0.3s;
+    }
+    .category-tag.active {
+      background-color: #007bff;
+      color: white;
+    }
+    .news-card {
+      margin-bottom: 20px;
+      transition: transform 0.3s;
+    }
+    .news-card:hover {
+      transform: translateY(-5px);
+    }
+    .news-image {
+      height: 200px;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+  <div class="container mt-4">
+    <h1 class="text-center mb-4">新闻聚合</h1>
+
+    <!-- Category Tags -->
+    <div class="d-flex justify-content-center mb-4">
+      <div class="category-tag active" data-category="all">全部</div>
+      <div class="category-tag" data-category="游戏">游戏</div>
+      <div class="category-tag" data-category="社交">社交</div>
+      <div class="category-tag" data-category="AI">AI</div>
+      <div class="category-tag" data-category="其他">其他</div>
+    </div>
+
+    <!-- News Grid -->
+    <div class="row" id="news-container"></div>
+  </div>
+
+  <script>
+    // JSON 数据直接嵌入
+    const articles = [
+  {
+    "title": "《明末：渊虚之羽》IGN西班牙 7分：优缺点都很明显",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "IGN西班牙为《明末：渊虚之羽》打出7分，评价其战斗与Boss设计出色，但关卡设计复杂且难度堆叠生硬。游戏适合魂系老玩家，但可能因套路化设计让部分玩家感到疲惫。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_20250723115632520.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948679.html"
+  },
+  {
+    "title": "美团宣布拼好饭将引入1万家知名餐饮品牌 日订单量已超3500万",
+    "time": "2025-07-23",
+    "source": "快科技",
+    "summary": "美团宣布拼好饭正式启动“万家品牌”计划，将为全国1万家知名餐饮品牌提供流量倾斜、联合定制服务和品牌扶持。拼好饭通过数据运营与消费洞察，联合商家定制高性价比套餐，并设立“爆品一口价”专区。目前拼好饭日订单峰值超过3500万单，入驻商家超百万。",
+    "image_url": "https://n.sinaimg.cn/spider20250723/208/w600h1208/20250723/3bab-15290edcec7723dabe8e4ba8203ad150.png",
+    "category": "其他",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-07-23/doc-infhkmnh6968593.shtml"
+  },
+  {
+    "title": "外媒给《明末》打出近满分：同类游戏最优秀作品之一!",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "外媒XboxERA为国产游戏《明末：渊虚之羽》打出了9.7的高分，称赞其视觉效果、配乐、战斗系统及剧情设计等多方面表现出色。评测认为该游戏是同类型中最优秀的作品之一，并称其在Xbox Game Pass首日发售，令人想反复体验。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072320557554.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948709.html"
+  },
+  {
+    "title": "历史性突破！TYLOO战队勇夺CS2裂变天地比赛冠军！",
+    "time": "2025-07-23",
+    "source": "新浪科技",
+    "summary": "TYLOO战队在塞尔维亚举行的CS2FISSURE裂变天地S1全球总决赛中以3:1击败丹麦Astralis，夺得队史首个T1级别国际赛事冠军，终结了中国CNCS长达20年的顶级赛事冠军荒。JamYoung当选赛事MVP，成为首位获HLTV官方MVP的中国选手，并获得了IEM科隆站直邀资格。",
+    "image_url": "https://n.sinaimg.cn/spider20250723/507/w1264h843/20250723/986a-e9f1e6d9c882c1769fe2ab060ea89911.jpg",
+    "category": "游戏",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-07-23/doc-infhmakf4050246.shtml"
+  },
+  {
+    "title": "莉莉丝起个大早，赶个晚集？",
+    "time": "2023-10-04",
+    "source": "创业邦",
+    "summary": "莉莉丝旗下新作《远光84》开启三测，游戏定位为英雄射击+大逃杀玩法，强调高机动性和快节奏战斗体验。尽管市场已竞争激烈，但凭借创新机制与高品质打磨，《远光84》展现了较强的竞争力。同时，文章探讨了其6年投入10亿的研发成本是否值得，并分析了产品对莉莉丝的战略意义。",
+    "image_url": "https://oss.cyzone.cn/2025/0722/819d131d8de3a798d6dcc1e2853abfa5.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "游戏",
+    "url": "https://www.cyzone.cn/article/804857.html"
+  },
+  {
+    "title": "游戏《Time for Bed》将恐怖元素与家庭关系巧妙结合",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "独立游戏《Time for Bed》以潜行玩法结合恐怖氛围，玩家扮演孩子在家中探险完成任务，同时避免被“会偷看的妈妈”发现。游戏通过幽默设定和细腻互动展现家庭关系，售价140元并附赠两款小游戏，性价比高且广受好评。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072313636409.jpeg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948717.html"
+  },
+  {
+    "title": "一边玩一边骂脏话！外媒dexerto给《明末》打出高分",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "外媒dexerto对国产游戏《明末：渊虚之羽》给出了4分的高分评价（满分5分），称赞其战斗系统乐趣十足、打击感强，尽管Boss战设计稍显不足，但整体仍是2025年必玩的类魂游戏之一。评测认为该作适合《艾尔登法环》和《黑神话：悟空》的粉丝挑战。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072313802931.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948699.html"
+  },
+  {
+    "title": "对战策略新作《宝可梦：冠军》对战玩法细节曝光！",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "《宝可梦冠军》是一款以对战策略为核心的新作，玩家可通过试用或永久招募宝可梦组建队伍，与全球训练家展开激烈对战。游戏提供排位赛、休闲对战和私人对战三种模式，并计划于2026年登陆Nintendo Switch 2、Switch、iOS和Android平台。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_20250723121159832.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948683.html"
+  },
+  {
+    "title": "新作《Pokémon Concierge》引领宝可梦系列新篇章",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "最新动画《Pokémon Concierge》在一座独特的宝可梦酒店展开，探索宝可梦与人类之间的深厚情谊。风格温暖治愈，制作团队力求高水平表现，并通过社交媒体增强观众参与感。首播引发热议，周边商品同步推出，丰富了观众体验。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072310954887.jpeg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948697.html"
+  },
+  {
+    "title": "曝PS5版《星空》仍在制作中！但发售时间会稍晚一些",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "虽然官方尚未明确公告，但《星空》PlayStation 5版本的移植计划仍在推进中。据资深爆料人NateTheHate透露，项目开发未中止，但具体上市时间较最初规划有所调整。此外，游戏第二个DLC“星裔”正在制作中，可能与PS5版本同步推出。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072315653764.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948701.html"
+  },
+  {
+    "title": "Switch 2销量打破GBA保持的任天堂主机首月销量纪录",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "任天堂Switch 2在日本市场发售首月销量突破153.8万台，超越Game Boy Advance保持的首月136.7万台纪录，成为任天堂主机历史上的新高。这一成绩得益于硬件革新与顶级IP如《塞尔达传说》《宝可梦》系列的持续输出，市场热度高涨且多地出现缺货现象。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072312734365.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948703.html"
+  },
+  {
+    "title": "《明末》Game Rant获得高分8分：越玩越令人欣赏！",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "外媒Game Rant为国产游戏《明末：渊虚之羽》打出8分，称其“越玩越令人欣赏”。文章称赞了游戏的系统整合、剧情设计与角色互动，同时指出适中的世界规模和探索感带来乐趣。战斗系统通过法术与近战平衡、丰富的武器构筑等元素增加了深度。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_20250723120219197.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948685.html"
+  },
+  {
+    "title": "日本专家最新研究表明：游戏可能带来多项认知提升！",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "日本专家指出，游戏可能促进海马体活跃与增大，并增强空间识别力、注意力、视觉信息处理速度等能力。传统观念认为游戏导致暴力或成绩下降，但研究显示这些负面结果是因果倒置，实际为学业或工作不顺的后果。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_20250723121726429.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948691.html"
+  },
+  {
+    "title": "国外主播游玩30小时《明末》打9分：整体完成度95%",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "知名Twitch主播Lance McDonald在社交媒体分享了他对《明末：渊虚之羽》的通关体验，经过约30小时完成了95%的内容进度，并给予9分的高度评价。IGN编辑也为这款游戏打出8分，称赞其为值得加入魂系游戏阵容的佳作。Metacritic数据显示目前综合评分为75分。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072314155796.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948687.html"
+  },
+  {
+    "title": "知名外媒仅给《明末》49分：一款没有灵魂的类魂游戏",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "知名外媒PC Gamer对《明末：渊虚之羽》给出49分低分评价，认为其缺乏创新、战斗体验乏味且世界构建空洞。评测批评了游戏的重复性内容和暴露服装设计，并指出尽管有部分亮点如Boss战表现较好，但整体因过度模仿而显得平庸。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072321028769.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948693.html"
+  },
+  {
+    "title": "XBOX《极限竞速：地平线5》是PS5今年销量最高新游",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "据外媒报道，《极限竞速：地平线5》的PS5版本成为2025年PS5平台销量最高的新游戏，销量超过300万份。数据分析显示，其表现优于其他热门作品如《怪物猎人：荒野》和《刺客信条：影》。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072314738101.jpg",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948695.html"
+  },
+  {
+    "title": "日本文化厅2026年新制度 将助力更多老游戏IP重新回归",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "日本文化厅宣布将于2026年推行新制度，明确无主IP游戏的重制权限，允许符合条件的老游戏重新制作。这一政策将解决经典老游戏因版权方不明而难以复刻的问题，预计未来将有更多经典游戏IP突破版权壁垒，重返玩家视野。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_2025072312232940.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948689.html"
+  },
+  {
+    "title": "《明末：渊虚之羽》IGN土耳其8分：魂系粉丝不容错过！",
+    "time": "2025-07-23",
+    "source": "游侠网",
+    "summary": "《明末：渊虚之羽》获得IGN土耳其8分评价，被称赞为类魂游戏爱好者不可错过的佳作。游戏凭借精妙的机制设计、高重玩价值和深度战斗系统，预计可提供40至60小时的游戏体验。尽管故事情节较为传统，但玩法机制和丰富内容弥补了不足，XGP用户还可享受超值体验。",
+    "image_url": "https://img2.ali213.net/picfile/News/2025/07/23/584_20250723120350425.png",
+    "category": "游戏",
+    "url": "https://www.ali213.net/news/html/2025-7/948681.html"
+  },
+  {
+    "title": "马斯克与蔡浩宇，看上同一个“女孩”",
+    "time": "2025-07-23",
+    "source": "创业邦",
+    "summary": "马斯克的xAI推出虚拟伴侣Ani，主打个性化互动；蔡浩宇的Anuttacon通过游戏《Whispers from the Star》测试AI角色Stella，强调叙事逻辑。两者分别代表情绪满足与科幻探索的不同方向，揭示AI情感赛道的竞争与潜力。",
+    "image_url": "https://oss.cyzone.cn/2025/0723/313700a40689e7fe504cd2ff3d98082e.jpeg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "AI",
+    "url": "https://www.cyzone.cn/article/804979.html"
+  },
+  {
+    "title": "月活2亿的红果，正在考虑怎么赚更多的钱",
+    "time": "2023-10-12",
+    "source": "创业邦",
+    "summary": "红果短剧月活接近2亿，稳居行业第一，但商业化仍处初级阶段。其复刻“免费+广告”模式，广告主类型单一，变现能力有限。近期测试图文社区与短视频功能，试图丰富内容形态和商业化模式，同时通过精准流量构建闭环生态。短剧行业逐渐转向免费模式，制作方需重视营销宣发，红果通过资源位支持吸引优质内容，未来希望通过社区与短视频挖掘更大商业价值。",
+    "image_url": "",
+    "category": "社交",
+    "url": "https://www.cyzone.cn/article/804935.html"
+  },
+  {
+    "title": "外卖现炒现做 后厨24小时直播！京东七鲜小厨可能入驻其他平台",
+    "time": "2025-07-23",
+    "source": "快科技",
+    "summary": "京东自营外卖品牌七鲜小厨正式开业，主打品质外卖，生鲜食材源头直采，后厨24小时直播。京东计划3年内建设10000家七鲜小厨，定位为品质餐饮制作平台，并开放与其他平台合作的可能性，旨在帮助消费者吃到安全、便宜的食品。",
+    "image_url": "https://n.sinaimg.cn/spider20250723/200/w600h400/20250723/0276-96d9390c261ff0bb739cd7e2ac786a62.jpg",
+    "category": "其他",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-07-23/doc-infhmaiy1530977.shtml"
+  },
+  {
+    "title": "Netflix与YouTube开始在广告战场正面交锋",
+    "time": "2025-07-23",
+    "source": "钛媒体",
+    "summary": "Netflix与YouTube在广告领域展开正面对抗，前者通过高质量内容环境吸引品牌广告主，后者依赖算法驱动效果广告。Netflix以沉浸式观看体验和自有广告技术栈为优势，逐步开放程序化广告生态，试图在竞争中找到品牌与效果广告的平衡点。",
+    "image_url": "https://images.tmtpost.com/uploads/avatar/239096_1734430970.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
+    "category": "社交",
+    "url": "https://www.tmtpost.com/7634679.html"
+  },
+  {
+    "title": "Threads为创作者推出改进的内容表现指标",
+    "time": "2025-07-22",
+    "source": "TechCrunch",
+    "summary": "Meta旗下的社交平台Threads推出了增强版分析工具，帮助用户更好地了解帖子的表现及内容被发现的渠道。新功能包括详细互动数据、粉丝增长趋势以及多应用推荐来源统计。这些更新旨在助力创作者扩展受众、提升影响力，并优化内容策略。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/Threads_Insights-Updates_July.png?w=680",
+    "category": "社交",
+    "url": "https://techcrunch.com/2025/07/22/threads-adds-improved-content-performance-metrics-for-creators/"
+  },
+  {
+    "title": "易控智驾赴港上市，千亿矿山无人驾驶赛道爆发背后",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "2025年上半年，矿山无人驾驶领域融资事件集中爆发，行业迈向规模化商用。易控智驾成为全球最大的矿区无人驾驶解决方案提供商，尽管营收增长迅速，但因技术尚未完全成熟，仍持续亏损。政策推动无人化改造，预计到2026年智能化产能占比不低于60%，市场潜力巨大。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250721/v2_46342d691cc94d468c5fb6783f5ae590@6117095_oswg1572323oswg1080oswg1304_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "AI",
+    "url": "https://36kr.com/p/3388190141471104"
+  },
+  {
+    "title": "大模型自信心崩塌！谷歌DeepMind证实：反对意见让GPT-4o轻易放弃正确答案",
+    "time": "2025-07-20",
+    "source": "量子位",
+    "summary": "谷歌DeepMind与伦敦大学研究发现，大语言模型如GPT-4o和Gemma 3在面对反对意见时容易放弃正确答案。实验表明，当初始答案可见时，模型倾向于坚持；而隐藏时则易受外界影响更改答案。这源于训练中对外部反馈的过度迎合、决策依赖模式匹配而非逻辑推理以及记忆机制不足。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/bc2c5088b798e2a43e34a7e98a870a5f.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/07/310948.html"
+  },
+  {
+    "title": "空中具身智能破局者微分智飞，用智能算法给无人机安上“大脑”丨光合说",
+    "time": "2023-10-18",
+    "source": "创业邦",
+    "summary": "微分智飞研发的智能无人机通过自主导航和探索算法，能够在无GPS信号环境中执行任务，适用于矿山、林业等领域。公司已完成多轮融资，致力于拓展行业场景与海外市场，打造通用飞行具身大脑及开发者生态，推动工业智能化发展。",
+    "image_url": "https://oss.cyzone.cn/2025/0723/2eb07a28f58d4f3f6256a26918bb9ba5.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "AI",
+    "url": "https://www.cyzone.cn/article/804958.html"
+  },
+  {
+    "title": "阿里本周将发布首款自研AI眼镜，加入“百镜大战”丨智能涌现独家",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "阿里巴巴将于本周发布首款自研AI眼镜，分为不带显示的AI智能眼镜和带显示的AI+AR智能眼镜两个版本。产品整合了高德、支付宝、淘宝等功能，并基于通义千问与夸克垂类模型提供AI能力。该眼镜是阿里AI to C战略的一部分，硬件由天猫精灵团队研发，有望通过生态优势推动AI眼镜进入大众市场。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_7195b0c5ba4b4fdcb5174214cd86b499@2057308263_oswg66520oswg900oswg500_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "AI",
+    "url": "https://36kr.com/p/3391135987730822"
+  },
+  {
+    "title": "英伟达H20芯片解禁是一场“阳谋”",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "本文分析了英伟达H20芯片解禁背后的战略意义及与华为昇腾系列芯片的竞争态势。尽管解禁缓解了部分企业的AI算力压力，但国产芯片通过自主研发和优化正逐步缩小差距，未来中美科技博弈将更加激烈。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_d4ef2e9cae234653bb4c7b247f7e7a45@1018287061_oswg267901oswg603oswg348_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "AI",
+    "url": "https://36kr.com/p/3390957813782662"
+  },
+  {
+    "title": "DeepMind刚拿完IMO金牌，科学家就被Meta挖走了，都是华人大牛",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "Meta近期从Google DeepMind挖走了三名参与IMO金牌模型研发的华人科学家，包括Tianhe Yu、Cosmo Du和Weiyue Wang。与此同时，微软也从DeepMind挖走了20多名员工，其中包括Gemini聊天机器人的前工程副总裁。这场AI人才争夺战愈演愈烈，科技巨头纷纷加大人才投入以推动AI技术发展。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_1afbcf30ebcc472fa74aedc7bfd6f957@000000_oswg559787oswg1080oswg706_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "AI",
+    "url": "https://36kr.com/p/3390855269550467"
+  },
+  {
+    "title": "钠离子电池向前迈出了坚实的一步",
+    "time": "2025-07-23",
+    "source": "新浪科技",
+    "summary": "东京理科大学的研究团队通过铜掺杂解决了钠离子电池材料β-NaMnO2的堆叠故障问题，显著提升了其电化学性能和稳定性。研究发现，12%的铜掺杂几乎完全消除了堆叠故障，并在150次充放电循环中未出现容量损失。这一突破为开发耐用钠离子电池提供了前景。",
+    "image_url": "https://n.sinaimg.cn/spider20250723/489/w300h189/20250723/a5c5-f10eb5dc8a1b2b50a375b8c39b2c360a.jpg",
+    "category": "AI",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-07-23/doc-infhmxpq6261342.shtml"
+  },
+  {
+    "title": "融资丨Momenta、兴杭创投、辰韬资本联合领投，零一汽车宣布完成5亿元融资",
+    "time": "2023-07-23",
+    "source": "创业邦",
+    "summary": "零一汽车完成5亿元A轮融资，由Momenta、兴杭创投、辰韬资本联合领投。公司专注于新能源智能重卡与自动驾驶技术，已交付近700台车辆，运营里程突破2500万公里。其基于大模型的端到端自动驾驶技术（ZSD）稳步推进，目标在未来三年内落地更多场景。",
+    "image_url": "https://oss.cyzone.cn/2025/0723/a81d955a470de043ce34928f1c0920c0.png?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "AI",
+    "url": "https://www.cyzone.cn/article/804975.html"
+  },
+  {
+    "title": "全球首个 AI 光子处理器启动",
+    "time": "2025-07-23",
+    "source": "新浪科技",
+    "summary": "德国光子处理器开发商 Q.ANT 将其原生处理服务器交付给莱布尼茨超级计算中心，首次将模拟光子协处理器集成到高性能计算环境中。该技术显著降低能耗，并在人工智能和模拟工作负载中展示潜力。合作由德国联邦研究部门资助，未来可能推动节能型超级计算机的发展。",
+    "image_url": "",
+    "category": "AI",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-07-23/doc-infhmxpq1185124.shtml"
+  },
+  {
+    "title": "2025年度生成式AI全球化高峰论坛暨Go Global AI 100年度评选完美收官，19场高密度趋势圆桌直击AI全球化浪潮",
+    "time": "2025-07-23",
+    "source": "钛媒体",
+    "summary": "2025年度生成式AI全球化高峰论坛在深圳成功举办，活动聚焦AI全球化趋势，涵盖应用、硬件、教育等多个领域。论坛发布了“Go Global AI 100”榜单，并探讨了AI从工具到结果交付的转型、多模态技术发展及全球化拓展策略等热点议题。",
+    "image_url": "https://images.tmtpost.com/uploads/watermark/1400/d5f5bec0362b3517ac87717eca7e8a0e388d2bb4_1400_594.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg&ext=.png",
+    "category": "AI",
+    "url": "https://www.tmtpost.com/7634010.html"
+  },
+  {
+    "title": "算力的尽头是电力：墨脱水电站，决定AI竞赛胜负的“电力底牌”",
+    "time": "2025-07-23",
+    "source": "钛媒体",
+    "summary": "文章探讨了人工智能发展背后的能源制约问题，指出电力正成为AI竞赛的决胜因素。文中提到中国计划建设的墨脱水电站将提供巨大且稳定的清洁能源，为中国未来的AI算力提供战略支持，重塑数字经济地理格局。",
+    "image_url": "https://images.tmtpost.com/uploads/images/wx/2025/07/20250723105516114331.jpg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x922/gravity/center/crop/!1400x922&ext=.jpg",
+    "category": "AI",
+    "url": "https://www.tmtpost.com/7635024.html"
+  },
+  {
+    "title": "Kimi K2官方技术报告出炉：采用384个专家，训练不靠刷题靠“用自己的话再讲一遍”",
+    "time": "2025-07-22",
+    "source": "量子位",
+    "summary": "Kimi K2的技术报告详细解析了其训练方法与架构创新。模型采用384个专家的MoE设计，结合MuonClip优化器、大规模Agentic Tool Use数据合成及通用强化学习框架，在代码、Agent和数学推理任务中表现卓越。其训练依托NVIDIA H800 GPU集群，强调通过“重述法”提升数据效用，而非依赖重复训练。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/6ecf7613c5f4b9f20f4ead6f2815017f.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/07/311541.html"
+  },
+  {
+    "title": "智能生成无限可能！2025百度云智大会8.28启幕 迎来规模内容体验三重升级",
+    "time": "2025-07-21",
+    "source": "量子位",
+    "summary": "2025百度云智大会将于8月28日至30日在北京举办，主题为“智能，生成无限可能”。大会聚焦AI从技术到产业的转化路径，涵盖战略发布、行业落地实践及全民AI体验。预计将吸引数万名专家和企业参与，展示数百个AI应用案例，并为公众提供沉浸式科技互动。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/6d5a93516442b17f39581be6301bcbfc.jpeg",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/07/310983.html"
+  },
+  {
+    "title": "刘强东连投3家具身智能！京东美团「战火」烧到外卖之外",
+    "time": "2025-07-21",
+    "source": "量子位",
+    "summary": "刘强东通过京东领投了千寻智能、众擎机器人和逐际动力三家具身智能公司，聚焦硬件与具身智能大脑结合及量产能力。此举表明京东在具身智能领域的战略布局，并将推动其在零售、物流等场景的应用落地。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/8cb8e4414356f36d1488f4af7a318b58.jpeg",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/07/311108.html"
+  },
+  {
+    "title": "李开复入场Agent！直接对话CEO走独特“一把手工程打法”",
+    "time": "2025-07-22",
+    "source": "量子位",
+    "summary": "零一万物创始人李开复发布万智企业大模型2.0及企业级Agent“万仔”，提出“一把手工程”战略，推动AI重构企业组织架构与价值链。其Agent定位为“超级员工”，具备五大功能，并预计经历三个演进层级：工作流Agent、推理Agent和Multi-agents阶段。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/15eb50835a3b884a20f84bcf876aee39.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/07/311521.html"
+  },
+  {
+    "title": "3亿美元薪酬被10人拒绝！OpenAI首席研究官一句话引发硅谷史上最疯狂抢人大战",
+    "time": "2025-07-21",
+    "source": "量子位",
+    "summary": "Meta CEO小扎为吸引顶尖AI人才开出天价薪酬，但包括OpenAI首席研究官Mark Chen在内的至少10人拒绝加入。Meta组建了一支44人的超级团队，其中近半成员具华人背景，40%来自OpenAI。小扎通过提供强大算力资源成功吸引部分人才，同时逼迫竞争对手OpenAI宣布将上线100万个GPU应对竞争。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/f619751a7209d39c51fb499f91a48918.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/07/311031.html"
+  },
+  {
+    "title": "Qwen3小升级即SOTA，开源大模型王座快变中国内部赛了",
+    "time": "2025-07-22",
+    "source": "量子位",
+    "summary": "Qwen3迎来最新升级，参数量235B，基准测试性能超越Kimi K2。此次更新显著提升了通用能力、多语言长尾知识覆盖和256K长上下文理解能力，并改进了架构模式。官方透露更大更新即将发布，预示开源大模型竞争进入中国时间。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/4925a46faa83432c83c959464203500f.png",
+    "category": "AI",
+    "url": "https://www.qbitai.com/2025/07/311258.html"
+  },
+  {
+    "title": "亚马逊收购AI可穿戴设备公司Bee，记录用户日常对话",
+    "time": "2025-07-22",
+    "source": "TechCrunch",
+    "summary": "亚马逊收购了AI可穿戴设备初创公司Bee，该公司生产一款手环及Apple Watch应用，可记录用户的日常生活并作为AI助手提供提醒服务。产品售价49.99美元起，订阅费每月19美元。Bee强调隐私保护，但整合入亚马逊后政策可能改变。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/HD.jpg?w=1024",
+    "category": "AI",
+    "url": "https://techcrunch.com/2025/07/22/amazon-acquires-bee-the-ai-wearable-that-records-everything-you-say/"
+  },
+  {
+    "title": "OpenAI同意每年支付甲骨文300亿美元用于数据中心服务",
+    "time": "2025-07-22",
+    "source": "TechCrunch",
+    "summary": "OpenAI与甲骨文达成了一项高达每年300亿美元的数据中心服务协议，作为Stargate项目的一部分，该合作涉及4.5吉瓦的电力容量。此交易将支持OpenAI快速增长的需求，但数据中心建设成本和能源消耗也将是巨大的挑战。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-494272836.jpg?w=1024",
+    "category": "AI",
+    "url": "https://techcrunch.com/2025/07/22/openai-agreed-to-pay-oracle-30b-a-year-for-data-center-services/"
+  },
+  {
+    "title": "暴涨220%，市值3000亿！A股新能源最大IPO来了",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "华电新能成功登陆A股，募资约102.45亿元。尽管因市场环境和政策调整导致募资规模缩水至不超180亿元，公司仍计划将资金用于多个新能源项目。然而，受弃风弃光率攀升、补贴退坡以及市场化电价下降等影响，其业绩承压，未来发展面临挑战。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250718/v2_8c7d1543e0b74a99bfd91e7466ebe5e6@6117095_oswg1158045oswg1080oswg1304_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3384294594762885"
+  },
+  {
+    "title": "320多亿“固收+”顶流张翼飞卸任，安信基金的“稳健基因”谁来续写？",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "安信基金知名基金经理张翼飞卸任，引发投资者信任危机和大规模赎回。其管理规模曾超320亿元，以稳健收益著称。继任者李君与黄琬舒面临策略延续性及团队能力的考验。文章探讨了公募基金平台化建设的重要性及行业人才留存困境。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_f4d1d336ed144649af497272a61aa151@5888275_oswg34536oswg775oswg261_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3390988946217090"
+  },
+  {
+    "title": "“非洲手机之王”传音控股考虑赴港上市，计划募资10亿美元，全球第三大手机品牌厂商",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "传音控股正考虑赴港二次上市，拟募资约10亿美元。公司在非洲市场占有率超40%，但面临小米、三星等劲敌的竞争压力。2024年其全球市场份额达14%，排名第三；尽管2025年第一季度业绩下滑，仍持续加大技术创新投入，强化在新兴市场的竞争优势。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_ebff81701c2c42d9a0d02672a95c5ba8@5888275_oswg86177oswg740oswg494_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3391014596790404"
+  },
+  {
+    "title": "美国电动汽车“缺血”，根源居然关联到中国",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "美国商务部对中国石墨征收高额反倾销税，导致美国电动车电池供应链受冲击。特斯拉等车企高度依赖中国石墨，而美国本土产能不足，短期内难以替代。此政策将推高电池成本并转嫁消费者，还可能拖慢电动车生产节奏。全球石墨需求量预计将持续攀升。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_e17e80c5f01b47e28d63fa46d8253ee3@5888275_oswg37807oswg1080oswg240_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3391014661720199"
+  },
+  {
+    "title": "11连板创造A股神话，谁在爆炒上纬新材？",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "上纬新材近期因智元机器人收购其控制权的消息，股价连续11个交易日涨停，累计涨幅超过640%，刷新A股“20cm”连板纪录。尽管公司多次提示风险并否认借壳上市，市场仍持续追捧。智元机器人计划通过注入资产拓展业务，但相关审批尚存不确定性。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_938d7765dd1e4756ad61ba67d3cbc8e2@000000_oswg126167oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3390999545186433"
+  },
+  {
+    "title": "港股IPO重回全球第1：香港，为什么能再次“牛”起来？",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "2025年上半年，港交所IPO融资额达1071亿港元，超越纳斯达克重回全球第一。大型A股龙头、中概股和海外企业跑步进场，宁德时代等4家A股公司贡献了近7成的IPO募资额。香港通过与内地经济血脉相连、一国两制下的金融突破以及创新政策，成功巩固了国际金融中心地位，并正迈向全球治理中心。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_9d7553d2b70c49a28d7cdd96e918988d@000000_oswg54525oswg1024oswg682_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3391079382518148"
+  },
+  {
+    "title": "深蕾科技收购A股上市公司「线上线下」13.32%股份案公示，完成后将成控股股东",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "深圳深蕾科技股份有限公司计划收购无锡线上线下通讯信息技术股份有限公司13.32%的股份，交易完成后将成为控股股东。线上线下2024年营业收入同比下降23.37%，但归母净利润同比增长15.4%。深蕾科技此前曾申请主板上市但撤回，其背后股东包括IDG资本、软银中国等。",
+    "image_url": "https://img.36krcdn.com/20221026/v2_2fdd55bf532a47a1913b7ae8d0f6259d_img_000",
+    "category": "其他",
+    "url": "https://36kr.com/p/3390999226976644"
+  },
+  {
+    "title": "女博士把公司卖了，20余家VC顺利退出",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "中国生物制药以9.51亿美元全资收购礼新医药，使20余家VC机构成功退出。启明创投为最大外部投资方，本次交易对价中包含4.5亿美元现金。礼新医药凭借其在双抗和ADC领域的研发实力及国际认可，成为中国生物制药战略转型的重要标的。",
+    "image_url": "",
+    "category": "其他",
+    "url": "https://36kr.com/p/3391189330004096"
+  },
+  {
+    "title": "现金流仅21.66亿、负债567.8亿，合盛硅业九折卖股救急",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "合盛硅业因光伏行业需求低迷及多晶硅价格下跌导致巨额亏损，现金流匮乏、负债高企。控股股东通过折价出售股份缓解资金压力，同时采取多种融资手段。行业“反内卷”趋势下，公司可能面临被边缘化的风险。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250722/v2_e18bd2a4c8a7441b8415246abb788976@6117095_oswg1014703oswg1080oswg1304_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3390164254152837"
+  },
+  {
+    "title": "首家单季度扭亏光伏龙头，凭什么是它？",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "爱旭股份成为光伏主要产业链上第一家实现单季度扭亏为盈的公司，其成功得益于差异化路线和技术创新。通过深耕海外高价值市场，优化产品结构，ABC组件在国内外市场均表现出显著溢价能力。公司坚持长期技术研发，无银金属化铜互联工艺等领先技术助其突围行业竞争。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250721/v2_fbc972010cfd4003849a9e3b6d1d4fff@6117095_oswg1102829oswg1080oswg1304_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3388632341682306"
+  },
+  {
+    "title": "57亿收购风电！内蒙华电重组草案落地",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "内蒙古首家电力上市公司内蒙华电拟以57亿元收购控股股东北方公司旗下优质风电资产，包括正蓝旗风电和北方多伦的股权。交易完成后，公司可再生能源装机占比将显著提升，形成“煤电托底+风电增量”的业务结构，归母净利润预计增长超30%。本次收购被视为传统能源企业响应“双碳”目标的战略转型缩影。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250718/v2_aa6c1afcf74e46988940344f7428f2b8@6117095_oswg756777oswg1080oswg1304_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3384320021944456"
+  },
+  {
+    "title": "外卖烧钱大战，烧不出赢家",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "电商巨头间的外卖补贴大战虽带来订单量增长，但问题频现：商家利润被压缩、骑手超负荷工作、用户忠诚度低。补贴导致虚假繁荣，行业生态恶化，各方呼吁回归理性竞争，构建多方共赢的健康体系。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_65f4b1b8661c48bfb1acd1aafee93db0@101741_oswg62247oswg1080oswg604_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3390935788362118"
+  },
+  {
+    "title": "跨界失败，云海肴永久退出团餐市场，究竟做错了什么？",
+    "time": "2025-07-23",
+    "source": "36氪",
+    "summary": "知名中餐品牌云海肴因食品安全问题永久关闭团餐业务。事件核心是企业低估了团餐市场的复杂性，管理体系漏洞严重，供应链失控导致食物中毒事故。文章警示跨界需敬畏专业壁垒，团餐并非简单的蓝海市场。",
+    "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_9cf64d350cfa4d57b217ec3f3ac09c79@5423164_oswg104335oswg731oswg430_img_000?x-oss-process=image/format,jpg/interlace,1",
+    "category": "其他",
+    "url": "https://36kr.com/p/3390985668843656"
+  },
+  {
+    "title": "国际投行的困惑：中国新一轮千亿外卖大战“值得打”吗？",
+    "time": "2023-10-04",
+    "source": "36氪",
+    "summary": "高盛预测中国外卖市场竞争将由美团、阿里和京东以5.5:3.5:1的比例分割市场。瑞银称其为“懦夫博弈”，巨头们烧钱竞争，但三年后市场利润仅300亿，质疑此战是否值得。",
+    "image_url": "",
+    "category": "其他",
+    "url": "https://36kr.com/video/3388183987427462"
+  },
+  {
+    "title": "娃哈哈遗产争夺风暴：制度真空与权力博弈下的传承之困",
+    "time": "2023-10-07",
+    "source": "创业邦",
+    "summary": "娃哈哈集团因创始人宗庆后去世后，家族内部围绕股权和信托资产展开激烈争夺。非婚生子女起诉宗馥莉，要求分配巨额信托资产，暴露出中国家族企业在传承中的制度缺陷。文章分析了法律、股权及控制权问题，并提出通过引入第三方机制、完善治理结构以及推动企业从“人治”向“法治”转型的破局之道。",
+    "image_url": "https://oss.cyzone.cn/2025/0723/8fe073e27ee14173eb21eb10f6d307bf.png?x-oss-process=image/resize,w_750,h_0,limit_0/format,jpg/quality,q_95",
+    "category": "其他",
+    "url": "https://www.cyzone.cn/article/804986.html"
+  },
+  {
+    "title": "贾跃亭骗倒美国：新MPV被爆贴牌国产车，1小时订单破万，刚拿到7亿融资就收警告函了",
+    "time": "2025-07-23",
+    "source": "量子位",
+    "summary": "贾跃亭旗下的法拉第未来推出第二品牌Faraday X的首款MPV车型Super One，提供纯电和增程版本，定位AI-MPV。尽管发布会直播一小时内订单突破1万，但新车被质疑为贴牌长城魏牌高山9。与此同时，FF刚获得7.5亿元融资却收到SEC关于欺诈调查的警告函，公司未来充满不确定性。",
+    "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5f642756321949f021bdb67424f02c9b.png",
+    "category": "其他",
+    "url": "https://www.qbitai.com/2025/07/311614.html"
+  },
+  {
+    "title": "马斯克，开餐馆了！",
+    "time": "2023-10-24",
+    "source": "创业邦",
+    "summary": "特斯拉在洛杉矶开设了一家结合餐饮、充电和影院的娱乐中心Tesla Diner。餐厅由首席设计师Franz揭幕，提供美式经典菜品，并支持狗狗币支付。最引人注目的是32台Optimus机器人提供全流程服务。此外，餐厅旁设有80个V4超级充电桩和巨屏播放科幻短片，为车主提供独特的体验。",
+    "image_url": "https://oss.cyzone.cn/2025/0723/14cf26f1ed71733a9ebd925c25fe2e61.jpeg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
+    "category": "其他",
+    "url": "https://www.cyzone.cn/article/804985.html"
+  },
+  {
+    "title": "东北，空调卖爆了！",
+    "time": "2025-07-23",
+    "source": "钛媒体",
+    "summary": "由于55年罕见高温，东北地区空调需求激增，销量暴涨。京东、天猫、苏宁等平台紧急调度安装师傅和货源应对订单高峰。格力、美的、海尔等品牌通过优化产品性能和服务抢占市场，东北或成为空调新增长极。",
+    "image_url": "https://images.tmtpost.com/uploads/images/wx/2025/07/20250723110212748421.jpg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1049/gravity/center/crop/!1400x1049&ext=.jpg",
+    "category": "其他",
+    "url": "https://www.tmtpost.com/7635038.html"
+  },
+  {
+    "title": "Nevoya获930万美元种子轮融资，其电动卡车车队实现与柴油车成本持平",
+    "time": "2025-07-22",
+    "source": "TechCrunch",
+    "summary": "洛杉矶初创公司Nevoya通过电动卡车运输业务成功吸引了930万美元种子轮融资。该公司目前已为10家财富500强企业提供服务，并在加州实现与柴油卡车成本持平。Nevoya利用AI优化路线和负载管理，显著提升效率并降低成本。未来计划扩展至德克萨斯州。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/Nevoya-Truck-3.png?w=1024",
+    "category": "其他",
+    "url": "https://techcrunch.com/2025/07/22/nevoya-raises-9-3m-seed-round-as-its-ev-truck-fleet-reaches-cost-parity-with-diesel/"
+  },
+  {
+    "title": "PayPal联合中国和印度钱包，简化20亿用户的跨境支付",
+    "time": "2025-07-22",
+    "source": "TechCrunch",
+    "summary": "PayPal推出名为PayPal World的平台，与全球钱包公司合作，包括中国的微信支付和印度的UPI等，旨在简化跨境支付。用户可以通过本地支付系统付款，覆盖超过20亿用户。合作伙伴还包括拉丁美洲的Mercado Pago。该平台预计在2025年秋季上线。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=1024",
+    "category": "其他",
+    "url": "https://techcrunch.com/2025/07/22/paypal-announces-integration-with-international-wallets-for-easier-cross-border-transactions/"
+  }
+];
+
+    // 渲染卡片
+    function createNewsCard(article) {
+      return `
+        <div class="col-md-4">
+          <div class="card news-card">
+            <img src="${article.image_url}" class="card-img-top news-image" alt="${article.title}">
+            <div class="card-body">
+              <h5 class="card-title">${article.title}</h5>
+              <p class="card-text">${article.summary}</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <small class="text-muted">${article.time}</small>
+                <small class="text-muted">${article.source}</small>
+              </div>
+              <a href="${article.url}" class="btn btn-primary mt-2" target="_blank">阅读更多</a>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    // 根据分类筛选文章
+    function loadArticles(category = 'all') {
+      const container = document.getElementById('news-container');
+      const filtered = category === 'all' ? articles : articles.filter(a => a.category === category);
+      container.innerHTML = filtered.map(createNewsCard).join('');
+    }
+
+    // 点击分类按钮切换内容
+    document.querySelectorAll('.category-tag').forEach(tag => {
+      tag.addEventListener('click', () => {
+        document.querySelectorAll('.category-tag').forEach(t => t.classList.remove('active'));
+        tag.classList.add('active');
+        loadArticles(tag.dataset.category);
+      });
+    });
+
+    // 页面首次加载时渲染所有文章
+    loadArticles();
+  </script>
+</body>
+</html>
