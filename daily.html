@@ -111,6 +111,52 @@
     .news-card:hover::after {
       opacity: 1;
     }
+    /* 追踪样式 */
+    .track-card {
+      margin-bottom: 15px;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      position: relative;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .track-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .track-card.expanded {
+      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+      border-color: #007bff;
+    }
+    .track-card::after {
+      content: "点击展开";
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      font-size: 12px;
+      color: #007bff;
+      opacity: 0.7;
+      transition: opacity 0.3s;
+    }
+    .track-card.expanded::after {
+      content: "点击收起";
+    }
+    .track-card:hover::after {
+      opacity: 1;
+    }
+    .track-left {
+      border-right: 1px solid #f0f0f0;
+      min-width: 160px;
+    }
+    .track-keyword { font-weight: 700; font-size: 1rem; }
+    .track-count { color: #666; font-size: 0.9rem; }
+    .track-summary, .track-list { display: none; }
+    .track-card.expanded .track-summary, .track-card.expanded .track-list { display: block; }
+    .track-list a { text-decoration: none; }
+    .track-list li { margin-bottom: 6px; }
   </style>
 </head>
 <body>
@@ -125,7 +171,8 @@
       <div class="category-tag" data-category="社交">社交</div>
       <div class="category-tag" data-category="游戏">游戏</div>
       <div class="category-tag" data-category="其他">其他</div>
-      <div class="category-tag" data-category="all">全部</div>
+      <div class="category-tag" data-category="追踪">追踪</div>
+      
     </div>
 
     <!-- News Grid -->
@@ -1155,12 +1202,14 @@
     }
 
     // 根据分类筛选文章
-    function loadArticles(category = 'all') {
+    async function loadArticles(category = 'all') {
       const container = document.getElementById('news-container');
+      if (category === '追踪') {
+        await loadTrackAndRender();
+        return;
+      }
       const filtered = category === 'all' ? articles : articles.filter(a => a.category === category);
       container.innerHTML = filtered.map(createNewsCard).join('');
-      
-      // 重新绑定点击事件
       bindCardClickEvents();
     }
 
@@ -1171,6 +1220,106 @@
           this.classList.toggle('expanded');
         });
       });
+      document.querySelectorAll('.track-card').forEach(card => {
+        card.addEventListener('click', function(evt) {
+          if (evt.target && evt.target.tagName === 'A') return;
+          this.classList.toggle('expanded');
+        });
+      });
+    }
+
+    // 追踪：加载并渲染
+    let cachedTrackData = null;
+    async function loadTrackData() {
+      if (cachedTrackData) return cachedTrackData;
+      // 若用户通过 <script> 预先注入 window.TRACK_DATA（例如 track_result.js 设置 window.TRACK_DATA = {...}）
+      if (window.TRACK_DATA) {
+        cachedTrackData = window.TRACK_DATA;
+        return cachedTrackData;
+      }
+      const candidatePaths = [
+        'track_result.json',
+        './track_result.json',
+        '/track_result.json',
+      ];
+      let lastErr = null;
+      for (const p of candidatePaths) {
+        try {
+          const res = await fetch(p, { cache: 'no-store' });
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          cachedTrackData = await res.json();
+          return cachedTrackData;
+        } catch (e) {
+          lastErr = e;
+        }
+      }
+      // file:// 场景下，浏览器通常禁止通过 fetch 读取本地文件
+      if (location.protocol === 'file:') {
+        throw new Error('请通过本地HTTP服务器打开页面以加载JSON（例如：python -m http.server）');
+      }
+      throw lastErr || new Error('加载追踪数据失败');
+    }
+
+    function createTrackCard(keyword, items) {
+      const first = items[0] || {};
+      return `
+        <div class="col-12">
+          <div class="card track-card" data-keyword="${keyword}">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-3 track-left mb-3 mb-md-0">
+                  <div class="track-keyword">${keyword}</div>
+                  <div class="track-count">共 ${items.length} 条</div>
+                </div>
+                <div class="col-md-9">
+                  <div class="card-header" style="background:transparent;border:none;padding-bottom:0;">
+                    <h5 class="card-title mb-2">${first.title ? first.title : '无标题'}</h5>
+                    <div class="d-flex justify-content-between align-items-center">
+                      <small class="text-muted">${first.time || ''}</small>
+                      <small class="text-muted">${first.source || ''}</small>
+                    </div>
+                  </div>
+                  <div class="track-summary mt-3">
+                    ${first.summary ? `<p class=\"mb-2\" style=\"color:#000;line-height:1.6;\">${first.summary}</p>` : ''}
+                    ${first.url ? `<div class=\"text-end\"><a class=\"btn btn-primary btn-sm\" href=\"${first.url}\" target=\"_blank\">前往原文</a></div>` : ''}
+                  </div>
+                  <div class="track-list mt-3">
+                    <h6 class="mb-2">该关键词下的所有新闻</h6>
+                    <ul class="list-unstyled">
+                      ${items.map(it => `
+                        <li>
+                          <a href="${it.url}" target="_blank">${it.title}</a>
+                          <small class="text-muted"> - ${it.source || ''} ${it.time || ''}</small>
+                        </li>
+                      `).join('')}
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    async function loadTrackAndRender() {
+      const container = document.getElementById('news-container');
+      try {
+        const data = await loadTrackData();
+        const keywords = Object.keys(data);
+        keywords.sort((a, b) => {
+          const diff = (data[b]?.length || 0) - (data[a]?.length || 0);
+          return diff !== 0 ? diff : a.localeCompare(b, 'zh');
+        });
+        container.innerHTML = keywords.map(k => createTrackCard(k, data[k] || [])).join('');
+        bindCardClickEvents();
+      } catch (e) {
+        console.error(e);
+        const hint = location.protocol === 'file:'
+          ? '当前以 file:// 打开，浏览器禁止读取本地JSON。请在该目录下运行 “python -m http.server 8000” 后，通过 http://localhost:8000/daily.html 访问。'
+          : '请确认 track_result.json 路径与服务器同源可访问。';
+        container.innerHTML = '<div class="col-12 text-center text-muted">无法加载追踪数据（track_result.json）。' + hint + '</div>';
+      }
     }
 
     // 点击分类按钮切换内容
