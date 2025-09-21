@@ -3173,24 +3173,6 @@
             "category": "其他"
         },
         {
-            "title": "亚马逊或于明年为配送司机推出AR眼镜",
-            "time": "2025-09-11",
-            "source": "The Verge",
-            "summary": "据The Information报道，亚马逊正在开发代号为Jayhawk的增强现实（AR）眼镜，预计最早在2026年底或2027年初面向消费者发布。此外，亚马逊计划更早推出专为配送司机设计的AR眼镜“Amelia”，内部计划生产10万台，配备单色显示屏，可提供导航指引和送货信息。该设备将比消费版更笨重，具备内置摄像头、麦克风和扬声器，旨在提升配送效率。",
-            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC02134.webp?quality=90&strip=all&crop=0.41666666666666%2C0%2C99.166666666667%2C100&w=2400",
-            "url": "https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors",
-            "category": "其他"
-        },
-        {
-            "title": "亚马逊 reportedly 正在开发面向消费者和司机的独立AR眼镜",
-            "time": "2025-09-10",
-            "source": "Engadget",
-            "summary": "据《The Information》报道，亚马逊正在开发两款独立的增强现实（AR）眼镜。其中一款代号为Jayhawk，面向消费者市场，预计2026年底或2027年初发布，配备单目光学显示、摄像头、麦克风和扬声器，并与中国公司Meta-Bounds合作开发AR技术。另一款代号为Amelia，专为快递司机设计，旨在提升配送效率，可能于2026年第二季度推出。该产品将与Meta的AR设备竞争。",
-            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/56d71790-8e9a-11f0-9dd9-570d5f720639",
-            "url": "https://www.engadget.com/ar-vr/amazon-is-reportedly-developing-separate-ar-glasses-for-customers-and-its-drivers-230826640.html",
-            "category": "其他"
-        },
-        {
             "title": "Amazon Music推出基于“偏好和情绪”的AI周更播放列表",
             "time": "2025-09-09",
             "source": "Engadget",
@@ -3656,15 +3638,6 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK326_PATREON_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "category": "社交",
             "url": "https://www.theverge.com/news/687570/patreon-standard-price-plan-increase-10-dollars"
-        },
-        {
-            "title": "Patreon将提高新创作者的提成比例",
-            "time": "2025-06-16",
-            "source": "TechCrunch",
-            "summary": "Patreon宣布将改变其定价结构，将从新创作者的收入中提取10%的费用，之前的费率为8%。这一变化只会影响在2025年8月4日之后创建新页面的创作者。Patreon表示，自六年前最后一次调整价格以来，平台已经增加了许多新功能，包括媒体托管、社区建设和发现功能。现有创作者不会受到此价格上涨的影响。",
-            "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v2.jpg?w=1024",
-            "category": "社交",
-            "url": "https://techcrunch.com/2025/06/16/patreon-will-increase-the-cut-it-takes-from-new-creators/"
         }
     ],
     "Reddit": [
@@ -3961,40 +3934,7 @@
             "category": "社交"
         }
     ],
-    "蔡浩宇": [
-        {
-            "title": "马斯克与蔡浩宇，看上同一个“女孩”",
-            "time": "2025-07-23",
-            "source": "创业邦",
-            "summary": "马斯克的xAI推出虚拟伴侣Ani，主打个性化互动；蔡浩宇的Anuttacon通过游戏《Whispers from the Star》测试AI角色Stella，强调叙事逻辑。两者分别代表情绪满足与科幻探索的不同方向，揭示AI情感赛道的竞争与潜力。",
-            "image_url": "https://oss.cyzone.cn/2025/0723/313700a40689e7fe504cd2ff3d98082e.jpeg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
-            "category": "AI",
-            "url": "https://www.cyzone.cn/article/804979.html"
-        }
-    ],
-    "贾斯廷·孙": [
-        {
-            "title": "贾斯廷·孙将加密公司上市——据报道获得埃里克·特朗普的帮助",
-            "time": "2025-06-17",
-            "source": "The Verge",
-            "summary": "贾斯廷·孙的加密资产平台Tron计划通过与SRM娱乐的反向合并在美国上市。埃里克·特朗普将据报道在新公司Tron Inc.担任职务。该交易由位于特朗普大厦的Dominari证券公司促成，SRM娱乐此前专注于主题公园商品设计，现已转向加密领域。此举是在孙面临联邦调查后进行的，他的公司将发行价值达2.1亿美元的股票和权证。",
-            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2212249714.jpg?quality=90&strip=all&crop=0.0045520757465383%2C0%2C99.990895848507%2C100&w=2400",
-            "category": "其他",
-            "url": "https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family"
-        }
-    ],
-    "刘强东": [
-        {
-            "title": "刘强东连投3家具身智能！京东美团「战火」烧到外卖之外",
-            "time": "2025-07-21",
-            "source": "量子位",
-            "summary": "刘强东通过京东领投了千寻智能、众擎机器人和逐际动力三家具身智能公司，聚焦硬件与具身智能大脑结合及量产能力。此举表明京东在具身智能领域的战略布局，并将推动其在零售、物流等场景的应用落地。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/8cb8e4414356f36d1488f4af7a318b58.jpeg",
-            "category": "AI",
-            "url": "https://www.qbitai.com/2025/07/311108.html"
-        }
-    ],
-    "李开复": [
+    "零一万物": [
         {
             "title": "前零一万物联创戴宗宏创业：20人团队，能干上百人的AI定制项目",
             "time": "2025-09-09",
@@ -4025,29 +3965,7 @@
             "url": "https://www.ali213.net/news/html/2025-6/939301.html"
         }
     ],
-    "Aspora": [
-        {
-            "title": "Aspora获得5000万美元融资，旨在为印度侨民构建汇款解决方案",
-            "time": "2025-06-15",
-            "source": "TechCrunch",
-            "summary": "Aspora最近宣布获得5000万美元的融资，资金由红杉资本提供，计划用于开发针对印度侨民的汇款解决方案。该公司致力于简化和加速跨境汇款流程，以满足全球印度侨民的需求。Aspora的创始人表示，这一融资将帮助他们更好地服务于这一庞大的市场，同时推动金融科技的创新。",
-            "image_url": "",
-            "category": "其他",
-            "url": "https://techcrunch.com/2025/06/15/aspora-gets-50m-from-sequoia-to-build-remittance-solutions-for-indian-diaspora/"
-        }
-    ],
     "Momenta": [
-        {
-            "title": "融资丨Momenta、兴杭创投、辰韬资本联合领投，零一汽车宣布完成5亿元融资",
-            "time": "2023-07-23",
-            "source": "创业邦",
-            "summary": "零一汽车完成5亿元A轮融资，由Momenta、兴杭创投、辰韬资本联合领投。公司专注于新能源智能重卡与自动驾驶技术，已交付近700台车辆，运营里程突破2500万公里。其基于大模型的端到端自动驾驶技术（ZSD）稳步推进，目标在未来三年内落地更多场景。",
-            "image_url": "https://oss.cyzone.cn/2025/0723/a81d955a470de043ce34928f1c0920c0.png?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
-            "category": "AI",
-            "url": "https://www.cyzone.cn/article/804975.html"
-        }
-    ],
-    "零一汽车": [
         {
             "title": "融资丨Momenta、兴杭创投、辰韬资本联合领投，零一汽车宣布完成5亿元融资",
             "time": "2023-07-23",
@@ -4325,4 +4243,5 @@
             "url": "https://36kr.com/p/3390957813782662"
         }
     ]
+
 }
