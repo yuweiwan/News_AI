@@ -10,6 +10,15 @@
             "category": "AI"
         },
         {
+            "title": "达雷尔·加拉格尔在The Initiative关闭后离开Xbox",
+            "time": "2025-09-16",
+            "source": "GamesIndustry.biz",
+            "summary": "达雷尔·加拉格尔在Xbox旗下的The Initiative工作室关闭后离职。他曾于2018年创立该工作室，主导开发《完美黑暗》重启项目，但该项目于2025年7月因微软大规模裁员被取消。加拉格尔在领英发文感谢团队与社区的支持，称这段经历令人自豪，并对未来发展充满期待。报道称，Take-Two曾洽谈资助该项目，但因IP长期所有权问题未能达成协议。",
+            "image_url": "https://assetsio.gnwcdn.com/1757943671604.jpg?width=414&quality=70&format=jpg&auto=webp",
+            "url": "https://www.gamesindustry.biz/darrell-gallagher-leaves-xbox-following-the-initiatives-closure",
+            "category": "游戏"
+        },
+        {
             "title": "自给自足“至关重要”，微软豪掷重金加码自研AI模型",
             "time": "2025-09-15",
             "source": "白鲸出海",
@@ -210,6 +219,15 @@
     ],
     "索尼": [
         {
+            "title": "维京生存模拟游戏《Valheim》将于2026年登陆PS5",
+            "time": "2025-09-17",
+            "source": "Engadget",
+            "summary": "热门维京主题生存模拟游戏《Valheim》确认将于2026年登陆PS5平台，但具体日期尚未公布。开发团队Iron Gate AB将由Piktiv公司负责PS5版本的移植工作，以便主力团队专注后续DLC《Deep North》的开发。PS5版将支持跨平台联机，与Xbox和PC玩家互通。该游戏自2021年在Steam以抢先体验形式发布后广受欢迎，2023年已登陆Xbox Series X/S，目前无Switch 2版本计划。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/TZitsbAoojEvXBrJsHOGBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTY-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/86374fd0-931a-11f0-9f7f-892978b1b19d",
+            "url": "https://www.engadget.com/gaming/viking-survival-sim-valheim-will-finally-come-to-the-ps5-in-2026-170657288.html",
+            "category": "游戏"
+        },
+        {
             "title": "全新Astro Bot主题PS5手柄现已开启预购",
             "time": "2025-09-12",
             "source": "The Verge",
@@ -346,6 +364,51 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "《宝可梦传说：Z-A》新DLC引关注！价格体系引争议",
+            "time": "2025-09-17",
+            "source": "游侠网",
+            "summary": "《宝可梦传说：Z-A》即将推出名为“超次元爆涌”的付费DLC，新增超级雷丘X/Y形态及卡洛斯御三家的超级进化形态，但需通过在线排位对战解锁，并强制绑定任天堂Switch Online会员服务。游戏本体70美元、DLC 30美元、年费会员20美元，总成本达120美元，引发玩家对定价策略和内容捆绑的广泛争议。尽管有观点认为与以往双版本购买成本相近，但提前公布DLC计划、延迟发布及强制在线机制仍遭批评。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/09/17/584_20250917113340182.jpg",
+            "url": "https://www.ali213.net/news/html/2025-9/962479.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《空之轨迹 the 1st》Switch2版特性：支持4K/30帧！",
+            "time": "2025-09-17",
+            "source": "游侠网",
+            "summary": "《空之轨迹 the 1st》Switch2版将提供两种运行模式：4K分辨率30帧和1080p分辨率60帧，玩家可自由切换以平衡画质与流畅度，同时加载时间大幅缩短。游戏为《空之轨迹FC》的完全重制版，采用3D技术重现利贝尔王国，支持原野动作与指令战斗无缝切换，并已开放免费试玩版。本作将于2025年9月19日同步登陆PlayStation 5、Nintendo Switch、Switch2及PC（Steam）平台，Switch2版升级费用仅1美元。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/09/17/584_20250917104533111.jpg",
+            "url": "https://www.ali213.net/news/html/2025-9/962455.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《电锯糖心RePOP》宣布登陆Switch2！今年11月发售",
+            "time": "2025-09-17",
+            "source": "游侠网",
+            "summary": "Dragami Games宣布《电锯糖心RePOP》将于2025年11月登陆Switch2平台，原Switch版用户可通过升级通行证获得增强版，但付费情况尚未明确。游戏相较原版在分辨率、帧率和画质上有显著提升，并将在2025年东京电玩展提供试玩，参与玩家可获赠特别版透明文件袋。本作自2024年9月发售以来全球销量已突破30万份，玩家将操控僵尸猎人茱丽叶·斯塔林，在虚构高中校园中使用升级版电锯对抗僵尸。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/09/17/584_20250917110010924.jpg",
+            "url": "https://www.ali213.net/news/html/2025-9/962465.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂为“抓宠打架”申请专利，连米哈游新作都可能波及？",
+            "time": "2025-09-17",
+            "source": "游戏陀螺",
+            "summary": "任天堂在美国获得两项新专利，涵盖‘召唤角色并令其相互战斗’和‘骑行物体平滑切换’等核心游戏机制，引发行业对专利滥用的担忧。这两项专利可能影响《幻兽帕鲁》《崩坏：因缘精灵》等多款游戏，尽管业内认为其可执行性存疑，但专利本身已形成强大威慑，可能导致开发者放弃类似玩法或规避创新。专家指出，专利审查机制在游戏机制领域存在信息不对称，若趋势延续，或将使游戏竞争转向法律实力而非创意。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250917/1758080591450989.jpeg",
+            "url": "https://www.baijing.cn/article/54105",
+            "category": "游戏"
+        },
+        {
+            "title": "《Hades》将于9月19日重返Game Pass，同日续作《Hades II》登陆Switch",
+            "time": "2025-09-17",
+            "source": "Engadget",
+            "summary": "经典roguelike游戏《Hades》将于2025年9月19日重返Xbox Game Pass，涵盖Ultimate、PC和Standard所有订阅 tiers。这一日期恰逢其续作《Hades II》正式登陆Switch与Switch 2平台并结束早期访问。尽管《Hades》曾于2021至2022年短暂登陆过Game Pass，此次回归仍为未体验过的玩家提供了绝佳机会。与此同时，《Call of Duty: Modern Warfare III》也将登陆标准版Game Pass，而《Frostpunk 2》则在次日登陆Xbox主机。开发商Supergiant尚未公布《Hades II》是否将登陆Xbox或PlayStation。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/1F8YIAi0Z4kBb8OS5g7j5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-09/0a29be30-932b-11f0-af75-2eb2af52ba3c",
+            "url": "https://www.engadget.com/gaming/xbox/hades-returns-to-game-pass-on-september-19-190055465.html",
+            "category": "游戏"
+        },
         {
             "title": "马里奥、密特罗德、Virtual Boy等：今日任天堂直面会全部重磅消息",
             "time": "2025-09-13",
@@ -591,6 +654,15 @@
         }
     ],
     "腾讯": [
+        {
+            "title": "曾获腾讯投资，印度独角兽Hike因“现金游戏禁令”关停",
+            "time": "2025-09-16",
+            "source": "游戏陀螺",
+            "summary": "印度独角兽Hike公司因政府颁布《2025年网络游戏促进与监管法案》禁止现金游戏而关停。该公司曾获腾讯等机构投资，巅峰估值达14亿美元，其现金游戏平台Rush曾营收超5亿美元。法案禁止在线金钱和博彩游戏，导致包括Hike、Nazara在内的多家游戏公司停运或市值缩水，预计影响40万家游戏企业、20余万人就业。该类游戏占印度游戏业收入86%，禁令虽短期重创行业，但有望推动向技能型娱乐生态转型。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250916/1758014388524279.jpg",
+            "url": "https://www.baijing.cn/article/54098",
+            "category": "游戏"
+        },
         {
             "title": "腾讯会议打通腾讯元宝，“AI托管”当你的听会助手",
             "time": "2025-09-11",
@@ -1867,6 +1939,15 @@
             "category": "AI"
         },
         {
+            "title": "OpenAI “GPT-5-Codex”的6个神级技巧，这才是AI编程的正确打开方式",
+            "time": "2025-09-16",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/CKNfVTzvatiJs6WcICGi4g",
+            "category": "AI"
+        },
+        {
             "title": "微软计划加码算力集群，助力自研大模型与OpenAI等对手展开竞争",
             "time": "2025-09-13",
             "source": "动点科技",
@@ -2899,6 +2980,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "拉美版“阿里”Meli： “假”电商、“真”放贷？",
+            "time": "2025-09-16",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHyiae4E4Td9XiaQmjp6ArSQsqjseaAQlsSSCVtPXJSI2iaZIu6KuTZn1p3ontFVDYO3wzZOQKcd68og/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/rkKde90nDBf-XORf0CTrBA",
+            "category": "其他"
+        },
+        {
             "title": "高德的对手是大众点评，还是服务业信任赤字？",
             "time": "2025-09-11",
             "source": "钛媒体",
@@ -2923,6 +3013,15 @@
             "summary": "9月11日，支付宝在2025 Inclusion·外滩大会宣布推出国内首个“AI付”服务，率先在瑞幸咖啡的AI点单助手“Lucky AI”上线。用户可通过说话方式在支付宝小程序或瑞幸App完成点单与支付，无需跳转页面，实现AI交互内的下单支付全链路闭环。此举推动AI生态商业闭环完善，助力智能支付发展。",
             "image_url": "https://www.qbitai.com/wp-content/uploads/replace/03c67f7bb2df4016547bb5efbb80d214.jpeg",
             "url": "https://www.qbitai.com/2025/09/330506.html",
+            "category": "AI"
+        },
+        {
+            "title": "Qwen又立功，全球最快开源模型诞生，超2000 tokens/秒！",
+            "time": "2025-09-10",
+            "source": "量子位",
+            "summary": "阿联酋穆罕默德·本·扎耶德人工智能大学（MBZUAI）与G42 AI推出全球最快开源大模型K2 Think，基于Qwen 2.5-32B打造，吞吐量超每秒2000 tokens，实测速度达2730.4 tokens/秒。该模型专为数学推理优化，支持长链路思维训练、可验证奖励强化学习等六项技术创新，在多项数学基准测试中表现优异，已被称作‘有史以来最先进的开源AI推理系统’。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/dd013b5959d1348e5009663061e59ef7.jpeg",
+            "url": "https://www.qbitai.com/2025/09/330285.html",
             "category": "AI"
         },
         {
@@ -3041,6 +3140,15 @@
             "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_7195b0c5ba4b4fdcb5174214cd86b499@2057308263_oswg66520oswg900oswg500_img_000?x-oss-process=image/format,jpg/interlace,1",
             "category": "AI",
             "url": "https://36kr.com/p/3391135987730822"
+        },
+        {
+            "title": "Qwen3小升级即SOTA，开源大模型王座快变中国内部赛了",
+            "time": "2025-07-22",
+            "source": "量子位",
+            "summary": "Qwen3迎来最新升级，参数量235B，基准测试性能超越Kimi K2。此次更新显著提升了通用能力、多语言长尾知识覆盖和256K长上下文理解能力，并改进了架构模式。官方透露更大更新即将发布，预示开源大模型竞争进入中国时间。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/4925a46faa83432c83c959464203500f.png",
+            "category": "AI",
+            "url": "https://www.qbitai.com/2025/07/311258.html"
         }
     ],
     "百度": [
@@ -3173,6 +3281,24 @@
             "category": "其他"
         },
         {
+            "title": "亚马逊或于明年为配送司机推出AR眼镜",
+            "time": "2025-09-11",
+            "source": "The Verge",
+            "summary": "据The Information报道，亚马逊正在开发代号为Jayhawk的增强现实（AR）眼镜，预计最早在2026年底或2027年初面向消费者发布。此外，亚马逊计划更早推出专为配送司机设计的AR眼镜“Amelia”，内部计划生产10万台，配备单色显示屏，可提供导航指引和送货信息。该设备将比消费版更笨重，具备内置摄像头、麦克风和扬声器，旨在提升配送效率。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC02134.webp?quality=90&strip=all&crop=0.41666666666666%2C0%2C99.166666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊 reportedly 正在开发面向消费者和司机的独立AR眼镜",
+            "time": "2025-09-10",
+            "source": "Engadget",
+            "summary": "据《The Information》报道，亚马逊正在开发两款独立的增强现实（AR）眼镜。其中一款代号为Jayhawk，面向消费者市场，预计2026年底或2027年初发布，配备单目光学显示、摄像头、麦克风和扬声器，并与中国公司Meta-Bounds合作开发AR技术。另一款代号为Amelia，专为快递司机设计，旨在提升配送效率，可能于2026年第二季度推出。该产品将与Meta的AR设备竞争。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/56d71790-8e9a-11f0-9dd9-570d5f720639",
+            "url": "https://www.engadget.com/ar-vr/amazon-is-reportedly-developing-separate-ar-glasses-for-customers-and-its-drivers-230826640.html",
+            "category": "其他"
+        },
+        {
             "title": "Amazon Music推出基于“偏好和情绪”的AI周更播放列表",
             "time": "2025-09-09",
             "source": "Engadget",
@@ -3274,6 +3400,15 @@
     ],
     "红杉资本": [
         {
+            "title": "星巴克筛选Boyau、凯雷、EQT和红杉为中国业务出售最终竞购方",
+            "time": "2025-09-10",
+            "source": "Mergermarket",
+            "summary": "星巴克已选定Boyu Capital、凯雷集团、EQT和红杉资本作为其中国业务出售的最终竞购方，预计胜者将于10月底公布。此次竞标由高盛主导，吸引了十余家竞购者，估值约50亿美元，对应2025年预期EBITDA约10倍。EQT可能联合中国私募基金Primavera Capital共同参与。星巴克及部分竞购方暂未置评。此前Mergermarket曾预测该业务估值将超50亿美元。",
+            "image_url": "",
+            "url": "https://ionanalytics.com/insights/mergermarket/starbucks-shortlists-boyu-carlyle-eqt-hongshan-as-finalists-for-china-unit-sale/",
+            "category": "其他"
+        },
+        {
             "title": "导演吉姆·贾木许对Mubi接受红杉资本融资表示失望",
             "time": "2025-08-31",
             "source": "TechCrunch",
@@ -3281,6 +3416,15 @@
             "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2233037436.jpg?w=1024",
             "url": "https://techcrunch.com/2025/08/31/director-jim-jarmusch-disappointed-and-disconcerted-by-mubis-funding-from-sequoia/",
             "category": "其他"
+        },
+        {
+            "title": "阿里老兵造出会说话的迪迦！AI玩具单品20万销量，红杉等2亿A轮抢投",
+            "time": "2025-08-26",
+            "source": "量子位",
+            "summary": "阿里前天猫精灵老兵李勇创办的AI玩具公司跃然创新推出全球首款迪迦奥特曼AI玩具，该产品为第二代AI玩具，支持语音交互、NFC剧情解锁等功能，并已完成2亿元A轮融资。其首款产品BubblePal已售出20多万台，成为全球首个实现大规模商业化的AI玩具。公司未来将拓展儿童及成人市场，打造具备情感记忆的AI朋友。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/f90b91205a002261b98ef43a83291f67.png",
+            "url": "https://www.qbitai.com/2025/08/326119.html",
+            "category": "AI"
         }
     ],
     "高盛": [
@@ -3529,6 +3673,15 @@
     ],
     "CD Projekt RED": [
         {
+            "title": "《赛博朋克2077》主角V年龄多次变动后 现确认为27岁",
+            "time": "2025-09-17",
+            "source": "游侠网",
+            "summary": "CD Projekt Red任务设计师Patrick K. Mills近日确认，《赛博朋克2077》主角V的官方年龄已统一调整为27岁，此前曾因男女角色出生时间差异导致年龄不同，后又误设为23岁。此次调整使V与主要角色如帕南、朱迪等年龄更趋合理，玩家普遍认为27岁更符合V在夜之城的成熟形象与经历。该设定变更也引发社区对角色悲剧性与现实感的广泛讨论。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/09/17/584_20250917115419327.png",
+            "url": "https://www.ali213.net/news/html/2025-9/962493.html",
+            "category": "游戏"
+        },
+        {
             "title": "《巫师4》开发将以主机为主！避免《2077》错误复现",
             "time": "2025-06-16",
             "source": "游侠网",
@@ -3539,6 +3692,24 @@
         }
     ],
     "Rockstar Games": [
+        {
+            "title": "《侠盗猎车手V》销量达2.15亿，尽管续作即将发布",
+            "time": "2025-08-08",
+            "source": "GamesBeat",
+            "summary": "Take-Two发布的季度财报显示，《侠盗猎车手V》（GTA V）销量持续增长，目前已售出超过2.15亿份，较上次报告增加了500万份。即使其续作《侠盗猎车手VI》计划在不到一年内推出，这款游戏依然表现出色。GTA V成为过去十年最畅销的游戏，并以史上最快的速度突破10亿美元销售额。",
+            "image_url": "https://gamesbeat.com/wp-content/uploads/2025/05/gta-v-26.jpg",
+            "url": "https://gamesbeat.com/grand-theft-auto-v-hits-215m-sales-despite-successors-imminent-launch/",
+            "category": "游戏"
+        },
+        {
+            "title": "Take-Two的Strauss Zelnick看好GTA VI、公司计划与游戏经济 | 采访",
+            "time": "2025-08-07",
+            "source": "GamesBeat",
+            "summary": "Take-Two首席执行官Strauss Zelnick在接受采访中表示，他对《GTA VI》和公司的未来充满信心。公司最新季度财报显示，净预订收入达14.2亿美元，同比增长17%。Zelnick还强调了直接面向消费者的移动商店战略。",
+            "image_url": "https://gamesbeat.com/wp-content/uploads/2025/05/strauss-zelnick-12.jpg",
+            "url": "https://gamesbeat.com/take-twos-strauss-zelnick-is-bullish-on-gta-vi-take-twos-slate-and-the-gaming-economy-interview/",
+            "category": "游戏"
+        },
         {
             "title": "不止地面?《GTA6》爆料水下也可探索！还有专属任务",
             "time": "2025-06-16",
@@ -3638,6 +3809,15 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK326_PATREON_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "category": "社交",
             "url": "https://www.theverge.com/news/687570/patreon-standard-price-plan-increase-10-dollars"
+        },
+        {
+            "title": "Patreon将提高新创作者的提成比例",
+            "time": "2025-06-16",
+            "source": "TechCrunch",
+            "summary": "Patreon宣布将改变其定价结构，将从新创作者的收入中提取10%的费用，之前的费率为8%。这一变化只会影响在2025年8月4日之后创建新页面的创作者。Patreon表示，自六年前最后一次调整价格以来，平台已经增加了许多新功能，包括媒体托管、社区建设和发现功能。现有创作者不会受到此价格上涨的影响。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v2.jpg?w=1024",
+            "category": "社交",
+            "url": "https://techcrunch.com/2025/06/16/patreon-will-increase-the-cut-it-takes-from-new-creators/"
         }
     ],
     "Reddit": [
@@ -4242,6 +4422,763 @@
             "category": "AI",
             "url": "https://36kr.com/p/3390957813782662"
         }
+    ],
+    "deepseek": [
+        {
+            "title": "超过DeepSeek R1，追平GPT5，百度新发布的文心X1.1大模型真有那么神吗？",
+            "time": "2025-09-12",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXk4gcxgTniclcFibHHYrhojhUCKPQGd0h3uYf54m2XtHNea3tI9fJXDmjcEFwZichgoFBd2J8aicDDq2w/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/RWe2ZumTs9j1C9LK2gT1gQ",
+            "category": "AI"
+        },
+        {
+            "title": "Nano Banana更像是AI图像领域的DeepSeek",
+            "time": "2025-09-08",
+            "source": "36氪",
+            "summary": "Google推出的AI图像生成模型Nano Banana，凭借原生多模态架构和交错生成技术，实现了像素级精准编辑，显著提升了图像调整的效率与准确性。其低成本、快速生成的特点，使其在虚拟试衣、内容创作、视频生成等领域具有广泛应用前景。该模型被视为AI图像领域的重大突破，或将推动更多专业级AI图像应用的创新与发展。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250908/v2_9cf9cbcc92f544c5bfd6f2de661e82f8@5657172_oswg42802oswg1080oswg321_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3457838756878468",
+            "category": "AI"
+        },
+        {
+            "title": "传DeepSeek正在开发具备更先进AI智能体功能的人工智能模型",
+            "time": "2025-09-05",
+            "source": "白鲸出海",
+            "summary": "据报道，DeepSeek正在开发一款具备更先进AI智能体功能的新一代人工智能模型，可在用户指令最少的情况下完成多步操作，并具备自主学习改进能力，旨在与OpenAI等国际巨头竞争。该公司创始人梁文峰推动团队力争在2025年第四季度发布新产品。此前，DeepSeek已发布R1和DeepSeek-V3.1模型，后者被称是迈向智能体时代的重要一步，显著提升了工具使用和任务执行能力。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250905/1757038320691148.jpg",
+            "url": "https://www.baijing.cn/article/53965",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek正开发更先进模型，具备 AI 智能体能力，目标年底发布",
+            "time": "2025-09-05",
+            "source": "多知",
+            "summary": "据彭博社援引知情人士消息，DeepSeek正在开发一款具备先进AI智能体功能的新模型，能够在用户给出最少指令的情况下执行多步骤操作，并基于用户行为持续学习优化。该模型计划于2025年第四季度发布，由创始人梁文峰推动。此举被视为与OpenAI等美国企业在技术前沿展开竞争。此前DeepSeek发布的R1模型已在全球引发关注，此次新产品备受期待。",
+            "image_url": "http://www.duozhi.com/d/file/2025/09/f3d4c954f2355a6c436ce1c124d8b530.jpeg",
+            "url": "http://www.duozhi.com/industry/insight/2025090517659.shtml",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek 等大模型集体“打标”，从此告别 AI 造假？",
+            "time": "2025-09-02",
+            "source": "36氪",
+            "summary": "随着《人工智能生成合成内容标识办法》于2025年9月1日实施，DeepSeek、腾讯元宝、字节豆包、阿里通义等大模型厂商纷纷对AI生成内容添加显性和隐性标识。该办法要求文本、图片、音频、视频等AI内容均需标明来源，平台和用户不得删除或篡改标识。此举旨在应对AI内容泛滥带来的误导问题，如AI乖孙欺骗老人、AI催婚视频传播、伪造专家推荐等，提升公众对AI生成内容的识别能力，规范AI内容生态。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250902/v2_336b7203b7c845a6a6a94a6a89083270@6119835_oswg186080oswg1080oswg535_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3449274275092615",
+            "category": "AI"
+        },
+        {
+            "title": "14B打败671B，微软rStar2-Agent在数学推理上超过DeepSeek-R1",
+            "time": "2025-09-02",
+            "source": "36氪",
+            "summary": "微软研究院提出了一种名为rStar2-Agent的主动式强化学习方法，成功训练出仅14B参数的推理模型rStar2-Agent-14B，在数学推理任务上超越了671B的DeepSeek-R1。该模型通过与Python工具环境交互，利用反馈信号进行自我修正和高效推理，在AIME24等基准测试中表现优异，且训练成本显著降低，展现出强大的泛化能力和前沿性能。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250902/v2_f38bd4b747aa4c61ad2b5d85d39d3b03@000000_oswg241970oswg861oswg951_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3448911102760582",
+            "category": "AI"
+        },
+        {
+            "title": "王兴一鸣惊人！美团首个开源大模型追平DeepSeek-V3.1",
+            "time": "2025-09-01",
+            "source": "量子位",
+            "summary": "美团发布首个开源大模型Longcat-Flash-Chat，性能在多项基准测试中超过DeepSeek-V3.1和Qwen3 MoE，编程能力媲美Claude4 Sonnet。该模型采用“零计算专家”与Shortcut-connected MoE架构，实现高效计算与通信优化，560B参数下训练30天完成20T token预训练，单GPU生成速度超100 tokens/s。美团通过GN06团队持续投入大模型研发，已应用于AI编程、智能会议等场景。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/406a0afc39fe5100fdeee70596afdfe3.png",
+            "url": "https://www.qbitai.com/2025/09/327751.html",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek“极你太美”bug，官方回应了",
+            "time": "2025-08-27",
+            "source": "量子位",
+            "summary": "DeepSeek V3.1模型在调用API进行代码开发时出现“极”字异常输出问题，引发开发者热议。该问题影响多个平台，包括火山引擎、腾讯CodeBuddy及DeepSeek官方平台。官方回应称将在新版本中修复。有开发者提出可通过提示词缓解该问题，而知乎网友黄哲威推测，问题可能源于训练数据未彻底清洗，导致模型学习到错误模式。目前社区正等待DeepSeek官方修复。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/b7d9a01d7365a5e9751e423c532970a4.png",
+            "url": "https://www.qbitai.com/2025/08/326310.html",
+            "category": "AI"
+        },
+        {
+            "title": "【产业互联网周报】 SAP 前高管邓永富加盟销售易任总裁；特朗普政府将收购英特尔10%股份；DeepSeek-V3.1正式发布；IDC：2024年中国大模型开发平台市场规模达16.9亿元人民币",
+            "time": "2025-08-25",
+            "source": "钛媒体",
+            "summary": "本期产业互联网周报涵盖多个重要资讯：SAP前高管邓永富加盟销售易任总裁；阿里云推出AI Agent记忆存储功能；华为政企业务同比增长显著；百度Q2财报超预期，AI驱动收入增长；DeepSeek-V3.1正式发布；国内AI模型训练中文数据占比超60%；特斯拉接入豆包和DeepSeek大模型；OpenAI单月收入突破10亿美元；英特尔拟构建液冷生态标准；国内多地推动AI与制造业深度融合等。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/08/b9e5397aa337e20da65d1c4487c9148e_1756088082.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x787/gravity/center/crop/!1400x787&ext=.png",
+            "url": "https://www.tmtpost.com/7670591.html",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek一句话让国产芯片集体暴涨！背后的UE8M0 FP8到底是个啥",
+            "time": "2025-08-22",
+            "source": "量子位",
+            "summary": "DeepSeek发布V3.1后提及采用UE8M0 FP8精度格式，引发国产芯片概念股集体上涨。UE8M0是MXFP8中的一种缩放因子格式，能有效提升8bit计算的动态范围并降低带宽开销，适配下一代国产AI芯片。该技术有助于软硬协同优化，减少对英伟达等国外算力依赖，推动国产芯片生态发展。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/95555c80f43293394c7c66a6de3778b5.png",
+            "url": "https://www.qbitai.com/2025/08/325022.html",
+            "category": "AI"
+        },
+        {
+            "title": "国产GPU跑满血DeepSeek，已经可以100 tokens/s了！",
+            "time": "2025-07-26",
+            "source": "量子位",
+            "summary": "摩尔线程的国产GPU在运行满血DeepSeek时达到了100 tokens/s的速度，远超国内外其他GPU。其背后依托的是一个完整的AI超级工厂体系，包括全功能GPU、MUSA架构、全栈软件、KUAE集群和零中断容错技术等五大核心要素，为未来算力需求提供了可靠解决方案。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/b0d9e938d3482712aac70a4a2bdfc010.jpeg",
+            "url": "https://www.qbitai.com/2025/07/313113.html",
+            "category": "AI"
+        }
+    ],
+    "字节跳动": [
+        {
+            "title": "国内没市场的小众饰品，在TikTok上吸金百万",
+            "time": "2025-09-17",
+            "source": "白鲸出海",
+            "summary": "本文分析了原本在国内小众的身体穿孔饰品（如鼻环、唇钉）在欧美TikTok平台上的爆火现象，指出#piercing话题浏览量超578亿次，相关产品在TikTok Shop和亚马逊实现百万级销量。以Neeyer Beauty的宝石鼻环为例，单款产品GMV突破100万元人民币，主要靠达人短视频带货。文章还指出欧美消费者注重材质安全（如316L医用钢）、设计简约个性化，并建议跨境卖家结合穿孔工具与护理产品捆绑销售，把握这一低竞争高潜力的蓝海赛道。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250917/1758081902501147.jpg",
+            "url": "https://www.baijing.cn/article/54106",
+            "category": "社交"
+        },
+        {
+            "title": "关于TikTok在美国不确定的未来及有意收购者的信息",
+            "time": "2025-09-16",
+            "source": "TechCrunch",
+            "summary": "TikTok因数据安全担忧长期面临美国政府禁令压力，其中国母公司ByteDance被要求出售美国业务。2025年，美国与中方达成框架性协议，潜在买家包括Oracle、Silver Lake、Andreessen Horowitz等财团。此外，由Frank McCourt领衔的‘人民竞购’联盟、Jesse Tinsley领导的美国投资者集团以及Amazon、Microsoft、Oracle等科技巨头均参与竞购，目标是实现美中各占约50%股权。尽管曾短暂下架，TikTok已恢复服务，最终交易结果尚待确认。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/tiktok-us-flag.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/16/what-to-know-about-tiktoks-uncertain-future-in-the-us-and-the-people-who-want-to-buy-it/",
+            "category": "社交"
+        },
+        {
+            "title": "特朗普的TikTok交易将使美国投资者获得控制权，报道称中国股东仍将持股",
+            "time": "2025-09-16",
+            "source": "Engadget",
+            "summary": "据《华尔街日报》报道，美国和中国正接近达成一项协议，以保留TikTok在美国的运营。该交易将使由Oracle、a16z和Silver Lake组成的美国投资者集团持有约80%股份，中国股东持股低于20%的法定上限，美国政府将获得一名董事会成员提名权。TikTok工程师将基于字节跳动技术重建算法，Oracle负责美国用户数据安全。尽管协议接近完成，特朗普已第四次推迟禁令截止日期至12月16日，并计划与习近平通话确认细节。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/XbvKEXy6kIcItfRPX6KJ3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/669d0810-100a-11f0-b777-ffbc096fe941",
+            "url": "https://www.engadget.com/social-media/trumps-tiktok-deal-will-give-control-to-a-group-of-us-investors-report-says-201331190.html",
+            "category": "社交"
+        },
+        {
+            "title": "深圳品牌出海美国做大码泳装，上线TikTok两年营收5000万+",
+            "time": "2025-09-15",
+            "source": "白鲸出海",
+            "summary": "深圳品牌Blooming Jelly自2023年入驻TikTok Shop以来，凭借精准切入大码泳装市场，实现近790万美元销售额。品牌以40美元中端定价、弹性设计和27种色彩选择满足多元体型需求，并通过TikTok达人营销（合作达人超9500名）驱动74%销量，同时在Instagram、Facebook构建全渠道营销矩阵，成功传递“为自己打扮”的品牌理念，成为中国品牌出海价值共创的典型案例。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250915/1757918062947017.jpg",
+            "url": "https://www.baijing.cn/article/54074",
+            "category": "其他"
+        },
+        {
+            "title": "用即梦4.0直出AI长视频的邪修攻略！我在seko薅商汤羊毛",
+            "time": "2025-09-15",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlJibib9GKsGcDAcKL0Lib71AYXXKNSnvTuNyxiagqOB5ib1IhicIicwZ7YNnn55ic628o1NdoLLnuoLjgjsw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/uLqc0ma1Jyb5vpGpxxlXeA",
+            "category": "AI"
+        },
+        {
+            "title": "抖音直播重拳整治，3个月清退近200家违规公会",
+            "time": "2025-09-11",
+            "source": "36氪",
+            "summary": "抖音直播近期加大生态治理力度，3个月内清退近200家违规公会，重点整治未成年开播、低俗内容、诈骗等行为。平台对涉及未成年人直播的公会采取零容忍态度，要求公会自查并举证，违规者将被扣收益、罚款甚至清退。此次整治反映出直播行业正从野蛮生长转向合规化运营，公会面临转型压力，需建立合规机制以应对监管要求。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250911/v2_0818c6d7ad7344a986683b608ad27ad5@5091053_oswg652919oswg809oswg745_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3462190041405064",
+            "category": "社交"
+        },
+        {
+            "title": "从爆款冲量到长效经营，TikTok for Business 全链方案破解增长难题",
+            "time": "2025-09-11",
+            "source": "白鲸出海",
+            "summary": "2025年短剧出海进入加速发展阶段，海外市场规模预计年底突破32亿美元。TikTok for Business于9月11日举办第二届短剧出海大会，推出全链路增长解决方案，覆盖从入局验证、精细化运营到中后期全域经营的各阶段需求。平台通过趋势洞察、创意支持、AI工具和端内闭环变现等能力，助力企业实现从爆款冲量到长效经营的转型，推动短剧出海可持续发展。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250911/1757597870776847.png",
+            "url": "https://www.baijing.cn/article/54051",
+            "category": "社交"
+        },
+        {
+            "title": "字节划给抖音电商更大自主权",
+            "time": "2025-09-09",
+            "source": "动点科技",
+            "summary": "据《晚点 LatePost》报道，字节跳动于9月1日将擅长电商效果广告的销售与行业运营团队划归抖音电商部门，而品牌广告相关团队则留在商业化部门。此前，巨量千川和巨量本地推的产品团队也已转入相应业务线。经过多轮调整，抖音电商获得更独立的组织架构和更大自主权，可基于GMV和广告收入目标自主决定流量分配。",
+            "image_url": "",
+            "url": "https://cn.technode.com/post/2025-09-09/bytedance-dyds/",
+            "category": "社交"
+        },
+        {
+            "title": "Nano Banana没学会的AI写真，我用即梦4.0做出了10种邪修玩法",
+            "time": "2025-09-09",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXluYoRnD4XPqppBE62ibHkImfJGvUrTZwIu70IbYraqjVob7Vzm5Whoy4ttbzQe8kqH8vJ94P9aOeA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/qj0ZLn1UfDaTmo58tUzfqQ",
+            "category": "AI"
+        },
+        {
+            "title": "抖音游戏“夏日环游记”爆火，看平台如何携手厂商共筑游戏经营新场域",
+            "time": "2025-09-08",
+            "source": "GameLook",
+            "summary": "2025年抖音游戏举办的“夏日环游记”活动持续24天，联合20家厂商和上百位创作者，通过直播、短视频、集卡互动及线下联动等形式，打造线上游戏嘉年华。活动借助抖音内容生态，推动《解限机》《燕云十六声》等游戏破圈传播，结合“玩同款”免下载试玩功能，提升用户参与度与转化效率，形成厂商、创作者、玩家共生的内容闭环，展现抖音作为游戏经营新场域的商业价值。",
+            "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2026/09/dytp001.jpg",
+            "url": "http://www.gamelook.com.cn/2025/09/577973/",
+            "category": "社交"
+        },
+        {
+            "title": "沙特发起4亿美元计划，向中小企业退费；约764家中国企业参加2025IFA；TikTok欧洲用户数约占欧洲人口的三分之一｜一周「出海参考」",
+            "time": "2025-09-08",
+            "source": "钛媒体",
+            "summary": "本周全球出海热点涵盖多个新兴市场政策变动与平台动态。沙特启动4亿美元Estrdad计划，退还中小企业政府费用；菲律宾延长外资租地期限至99年；土耳其风电装机量居欧洲第三。平台方面，亚马逊Pan-EU新规生效，TikTok欧洲月活超2亿，速卖通推“超级品牌计划”。2025年IFA展会上，约764家中国企业参展。此外，德国要求电商平台设醒目取消按钮，88国暂停对美邮寄服务。",
+            "image_url": "https://images.tmtpost.com/uploads/avatar/6438625_1678507841.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7686787.html",
+            "category": "社交"
+        },
+        {
+            "title": "最高价值256万，字节给大模型人才战猛添柴",
+            "time": "2025-09-08",
+            "source": "凤凰网科技",
+            "summary": "字节跳动近期为大模型部门Seed实施高额期权激励计划，核心技术人员每月可获9万至13万元期权，18个月总价值达170万至256万元。此举引发内部争议，部分员工认为尚未产生收入的AI部门获得过度倾斜，而公司其他福利却在收紧。与此同时，MiniMax、Kimi等企业也纷纷推出百万级激励，大模型领域人才争夺战持续升温。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250908/v2_469cb686555c4905bac08e857816771b@1883322323_oswg52654oswg1080oswg606_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3457880338160000",
+            "category": "AI"
+        },
+        {
+            "title": "3个月登顶TikTok女装TOP1，这一品牌GMV已达7000万+",
+            "time": "2025-09-08",
+            "source": "白鲸出海",
+            "summary": "Katch Me凭借供应链优势和对包容性尺码的精准定位，通过TikTok Shop实现爆发式增长，3个月内登顶英国站点女装类目TOP1，总GMV已超7000万元。品牌结合本地化内容营销与可持续理念，主打高舒适度与时尚设计，并借助达人短视频和直播带货扩大影响力。目前其业务已拓展至美国、德国、法国等多国市场，计划借力TikTok Shop黑五大促进一步增长。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250908/1757323344739602.jpg",
+            "url": "https://www.baijing.cn/article/54000",
+            "category": "社交"
+        },
+        {
+            "title": "100镜硬拼Nano Banana，我总结了豆包p图4.0的20种邪修玩法（附提示语）",
+            "time": "2025-09-07",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXmAicDve8Ie2zRIsibEMzhrV8M7Kyb21fobZvYnCI51L7MudNR9tHN5UMcMdJNeibkzn2ykbSbVZHgwQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/AMA8NaIYTbpaswteooYrLA",
+            "category": "AI"
+        },
+        {
+            "title": "TikTok Shop泰国站将收电商增长服务费，上限199泰铢",
+            "time": "2025-09-05",
+            "source": "TT123跨境电商",
+            "summary": "TikTok Shop泰国跨境店将开始征收“电商增长服务费”，该费用根据商品价格收取，主要用于提供包邮权益和曝光助推。不同类目费率不同，电子产品为5.35%，其他品类为6.42%，每单上限199泰铢（含税）。新卖家入驻前30天可享受最高5000泰铢的费用减免。该费用针对所有成功交付订单收取，退货或退款后不予退还，商家需重视商品质量与售后服务。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250905/1757039277981937.jpg",
+            "url": "https://www.baijing.cn/article/53966",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok爆款周榜丨泰国站这款袜子7日内狂销10.63万件",
+            "time": "2025-09-05",
+            "source": "白鲸出海",
+            "summary": "近日，TT123跨境电商整理了TikTok Shop在14大站点的最新一周热销榜单（8.25-8.31）。其中，泰国站Gentlemen's Socks小店的袜子以10.63万销量位居榜首。美国站复合镁补充剂登顶，英国站唇部染色面膜增长显著，印尼站牙膏销量第一。各站点消费趋势差异明显，如墨西哥站塑身女装热销，巴西站保健品类需求旺盛，反映出不同地区用户的多样化偏好。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250905/1757044352395003.jpg",
+            "url": "https://www.baijing.cn/article/53970",
+            "category": "社交"
+        },
+        {
+            "title": "30天卖了半年的量，这件时尚单品爆火TikTok",
+            "time": "2025-09-05",
+            "source": "白鲸出海",
+            "summary": "一款来自非洲大妈风格的民族风披肩长袍在TikTok美国市场爆火，30天销量接近半年总量，实现月收入超百万美元。该产品由跨境店铺IROJEFF推出，凭借鲜艳的印花设计、多功能穿法及社交媒体达人带货，在8月售出3.8万件，销售额达39.03万美元。TikTok上#kaftan话题播放量超44亿次，推动‘长袍穿搭’热潮，展现文化属性与社交营销结合的巨大潜力。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250905/1757055332720155.jpg",
+            "url": "https://www.baijing.cn/article/53973",
+            "category": "社交"
+        },
+        {
+            "title": "字节Seed最新版原生智能体来了！一个模型搞定手机/电脑/浏览器自主操作",
+            "time": "2025-09-05",
+            "source": "量子位",
+            "summary": "字节Seed发布最新原生智能体UI-TARS-2，采用多轮强化学习技术，仅用一个模型即可自主操作手机、电脑和浏览器。该智能体通过统一架构和混合操作流，解决了数据稀缺、环境割裂等GUI操作难题，在多项测试中表现超越Claude和OpenAI Agent，接近人类水平，具备查资料、写代码、玩游戏等复杂任务能力。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/0429c73c6e9ceda50338893760f8fb70.gif",
+            "url": "https://www.qbitai.com/2025/09/328710.html",
+            "category": "AI"
+        },
+        {
+            "title": "Claude估值暴涨300%！全球独角兽字节第三他第四",
+            "time": "2025-09-03",
+            "source": "量子位",
+            "summary": "Anthropic完成F轮融资130亿美元，估值达1830亿美元，较此前暴涨近300%，成为全球第四大估值初创公司。公司营收半年内从10亿美元年化跃升至50亿美元，核心产品Claude Code年收入突破5亿美元。融资由Iconiq Capital领投，获卡塔尔投资局、黑石等多家顶级机构支持，资金将用于基础设施、AI安全研究及全球市场拓展。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/3c2e8b1d95ba5473837e835516139c3f.png",
+            "url": "https://www.qbitai.com/2025/09/328332.html",
+            "category": "AI"
+        },
+        {
+            "title": "又一轮风控，TikTok卖家：店铺开一个封一个",
+            "time": "2025-09-02",
+            "source": "白鲸出海",
+            "summary": "TikTok Shop近期加强风控，大量跨境卖家反映店铺被封，涉及美区等多个市场。平台严打低质铺货、店群套利、仿牌及货不对板等行为，标志着电商运营进入“精耕细作”时代。卖家需转向合规经营，注重选品质量、内容原创与本地化运营，避免因违规导致账户停用和资金损失。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250902/1756781145637799.jpg",
+            "url": "https://www.baijing.cn/article/53919",
+            "category": "社交"
+        },
+        {
+            "title": "字节憋了个大招，要做“动作搜打撤”领头羊！",
+            "time": "2025-09-01",
+            "source": "GameLook",
+            "summary": "字节跳动旗下Bellring工作室研发的冷兵器动作搜打撤游戏《雾影猎人》已获得版号，并宣布国内首次测试将于9月16日开启。该游戏采用暗黑西幻题材，主打第三人称冷兵器PVPVE玩法，融合局内战斗与局外养成经济系统。其战斗系统兼顾竞技性与RPG化角色Build养成，职业设计丰富，强调策略与操作。相比同类射击类搜打撤产品，《雾影猎人》在题材与玩法适配上更具创新，团队也注重降低门槛以吸引更广泛玩家。",
+            "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2025/08/MH1.jpg",
+            "url": "http://www.gamelook.com.cn/2025/09/577555/",
+            "category": "游戏"
+        },
+        {
+            "title": "TikTok用户将 soon 能在聊天中发送语音、图片和视频",
+            "time": "2025-08-31",
+            "source": "Engadget",
+            "summary": "TikTok即将推出新的聊天功能，允许用户在私信和群聊中发送语音消息、图片和视频。语音消息限制为一分钟内，图片和视频最多可一次性发送九个，内容需来自手机相册或相机。新规则规定不能以图片或视频作为与他人的第一条私信。此外，16岁以上用户才能使用聊天功能，18岁以上用户可选择是否启用自动屏蔽裸露内容的功能。此举使TikTok进一步向主流社交平台靠拢。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-06/7dafc160-4ae2-11f0-9bae-c64c7ab42cc7",
+            "url": "https://www.engadget.com/social-media/tiktok-users-will-soon-be-able-to-send-voice-notes-images-and-videos-in-chats-194413622.html",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok用户将很快可以在聊天中发送语音消息、图片和视频",
+            "time": "2025-08-31",
+            "source": "Engadget",
+            "summary": "TikTok即将推出新的私信功能，允许用户在直接消息和群聊中发送语音消息、图片和视频。语音消息限制为一分钟内，图片和视频最多可一次性发送九张，内容需来自手机相册或相机。新功能将在几周内上线。为保护青少年，16岁以下用户无法使用该功能，18岁以上用户可选择是否启用敏感内容过滤功能。此举使TikTok在社交功能上更接近Snapchat和Messenger等竞争对手。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-06/7dafc160-4ae2-11f0-9bae-c64c7ab42cc7",
+            "url": "https://www.engadget.com/social-media/tiktok-users-will-soon-be-able-to-send-voice-notes-images-and-videos-in-chats-194413622.html",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok现在允许所有人通过语音备忘录和图片进行私信",
+            "time": "2025-08-30",
+            "source": "The Verge",
+            "summary": "TikTok正在为其用户推出新的私信功能，允许发送语音备忘录、图片以及最长一分钟的视频。该功能将在未来几周内向所有符合条件的用户 rollout。只有16岁及以上的账户才能使用私信功能，因此新功能也仅对这些账户开放。发送语音消息时，松开录制按钮会自动发送，用户需滑动取消以避免误发。每次最多可发送九张图片或视频。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Screenshot_20250829_124034_TikTok.jpg?quality=90&strip=all&crop=4.0277777777778%2C0%2C91.944444444444%2C100&w=2400",
+            "url": "https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok现在允许用户在私信中发送语音消息和图片",
+            "time": "2025-08-29",
+            "source": "TechCrunch",
+            "summary": "TikTok近日宣布，用户现可在一对一和群组聊天中发送语音消息及最多九张图片或视频。语音消息最长可达60秒，新功能旨在提升用户互动体验，使平台消息功能更接近其他主流社交应用。为保障安全，未满16岁用户无法使用私信功能，16至18岁用户受到 nudity 检测系统保护，且首次消息不能包含自拍图片或视频。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/unnamed_2e9845.jpg?w=680",
+            "url": "https://techcrunch.com/2025/08/29/tiktok-now-lets-users-send-voice-notes-and-images-in-dms/",
+            "category": "社交"
+        },
+        {
+            "title": "大事件：抖音内测线下收单业务，微信支付和支付宝的新对手来了",
+            "time": "2025-08-26",
+            "source": "36氪",
+            "summary": "据行业交流PPT披露，抖音正在内测线下收单业务，或接入碰一碰支付设备，支持支付后关注商家抖音号、核销优惠、转发得券等功能。该功能有望将支付流量转化为私域流量，对标微信支付和支付宝的会员体系。目前已有茶饮品牌霸王茶姬等参与内测，测试早期可能享有定向投流等优惠政策。正式开放或待支付牌照更新完成后推进。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250826/v2_4fc3e2a362014e60bcba3d9c630555cb@000000_oswg271637oswg1080oswg424_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3438964654050950",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok Shop、亚马逊等平台出现反犹太T恤",
+            "time": "2025-08-26",
+            "source": "The Verge",
+            "summary": "一些TikTok用户近日发现，TikTok Shop上在售一种以电影《大白鲨》海报为蓝本的反犹太T恤。该T恤将鲨鱼替换为人 nose，泳者替换为美元钞票，并将“Jaws”改为“Jews”，传播了反犹太刻板印象。TikTok表示已下架相关商品，但类似内容仍可在亚马逊和Shopify等平台上找到。这一现象反映了当前在线购物平台在内容审核上的挑战。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257913_antisemitic_t_shirt_tiktok_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/report/765862/tiktok-shop-amazon-antisemitic-tshirts",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok Shop、亚马逊等平台售卖反犹太主义T恤",
+            "time": "2025-08-26",
+            "source": "The Verge",
+            "summary": "TikTok Shop、亚马逊和Shopify等电商平台被发现售卖带有反犹太主义内容的T恤，这些T恤恶搞《大白鲨》电影海报，将鲨鱼替换为人形鼻子，泳者变为百元钞票，并将片名改为“Jews”，宣扬犹太人贪婪的刻板印象。此类商品多为按需印刷的零库存产品，平台算法既可能推送也可能屏蔽这些内容。尽管平台有禁止仇恨言论的规定，但审查机制难以全面覆盖。《The Verge》报道后，相关商品已被下架。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257913_antisemitic_t_shirt_tiktok_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/report/765862/tiktok-shop-amazon-antisemitic-tshirts",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok否认重返印度市场",
+            "time": "2025-08-22",
+            "source": "TechCrunch",
+            "summary": "尽管有报道称TikTok网站短暂在印度恢复访问，引发其可能重返市场的猜测，但TikTok已正式否认这一消息。公司表示，印度政府对其的禁令依然有效，平台并未在该国恢复服务。印度信息技术部官员也证实，政府未解除任何限制。此次网站短暂可访问被认为是由网络配置错误导致，类似情况曾在2022年发生。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/tiktok-india.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/08/22/tiktok-denies-india-comeback-after-reports-of-website-going-live/",
+            "category": "社交"
+        },
+        {
+            "title": "7日销量破万，国产“浇花神器”登顶TikTok榜一",
+            "time": "2025-08-22",
+            "source": "TT123跨境电商",
+            "summary": "一款国产高压水枪喷头在TikTok美区上线仅7天销量突破1万件，销售额达8.15万美元，登顶花园用品类目榜首。该产品由QKJ SHOP店铺销售，单价7.99美元，具备三种出水模式，适用于浇花、清洁、洗车等多种场景，凭借高性价比和便捷使用体验精准击中北美消费者需求痛点，结合TikTok短视频营销实现爆款增长。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250822/1755846129131139.jpeg",
+            "url": "https://www.baijing.cn/article/53808",
+            "category": "社交"
+        },
+        {
+            "title": "2元不到的搓泥神器， 两周在TikTok卖了200万",
+            "time": "2025-08-18",
+            "source": "白鲸出海",
+            "summary": "一款来自TikTok小店「Magic shop」的3D去角质搓澡海绵，上架仅两周便实现销量40000+，销售额达204.1万元。产品凭借高密度海绵材质、速干易清洁等特点，迅速走红。通过达人带货视频普及搓泥需求及破除信息差，其成功得益于契合消费者对高效护肤工具的需求，并借助中国搓澡文化输出。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250818/1755486956227927.jpeg",
+            "url": "https://www.baijing.cn/article/53737",
+            "category": "其他"
+        },
+        {
+            "title": "TikTok发布新指南，针对直播创作者、AI内容等进行细微调整",
+            "time": "2025-08-15",
+            "source": "TechCrunch",
+            "summary": "TikTok即将更新社区指南，简化规则表述，并对直播创作者、商业内容和AI生成内容做出细微调整。例如，要求直播创作者对第三方工具负责，规定商业内容需披露，并减少引导至外部平台购买的推荐。此外，搜索结果和评论也将更加个性化。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2084803237.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/08/15/tiktoks-new-guidelines-add-subtle-changes-for-live-creators-ai-content-and-more/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok联姻Booking，美国旅游市场迎来“泼天富贵”",
+            "time": "2025-08-12",
+            "source": "白鲸出海",
+            "summary": "TikTok与Booking.com完成业务整合，美国用户可在短视频中直接查询并预订酒店。这一合作打通了内容激发灵感与即时交易的链路，颠覆传统旅游预订模式。同时，TikTok推出创作者变现计划，构建完整商业生态，激活Z世代用户探索景点的兴趣。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250812/1754969226742877.jpg",
+            "url": "https://www.baijing.cn/article/53678",
+            "category": "社交"
+        },
+        {
+            "title": "速递｜前通义视觉负责人薄列峰加盟腾讯混元，字节和腾讯紧盯阿里AI核心",
+            "time": "2025-07-27",
+            "source": "AI-TNT",
+            "summary": "前阿里通义实验室视觉负责人薄列峰已正式加盟腾讯混元大模型团队，主要负责多模态方向的技术攻坚。薄列峰是AI多模态领域的资深专家，曾领导团队推出多项行业标杆成果。近期阿里多名通义高管离职，字节、华为等企业对AI人才的争夺也日趋激烈，引发业内对竞业限制和技术战略调整的关注。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/7/27/dc5b9e68-6ae1-11f0-9c55-fa163e47d677.png",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=16600",
+            "category": "AI"
+        },
+        {
+            "title": "TikTok带火“辣条出海”，有卖家已经赚上欧元",
+            "time": "2025-07-25",
+            "source": "白鲸出海",
+            "summary": "卫龙辣条通过跨境电商平台加速出海，截至2024年已出口至全球160多个国家和地区。近期，TikTok意大利市场的卫龙辣条销量达到5100+，销售额突破8400欧元，成为热销榜第一。卫龙针对不同市场调整口味和包装，并借助TikTok等社交媒体营销成功吸引海外消费者。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250725/1753423924951233.jpg",
+            "url": "https://www.baijing.cn/article/53493",
+            "category": "社交"
+        },
+        {
+            "title": "YC孵化的外卖应用如何利用TikTok在App Store中大放异彩",
+            "time": "2025-07-24",
+            "source": "TechCrunch",
+            "summary": "BiteSight是一款通过短视频展示食物并结合社交推荐的外卖应用。创始人Lucious McDaniel IV通过一段TikTok视频成功让应用走红，短时间内获得近400万观看量，并在App Store美食饮料类排名第二。目前该应用已吸引超过10万用户，并计划扩展至更多城市。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/BiteSight-Founders.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/",
+            "category": "社交"
+        },
+        {
+            "title": "Y Combinator食品配送应用如何利用TikTok在应用商店中飙升",
+            "time": "2025-07-24",
+            "source": "TechCrunch",
+            "summary": "BiteSight是一款通过短视频和朋友推荐来发现美食的食品配送应用。创始人Lucious McDaniel IV通过一段TikTok视频展示其应用，迅速走红，短时间内获得近400万观看并吸引了超过10万新用户。尽管面临DoorDash等巨头的竞争，BiteSight凭借AI技术降低成本，并专注于Z世代的使用习惯，计划扩展至更多城市。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/BiteSight-Founders.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/",
+            "category": "其他"
+        },
+        {
+            "title": "TikTok开始“全闭环”，出海商家们应该怎么办？",
+            "time": "2023-09-11",
+            "source": "Enjoy出海",
+            "summary": "TikTok近期推出多项新举措，包括搜索广告精准投放功能和全面停用第三方外链，推动电商业务向“全闭环”转型。商家需适应TikTok小店或全托管模式，以提升曝光和销售转化。美国市场虽增长迅速，但用户购物习惯尚未完全建立，TikTok仍需探索突破口。",
+            "image_url": "https://image.enjoyglobal.net/upload/ad43b0acbab5458f9e0b6f1a136d0d94.jpg",
+            "url": "https://enjoyglobal.net/detail/news/a57k7bsahkzt8bjfdxw3h7lmt6",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok美国小店单月GMV刚破3亿，就要切断外链了？",
+            "time": "2023-08-18",
+            "source": "Enjoy出海",
+            "summary": "TikTok计划在8月底到9月上旬切断美国市场第三方购物外链，要求商家必须开通TikTok小店或全托管入驻。此举标志着TikTok电商在美国将实现全闭环运营。尽管美国小店GMV增长迅速，但与国内不同，其转化主要依赖短视频而非直播，且用户尚未将TikTok视为主要购物平台。切断外链或有助于TikTok获取更多站内转化信号，但同时也面临用户购物习惯难以培养的挑战。",
+            "image_url": "https://image.enjoyglobal.net/upload/f2babff205324a07989da7fb8eecdad6.jpg",
+            "url": "https://enjoyglobal.net/detail/news/7ksu968f82lqfbwtpu8trgm7p7",
+            "category": "社交"
+        }
+    ],
+    "智谱": [
+        {
+            "title": "智谱开源GLM-4.5工具调用超越Claude Opus 4.1，成本仅1.4%",
+            "time": "2025-09-02",
+            "source": "量子位",
+            "summary": "智谱发布的开源模型GLM-4.5在伯克利工具使用榜单上超越Claude Opus 4.1，执行相同任务的成本仅为1.4%。该模型采用MoE架构，在前端开发、跨文件修改和全栈项目构建等场景表现突出，编程能力接近Claude 4。GLM-4.5在任务完成效果和工具调用可靠性方面表现强劲，推理速度比Opus 4.1快3倍，且已接入多款主流编程工具。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/8932be6567eaeccaff68735803dc236a.png",
+            "url": "https://www.qbitai.com/2025/09/328145.html",
+            "category": "AI"
+        },
+        {
+            "title": "清华、智谱团队推出MobileRL框架，9B模型实现SOTA",
+            "time": "2025-08-26",
+            "source": "钛媒体",
+            "summary": "清华大学和智谱研究团队提出MobileRL框架，旨在提升视觉语言模型在移动设备GUI任务中的表现。该框架结合监督微调、迭代推理强化和难度自适应强化学习，显著提升模型在AndroidWorld和AndroidLab基准测试中的成功率，使用9B参数模型实现当前最优性能，为AI操作手机的实际应用迈出关键一步。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/08/eb119a269f3c3a3217d5f824064ddab1_1756175837.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x377/gravity/center/crop/!1400x377&ext=.png",
+            "url": "https://www.tmtpost.com/7671986.html",
+            "category": "AI"
+        }
+    ],
+    "百川智能": [
+        {
+            "title": "让OpenAI只领先5天，百川发布推理新模型，掀翻医疗垂域开源天花板",
+            "time": "2025-08-11",
+            "source": "量子位",
+            "summary": "百川智能发布医疗推理大模型Baichuan-M2-32B，在OpenAI的Healthbench评测集中超越其开源模型gpt-oss-120b，成为全球最强开源医疗模型。该模型支持RTX4090单卡部署，大幅降低医疗机构私有化部署门槛。创新性提出患者模拟器和Verifier系统，通过强化学习提升医疗领域表现，并兼顾通用能力。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/1676e457103b7c9e97db1018399c6fc9.png",
+            "url": "https://www.qbitai.com/2025/08/321249.html",
+            "category": "AI"
+        }
+    ],
+    "月之暗面": [
+        {
+            "title": "Kimi开源又放大招！20秒更新万亿参数的中间件来了",
+            "time": "2025-09-11",
+            "source": "量子位",
+            "summary": "Kimi开源推出名为checkpoint-engine的中间件，可在约20秒内完成Kimi-K2模型在数千个GPU上万亿参数的更新。该中间件采用两阶段流水线方式，通过分布式部署管理参数状态，实现高效权重更新与系统解耦，显著降低启动延迟和磁盘IO开销，同时支持动态点对点更新和故障恢复，极大提升了大模型强化学习训练效率。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/f361626e4753f86ac13e65f7ea322622.gif",
+            "url": "https://www.qbitai.com/2025/09/330474.html",
+            "category": "AI"
+        },
+        {
+            "title": "Kimi K2版Claude Code的七种邪修玩法，0基础小白也能学会！",
+            "time": "2025-09-08",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnVics89C3PsajbichKQubicm2HDRqkx3rnpq8uLng0wtZj6SzTeLTqLxibjvasn6vHBMkPnObK0MK78w/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/4RipuGlYdkFgeeFgHsELkQ",
+            "category": "AI"
+        },
+        {
+            "title": "Kimi K2官方技术报告出炉：采用384个专家，训练不靠刷题靠“用自己的话再讲一遍”",
+            "time": "2025-07-22",
+            "source": "量子位",
+            "summary": "Kimi K2的技术报告详细解析了其训练方法与架构创新。模型采用384个专家的MoE设计，结合MuonClip优化器、大规模Agentic Tool Use数据合成及通用强化学习框架，在代码、Agent和数学推理任务中表现卓越。其训练依托NVIDIA H800 GPU集群，强调通过“重述法”提升数据效用，而非依赖重复训练。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/6ecf7613c5f4b9f20f4ead6f2815017f.png",
+            "category": "AI",
+            "url": "https://www.qbitai.com/2025/07/311541.html"
+        }
+    ],
+    "商汤科技": [
+        {
+            "title": "用即梦4.0直出AI长视频的邪修攻略！我在seko薅商汤羊毛",
+            "time": "2025-09-15",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlJibib9GKsGcDAcKL0Lib71AYXXKNSnvTuNyxiagqOB5ib1IhicIicwZ7YNnn55ic628o1NdoLLnuoLjgjsw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/uLqc0ma1Jyb5vpGpxxlXeA",
+            "category": "AI"
+        },
+        {
+            "title": "商汤「日日新V6.5」登顶OpenCompass全球多模态大模型榜单",
+            "time": "2025-09-10",
+            "source": "量子位",
+            "summary": "商汤科技的「日日新 V6.5」多模态大模型以82.2的综合成绩登顶OpenCompass全球榜单，领先Gemini 2.5 Pro和GPT-5等国际顶尖模型。该模型在国内率先突破“图文交错思维链”技术，具备图形化思考能力，并通过轻量化视觉编码器和强化学习新范式实现推理性能与效率的双重提升，效费比优于国际同类模型。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/b2b81e26dc6c522a04d5a2ace3b7b90c.png",
+            "url": "https://www.qbitai.com/2025/09/330223.html",
+            "category": "AI"
+        },
+        {
+            "title": "商汤2025财年上半年营收23.58亿元，“小浣熊”教育版覆盖超500所院校、25万师生",
+            "time": "2025-08-29",
+            "source": "多知",
+            "summary": "商汤发布2025财年上半年业绩，营收23.58亿元，同比增长35.6%，其中生成式AI收入占比提升至77%。公司亏损收窄39.9%，研发开支增加至21.19亿元。商汤“小浣熊”教育版已覆盖500多所院校、25万以上师生，并推出批改作业系统。X创新业务完成运营构建，现金流得到优化。",
+            "image_url": "http://www.duozhi.com/d/file/2025/08/700344ff9c7fa331c22f35d15bc75aaa.png",
+            "url": "http://www.duozhi.com/industry/earnings/2025082917624.shtml",
+            "category": "AI"
+        }
+    ],
+    "MiniMax": [
+        {
+            "title": "海螺首尾帧的10大邪修玩法，我把黑神话悟空做成AI摸头闪避版",
+            "time": "2025-09-02",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlwPvqFmuLibhCy9oge8LzEjVYaGvNnMWCfV8lQYkOqHqnGa2O5CAu6DlFyCsOK3UkaHMg6vMrYnDw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/ukzPkyAHF7ceD_NZlHCAaw",
+            "category": "AI"
+        }
+    ],
+    "快手": [
+        {
+            "title": "快手AI超级员工上线！一句话剪出完整短视频，从文案到发布一条龙",
+            "time": "2025-09-10",
+            "source": "量子位",
+            "summary": "快手推出AIGC超级员工Kwali，可通过多Agent协同在几分钟内完成从脚本生成、素材匹配、剪辑合成到发布的完整短视频制作流程。用户只需输入需求，系统即可自动生成带字幕和BGM的成片，支持数字人、私有素材混剪与局部修改，大幅降低视频创作门槛，助力商家快速实现宣传内容生产与投放。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5e4bef0f270a5242cf8f261526c952e1.png",
+            "url": "https://www.qbitai.com/2025/09/330355.html",
+            "category": "AI"
+        },
+        {
+            "title": "可灵救场，电商快手 “转性” AI 快手？",
+            "time": "2025-08-23",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VG2a6TsZgaHutLT1ZP4sX6ytZHYf4DLnI0a8iaNB6zQ91ojE974cpCSyZoM4ocsSBichmOaCbnsuexQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/vEyZFjGEpFSxg5S8mCPR-Q",
+            "category": "其他"
+        },
+        {
+            "title": "快手（纪要）：Kling 加速商业化，追加投入 AI",
+            "time": "2025-08-23",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VEoiaCSIl1aUafr2kqIcUfyyfIic8JhCOI95ia4aE9yU3LM4Gf7fz4OLbCg7Ium3nibBXWjJCD2krUVzw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/Tb-aCHds0eWUKhuKq4dyTQ",
+            "category": "其他"
+        }
+    ],
+    "Anthropic": [
+        {
+            "title": "实测腾讯版Claude Code，能微信登陆，还能用GPT5、Claude4和Gemini 2.5 pro御三家",
+            "time": "2025-09-11",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnAM1GI0N28yRHFlEiazWS6hMgG9Tnu7lSPbibwfA7Iu6kGMauIV8PGEHWozdjMJibMwKLWZKBz4zadw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/0_zJ8YQtmXUD1VP6CSbGSw",
+            "category": "AI"
+        },
+        {
+            "title": "法官驳回Anthropic创纪录的15亿美元AI版权诉讼和解协议",
+            "time": "2025-09-09",
+            "source": "Engadget",
+            "summary": "美国联邦法官威廉·阿尔斯普驳回了Anthropic公司与作家们达成的15亿美元版权诉讼和解协议，认为协议细节远未完善。法官批评律师未能提供涉案作品清单、作者名单、通知流程和索赔表格等关键信息，并要求必须给予集体成员充分通知，确保其可选择加入或退出。他要求9月15日前提交作品清单，10月10日前完成所有材料审查。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-01/9f45a4f0-cd3f-11ef-9f7f-4b5b05024ed7",
+            "url": "https://www.engadget.com/ai/judge-rejects-anthropics-record-breaking-15-billion-settlement-for-ai-copyright-lawsuit-033512498.html",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic花15亿美元和解版权案背后：书籍为何成AI训练核心",
+            "time": "2025-09-08",
+            "source": "36氪",
+            "summary": "人工智能初创公司Anthropic因使用盗版书籍训练其AI模型Claude，同意支付15亿美元与作者达成集体诉讼和解。该案涉及从Books3、LibGen等盗版网站获取超700万册书籍，成为AI时代首例高额版权赔偿案例。尽管面临侵权指控，Anthropic随后完成130亿美元融资，凸显AI企业将法律风险视为可控成本的行业趋势，引发对创作者权益和版权保护的广泛讨论。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250908/v2_83632765271d45a092378d356981d42e@46958_oswg89595oswg960oswg644_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3457890152813957",
+            "category": "AI"
+        },
+        {
+            "title": "Kimi K2版Claude Code的七种邪修玩法，0基础小白也能学会！",
+            "time": "2025-09-08",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnVics89C3PsajbichKQubicm2HDRqkx3rnpq8uLng0wtZj6SzTeLTqLxibjvasn6vHBMkPnObK0MK78w/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/4RipuGlYdkFgeeFgHsELkQ",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic支持加州AI安全法案SB 53",
+            "time": "2025-09-08",
+            "source": "TechCrunch",
+            "summary": "人工智能公司Anthropic宣布正式支持加州参议院第53号法案（SB 53），该法案旨在对全球最大的AI模型开发者实施透明度要求。SB 53要求OpenAI、Anthropic、Google等公司在部署强大AI模型前发布公开的安全与安全报告，并建立员工举报保护机制。尽管硅谷部分科技团体和联邦政府对此类监管持反对态度，Anthropic认为该法案为AI治理提供了可行路径。法案目前仍在等待最终投票。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968430987.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/08/anthropic-endorses-californias-ai-safety-bill-sb-53/",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic将支付创纪录的15亿美元和解作者版权诉讼",
+            "time": "2025-09-06",
+            "source": "Engadget",
+            "summary": "Anthropic将支付15亿美元以和解由作者提起的版权集体诉讼，这是美国历史上金额最高的版权案件和解金。据悉，约50万名参与诉讼的作者将获得每部作品3000美元的赔偿。尽管此前法院裁定Anthropic训练AI模型的行为属于“合理使用”，但其从LibGen等盗版网站下载书籍的行为仍构成侵权。根据协议，Anthropic同意删除非法下载的内容，并否认有任何不当行为。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/3ecfcbc0-8a8e-11f0-bffe-933f1054a38e",
+            "url": "https://www.engadget.com/ai/anthropic-will-pay-a-record-breaking-15-billion-to-settle-copyright-lawsuit-with-authors-192800292.html",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic完成130亿美元F轮融资，还推出了三门AI课",
+            "time": "2025-09-05",
+            "source": "多知",
+            "summary": "美国人工智能初创公司Anthropic宣布完成130亿美元F轮融资，估值达1830亿美元。本轮融资由ICONIQ、Fidelity等领投，将用于提升企业服务能力、深化安全研究及国际化扩张。自2023年推出Claude以来，公司收入快速增长，2025年8月收入运行率超50亿美元。此外，Anthropic推出三门面向教育领域的AI课程，涵盖教师、学生及校园AI素养培养，助力高等教育AI融合。",
+            "image_url": "http://www.duozhi.com/d/file/2025/09/7b8d0889f9da4c9c21674d2c517c7ab9.png",
+            "url": "http://www.duozhi.com/industry/insight/2025090517658.shtml",
+            "category": "AI"
+        },
+        {
+            "title": "Claude断供！我怕你？选7个大家都能用的编程模型",
+            "time": "2025-09-05",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkvmwMKoiayc0kggpZQWUMiab15icD5RUlgWkFFl5y2mcGN3kGfT2sFsAPOTXH6BIl4JYJXe8gOqdCeA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/DUl_fW2Z_s13vBrm2CCLBQ",
+            "category": "AI"
+        },
+        {
+            "title": "Stripe联合Anthropic、OpenAI和Paradigm等巨头打造新区块链",
+            "time": "2025-09-04",
+            "source": "TechCrunch",
+            "summary": "Stripe宣布资助成立一家名为Tempo的新区块链公司，旨在高效处理与美元挂钩的稳定币交易，以降低加密货币的波动性。此举与其此前收购稳定币公司Bridge一致。Tempo已获得Anthropic、OpenAI、Visa、Shopify、Deutsche Bank等多家知名企业支持，作为设计合作伙伴将推动其在代理支付、汇款等场景的应用。Stripe董事会成员、Paradigm联合创始人Matt Huang将领导Tempo，Paradigm也已投资，但Tempo将作为独立公司运营。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?w=1024",
+            "url": "https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/",
+            "category": "其他"
+        },
+        {
+            "title": "Claude估值暴涨300%！全球独角兽字节第三他第四",
+            "time": "2025-09-03",
+            "source": "量子位",
+            "summary": "Anthropic完成F轮融资130亿美元，估值达1830亿美元，较此前暴涨近300%，成为全球第四大估值初创公司。公司营收半年内从10亿美元年化跃升至50亿美元，核心产品Claude Code年收入突破5亿美元。融资由Iconiq Capital领投，获卡塔尔投资局、黑石等多家顶级机构支持，资金将用于基础设施、AI安全研究及全球市场拓展。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/3c2e8b1d95ba5473837e835516139c3f.png",
+            "url": "https://www.qbitai.com/2025/09/328332.html",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic获130亿美元F轮融资，估值达1830亿美元",
+            "time": "2025-09-02",
+            "source": "TechCrunch",
+            "summary": "AI公司Anthropic宣布完成130亿美元F轮融资，估值升至1830亿美元。本轮融资由Iconiq、Fidelity Management & Research Company和Lightspeed Venture Partners共同领投，资金将用于扩大企业客户采用、深化安全研究以及支持国际扩张。公司客户已超30万，大型客户数量一年内增长近7倍，年经常性收入从10亿美元跃升至50亿美元。其产品Claude Code贡献超5亿美元年化收入。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-12.22.37PM.png?w=1024",
+            "url": "https://techcrunch.com/2025/09/02/anthropic-raises-13b-series-f-at-183b-valuation/",
+            "category": "AI"
+        },
+        {
+            "title": "智谱开源GLM-4.5工具调用超越Claude Opus 4.1，成本仅1.4%",
+            "time": "2025-09-02",
+            "source": "量子位",
+            "summary": "智谱发布的开源模型GLM-4.5在伯克利工具使用榜单上超越Claude Opus 4.1，执行相同任务的成本仅为1.4%。该模型采用MoE架构，在前端开发、跨文件修改和全栈项目构建等场景表现突出，编程能力接近Claude 4。GLM-4.5在任务完成效果和工具调用可靠性方面表现强劲，推理速度比Opus 4.1快3倍，且已接入多款主流编程工具。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/8932be6567eaeccaff68735803dc236a.png",
+            "url": "https://www.qbitai.com/2025/09/328145.html",
+            "category": "AI"
+        },
+        {
+            "title": "GPT正面对决Claude，OpenAI竟没全赢，AI安全「极限大测」真相曝光",
+            "time": "2025-08-29",
+            "source": "36氪",
+            "summary": "OpenAI与Anthropic罕见合作，对GPT和Claude系列模型进行AI安全交叉测试，涵盖指令优先级、越狱攻击、幻觉及欺骗行为四大维度。结果显示，Claude 4在指令层级遵循和安全性上表现突出，而OpenAI的o3和o4-mini在抗越狱方面更优，但存在更高幻觉风险。双方模型在不同测试中各有胜负，凸显AI安全策略的权衡与挑战。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250829/v2_ef512feed17f490bad21f62b643bfd64@1743780481_oswg169893oswg1080oswg370_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3443299194705538",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI和Anthropic罕见互评模型：Claude幻觉明显要低",
+            "time": "2025-08-28",
+            "source": "量子位",
+            "summary": "OpenAI与Anthropic首次合作，互相评估模型安全性和对齐情况。测试显示，Claude模型在幻觉控制方面表现更优，拒答率高达70%，显著低于OpenAI模型的幻觉发生率。在指令层次结构和秘密保护方面，Claude Opus 4和Sonnet 4也表现突出。但在越狱攻击防御上，OpenAI的o3和o4-mini更具优势。双方均认为行业需建立安全与合作标准。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/77c825565d93e5da271ee7d0401c43a6.png",
+            "url": "https://www.qbitai.com/2025/08/326827.html",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI与Anthropic相互评估对方AI系统的安全性",
+            "time": "2025-08-27",
+            "source": "Engadget",
+            "summary": "OpenAI与Anthropic罕见合作，相互评估了对方AI系统的安全性。Anthropic测试了OpenAI模型在谄媚、自我保护和协助滥用等方面的表现，指出GPT-4o和GPT-4.1存在潜在滥用风险。OpenAI则测试了Claude模型在指令层级、越狱和幻觉方面的表现，结果显示其拒绝不确定回答的比例较高。此次合作在双方此前发生访问权限纠纷的背景下显得尤为特殊，反映出AI安全日益受到重视。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-08/64656de0-8395-11f0-8ef3-d72357fb7804",
+            "url": "https://www.engadget.com/ai/openai-and-anthropic-conducted-safety-evaluations-of-each-others-ai-systems-223637433.html",
+            "category": "AI"
+        },
+        {
+            "title": "Karpathy氛围编程最新指南！三层AI编程结构：顺境Cursor，逆境Claude，绝境GPT-5 Pro",
+            "time": "2025-08-26",
+            "source": "量子位",
+            "summary": "AI大神Karpathy发布全新Vibe Coding编程指南，提出三层AI编程结构：使用Cursor进行代码自动补全和小修改，利用Claude Code/Codex实现大功能块和原型开发，最后在复杂难题上求助GPT-5 Pro。他强调通过不同模型协同提升效率，并分享了AI编程中的常见问题与应对策略，如代码冗余、风格混乱等，推动开发者社区共同进步。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/756470d0421aeb23eedd5caa58452bb8.png",
+            "url": "https://www.qbitai.com/2025/08/325870.html",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic推出可在Chrome中运行的Claude AI代理",
+            "time": "2025-08-26",
+            "source": "TechCrunch",
+            "summary": "Anthropic宣布推出基于其Claude AI模型的浏览器代理Claude for Chrome，目前向其Max计划的1000名订阅者开放测试。用户可通过Chrome扩展与Claude在侧边栏对话，并授权其在浏览器中执行任务。此举标志着AI实验室在浏览器集成AI系统方面的竞争加剧，同时也引入了新的安全风险。Anthropic已采取措施降低潜在攻击风险，并限制Claude访问敏感网站。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1024",
+            "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic就作者集体诉讼达成和解",
+            "time": "2025-08-26",
+            "source": "Engadget",
+            "summary": "Anthropic与一群作者达成和解协议，结束了关于其未经授权使用受版权保护的书籍来训练人工智能工具的诉讼。此前，法院裁定Anthropic使用这些材料构成合理使用，但其未经授权获取这些材料的行为可被视为盗版。由于盗版的法定赔偿金额为每部作品750美元，而Anthropic据估计使用了约700万部作品，因此其可能面临数十亿美元的赔偿。和解的具体金额尚未公布，最终结果可能取决于提出索赔的作者数量。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/vYUTMToGS01R.lt3lStJfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b4df8530-82be-11f0-9c7f-c1b0e1577236",
+            "url": "https://www.engadget.com/ai/anthropic-reaches-a-settlement-over-authors-class-action-piracy-lawsuit-210338494.html",
+            "category": "AI"
+        }
+    ],
+    "Mistral": [
+        {
+            "title": "什么是Mistral AI？关于这家OpenAI竞争对手的一切",
+            "time": "2025-09-07",
+            "source": "TechCrunch",
+            "summary": "Mistral AI是一家法国人工智能公司，致力于开发开源AI模型，其推出的AI助手Le Chat在移动端发布两周内下载量突破百万。公司已推出Mistral Large 2、Pixtral Large、Devstral等多款模型，并与微软、IBM、Nvidia等企业建立合作。目前估值有望达到140亿美元，计划未来进行IPO。Mistral AI还推出了企业级功能，如Agents API和企业工具集成，积极拓展商业应用。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+            "category": "AI"
+        }
     ]
-
 }
