@@ -190,7 +190,7 @@
             "url": "https://www.ali213.net/news/html/2025-6/939333.html"
         },
         {
-            "title": "OpenAI与微软关系的裂痕加深",
+            "title": "OpenAI与微软关系的裂痕 reportedly 加深",
             "time": "2025-06-16",
             "source": "TechCrunch",
             "summary": "根据《华尔街日报》的报道，OpenAI与微软的关系可能正处于转折点。报告称，OpenAI高层考虑公开指责微软的反竞争行为，并寻求对与微软合同的联邦监管审查。OpenAI希望放松微软对其知识产权和计算资源的控制，但又需要微软的批准来完成其盈利转型。此外，OpenAI与微软在其30亿美元收购AI编码初创公司Windsurf的协议上陷入僵局，OpenAI不希望微软获得Windsurf的知识产权，这可能会增强其自家AI编码工具GitHub Copilot的能力。",
@@ -234,6 +234,24 @@
             "summary": "索尼近日推出了全新的PlayStation Family移动应用，旨在为家长提供更便捷的儿童游戏管理功能。该应用作为主机端家长控制功能的延伸，支持设置游戏时长、查看活动报告、管理消费和内容过滤等。手机端还提供实时通知、审批额外游戏时间及限制游戏访问等功能。尽管功能实用，但相比微软和任天堂已有的类似服务，索尼此举稍显滞后。应用现正全球陆续上线，支持iOS和Android平台。",
             "image_url": "https://s.yimg.com/ny/api/res/1.2/DFkpE4LR.nkl6O_.FgOAJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/5e337720-8e7e-11f0-837f-77ca2ec760ea",
             "url": "https://www.engadget.com/gaming/playstation/sony-is-rolling-out-a-playstation-parental-controls-mobile-app-195002596.html",
+            "category": "游戏"
+        },
+        {
+            "title": "PlayStation推出新的家长控制应用",
+            "time": "2025-09-11",
+            "source": "The Verge",
+            "summary": "PlayStation推出了名为PlayStation Family的iOS和Android新应用，帮助家长管理孩子在PS5和PS4上的游戏时间。该应用提供活动报告、实时了解孩子游玩内容、批准额外游戏时间请求、设置消费限制和自定义隐私设置等功能。此前，任天堂和微软也已推出类似的家庭控制应用。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/acastro_STK097_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app",
+            "category": "游戏"
+        },
+        {
+            "title": "索尼推出全新PlayStation家长控制应用",
+            "time": "2025-09-11",
+            "source": "GamesIndustry.biz",
+            "summary": "索尼正式发布PlayStation Family App，这是一款专为Android和iOS设备设计的家长控制移动应用，允许父母远程管理孩子的游戏体验。功能包括实时通知孩子的游戏时间、批准或拒绝受限游戏、设置每日游戏时长上限、管理PlayStation商店消费、过滤内容及控制社交互动，并提供基于年龄的预设配置与周报摘要。该应用现已在多数市场免费上线，需iOS 14或Android 8以上系统支持。",
+            "image_url": "https://assetsio.gnwcdn.com/Screenshot-(616)_RHKhdwq.png?width=414&quality=70&format=jpg&auto=webp",
+            "url": "https://www.gamesindustry.biz/sony-launches-new-playstation-parental-control-app",
             "category": "游戏"
         },
         {
@@ -419,15 +437,6 @@
             "category": "游戏"
         },
         {
-            "title": "刚冒头的《崩坏：因缘精灵》，疑似掉进任天堂“奇葩专利陷阱”，玩家：有好戏看？",
-            "time": "2025-09-03",
-            "source": "GameLook",
-            "summary": "米哈游新作《崩坏：因缘精灵》因玩法疑似侵犯任天堂正在诉讼中的一项“骑乘物切换”专利而引发关注。该专利在与《幻兽帕鲁》开发商的诉讼中已被修改，删除了“平滑切换”等关键描述，引发外界对其有效性的质疑。日本游戏专利制度普遍保护游戏机制，导致“专利地雷区”现象频发。尽管存在潜在纠纷，米哈游与任天堂在商业上亦有合作可能，玩家则对此事抱有围观心态。",
-            "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2025/08/BH1-1.gif",
-            "url": "http://www.gamelook.com.cn/2025/09/577804/",
-            "category": "游戏"
-        },
-        {
             "title": "GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！",
             "time": "2025-08-26",
             "source": "量子位",
@@ -435,15 +444,6 @@
             "image_url": "https://www.qbitai.com/wp-content/uploads/replace/e1dd727379bdd7ae09124f3349dcfe5f.png",
             "url": "https://www.qbitai.com/2025/08/326166.html",
             "category": "AI"
-        },
-        {
-            "title": "GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！",
-            "time": "2025-08-26",
-            "source": "量子位",
-            "summary": "GPT-5在《宝可梦水晶》游戏中仅用9517步击败最终BOSS赤爷，步数远少于o3的27040步，效率提升超三倍。相比人类玩家约5天的通关时间，GPT-5展现出更强的空间推理、目标规划能力与更少的“幻觉”错误。该表现获OpenAI高层认可，凸显其在复杂任务中的决策优势，但高昂的API成本也限制了普及应用。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/e1dd727379bdd7ae09124f3349dcfe5f.png",
-            "url": "https://www.qbitai.com/2025/08/326166.html",
-            "category": "游戏"
         },
         {
             "title": "Ayn发布类似任天堂DS的掌机，提供经典Game Boy紫色款式",
@@ -637,15 +637,6 @@
             "category": "游戏"
         },
         {
-            "title": "港科广×腾讯联手打造《我的世界》神操作，400张截图就能让AI挖矿通关，成本降至5%｜EMNLP 2025",
-            "time": "2025-09-04",
-            "source": "量子位",
-            "summary": "香港科技大学（广州）与腾讯联合团队提出VistaWise框架，首次将跨模态知识图谱与轻量化视觉微调引入《我的世界》AI智能体训练。仅用471张截图和单张24G显存显卡完成模型微调，实现“获取钻石”任务33%成功率，较前SOTA提升8个百分点，推理成本降至Voyager的5%。该成果已入选EMNLP 2025主会。",
-            "image_url": "https://qbitai.com/wp-content/uploads/replace/29824e8be5378820ffaa939d35614920.jpeg",
-            "url": "https://qbitai.com/2025/09/328632.html",
-            "category": "游戏"
-        },
-        {
             "title": "大厂AI“双雄会”：腾讯深耕生态，阿里押注全栈",
             "time": "2025-09-02",
             "source": "36氪",
@@ -691,33 +682,6 @@
             "category": "游戏"
         },
         {
-            "title": "公测5日iOS端收入超2700万，《无畏契约》或将成腾讯旗下王牌射击手游TOP5？",
-            "time": "2025-08-27",
-            "source": "点点数据",
-            "summary": "《无畏契约》手游于2025年8月19日在国内公测，5日内iOS端收入达2710万元，日流水稳定在600万左右，表现优于《使命召唤手游》等腾讯旗下其他射击手游。游戏依托端游《VALORANT》的火爆基础，凭借低配置适配、操作简化和高还原度成功吸引用户，并通过明星代言、KOL合作等强力运营推广。未来将重点构建电竞生态，持续拓展长线发展。",
-            "image_url": "https://app-cdn.diandian.com/editor/img/c7c22ef813aa5d94d08810b8036d2517",
-            "url": "https://www.diandian.com/news/M9gy6ZgBlACWFCF2cVXN",
-            "category": "游戏"
-        },
-        {
-            "title": "公测5日iOS端收入超2700万，《无畏契约》或将成腾讯旗下王牌射击手游TOP5？",
-            "time": "2025-08-27",
-            "source": "点点数据",
-            "summary": "《无畏契约》手游于2025年8月19日国内公测，5日内iOS端累计收入达2710万元，日流水稳定在600万左右，表现优于《使命召唤手游》等腾讯旗下多款射击游戏。依托端游《VALORANT》的全球火爆和长青运营，手游在下载量、收入和用户活跃度方面均表现出强劲势头。结合低配置适配、操作简化、明星代言及电竞生态布局，游戏有望成为腾讯射击赛道的新王牌。",
-            "image_url": "https://app-cdn.diandian.com/editor/img/c7c22ef813aa5d94d08810b8036d2517",
-            "url": "https://www.diandian.com/news/M9gy6ZgBlACWFCF2cVXN",
-            "category": "游戏"
-        },
-        {
-            "title": "公测5日iOS端收入超2700万，《无畏契约》或将成腾讯旗下王牌射击手游TOP5？",
-            "time": "2025-08-27",
-            "source": "点点数据",
-            "summary": "《无畏契约》手游于2025年8月19日在国内开启公测，5日内iOS端累计收入达2710万元，日流水稳定在600万左右，表现优于腾讯旗下多款射击手游。依托端游《VALORANT》的火爆基础、手游端的良好适配及强力运营推广，游戏迅速登顶iOS免费榜并保持高位。未来将通过内容迭代与电竞生态建设推动长线发展，有望成为腾讯射击赛道的新王牌。",
-            "image_url": "https://app-cdn.diandian.com/editor/img/950be299e5cf42b9e93f1d083134d42b",
-            "url": "https://www.diandian.com/news/M9gy6ZgBlACWFCF2cVXN",
-            "category": "游戏"
-        },
-        {
             "title": "版号又创新高！166款国产7款进口游戏过审，腾讯网易三七在列！",
             "time": "2025-08-26",
             "source": "GameLook",
@@ -733,24 +697,6 @@
             "summary": "在科隆展上，腾讯游戏推出的AI解决方案VISVISE吸引了大量关注。该工具包含AI自动蒙皮（GoSkinning）和动画智能生成（MotionBlink）等功能，显著提升了游戏动画制作效率。例如，《和平精英》通过GoSkinning将复杂蒙皮工作提效60%以上，而MotionBlink则可自动生成高质量中间动画帧，大幅减少人工工作量。腾讯希望通过VISVISE帮助开发者从重复劳动中解放出来，专注于创意表达，从而提升玩家体验。",
             "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2019/05/wpbjt8-1.jpg",
             "url": "http://www.gamelook.com.cn/2025/08/577152/",
-            "category": "游戏"
-        },
-        {
-            "title": "版号又创新高！166款国产7款进口游戏过审，腾讯网易三七在列！",
-            "time": "2025-08-26",
-            "source": "GameLook",
-            "summary": "2025年8月批次游戏版号正式下发，共计166款国产游戏和7款进口游戏获得过审，再次刷新单月版号数量纪录。重点产品包括B站自研的《逃离鸭科夫》、腾讯联合运营的《卡厄思梦境》等。进口版号中，《卡厄思梦境》由韩国Super Creative开发，腾讯参与运营。此外，13款游戏进行了版号信息变更。",
-            "image_url": "http://www.gamelook.com.cn/wp-content/themes/gamelook/themer/assets/images/lazy.png",
-            "url": "http://www.gamelook.com.cn/2025/08/577202/",
-            "category": "游戏"
-        },
-        {
-            "title": "版号又创新高！166款国产7款进口游戏过审，腾讯网易三七在列！",
-            "time": "2025-08-26",
-            "source": "GameLook",
-            "summary": "2025年8月批次游戏版号正式下发，共166款国产游戏和7款进口游戏获批，合计173款新游戏过审，刷新单月纪录。年内国产版号已达1050个。重点产品包括灵犀互娱《宗师之上》、网易雷火《天地万象》、B站自研《逃离鸭科夫》、腾讯代理的《卡厄思梦境》等。其中《卡厄思梦境》获移动与客户端双平台版号，背景设定为宇宙灾难后的方舟文明，风格为二次元黑暗奇幻。",
-            "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2025/08/bybh007.jpg",
-            "url": "http://www.gamelook.com.cn/2025/08/577202/",
             "category": "游戏"
         },
         {
@@ -772,15 +718,6 @@
             "category": "其他"
         },
         {
-            "title": "SaaS供应商小鹅通拟赴港上市：2024年扭亏为盈，股东有腾讯、喜马拉雅等",
-            "time": "2025-08-23",
-            "source": "多知网",
-            "summary": "SaaS解决方案供应商小鹅通于2025年8月22日向港交所递交招股书，拟主板上市，中金公司为独家保荐人。公司从教育培训类SaaS起家，2024年实现扭亏为盈，经调整净溢利6630万元。2022年至2024年营收复合年增长率为32.0%。股东包括腾讯、喜马拉雅、IDG资本等。募资将用于研发、市场拓展及全球扩张。",
-            "image_url": "http://www.duozhi.com/d/file/2025/08/21ae7da9854c7e51bcd24859b4aa3acf.png",
-            "url": "http://www.duozhi.com/industry/earnings/2025082317602.shtml",
-            "category": "社交"
-        },
-        {
             "title": "射击二游要“起飞”！腾讯《命运扳机》定档明年Q1，团队采访：“600人死磕两项目”",
             "time": "2025-08-22",
             "source": "GameLook",
@@ -799,55 +736,10 @@
             "category": "游戏"
         },
         {
-            "title": "射击二游要“起飞”！腾讯《命运扳机》定档明年Q1，团队采访：“600人死磕两项目”",
-            "time": "2025-08-22",
-            "source": "GameLook",
-            "summary": "腾讯旗下萨罗斯工作室研发的二次元风格战术射击游戏《命运扳机》将于2026年Q1上线，游戏采用虚幻引擎5开发，主打“英雄战术射击”玩法，融合大逃杀与团队竞技模式。核心团队曾参与《和平精英》《Apex Legends Mobile》等项目，目前有600人专注开发《命运扳机》与另一项目《归环》。游戏强调短TTK战斗节奏、角色技能策略与团队配合，并计划拓展IP内容及电竞赛事，坚持非“Pay-to-Win”设计。",
-            "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2025/08/slsm009-1024x524.jpg",
-            "url": "http://www.gamelook.com.cn/2025/08/576879/",
-            "category": "游戏"
-        },
-        {
-            "title": "射击二游要“起飞”！腾讯《命运扳机》定档明年Q1，团队采访：“600人死磕两项目”",
-            "time": "2025-08-22",
-            "source": "GameLook",
-            "summary": "腾讯旗下萨罗斯工作室研发的二次元射击游戏《命运扳机》宣布将于2026年Q1上线。该游戏由原字节跳动团队加入腾讯后接手开发，核心团队具备丰富射击游戏经验。游戏采用虚幻引擎5打造，主打战术竞技与英雄角色结合，并计划拓展为多模式射击平台。测试阶段收到积极反馈，强调公平性与反作弊系统，未来将推进电竞与IP化发展。",
-            "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2025/08/slsm009-1024x524.jpg",
-            "url": "http://www.gamelook.com.cn/2025/08/576879/",
-            "category": "游戏"
-        },
-        {
-            "title": "射击二游要“起飞”！腾讯《命运扳机》定档明年Q1，团队采访：“600人死磕两项目”",
-            "time": "2025-08-22",
-            "source": "GameLook",
-            "summary": "腾讯旗下萨罗斯工作室研发的二次元战术射击游戏《命运扳机》将于2026年Q1上线，游戏采用虚幻引擎5开发，主打“英雄战术射击”玩法，融合大逃杀与团队竞技模式。核心团队曾参与《和平精英》《Apex Legends Mobile》等项目，目前有600人专注开发两款游戏。测试反馈显示玩家关注短TTK与角色平衡，游戏强调非“Pay-to-Win”，所有角色可免费获取，未来计划拓展IP并布局电竞。",
-            "image_url": "http://www.gamelook.com.cn/wp-content/uploads/2025/08/slsM009-1024x524.jpg",
-            "url": "http://www.gamelook.com.cn/2025/08/576879/",
-            "category": "游戏"
-        },
-        {
             "title": "腾讯Q2财报：三大业务皆迎两位数增长，AI展现强劲驱动力，国际游戏业务再创收入新高",
             "time": "2025-08-19",
             "source": "点点数据",
             "summary": "腾讯发布2025年第二季度财报，总收入达1845.04亿元，同比增长15%。增值服务、营销服务、金融科技及企业服务三大业务均实现两位数增长。AI技术在游戏、广告和企业服务中发挥关键作用，推动效率提升。本土游戏《王者荣耀》《和平精英》表现稳定，新品《三角洲行动》增长显著；国际游戏收入达188亿元，同比增长35%，《PUBG MOBILE》和《沙丘：觉醒》贡献突出。AI应用“元宝”月活达4144万，资本开支增至191.1亿元以支持AI发展。",
-            "image_url": "https://app-cdn.diandian.com/editor/img/daa3ca50bb50ff38c4d66205888c9e2f",
-            "url": "https://www.diandian.com/news/2TgGwJgBiMNMLA1DFkRV",
-            "category": "AI"
-        },
-        {
-            "title": "腾讯Q2财报：三大业务皆迎两位数增长，AI展现强劲驱动力，国际游戏业务再创收入新高",
-            "time": "2025-08-19",
-            "source": "点点数据",
-            "summary": "腾讯发布2025年第二季度财报，总收入达1845.04亿元，同比增长15%。增值服务、营销服务、金融科技及企业服务三大业务均实现两位数增长，AI技术在游戏、广告和企业服务中发挥关键作用。本土游戏收入增长17%，国际游戏收入同比增长35%，创历史新高。AI驱动广告平台优化和企业服务需求上升，资本开支大幅增加至191.1亿元，凸显对AI的持续投入。",
-            "image_url": "https://app-cdn.diandian.com/editor/img/daa3ca50bb50ff38c4d66205888c9e2f",
-            "url": "https://www.diandian.com/news/2TgGwJgBiMNMLA1DFkRV",
-            "category": "AI"
-        },
-        {
-            "title": "腾讯Q2财报：三大业务皆迎两位数增长，AI展现强劲驱动力，国际游戏业务再创收入新高",
-            "time": "2025-08-19",
-            "source": "点点数据",
-            "summary": "腾讯发布2025年第二季度财报，总收入达1845.04亿元，同比增长15%。增值服务、营销服务、金融科技及企业服务三大业务均实现两位数增长。AI技术在游戏、广告和企业服务中发挥重要作用，推动收入提升。国际游戏收入达188亿元，同比增长35%，《PUBG MOBILE》和《沙丘：觉醒》表现亮眼。本土游戏《王者荣耀》《和平精英》持续贡献稳定收入，新品《三角洲行动》表现强劲。",
             "image_url": "https://app-cdn.diandian.com/editor/img/daa3ca50bb50ff38c4d66205888c9e2f",
             "url": "https://www.diandian.com/news/2TgGwJgBiMNMLA1DFkRV",
             "category": "AI"
@@ -1003,15 +895,6 @@
             "time": "2025-09-06",
             "source": "Enjoy出海开发者服务平台",
             "summary": "2025年8月，Google宣布将在认证Android设备上引入“开发者验证”机制，要求开发者的身份信息与应用安装挂钩，并逐步在全球范围内实施。该政策从2025年10月试点，2026年3月强制执行，2027年覆盖更多地区。此举旨在提升安全性，压缩匿名恶意软件生存空间，但对依赖匿名或轻量身份的出海开发者带来挑战。开发者需提前准备身份认证、合规发布和渠道对接，以降低未来风险。",
-            "image_url": "https://image.enjoyglobal.net/upload/e2cfa12f64134cab893dd96906f8b7fd.jpg",
-            "url": "https://enjoyglobal.net/detail/news/3thrtnnym6zxjcm3s9qwj5fbs4",
-            "category": "游戏"
-        },
-        {
-            "title": "Google Play实名时代来临，出海开发者如何稳住阵脚？",
-            "time": "2025-09-06",
-            "source": "Enjoy出海开发者服务平台",
-            "summary": "2025年8月，Google宣布将在认证Android设备上引入“开发者验证”机制，要求开发者身份与应用安装挂钩，覆盖Google Play及第三方商店和侧载渠道。该机制将于2026年3月成为强制要求，2026年9月在部分国家率先执行，2027年逐步覆盖全球。此举旨在提升安全性，压缩匿名恶意软件生存空间，但对依赖匿名或轻量身份的出海开发者带来挑战。文章建议开发者提前规划身份认证、加强发布证据管理，并与渠道保持沟通，以应对分发生态的根本性变化。",
             "image_url": "https://image.enjoyglobal.net/upload/e2cfa12f64134cab893dd96906f8b7fd.jpg",
             "url": "https://enjoyglobal.net/detail/news/3thrtnnym6zxjcm3s9qwj5fbs4",
             "category": "游戏"
@@ -1278,24 +1161,6 @@
             "category": "其他"
         },
         {
-            "title": "谷歌拟打破印度真金游戏品类限制，真金游戏或将全面开放",
-            "time": "2025-08-11",
-            "source": "Enjoy出海",
-            "summary": "谷歌向印度竞争委员会提交承诺书，提议放宽Play商店对真金游戏的限制，允许更多类别的合规游戏入驻。此举旨在应对反垄断压力和监管审查，同时推动印度RMG市场发展。开发者需关注认证流程、本地化创新及广告合规性，以适应新的政策环境。",
-            "image_url": "https://image.enjoyglobal.net/upload/dc851658cce14272a3588074557ee9d4.png",
-            "url": "https://enjoyglobal.net/detail/news/2025081101",
-            "category": "游戏"
-        },
-        {
-            "title": "谷歌拟打破印度真金游戏品类限制，真金游戏或将全面开放",
-            "time": "2025-08-11",
-            "source": "Enjoy出海",
-            "summary": "谷歌向印度竞争委员会提交承诺书，拟放宽Play商店对真金游戏（RMG）的限制，不再局限于幻想体育和棋牌类，允许所有自我声明合规并经第三方认证的游戏上架。此举旨在应对反垄断调查与合规压力，提升平台竞争力。该政策若通过，将促进印度RMG市场多元化发展，但开发者需面对认证成本、合规要求及广告审核等新挑战。",
-            "image_url": "https://image.enjoyglobal.net/upload/dc851658cce14272a3588074557ee9d4.png",
-            "url": "https://enjoyglobal.net/detail/news/2025081101",
-            "category": "游戏"
-        },
-        {
             "title": "谷歌也扛不住了？Epic连胜两大巨头，谷歌或将开放三方支付和商店",
             "time": "2025-08-08",
             "source": "Enjoy出海开发者服务平台",
@@ -1469,15 +1334,6 @@
             "category": "社交"
         },
         {
-            "title": "Live Photos功能即将登陆WhatsApp",
-            "time": "2025-09-08",
-            "source": "The Verge",
-            "summary": "WhatsApp正在为其iOS测试版应用添加对Live Photos的支持，版本为25.24.10.72。用户可在聊天、群组和频道中发送Live Photos，并可选择以静态图片或动态视频形式发送。此前，WhatsApp已在Android平台推出类似功能。目前该功能已向部分beta测试用户开放，预计将在未来几周内逐步推广至更多用户。",
-            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/WhatsApp-Live-Photo-support-beta.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-            "url": "https://www.theverge.com/news/773554/live-photos-are-coming-to-whatsapp",
-            "category": "社交"
-        },
-        {
             "title": "Meta正在修复Threads上的帖子显示问题",
             "time": "2025-09-06",
             "source": "Engadget",
@@ -1622,15 +1478,6 @@
             "category": "社交"
         },
         {
-            "title": "Meta重新训练AI以防止与青少年讨论自残或恋爱话题",
-            "time": "2025-08-30",
-            "source": "Engadget",
-            "summary": "Meta正在重新训练其AI系统，并为青少年用户增加新的保护措施，防止他们与AI聊天机器人讨论自残、自杀、饮食失调等有害话题。此举是在多家媒体曝光Meta的AI曾被允许与未成年人进行“感官”对话后采取的行动。Meta表示，AI将不再与青少年讨论这些敏感话题，而是引导他们获取专业资源。新保护措施将在未来几周内推广至英语国家的青少年用户。",
-            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-08/89dad9f0-8504-11f0-be70-a5d75a9329e8",
-            "url": "https://www.engadget.com/social-media/meta-is-re-training-its-ai-so-it-wont-discuss-self-harm-or-have-romantic-conversations-with-teens-182418587.html",
-            "category": "社交"
-        },
-        {
             "title": "不再是Facebook的小弟，Instagram会成为Meta广告业务的第二曲线吗？",
             "time": "2025-08-29",
             "source": "36氪",
@@ -1727,15 +1574,6 @@
             "summary": "前Meta政策主管尼克·克莱格在推广其新书《如何拯救互联网》时，对硅谷文化提出了谨慎批评。他形容硅谷是一种“过分趋同”的环境，人们穿着、驾驶、听的播客乃至追随的潮流都如出一辙。尽管他肯定社交媒体带来的全球连接价值，并为扎克伯格和桑德伯格辩护，但也对科技行业日益增长的“阳刚之气” obsession 表示不解，称其为“令人反感的自负与自怜结合”。",
             "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2174202847.jpg?w=1024",
             "url": "https://techcrunch.com/2025/08/24/former-meta-exec-nick-clegg-offers-careful-criticism-of-cloyingly-conformist-silicon-valley/",
-            "category": "其他"
-        },
-        {
-            "title": "歌尔股份：毛利回血 “稳节奏”，Meta 上新 “再助攻”？",
-            "time": "2025-08-24",
-            "source": "海豚投研",
-            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHtSUr3bjoPl2yRhzMWd8oEpIWlR2NxX05M1oI1xOdtq72TAFC1CwOHwBpoI9d3FpJPIjh7njcLSg/0?wx_fmt=jpeg",
-            "url": "https://mp.weixin.qq.com/s/GXczJifOuSPC01TNYukktQ",
             "category": "其他"
         },
         {
@@ -2173,15 +2011,6 @@
             "category": "AI"
         },
         {
-            "title": "OpenAI宣布推出AI在线招聘平台，和微软的领英打起来了",
-            "time": "2025-09-05",
-            "source": "量子位",
-            "summary": "OpenAI计划于2026年推出由AI驱动的在线招聘平台OpenAI Jobs Platform，旨在通过人工智能技术实现企业需求与员工能力的精准匹配。该平台将为小型企业和地方政府提供获取AI人才的渠道，并与沃尔玛、Indeed等机构合作。此举或将与微软旗下的领英形成直接竞争，引发利益冲突。同时，OpenAI还扩展OpenAI Academy，提供AI技能认证，目标到2030年为1000万美国人提供培训。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/3248e817434ddffab65ffb0ed35cf134.png",
-            "url": "https://www.qbitai.com/2025/09/328662.html",
-            "category": "社交"
-        },
-        {
             "title": "ChatGPT将推出家长管控功能，教育版已推出QuizGPT测验功能",
             "time": "2025-09-05",
             "source": "多知",
@@ -2197,24 +2026,6 @@
             "summary": "OpenAI正在重组其Model Behavior团队，该团队负责塑造AI模型的行为和个性。该团队将并入更大的Post Training团队，由Max Schwarzer领导。原负责人Joanne Jang将转而领导新成立的OAI Labs，致力于探索人与AI协作的新界面。此次调整表明OpenAI正将AI个性视为核心技术发展的一部分，旨在平衡友好性与避免过度迎合用户的问题。",
             "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?w=1024",
             "url": "https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/",
-            "category": "AI"
-        },
-        {
-            "title": "OpenAI将推AI招聘平台，直面LinkedIn，重塑未来劳动力市场",
-            "time": "2025-09-05",
-            "source": "HRTechChina",
-            "summary": "OpenAI宣布将于2026年中推出由人工智能驱动的招聘平台OpenAI Jobs Platform，直接挑战LinkedIn在职业社交与招聘领域的地位。该平台将利用AI技术实现企业与候选人的精准匹配，并专注于服务中小企业和地方政府。同时，OpenAI将通过OpenAI Academy推出AI流利度认证，计划到2030年与沃尔玛合作为1000万美国人颁发认证，推动人工智能素养普及。",
-            "image_url": "https://wp.hrtechchina.com/wp-content/uploads/1-7.png",
-            "url": "https://www.hrtechchina.com/72683.html",
-            "category": "AI"
-        },
-        {
-            "title": "ChatGPT将推出家长管控功能，教育版已推出QuizGPT测验功能",
-            "time": "2025-09-05",
-            "source": "多知",
-            "summary": "OpenAI宣布将于下月为ChatGPT推出家长管控功能，允许家长关联青少年账户，设置适合年龄的行为规则，管理禁用功能，并在系统检测到孩子处于极度痛苦状态时接收通知。此外，ChatGPT教育版已上线QuizGPT功能，可基于上传的PDF、PPT等材料生成交互式抽认卡和测验，帮助学生进行个性化学习，所有用户均可免费使用。",
-            "image_url": "http://www.duozhi.com/d/file/2025/09/369d11a62fc04f3642a70cda7238d00a.png",
-            "url": "http://www.duozhi.com/industry/insight/2025090517657.shtml",
             "category": "AI"
         },
         {
@@ -2335,15 +2146,6 @@
             "category": "AI"
         },
         {
-            "title": "Karpathy氛围编程最新指南！三层AI编程结构：顺境Cursor，逆境Claude，绝境GPT-5 Pro",
-            "time": "2025-08-26",
-            "source": "量子位",
-            "summary": "Karpathy发布全新Vibe Coding指南，提出三层AI编程结构：Cursor用于代码自动补全与小范围修改，Claude Code/Codex用于实现较大功能块，GPT-5 Pro用于解决最棘手的bug或复杂抽象问题。该结构基于Karpathy个人编程实战经验，体现了AI编程工具的优缺点及适用场景，并引发网友广泛讨论。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/756470d0421aeb23eedd5caa58452bb8.png",
-            "url": "https://www.qbitai.com/2025/08/325870.html",
-            "category": "AI"
-        },
-        {
             "title": "GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！",
             "time": "2025-08-26",
             "source": "量子位",
@@ -2360,15 +2162,6 @@
             "image_url": "https://www.qbitai.com/wp-content/uploads/replace/872a87eb59bbb144251f6ad6df84d837.jpeg",
             "url": "https://www.qbitai.com/2025/08/326063.html",
             "category": "AI"
-        },
-        {
-            "title": "GPT-5通关《宝可梦水晶》创纪录！9517步击败赤爷，效率碾压o3三倍！",
-            "time": "2025-08-26",
-            "source": "量子位",
-            "summary": "GPT-5在《宝可梦水晶》游戏中仅用9517步击败最终BOSS赤爷，步数远少于o3的27040步，效率提升超三倍。相比人类玩家约5天的通关时间，GPT-5展现出更强的空间推理、目标规划能力与更少的“幻觉”错误。该表现获OpenAI高层认可，凸显其在复杂任务中的决策优势，但高昂的API成本也限制了普及应用。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/e1dd727379bdd7ae09124f3349dcfe5f.png",
-            "url": "https://www.qbitai.com/2025/08/326166.html",
-            "category": "游戏"
         },
         {
             "title": "OpenAI警告投资者提防未经授权的投资渠道",
@@ -2859,15 +2652,6 @@
             "category": "游戏"
         },
         {
-            "title": "苹果新规打破手游利润瓶颈，出海厂商如何用官网充值夺回30%收益？",
-            "time": "2025-08-25",
-            "source": "GameLook",
-            "summary": "苹果公司在美国区开放第三方应用内支付通道，打破了长期存在的“苹果税”壁垒，为全球游戏开发者带来新的利润空间。新规允许开发者绕过苹果的30%佣金抽成，通过引导用户跳转至官网支付。然而，该方式也面临用户体验、支付转化率、合规风险等挑战。文章分析了出海厂商如何借助专业支付平台Airwallex空中云汇构建安全、合规的官网支付系统，以提升收益并应对拒付、数据合规、本地化支付等问题。",
-            "image_url": "http://www.gamelook.com.cn/wp-content/themes/gamelook/themer/assets/images/lazy.png",
-            "url": "http://www.gamelook.com.cn/2025/08/576995/",
-            "category": "游戏"
-        },
-        {
             "title": "iPhone 17将成史上最薄iPhone，苹果秋季发布会前瞻",
             "time": "2025-08-24",
             "source": "TechCrunch",
@@ -2929,15 +2713,6 @@
             "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?w=1024",
             "url": "https://techcrunch.com/2025/08/22/apple-is-in-talks-to-use-googles-gemini-for-siri-revamp-report-says/",
             "category": "AI"
-        },
-        {
-            "title": "从问卷到功能，苹果年龄分级新规倒逼开发者重构产品逻辑",
-            "time": "2025-08-16",
-            "source": "Enjoy出海开发者服务平台",
-            "summary": "苹果发布新版年龄分级体系，要求开发者在2026年1月31日前完成App Store Connect问卷更新，否则无法提交应用更新。新规则将年龄划分为4+、9+、13+、16+、18+五个等级，并引入Declared Age Range机制，要求应用根据用户年龄段自动调整功能权限。开发者需重构产品逻辑，确保功能与申报一致，避免因隐瞒UGC内容或滥用年龄数据导致下架风险。",
-            "image_url": "https://image.enjoyglobal.net/upload/4c8f67077c8e48458c168cee2d676d92.jpg",
-            "url": "https://enjoyglobal.net/detail/news/hr32xjbs6klbnbk3ez95e9a982",
-            "category": "游戏"
         },
         {
             "title": "日本监管对苹果谷歌“重拳出击”：要求开放三方支付、三方商店，12月18日生效",
@@ -3095,15 +2870,6 @@
             "category": "其他"
         },
         {
-            "title": "不藏了！华为麒麟9020芯片高调加持，三折叠只卖1万8",
-            "time": "2025-09-04",
-            "source": "量子位",
-            "summary": "华为发布第二款三折叠手机Mate XTs非凡大师，搭载全新麒麟9020芯片和HarmonyOS 5.1系统，整机性能提升36%。该机支持PC级应用在手机端运行，实现多窗交互，首发价格17999元起。手机采用天工铰链系统、航天级材料和超薄硅负极电池，影像系统配备红枫原色镜头和XMAGE技术，通信支持灵犀技术和卫星通信。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5270928bd88414ed42487f3091fec26d.png",
-            "url": "https://www.qbitai.com/2025/09/328598.html",
-            "category": "其他"
-        },
-        {
             "title": "微信鸿蒙版 App 获 1.0.7.39 邀测升级，支持预览 QQ 邮箱提醒",
             "time": "2025-06-16",
             "source": "IT之家",
@@ -3128,24 +2894,6 @@
             "summary": "华为云Tokens服务近日完成重大升级，全面接入384超节点，使其处理能力从1920TPS提升至2400TPS，显著提升了服务性能与稳定性。此次升级将更好地支持大规模AI模型的推理需求，为用户提供更高效、可靠的云端算力服务，进一步强化华为云在人工智能基础设施领域的竞争力。",
             "image_url": "https://image.jiqizhixin.com/uploads/article/cover_image/daef3a90-643b-4e2b-bdee-b620eb6c8a08/QQ20250827-214549.png",
             "url": "https://www.jiqizhixin.com/articles/645746",
-            "category": "AI"
-        },
-        {
-            "title": "从1920TPS到2400TPS，华为云Tokens服务全面接入384超节点",
-            "time": "2024-08-27",
-            "source": "机器之心",
-            "summary": "华为云Tokens服务近日完成重大升级，全面接入384超节点，使其每秒处理事务数（TPS）从1920提升至2400，显著提升了服务性能与稳定性。此次升级将更好地支持大规模AI训练和推理任务，进一步增强华为云在人工智能基础设施领域的竞争力，为用户提供更高效率、更低延迟的云端算力服务。",
-            "image_url": "https://image.jiqizhixin.com/uploads/article/cover_image/daef3a90-643b-4e2b-bdee-b620eb6c8a08/QQ20250827-214549.png",
-            "url": "https://www.jiqizhixin.com/articles/645754",
-            "category": "AI"
-        },
-        {
-            "title": "从1920TPS到2400TPS，华为云Tokens服务全面接入384超节点",
-            "time": "2024-08-27",
-            "source": "机器之心",
-            "summary": "华为云Tokens服务近期完成重大升级，全面接入384超节点，使其每秒处理事务数（TPS）从1920提升至2400，显著提升了性能与效率。此次升级有助于更好地支持大规模AI训练和推理任务，进一步增强华为云在高性能计算领域的竞争力，为用户提供更稳定、高效的云服务体验。",
-            "image_url": "https://image.jiqizhixin.com/uploads/article/cover_image/daef3a90-643b-4e2b-bdee-b620eb6c8a08/QQ20250827-214549.png",
-            "url": "https://www.jiqizhixin.com/articles/645748",
             "category": "AI"
         }
     ],
@@ -3263,24 +3011,6 @@
             "time": "2025-08-21",
             "source": "36氪",
             "summary": "上海显耀显示科技有限公司（JBD）近日完成数亿元人民币B1轮融资，投资方包括安徽铁路基金、方华基金、光跃投资等。JBD专注于MicroLED微显示屏研发，已为Rokid、阿里巴巴、雷鸟等近50款智能眼镜提供显示解决方案。其“蜂鸟Mini Ⅱ”光引擎体积小、功耗低，助力AR设备轻量化。公司还推出高亮度彩色光学模组，推动AR近眼显示技术发展。",
-            "image_url": "https://img.36krcdn.com/hsossms/20250819/v2_f3feac9a9ae14ee4aefeefdd642bddf0@6022551_oswg953312oswg1946oswg1194_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-            "url": "https://36kr.com/p/3429275037994628",
-            "category": "AI"
-        },
-        {
-            "title": "MicroLED微显示公司JBD获数亿元融资，为Rokid、阿里、雷鸟等近50款智能眼镜供应商｜硬氪独家",
-            "time": "2025-08-21",
-            "source": "36氪",
-            "summary": "上海显耀显示科技有限公司（JBD）近日完成数亿元人民币B1轮融资，投资方包括安徽铁路基金、方华基金、光跃投资等。JBD专注于MicroLED微显示技术研发，已为Rokid、阿里巴巴、雷鸟等近50款智能眼镜提供显示解决方案。其“蜂鸟Mini Ⅱ”单色光引擎体积小、功耗低，助力AR设备轻量化发展。公司还推出高亮度彩色光学模组，推动AR近眼显示技术普及。",
-            "image_url": "https://img.36krcdn.com/hsossms/20250819/v2_f3feac9a9ae14ee4aefeefdd642bddf0@6022551_oswg953312oswg1946oswg1194_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
-            "url": "https://36kr.com/p/3429275037994628",
-            "category": "AI"
-        },
-        {
-            "title": "MicroLED微显示公司JBD获数亿元融资，为Rokid、阿里、雷鸟等近50款智能眼镜供应商｜硬氪独家",
-            "time": "2025-08-21",
-            "source": "36氪",
-            "summary": "上海显耀显示科技有限公司（JBD）完成数亿元人民币B1轮融资，投资方包括安徽铁路基金、方华基金、光跃投资等。JBD专注于MicroLED微显示技术，为Rokid、阿里巴巴、雷鸟等近50款智能眼镜提供核心显示方案。其“蜂鸟Mini Ⅱ”单色光引擎体积小、功耗低，适用于轻量化AR设备。公司还推出高亮度彩色光学模组，推动AR设备在画质和轻量化方面的升级。",
             "image_url": "https://img.36krcdn.com/hsossms/20250819/v2_f3feac9a9ae14ee4aefeefdd642bddf0@6022551_oswg953312oswg1946oswg1194_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3429275037994628",
             "category": "AI"
@@ -3915,15 +3645,6 @@
             "image_url": "http://www.duozhi.com/d/file/2025/08/b832022f05ace59e6c4e2a1757bc086c.png",
             "url": "http://www.duozhi.com/industry/earnings/2025082717619.shtml",
             "category": "社交"
-        },
-        {
-            "title": "知乎2025财年上半年职业培训收入1.57亿元",
-            "time": "2025-08-27",
-            "source": "多知",
-            "summary": "2025财年上半年，知乎营收14.466亿元，同比下降23.7%，其中职业培训收入为1.566亿元，较去年同期的2.791亿元大幅下滑。尽管收入下降，但知乎实现净利润6240万元，同比扭亏为盈。公司持续推进人工智能与社区融合，提升运营效率，毛利率增至62.2%。知乎强调高质量内容在缓解AI幻觉中的作用，并计划深化AI应用与商业化生态建设。",
-            "image_url": "http://www.duozhi.com/d/file/2025/08/b832022f05ace59e6c4e2a1757bc086c.png",
-            "url": "http://www.duozhi.com/industry/earnings/2025082717619.shtml",
-            "category": "社交"
         }
     ],
     "Patreon": [
@@ -4017,15 +3738,6 @@
             "time": "2025-08-23",
             "source": "The Verge",
             "summary": "英国开始实施《在线安全法》后，4Chan、Gab和Kiwi Farms因涉嫌违规面临巨额罚款。代表这些网站的律师普雷斯顿·伯尼向美国联邦法院提起诉讼，并呼吁特朗普政府采取外交和法律手段干预，保护美国言论自由不受外国法律影响。此举可能使长期被视为暴力与极端主义温床的4Chan成为美国政府对抗外国网络监管的前沿案例。",
-            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257906_4chan_UK_online_safety_law_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-            "url": "https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump",
-            "category": "社交"
-        },
-        {
-            "title": "特朗普会帮助4Chan逃脱英国网络监管吗？",
-            "time": "2025-08-23",
-            "source": "The Verge",
-            "summary": "英国开始实施《在线安全法》后，4Chan、Gab和Kiwi Farms等网站因涉嫌违规面临巨额罚款。代表这些网站的律师普雷斯顿·伯尼呼吁特朗普政府采取外交和法律手段保护其客户，称该法侵犯了美国用户的言论自由。文章指出，特朗普政府已对欧洲多国施压，反对其互联网监管政策。此举可能挑战英国和欧盟的数字法规，但也凸显其在国内外言论自由政策上的双重标准。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257906_4chan_UK_online_safety_law_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump",
             "category": "社交"
@@ -4324,17 +4036,6 @@
             "url": "https://techcrunch.com/2025/06/15/aspora-gets-50m-from-sequoia-to-build-remittance-solutions-for-indian-diaspora/"
         }
     ],
-    "易控智驾": [
-        {
-            "title": "易控智驾赴港上市，千亿矿山无人驾驶赛道爆发背后",
-            "time": "2025-07-23",
-            "source": "36氪",
-            "summary": "2025年上半年，矿山无人驾驶领域融资事件集中爆发，行业迈向规模化商用。易控智驾成为全球最大的矿区无人驾驶解决方案提供商，尽管营收增长迅速，但因技术尚未完全成熟，仍持续亏损。政策推动无人化改造，预计到2026年智能化产能占比不低于60%，市场潜力巨大。",
-            "image_url": "https://img.36krcdn.com/hsossms/20250721/v2_46342d691cc94d468c5fb6783f5ae590@6117095_oswg1572323oswg1080oswg1304_img_000?x-oss-process=image/format,jpg/interlace,1",
-            "category": "AI",
-            "url": "https://36kr.com/p/3388190141471104"
-        }
-    ],
     "Momenta": [
         {
             "title": "融资丨Momenta、兴杭创投、辰韬资本联合领投，零一汽车宣布完成5亿元融资",
@@ -4357,7 +4058,6 @@
             "url": "https://www.cyzone.cn/article/804975.html"
         }
     ],
-    "华电新能": [],
     "台积电": [
         {
             "title": "马斯克xAI自研推理芯片曝光！代号X1、台积电3纳米工艺、明年就量产",
@@ -4580,24 +4280,6 @@
             "category": "AI"
         },
         {
-            "title": "售价2万5！英伟达推出机器人“最强大脑”：AI算力飙升750%配128GB大内存，宇树已经用上了",
-            "time": "2025-08-26",
-            "source": "量子位",
-            "summary": "英伟达推出全新机器人计算平台Jetson Thor，基于最新的Blackwell GPU架构，AI算力达到2070 TFLOPS，比上一代提升7.5倍，同时能效提高至3.5倍，并配备128GB超大内存。该平台支持多种AI框架和模型，已在宇树科技等企业中应用，推动物理AI与通用机器人时代的发展。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/303924332622d80683974146ff7d4a91.png",
-            "url": "https://www.qbitai.com/2025/08/325709.html",
-            "category": "AI"
-        },
-        {
-            "title": "英伟达韩松团队新作：具有后神经架构搜索的高效语言模型",
-            "time": "2025-08-26",
-            "source": "量子位",
-            "summary": "英伟达韩松团队推出基于后神经架构搜索的高效语言模型Jet-Nemotron，该模型在保持与Qwen3、Llama3.2等模型相当甚至更优准确率的同时，生成吞吐量最高提升53.6倍，预填充阶段加速6.1倍。Jet-Nemotron通过全注意力层优化、线性注意力模块选择、新型JetBlock模块设计及硬件感知搜索实现效率突破，代码和模型将开源。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/37f675e3abdf1cc709167c00a25e2963.png",
-            "url": "https://www.qbitai.com/2025/08/326237.html",
-            "category": "AI"
-        },
-        {
             "title": "英伟达推出用于物理AI和机器人技术的Jetson AGX Thor开发套件",
             "time": "2025-08-25",
             "source": "GamesBeat",
@@ -4641,40 +4323,6 @@
             "image_url": "https://img.36krcdn.com/hsossms/20250723/v2_d4ef2e9cae234653bb4c7b247f7e7a45@1018287061_oswg267901oswg603oswg348_img_000?x-oss-process=image/format,jpg/interlace,1",
             "category": "AI",
             "url": "https://36kr.com/p/3390957813782662"
-        }
-    ],
-    "Q.ANT": [],
-    "微分智飞": [
-        {
-            "title": "空中具身智能破局者微分智飞，用智能算法给无人机安上“大脑”丨光合说",
-            "time": "2023-10-18",
-            "source": "创业邦",
-            "summary": "微分智飞研发的智能无人机通过自主导航和探索算法，能够在无GPS信号环境中执行任务，适用于矿山、林业等领域。公司已完成多轮融资，致力于拓展行业场景与海外市场，打造通用飞行具身大脑及开发者生态，推动工业智能化发展。",
-            "image_url": "https://oss.cyzone.cn/2025/0723/2eb07a28f58d4f3f6256a26918bb9ba5.jpg?x-oss-process=image/resize,w_1280,m_mfit/format,jpg/quality,q_95",
-            "category": "AI",
-            "url": "https://www.cyzone.cn/article/804958.html"
-        }
-    ],
-    "红果": [
-        {
-            "title": "月活2亿的红果，正在考虑怎么赚更多的钱",
-            "time": "2023-10-12",
-            "source": "创业邦",
-            "summary": "红果短剧月活接近2亿，稳居行业第一，但商业化仍处初级阶段。其复刻“免费+广告”模式，广告主类型单一，变现能力有限。近期测试图文社区与短视频功能，试图丰富内容形态和商业化模式，同时通过精准流量构建闭环生态。短剧行业逐渐转向免费模式，制作方需重视营销宣发，红果通过资源位支持吸引优质内容，未来希望通过社区与短视频挖掘更大商业价值。",
-            "image_url": "",
-            "category": "社交",
-            "url": "https://www.cyzone.cn/article/804935.html"
-        }
-    ],
-    "羽西": [
-        {
-            "title": "羽西押注肖战：一场品牌年轻化的豪赌",
-            "time": "2025-06-17",
-            "source": "钛媒体",
-            "summary": "羽西品牌选择肖战作为代言人，销量暴涨，月销售额提升上百倍。这一策略旨在吸引年轻市场，尤其是在品牌业绩下滑的背景下。肖战的代言使羽西的白玉防晒霜成为热销产品，销售额激增。尽管短期内取得了显著成绩，但品牌未来的高端形象及持续增长仍面临挑战，需警惕品牌调性与营销策略的协调。",
-            "image_url": "https://images.tmtpost.com/uploads/images/2025/06/9bd22583b208db73407b6547a9cde4d4_1750123547.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1047/gravity/center/crop/!1400x1047&ext=.jpeg",
-            "category": "其他",
-            "url": "https://www.tmtpost.com/7598465.html"
         }
     ]
 }
