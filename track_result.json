@@ -2002,15 +2002,6 @@
     ],
     "OpenAI": [
         {
-            "title": "英伟达计划逐步向OpenAI投资1000亿美元",
-            "time": "2025-09-23",
-            "source": "36氪",
-            "summary": "英伟达与OpenAI宣布建立战略合作伙伴关系，英伟达计划在未来逐步向OpenAI投资1000亿美元，支持其部署至少10GW的AI算力集群，首期算力将于2026年下半年使用下一代Rubin芯片启动。此举将显著增强OpenAI的算力自主性，减少对微软的依赖。若投资落地，英伟达将成为OpenAI最大股东，投资规模远超微软的130亿美元。同时，OpenAI正与软银、甲骨文等共同推进“星际之门”算力计划，重塑全球AI基础设施格局。",
-            "image_url": "https://img.36krcdn.com/hsossms/20250923/v2_a7d629ff1fd24d72a8b84e3a77798bae@000000_oswg267471oswg1080oswg619_img_000?x-oss-process=image/format,jpg/interlace,1",
-            "url": "https://36kr.com/p/3478746474355075",
-            "category": "AI"
-        },
-        {
             "title": "算力三国：英伟达、甲骨文与 OpenAI的万亿棋局",
             "time": "2025-09-23",
             "source": "36氪",
@@ -2020,30 +2011,12 @@
             "category": "AI"
         },
         {
-            "title": "全是套路！英伟达千亿美元投OpenAI，奥特曼拿钱买卡还让甲骨文赚差价",
-            "time": "2025-09-23",
-            "source": "量子位",
-            "summary": "英伟达计划向OpenAI投资最高1000亿美元，用于建设至少10GW的AI数据中心，全部采用英伟达硬件系统。首笔100亿美元将在首个1GW系统建成后投入，预计2026年下半年完成。与此同时，OpenAI已向甲骨文投入3000亿美元采购云服务，而甲骨文又采购英伟达GPU，形成“英伟达→OpenAI→甲骨文→英伟达”的千亿三角循环。三方各取所需：OpenAI获得算力支撑，英伟达锁定核心客户并扩大芯片销量，甲骨文借机提升云服务竞争力与市值。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/a3e3dbc7ba94f2a0e15d03e029c71d73.png",
-            "url": "https://www.qbitai.com/2025/09/335390.html",
-            "category": "AI"
-        },
-        {
             "title": "英伟达1000亿美元投资OpenAI，人类超级计算资源正走向垄断",
             "time": "2025-09-23",
             "source": "钛媒体",
             "summary": "英伟达与OpenAI宣布战略合作，计划投资高达1000亿美元建设至少10吉瓦的AI算力基础设施，首期系统将于2026年下半年上线。此举旨在确保OpenAI获得先进GPU资源并分散云服务商依赖，同时英伟达通过深度绑定掌握AI生态主导权。分析指出，该合作标志着AI基础设施从硬件销售转向资本捆绑，推动算力资源向少数巨头集中，引发行业垄断与系统性风险的担忧。",
             "image_url": "https://images.tmtpost.com/uploads/avatar/4872192_1753679724.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
             "url": "https://www.tmtpost.com/7702621.html",
-            "category": "AI"
-        },
-        {
-            "title": "英伟达计划投资高达1000亿美元于OpenAI",
-            "time": "2025-09-22",
-            "source": "TechCrunch",
-            "summary": "英伟达宣布计划投资高达1000亿美元与OpenAI合作，共同建设大规模数据中心，部署价值10吉瓦的英伟达系统，以支持下一代AI模型的训练与运行。此举旨在帮助OpenAI降低对微软云服务的依赖，同时巩固其作为OpenAI首选计算与网络合作伙伴的地位。双方已签署意向书，但投资形式（现金、芯片或云额度）尚未明确。该交易将与OpenAI现有的微软、甲骨文和软银合作并行。",
-            "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?w=1024",
-            "url": "https://techcrunch.com/2025/09/22/nvidia-plans-to-invest-up-to-100b-in-openai/",
             "category": "AI"
         },
         {
@@ -4504,15 +4477,6 @@
     ],
     "英伟达": [
         {
-            "title": "英伟达计划逐步向OpenAI投资1000亿美元",
-            "time": "2025-09-23",
-            "source": "36氪",
-            "summary": "英伟达与OpenAI宣布建立战略合作伙伴关系，英伟达计划在未来逐步向OpenAI投资1000亿美元，支持其部署至少10GW的AI算力集群，首期算力将于2026年下半年使用下一代Rubin芯片启动。此举将显著增强OpenAI的算力自主性，减少对微软的依赖。若投资落地，英伟达将成为OpenAI最大股东，投资规模远超微软的130亿美元。同时，OpenAI正与软银、甲骨文等共同推进“星际之门”算力计划，重塑全球AI基础设施格局。",
-            "image_url": "https://img.36krcdn.com/hsossms/20250923/v2_a7d629ff1fd24d72a8b84e3a77798bae@000000_oswg267471oswg1080oswg619_img_000?x-oss-process=image/format,jpg/interlace,1",
-            "url": "https://36kr.com/p/3478746474355075",
-            "category": "AI"
-        },
-        {
             "title": "算力三国：英伟达、甲骨文与 OpenAI的万亿棋局",
             "time": "2025-09-23",
             "source": "36氪",
@@ -4522,30 +4486,12 @@
             "category": "AI"
         },
         {
-            "title": "全是套路！英伟达千亿美元投OpenAI，奥特曼拿钱买卡还让甲骨文赚差价",
-            "time": "2025-09-23",
-            "source": "量子位",
-            "summary": "英伟达计划向OpenAI投资最高1000亿美元，用于建设至少10GW的AI数据中心，全部采用英伟达硬件系统。首笔100亿美元将在首个1GW系统建成后投入，预计2026年下半年完成。与此同时，OpenAI已向甲骨文投入3000亿美元采购云服务，而甲骨文又采购英伟达GPU，形成“英伟达→OpenAI→甲骨文→英伟达”的千亿三角循环。三方各取所需：OpenAI获得算力支撑，英伟达锁定核心客户并扩大芯片销量，甲骨文借机提升云服务竞争力与市值。",
-            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/a3e3dbc7ba94f2a0e15d03e029c71d73.png",
-            "url": "https://www.qbitai.com/2025/09/335390.html",
-            "category": "AI"
-        },
-        {
             "title": "英伟达1000亿美元投资OpenAI，人类超级计算资源正走向垄断",
             "time": "2025-09-23",
             "source": "钛媒体",
             "summary": "英伟达与OpenAI宣布战略合作，计划投资高达1000亿美元建设至少10吉瓦的AI算力基础设施，首期系统将于2026年下半年上线。此举旨在确保OpenAI获得先进GPU资源并分散云服务商依赖，同时英伟达通过深度绑定掌握AI生态主导权。分析指出，该合作标志着AI基础设施从硬件销售转向资本捆绑，推动算力资源向少数巨头集中，引发行业垄断与系统性风险的担忧。",
             "image_url": "https://images.tmtpost.com/uploads/avatar/4872192_1753679724.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
             "url": "https://www.tmtpost.com/7702621.html",
-            "category": "AI"
-        },
-        {
-            "title": "英伟达计划投资高达1000亿美元于OpenAI",
-            "time": "2025-09-22",
-            "source": "TechCrunch",
-            "summary": "英伟达宣布计划投资高达1000亿美元与OpenAI合作，共同建设大规模数据中心，部署价值10吉瓦的英伟达系统，以支持下一代AI模型的训练与运行。此举旨在帮助OpenAI降低对微软云服务的依赖，同时巩固其作为OpenAI首选计算与网络合作伙伴的地位。双方已签署意向书，但投资形式（现金、芯片或云额度）尚未明确。该交易将与OpenAI现有的微软、甲骨文和软银合作并行。",
-            "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?w=1024",
-            "url": "https://techcrunch.com/2025/09/22/nvidia-plans-to-invest-up-to-100b-in-openai/",
             "category": "AI"
         },
         {
