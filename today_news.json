@@ -252,15 +252,6 @@
     "category": "社交"
   },
   {
-    "title": "新闻标题（中文）",
-    "time": "YYYY-MM-DD",
-    "source": "内容来源（网站名）",
-    "summary": "内容摘要（大约150字的中文）",
-    "image_url": "配图URL",
-    "url": "https://journalisthunt.com/",
-    "category": "社交"
-  },
-  {
     "title": "美国寻求拆分谷歌数字广告业务",
     "time": "2025-09-23",
     "source": "动点科技",
