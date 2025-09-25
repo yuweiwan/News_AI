@@ -1,6 +1,51 @@
 {
     "微软": [
         {
+            "title": "高通发布Snapdragon X2 Elite和Extreme芯片，面向Windows PC",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "高通发布了第二代Snapdragon X2 Elite和X2 Extreme芯片，宣称其为迄今最快、最节能的Windows PC处理器。采用3nm工艺和第三代Oryon CPU，最高主频达5GHz，配备18核、1.85GHz Adreno GPU及80 TOPS的Hexagon NPU，AI性能提升显著。新芯片支持更高功耗（达50W），可应用于更大尺寸PC，并承诺提升Adobe创意软件性能与游戏体验。芯片预计于2026年上半年上市，旨在挑战Intel和AMD在高端笔记本市场的地位。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/SnapdragonX2EliteExtreme_InsideView-Closeup.png?quality=90&strip=all&crop=7.8009828009828%2C0%2C84.398034398034%2C100&w=2400",
+            "url": "https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs",
+            "category": "其他"
+        },
+        {
+            "title": "OpenAI、SAP和微软宣布推出“OpenAI for Germany”",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "OpenAI、SAP与微软联合宣布推出专为德国打造的“OpenAI for Germany”项目，旨在帮助德国政府、行政机构及研究机构的员工利用AI技术减少文书工作，提升工作效率。该项目强调数据主权与本地化部署，确保德国公共部门的数据安全与合规性。合作将结合SAP的企业软件平台与OpenAI的AI模型，由微软提供云基础设施支持，推动AI在公共领域的负责任应用。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/google-ai-experiment.png?quality=90&strip=all&crop=0%2C9.936991980134%2C100%2C85.714285714286&w=2400",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/784601/openai-sap-and-microsoft-just-announced-openai-for-germany",
+            "category": "AI"
+        },
+        {
+            "title": "微软拥抱OpenAI竞争对手Anthropic以提升Microsoft 365应用",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "微软宣布将Anthropic的Claude Sonnet 4和Claude Opus 4.1AI模型引入Microsoft 365 Copilot，为用户提供除OpenAI模型外的新选择。用户可在Researcher和Copilot Studio中通过“Try Claude”按钮切换模型，提升AI在研究、自动化和工作流中的表现。此举标志着微软在AI模型策略上进一步多元化，尽管Anthropic模型仍托管于AWS，但未来可能迁移至Azure。该功能已面向部分订阅用户逐步开放。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/m365copilotanthropic.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature",
+            "category": "AI"
+        },
+        {
+            "title": "微软将Anthropic的AI接入Copilot",
+            "time": "2025-09-24",
+            "source": "TechCrunch",
+            "summary": "微软宣布从9月24日起，将其AI助手Copilot所使用的AI模型扩展至Anthropic的Claude系列，包括用于复杂推理的Opus 4.1和用于常规任务的Sonnet 4。此举标志着微软逐步减少对OpenAI的依赖，此前已宣布在Office 365中整合Anthropic的AI技术。企业用户现在可在Copilot中选择使用OpenAI或Anthropic的模型，以应对不同任务需求，如编程、数据分析和内容生成。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
+            "category": "AI"
+        },
+        {
+            "title": "微软推出Windows XP主题Crocs拖鞋",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "微软在其Instagram账号上正式预热一款限量版Windows XP主题Crocs拖鞋，此前由The Verge记者Tom Warren率先曝光。这款拖鞋将搭配六个怀旧风格的Jibbitz装饰扣，包括Internet Explorer图标和经典助手Clippy，唤起用户对Windows XP时代的集体回忆。微软在帖文中调侃“谁泄露了这个？”，而作者坦承自己是消息源。该产品融合了科技怀旧与潮流文化，引发网友热议。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/battery_xray_1.jpg?quality=90&strip=all&crop=0%2C0.021505376344088%2C100%2C99.956989247312&w=2400",
+            "url": "https://www.theverge.com/news/784387/microsoft-windows-xp-crocs-teaser-instagram",
+            "category": "其他"
+        },
+        {
             "title": "前暴雪总裁揭露：Xbox 涨价主因是利润不足",
             "time": "2025-09-23",
             "source": "动点科技",
@@ -382,6 +427,15 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "宝可梦和Theo Von达成共识：不该出现在国土安全部视频中",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "美国国土安全部（DHS）在社交媒体上发布了一段使用宝可梦主题曲和动画元素宣传移民执法行动的视频，引发宝可梦公司和喜剧播客Theo Von的强烈反对。宝可梦公司声明未授权使用其知识产权，Theo Von则在X平台要求删除视频并索要报酬。DHS随后删除了涉及Theo Von的视频，但宝可梦相关视频仍留存，边境巡逻队甚至用皮卡丘GIF回应。尽管粉丝呼吁起诉，法律专家认为此类诉讼可能性极低。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/785288/pokemon-theo-von-dhs-ice",
+            "category": "其他"
+        },
         {
             "title": "Switch 2版公开游玩方式解说与实拍MV《女神异闻录3》",
             "time": "2025-09-23",
@@ -963,6 +1017,42 @@
     ],
     "谷歌": [
         {
+            "title": "Google Vids 现可自动为幻灯片生成AI脚本、配音和背景音乐",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "Google近日为其AI视频工具Google Vids推出了新功能，允许用户在导入Slides幻灯片时，通过开启AI开关自动生成脚本、语音旁白和背景音乐，从而将静态演示文稿一键转化为专业视频。该功能目前仅向Workspace和AI计划订阅用户开放，旨在简化内容创作流程。文章配图展示了如何在导入幻灯片时启用AI选项的界面。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/google-vids-ai-voiceover.png?quality=90&strip=all&crop=0%2C0%2C96.641332802816%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784950/google-vids-can-now-do-more-with-your-slides",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌开始推出实时AI语音搜索",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "谷歌正在美国全面推出名为Search Live的实时AI语音搜索功能，用户可通过Google应用使用语音和手机摄像头与AI助手进行交互。该功能支持实时问答，并能结合摄像头识别实物，例如通过拍摄工具来了解如何制作抹茶或指导电子设备的安装。此前该功能仅在Google Labs中进行测试，目前仅支持英语。用户可在Android和iOS的Google应用中找到新的“Live”按钮，或在Lens应用中使用该功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/google-ai-experiment.png?quality=90&strip=all&crop=0%2C9.936991980134%2C100%2C85.714285714286&w=2400",
+            "url": "https://www.theverge.com/news/784685/google-search-live-ai-voice-search-launch",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌广告工具对买家具有吸引力，兼并专家作证",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "投资银行家保罗·克里西在谷歌广告技术反垄断案中作证表示，若谷歌被迫出售其AdX和DFP广告工具，这些资产将对广告科技及相关领域的多家公司具有吸引力。克里西指出，初步评估显示，众多企业可能对收购这些工具感兴趣，这凸显了谷歌在数字广告市场的核心地位及其潜在拆分的市场影响。此案是美国政府对谷歌垄断行为的又一次重大法律挑战。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197292/2023-05-07_16.33.21_-_Lauren_Feiner_Headshot_-_8X10_-_001.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784877/googles-ad-tools-would-be-attractive-to-buyers-ma-witness-says",
+            "category": "其他"
+        },
+        {
+            "title": "谷歌将Android与ChromeOS合并：骁龙CEO称‘我见过，太惊人了’",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "高通首席执行官Cristiano Amon在骁龙峰会期间透露，他已亲身体验了谷歌正在开发的Android与ChromeOS融合系统，并称赞其为‘令人难以置信’。谷歌平台与设备负责人Rick Osterloh确认，双方正共同打造统一的技术基础，将Gemini人工智能、Android应用生态及开发者社区引入PC领域，实现移动与桌面计算的深度融合。此举标志着谷歌长期推进的跨平台战略迈出关键一步，有望重塑未来PC体验。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/qualcomm-google-snapdragon-summit.jpg?quality=90&strip=all&crop=0%2C0.018705574261126%2C100%2C99.962588851478&w=2400",
+            "url": "https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-merger-incredible",
+            "category": "其他"
+        },
+        {
             "title": "美国寻求拆分谷歌数字广告业务",
             "time": "2025-09-23",
             "source": "动点科技",
@@ -1423,6 +1513,42 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Instagram月活跃用户达到30亿",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "Meta首席执行官马克·扎克伯格宣布，Instagram月活跃用户已达到30亿，距其2021年突破20亿用户仅四年。这一增长主要得益于私信（DM）和Reels短视频功能的推动。Meta正测试界面优化，如将DM和Reels置于首页导航栏更显眼位置，并调整算法让用户能影响内容推荐。此外，Instagram计划在印度和韩国测试默认打开Reels的功能，以利用当地TikTok被禁后的市场空缺。Facebook和WhatsApp也已突破30亿用户。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784784/instagram-3-billion-monthly-users-reels-dms-updates",
+            "category": "社交"
+        },
+        {
+            "title": "Meta将开设快闪店展示配备显示屏的智能眼镜",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "Meta计划于10月起在拉斯维加斯、洛杉矶和纽约开设新的Meta Lab快闪店，以展示其配备显示屏的Ray-Ban智能眼镜及其他VR硬件。洛杉矶店将扩建至2万平方英尺并转为永久门店，拉斯维加斯店将于10月16日开业，纽约店预计11月13日开放。用户可通过官网预约体验，首款799美元的Ray-Ban Display眼镜将于9月30日上市，同时Oakley Meta Vanguard眼镜也将于10月21日发布。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/MetaLab_LA.png?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+            "url": "https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display",
+            "category": "AI"
+        },
+        {
+            "title": "Instagram月活跃用户达30亿，将测试新功能帮助用户控制信息流",
+            "time": "2025-09-24",
+            "source": "TechCrunch",
+            "summary": "Instagram宣布其月活跃用户已达到30亿，较2018年的10亿显著增长。Meta旗下高管Adam Mosseri表示，增长主要依赖DM、Reels和算法推荐内容，但这也引发用户对信息流过于算法化、忽视熟人内容的不满。为此，Instagram计划测试新功能，允许用户自行关闭算法推荐的特定话题（如大学橄榄球、胶片摄影等），并调整底部导航栏，强化DM入口。此举旨在回应用户对内容控制权的诉求，同时平衡平台增长与用户体验。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Instagram_horizontal_update_05.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/24/instagram-now-has-3-billion-monthly-active-users-will-test-features-to-help-users-control-their-feeds/",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram 推出 iPad 专用版本及“仅限密友”独家内容",
+            "time": "2025-09-23",
+            "source": "App Store",
+            "summary": "Instagram 推出重大更新，正式发布专为 iPad 设计的版本，优化大屏幕体验。同时上线“仅限密友”独家内容，邀请《The Summer I Turned Pretty》剧集演员分享幕后故事。更新还包括性能优化与稳定性提升。用户对界面从方形转为矩形网格的改动争议持续，另有用户投诉Meta Verified验证功能失效及内容审核不力问题。应用支持多语言，提供内购服务如Meta Verified订阅和徽章。",
+            "image_url": "https://apps.apple.com/assets/artwork/1x1-42817eea7ade52607a760cbee00d1495.gif",
+            "url": "https://apps.apple.com/us/app/instagram/id389801252?uo=4&at=1000l6eA",
+            "category": "社交"
+        },
         {
             "title": "Facebook正推出AI约会助手",
             "time": "2025-09-22",
@@ -2000,7 +2126,171 @@
             "category": "社交"
         }
     ],
+    "YouTube": [
+        {
+            "title": "YouTube将允许用户隐藏烦人的结束画面",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "YouTube推出新功能，允许用户在视频结束时点击右上角的“隐藏”按钮，屏蔽推荐视频的结束画面，以提升观看体验。该功能仅对当前视频生效，用户也可随时重新显示。YouTube表示，测试显示该功能仅使通过结束画面产生的点击量下降1.5%，对创作者影响极小。同时，平台还移除了桌面端鼠标悬停时出现的订阅按钮，以简化界面。此更新不影响创作者添加结束画面和水印的能力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK092_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784774/youtube-end-screen-videos-hide",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube现在允许用户隐藏视频末尾的推荐弹窗",
+            "time": "2025-09-24",
+            "source": "TechCrunch",
+            "summary": "YouTube宣布推出新功能，允许用户在观看视频末尾时隐藏推荐弹窗。用户可通过点击视频播放器右上角的“隐藏”按钮，临时关闭当前视频的结束屏幕，但不会影响其他视频。此举旨在减少观看干扰，提升用户体验。同时，YouTube还移除了视频水印区域的悬停订阅按钮，因已有更明显的订阅入口。公司称，实验显示该功能对创作者的观看量和订阅量影响极小，分别低于1.5%和0.05%。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=1024",
+            "url": "https://techcrunch.com/2025/09/24/youtube-now-lets-you-hide-recommendation-pop-ups-at-the-end-of-videos/",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube将恢复因传播错误信息而被封禁的账号",
+            "time": "2025-09-24",
+            "source": "TechCrunch",
+            "summary": "YouTube母公司Alphabet致信美国国会议员吉姆·乔丹，宣布将恢复因违反新冠和选举诚信政策而被封禁的创作者账号。公司称此举体现对言论自由的承诺，并特别提到重视保守派创作者在公共讨论中的作用。此前，YouTube曾下架大量涉及疫苗谬论和选举舞弊的内容，但随着2024年大选临近，平台逐步放宽内容审核政策，已恢复包括特朗普和罗伯特·肯尼迪 Jr.在内的多位争议人物的账号。此举被视为对政治压力的回应。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/YouTube-Thumb-Text-4-1.png?w=1024",
+            "url": "https://techcrunch.com/2025/09/24/youtube-will-reinstate-accounts-banned-for-spreading-misinformation/",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube：过去四年向创作者支付款项超1000亿美元",
+            "time": "2025-09-17",
+            "source": "动点科技",
+            "summary": "YouTube于2025年9月宣布，自2021年以来已向平台创作者、艺术家及媒体公司支付超过1000亿美元，受益于联网电视端观看量增长，通过电视端收入超10万美元的频道数量同比增长45%。正值平台成立20周年之际，YouTube在年度‘Made on YouTube’活动上推出多项AI工具，助力创作者使用AI剪辑YouTube Shorts视频，添加音乐、转场与旁白，进一步强化其作为全球最赚钱媒体业务之一的地位。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-09-17/youtube-100billion-for-content-creators/",
+            "category": "社交"
+        },
+        {
+            "title": "新的YouTube AI工具帮助创作者满足观众需求",
+            "time": "2025-09-16",
+            "source": "The Verge",
+            "summary": "在Made on YouTube活动上，YouTube推出了多项AI工具，旨在帮助内容创作者优化幕后工作。新工具包括Ask Studio智能聊天机器人，可分析视频表现、总结评论并提供内容建议；新增缩略图与标题A/B测试功能，提升点击率；还升级了自动配音功能，实现口型同步。这些工具标志着平台从鼓励创作者自行试验转向直接提供算法优化方案，引发关于AI是否削弱内容独特性的讨论。创作者认为AI是起点而非捷径，真实的人机关系仍不可替代。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Ask-Studio-Product-Example.jpg?quality=90&strip=all&crop=7.1428571428571%2C0%2C85.714285714286%2C100&w=2400",
+            "url": "https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube让直播更轻松且更具盈利性",
+            "time": "2025-09-16",
+            "source": "The Verge",
+            "summary": "YouTube在Made on YouTube活动上宣布了一系列直播功能升级，包括允许创作者同时以横屏和竖屏格式直播、实时反应其他直播内容、AI自动生成直播精彩片段为Shorts，以及移动端直播练习功能。这些更新旨在帮助创作者扩大观众群、增强互动并提升收入，同时推出会员专属直播和移动端广告扩展，是YouTube近年来对直播功能最大的一次升级。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/AI-Powered-Highlights-product-mock.jpg?quality=90&strip=all&crop=7.1428571428571%2C0%2C85.714285714286%2C100&w=2400",
+            "url": "https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube正逐步成为购物平台",
+            "time": "2025-09-16",
+            "source": "The Verge",
+            "summary": "YouTube宣布多项新功能，旨在增强创作者的变现能力，包括AI自动识别视频中提及的产品并打标签、在Shorts中添加品牌链接、以及支持动态插入可替换的品牌广告片段。这些功能将逐步向美国符合条件的创作者推出，预计2026年全面上线。此外，YouTube还测试允许核心观众购买创作者独家周边商品的功能，进一步推动平台向电商化转型。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Dynamic-brand-segments-video.mp4_snapshot_00.00.852.jpg?quality=90&strip=all&crop=7.1428571428571%2C0%2C85.714285714286%2C100&w=2400",
+            "url": "https://www.theverge.com/news/778693/youtube-monetization-features-ai-tagging-dynamic-ads",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube宣布为创作者推出一系列AI工具",
+            "time": "2025-09-16",
+            "source": "Engadget",
+            "summary": "YouTube在今日举办的创作者活动中发布了一系列AI新功能，包括可自动将原始素材剪辑成包含音乐、转场和旁白的初稿视频；支持英语和印地语的自动生成旁白工具；能将视频对话转化为短视频背景音乐的功能；以及增强Veo 3集成，允许通过文本提示生成带音效的高质量短视频。此外，YouTube Studio将引入对话式AI助手辅助数据分析，并上线协作功能与标题A/B测试功能，全面提升创作者生产力。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/sZYLZ5LSRGmYe78iBuxaxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MTI-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/74f31460-9311-11f0-a7fc-77ec67881419",
+            "url": "https://www.engadget.com/ai/youtube-just-announced-a-bunch-of-ai-tools-for-creators-153341885.html",
+            "category": "AI"
+        },
+        {
+            "title": "芝麻街与YouTube达成新合作，将上线数百集完整剧集",
+            "time": "2025-09-04",
+            "source": "Engadget",
+            "summary": "芝麻街制作方Sesame Workshop与YouTube宣布扩大合作，将把数百集完整的《芝麻街》剧集以及专为YouTube观众制作的内容上线该平台。同时，Sesame Workshop还将为创作者举办系列工作坊，指导如何制作兼具娱乐性和教育性的儿童内容。此次合作标志着《芝麻街》进一步拓展数字分发渠道，此前已与Netflix达成新剧集同步播出协议。此举有助于节目在失去传统媒体支持后维持影响力，并通过免费平台触达更广泛的年轻观众。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/7740ecd0-89cd-11f0-bfff-be35d42bae3c",
+            "url": "https://www.engadget.com/entertainment/tv-movies/sesame-streets-new-partnership-with-youtube-will-bring-hundreds-of-full-episodes-to-the-video-platform-203245293.html",
+            "category": "社交"
+        },
+        {
+            "title": "尼泊尔因违规封锁Facebook、Instagram、YouTube和X，引发审查担忧",
+            "time": "2025-09-04",
+            "source": "TechCrunch",
+            "summary": "尼泊尔政府下令屏蔽包括Facebook、Instagram、YouTube和X在内的26个社交媒体平台，原因是这些平台未遵守当地的注册规定。此举引发了媒体权利组织对新闻自由和信息获取权的担忧。尽管最高法院支持注册要求，但并未授权全面封禁。政府表示，一旦平台完成注册，访问将被恢复。批评者认为该措施类似于数字威权主义，可能被滥用于内容审查。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-461968566.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/04/nepal-blocks-facebook-instagram-youtube-x-over-rule-breach-amid-censorship-concerns/",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube将“Hype”功能扩展至39个国家",
+            "time": "2025-08-27",
+            "source": "The Verge",
+            "summary": "YouTube宣布将其“Hype”按钮功能推广至包括美国、英国、加拿大和澳大利亚在内的39个国家。该功能旨在通过让粉丝为喜爱的视频打气，帮助小型创作者获得更多曝光。被“Hype”的视频将出现在专门的排行榜上，以提升可见度。这一功能最初于近一年前宣布，现正式在全球多个地区上线。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/youtube-hype.webp?quality=90&strip=all&crop=0%2C11.902522903552%2C100%2C77.03087529976&w=2400",
+            "url": "https://www.theverge.com/news/766673/time-to-get-hype",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube TV可能本周失去福克斯频道",
+            "time": "2025-08-26",
+            "source": "The Verge",
+            "summary": "随着NFL赛季临近，YouTube TV与福克斯的转播权合同即将到期，双方因费用问题陷入僵局，可能导致福克斯旗下多个频道从YouTube TV下架。受影响的频道包括福克斯新闻、福克斯体育和大十网络等，用户可能无法观看即将举行的NFL和大学橄榄球比赛。福克斯指责谷歌利用市场优势施压，而YouTube TV则称福克斯索要远超同行的费用。若协议未能达成，YouTube TV将为用户提供福克斯新推出的流媒体服务Fox One作为替代方案。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube推出‘Hype’功能助力小型创作者实现全球推广",
+            "time": "2025-08-26",
+            "source": "TechCrunch",
+            "summary": "YouTube宣布其‘Hype’功能正式在全球范围内推出，该功能允许观众帮助他们喜爱的小型创作者获得更多曝光。观众每周可以为喜欢的创作者的最多三个视频进行‘hype’操作，从而为该视频增加积分，并使其在新的排行榜上获得更好的排名。拥有更少订阅者的创作者将获得更大的‘hype’效果加成。被‘hype’的视频会显示‘hyped’徽章，并且用户可以在首页筛选只查看‘hyped’视频。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Secondary_-_hype_leaderboard.width-800.format-webp.webp?w=652",
+            "url": "https://techcrunch.com/2025/08/26/youtubes-hype-feature-that-boosts-smaller-creators-launches-globally/",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube 新规“限制”短剧出海？译制剧另寻出路",
+            "time": "2025-08-12",
+            "source": "白鲸出海",
+            "summary": "YouTube 更新了合作伙伴计划规则，将“重复性内容”定义为“非原创内容”，对短剧出海团队造成影响。依赖字幕翻译的分发方式失效，部分团队转向“字幕+配音”模式，但成本增加。AI 技术成为解决方案，通过提升配音效率和质量助力短剧出海。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250812/1754984996195418.png",
+            "url": "https://www.baijing.cn/article/53684",
+            "category": "社交"
+        },
+        {
+            "title": "Netflix与YouTube开始在广告战场正面交锋",
+            "time": "2025-07-23",
+            "source": "钛媒体",
+            "summary": "Netflix与YouTube在广告领域展开正面对抗，前者通过高质量内容环境吸引品牌广告主，后者依赖算法驱动效果广告。Netflix以沉浸式观看体验和自有广告技术栈为优势，逐步开放程序化广告生态，试图在竞争中找到品牌与效果广告的平衡点。",
+            "image_url": "https://images.tmtpost.com/uploads/avatar/239096_1734430970.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
+            "category": "社交",
+            "url": "https://www.tmtpost.com/7634679.html"
+        }
+    ],
     "OpenAI": [
+        {
+            "title": "刚刚，Sam Altman发文，透露OpenAI正在干的大事业",
+            "time": "2025-09-24",
+            "source": "机器之心",
+            "summary": "Sam Altman发文透露OpenAI正推进名为‘星际之门’（Stargate）的超级算力计划，联合甲骨文与软银在美国新增五个AI数据中心，规划总容量近7吉瓦，旨在为下一代AI模型提供强大基础设施。他强调算力是AI兑现承诺的关键，愿景是每周建成1吉瓦规模的AI基础设施，推动全球AI发展，并认为未来AI算力或将成为基本人权。",
+            "image_url": "https://image.jiqizhixin.com/uploads/editor/594c1b32-365e-4365-90fd-ce6b1a0a3d05/640.png",
+            "url": "https://www.jiqizhixin.com/articles/9ce9508d-6b79-4f05-b620-85e79d9403d8",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI、SAP和微软宣布推出“OpenAI for Germany”",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "OpenAI、SAP与微软联合宣布推出专为德国打造的“OpenAI for Germany”项目，旨在帮助德国政府、行政机构及研究机构的员工利用AI技术减少文书工作，提升工作效率。该项目强调数据主权与本地化部署，确保德国公共部门的数据安全与合规性。合作将结合SAP的企业软件平台与OpenAI的AI模型，由微软提供云基础设施支持，推动AI在公共领域的负责任应用。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/google-ai-experiment.png?quality=90&strip=all&crop=0%2C9.936991980134%2C100%2C85.714285714286&w=2400",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/784601/openai-sap-and-microsoft-just-announced-openai-for-germany",
+            "category": "AI"
+        },
+        {
+            "title": "微软拥抱OpenAI竞争对手Anthropic以提升Microsoft 365应用",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "微软宣布将Anthropic的Claude Sonnet 4和Claude Opus 4.1AI模型引入Microsoft 365 Copilot，为用户提供除OpenAI模型外的新选择。用户可在Researcher和Copilot Studio中通过“Try Claude”按钮切换模型，提升AI在研究、自动化和工作流中的表现。此举标志着微软在AI模型策略上进一步多元化，尽管Anthropic模型仍托管于AWS，但未来可能迁移至Azure。该功能已面向部分订阅用户逐步开放。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/m365copilotanthropic.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature",
+            "category": "AI"
+        },
         {
             "title": "算力三国：英伟达、甲骨文与 OpenAI的万亿棋局",
             "time": "2025-09-23",
@@ -2017,6 +2307,15 @@
             "summary": "英伟达与OpenAI宣布战略合作，计划投资高达1000亿美元建设至少10吉瓦的AI算力基础设施，首期系统将于2026年下半年上线。此举旨在确保OpenAI获得先进GPU资源并分散云服务商依赖，同时英伟达通过深度绑定掌握AI生态主导权。分析指出，该合作标志着AI基础设施从硬件销售转向资本捆绑，推动算力资源向少数巨头集中，引发行业垄断与系统性风险的担忧。",
             "image_url": "https://images.tmtpost.com/uploads/avatar/4872192_1753679724.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
             "url": "https://www.tmtpost.com/7702621.html",
+            "category": "AI"
+        },
+        {
+            "title": "NVIDIA拟向OpenAI投资1000亿美元",
+            "time": "2025-09-23",
+            "source": "动点科技",
+            "summary": "据路透社报道，NVIDIA计划向OpenAI投资最高1000亿美元，并供应数据中心芯片，双方已签署意向书。交易将通过非投票股份投资和芯片采购两阶段完成，计划部署至少10吉瓦算力系统，首批硬件预计2026年下半年交付。消息推动NVIDIA股价创历史新高，甲骨文股价亦上涨。分析指出该合作可能引发监管关注，存在资金循环风险，但OpenAI强调不会影响其与微软、博通等既有合作及自研芯片计划。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/07/ai-storm-sora-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-09-23/nvidia-openai-100bn-investment/",
             "category": "AI"
         },
         {
@@ -2570,6 +2869,57 @@
         }
     ],
     "苹果": [
+        {
+            "title": "英特尔 reportedly 向苹果寻求投资",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "据彭博社报道，英特尔正在与苹果探讨深化合作的可能性，包括可能的股权投资，以助力其芯片业务的复兴。目前会谈仍处于早期阶段。此前，英伟达、软银和美国政府已向英特尔注入数十亿美元资金。该消息源于英特尔为摆脱财务困境、重振制造能力所进行的一系列融资努力，而苹果作为其长期芯片采购伙伴，成为潜在投资方备受关注。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/battery_xray_1.jpg?quality=90&strip=all&crop=0%2C0.021505376344088%2C100%2C99.956989247312&w=2400",
+            "url": "https://www.theverge.com/news/785089/intel-reportedly-asked-apple-about-an-investment",
+            "category": "其他"
+        },
+        {
+            "title": "詹妮弗·查斯坦称与苹果在《The Savant》暂停播出决定上意见不合",
+            "time": "2025-09-25",
+            "source": "The Verge",
+            "summary": "好莱坞女星詹妮弗·查斯坦公开表示，她与Apple TV+在暂停播出其新剧《The Savant》的决定上存在分歧。该剧讲述一名调查员渗透网络仇恨团体以阻止国内极端主义暴力行为，原定于9月26日上线。查斯坦在Instagram长文中强调，该剧因近期美国频发的政治暴力事件而更具现实意义，强调应致敬那些预防暴力的英雄，并表达希望剧集能尽快与观众见面。Apple方面仅表示将择期发布。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/The_Savant_Photo_010301.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784839/jessica-chastain-respone-the-savant-pause-apple-tv-plus",
+            "category": "其他"
+        },
+        {
+            "title": "Neon：苹果应用商店排名第二的社交应用付费让用户录音并出售数据给AI公司",
+            "time": "2025-09-24",
+            "source": "TechCrunch",
+            "summary": "一款名为Neon Mobile的应用程序在苹果美国应用商店社交类中跃升至第二名，通过付费用户录制电话通话（每分钟0.3美元，每日上限30美元）获取语音数据，并将其出售给AI公司用于训练模型。尽管声称仅录制用户单方声音以规避法律风险，但其用户协议授予公司对录音数据广泛的、不可撤销的全球授权，引发隐私与安全担忧。专家警告，语音数据可能被用于语音伪造、身份欺诈，且AI合作伙伴及其用途均不透明，用户在不知情下可能危及他人隐私。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/neon-green-phone-GettyImages-1571854632.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/",
+            "category": "社交"
+        },
+        {
+            "title": "苹果 iPhone Air 与 17 Pro 抗弯表现良好，屏幕跌落依然易碎",
+            "time": "2025-09-24",
+            "source": "动点科技",
+            "summary": "苹果新款iPhone 17 Pro与iPhone Air在抗弯折测试中表现优异，分别能承受200磅和190磅压力仍可正常使用，但跌落测试中屏幕极易碎裂。测试显示，两款机型在从约1.8米高度正面跌落时，超瓷晶面板未能防止屏幕破裂，背面跌落则iPhone Air出现背板裂痕。专家建议用户使用保护壳，因无AppleCare情况下维修费用高达699-749美元。此外，iPhone Air因采用PVD工艺，比Pro系列更易划伤。",
+            "image_url": [
+                "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/0b418701-afd0-4cce-ac69-8ad58deb7675.jpeg",
+                "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/7fb8b17d-a378-498a-8efb-ec10ec5b24fc.jpeg",
+                "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/8a3aaec7-c175-4174-bd56-cb8b5a399f3f.jpeg",
+                "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/b2da20d6-f6cf-4f57-b4ba-a3854263238c.jpeg",
+                "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/4b22667d-c68a-408c-8dfb-8719b214e370.jpeg"
+            ],
+            "url": "https://cn.technode.com/post/2025-09-24/apple-iphone-air-and-17-pro-have-good-bending-resistance-but-their-screens-are-still-fragile-after-drops/",
+            "category": "其他"
+        },
+        {
+            "title": "最新iOS测试版暗示将支持非苹果智能手表通知",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "苹果正在开发一项名为“通知转发”的新功能，可能允许iPhone将通知推送到非苹果品牌的智能手表上，这一功能出现在iOS 26.1测试版中，疑似为响应欧盟《数字市场法案》（DMA）的要求。该法案迫使苹果开放更多接口，以提升iPhone与第三方设备的互操作性。据Macworld发现，该功能可能限制用户仅能同时转发至一个设备，并引入新的AccessoryExtension框架优化配对流程。目前尚不清楚该功能是否会在iOS 26.1正式发布时推出，或是否仅限欧盟地区用户使用。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257844_Samsung_Unpacked_July_2025_AJohnson_0010.jpg?quality=90&strip=all&crop=0.012500000000003%2C0%2C99.975%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784477/apple-ios-26-beta-third-party-smartwatch-notifications",
+            "category": "其他"
+        },
         {
             "title": "联发科发布天玑9500芯片：全新PC级架构、性能比肩苹果A19 Pro",
             "time": "2025-09-23",
@@ -3151,6 +3501,60 @@
     ],
     "阿里巴巴": [
         {
+            "title": "继外卖到家后，阿里又要搅局到店团购了",
+            "time": "2025-09-25",
+            "source": "36氪",
+            "summary": "阿里巴巴拟通过淘宝闪购和饿了么推出到店团购业务，优先布局餐饮领域，并在淘宝、支付宝、高德三大流量入口同步上线。该业务已在上海、深圳、嘉兴试点，计划扩展至全国一二线城市。阿里此举意在复用外卖商家资源，增强商家粘性，完善大消费生态。尽管面临美团、抖音、快手等激烈竞争，阿里凭借饿了么的地推优势有望突围，但高德扫街榜的“真实性”存疑，且缺乏抖音的流量红利，仍面临挑战。文章指出，阿里入局将提升市场活力，对用户和行业总体有益。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250925/v2_d24ec800f9fb4550b0102c211dfc5af5@000000_oswg327182oswg645oswg440_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3481334106725254",
+            "category": "社交"
+        },
+        {
+            "title": "为什么投资人不担心阿里云有泡沫？",
+            "time": "2025-09-25",
+            "source": "36氪",
+            "summary": "文章分析了投资人对阿里云巨额AI投入（3800亿元）的乐观态度，指出市场当前投资逻辑是“宁愿买错，也不愿踏空”。尽管AI泡沫论盛行，但阿里云凭借通义大模型开源生态、阿里系产品深度整合及清晰的AGI/ASI战略路径，展现出强确定性。云栖大会上，通义家族取代外部大模型，Qwen3-Max模型性能全球领先，叠加阿里云作为下一代AI基础设施的定位，使其获得资本持续青睐，股价在大会后单日大涨9.16%。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250925/v2_ee90ff833ee54ce6b1e1858742473daa@000000_oswg69528oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3481386484833415",
+            "category": "AI"
+        },
+        {
+            "title": "天猫精灵未来酒店4.0发布，AI驱动的解决方案开启「场景智能」时代",
+            "time": "2025-09-24",
+            "source": "机器之心",
+            "summary": "天猫精灵发布未来酒店4.0解决方案，通过AI驱动实现全场景智能交互，提升酒店服务的感知力与自动化水平。该方案整合语音识别、环境感知与多模态交互技术，打造可自适应用户需求的智能空间，标志着AI从单一设备控制迈向系统化场景智能的新阶段，推动智慧酒店行业升级。",
+            "image_url": "https://image.jiqizhixin.com/uploads/article/cover_image/e849f47c-453d-4ac2-a51c-da79901a92a7/%E5%9B%BE%E7%89%877.png",
+            "url": "https://www.jiqizhixin.com/articles/a96bdb7a-42c5-4488-a562-c694bf91be4b",
+            "category": "AI"
+        },
+        {
+            "title": "大模型七连发，外国人馋透了！阿里云栖大会全栈升级够狠",
+            "time": "2025-09-24",
+            "source": "机器之心",
+            "summary": "在2025云栖大会上，阿里云发布通义大模型家族七款新模型，涵盖基础模型Qwen3-Max、编程模型Qwen3-Coder、多模态模型Qwen3-VL、全模态模型Qwen3-Omni、视频生成模型Wan2.5-preview及语音模型通义百聆Fun。Qwen3-Max在多项评测中登顶全球第一梯队，Qwen3-Next架构实现效率突破，模型开源数量超300款，全球下载量达6亿次。通义系列全面覆盖全尺寸、全模态，推动AI开源生态发展，阿里云计划三年投入超3800亿元建设AI基础设施。",
+            "image_url": "https://image.jiqizhixin.com/uploads/editor/d08cb3e3-0130-4dc2-97b1-c9632742d856/640.png",
+            "url": "https://www.jiqizhixin.com/articles/bd6f2887-f91c-4d19-bbd1-c79e632f60b2",
+            "category": "AI"
+        },
+        {
+            "title": "源神阿里新发布的6个模型在哪里能用？急急急急",
+            "time": "2025-09-24",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/BU4_3PEyiCTC_d7cBPZ6Ew",
+            "category": "AI"
+        },
+        {
+            "title": "阿里吴泳铭：实现AGI已是确定性事件，超级人工智能ASI才是终极目标",
+            "time": "2025-09-24",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1bwDMYjwKicRpgdYlWvXDGuOw4t2IyO8cqpPt7cdicczn6WtmEasWFic6sfeNSF1lZUV6Nls82c0WB7g/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/mTnQSSSVkc3qX5JTRDAQvg",
+            "category": "其他"
+        },
+        {
             "title": "阿里加码本地到店服务，淘宝闪购饿了么上线团购",
             "time": "2025-09-23",
             "source": "36氪",
@@ -3643,6 +4047,53 @@
             "category": "AI"
         }
     ],
+    "YC": [
+        {
+            "title": "YC创始人五次转型后打造社交应用，六个月内获30万用户和百万美元年收入",
+            "time": "2025-09-24",
+            "source": "TechCrunch",
+            "summary": "Y Combinator孵化的初创公司Candle由前Apple和Asana工程师创立，历经五次产品转型后，最终推出一款帮助情侣和好友增进联系的轻量级社交应用。该应用通过每日问答、照片分享和打卡机制提升用户粘性，上线六个月已积累30万用户，月活跃用户超25万，DAU/MAU达50%，月收入突破15万美元，年收入超百万美元。其免费增值模式与TikTok等社交平台的病毒式传播成为增长关键，聚焦深度关系维护而非陌生人社交。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/IMG_2240.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/09/24/these-yc-founders-pivoted-5-times-before-building-a-social-app-that-nabbed-300k-users-and-over-1m-arr-in-6-months/",
+            "category": "社交"
+        },
+        {
+            "title": "YC S25孵化名单揭秘：AI 智能体与边缘计算成为新风口",
+            "time": "2025-09-08",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRHsbMJaoAZylJictsd00BiaOb02BdVNLyhicgRZoJVOeOKaDheib9IsTAYQoBREQzutfib0DnnK7ibjU6oQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/b8NXG2LmMbN1026zIbrJwQ",
+            "category": "AI"
+        },
+        {
+            "title": "Y Combinator称苹果App Store阻碍了初创企业发展",
+            "time": "2025-08-22",
+            "source": "TechCrunch",
+            "summary": "Y Combinator在苹果与Epic Games的长期法律纠纷中提交了一份法庭之友简报，指出App Store的30%抽成（即“苹果税”）严重阻碍了初创企业的创新和投资。YC表示，这一费用使得许多应用类企业难以扩展和持续发展，法院应驳回苹果的上诉，维持允许开发者提供替代支付方式的裁决，从而为初创企业创造更公平的竞争环境。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/",
+            "category": "社交"
+        },
+        {
+            "title": "YC孵化的外卖应用如何利用TikTok在App Store中大放异彩",
+            "time": "2025-07-24",
+            "source": "TechCrunch",
+            "summary": "BiteSight是一款通过短视频展示食物并结合社交推荐的外卖应用。创始人Lucious McDaniel IV通过一段TikTok视频成功让应用走红，短时间内获得近400万观看量，并在App Store美食饮料类排名第二。目前该应用已吸引超过10万用户，并计划扩展至更多城市。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/BiteSight-Founders.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/",
+            "category": "社交"
+        },
+        {
+            "title": "Y Combinator食品配送应用如何利用TikTok在应用商店中飙升",
+            "time": "2025-07-24",
+            "source": "TechCrunch",
+            "summary": "BiteSight是一款通过短视频和朋友推荐来发现美食的食品配送应用。创始人Lucious McDaniel IV通过一段TikTok视频展示其应用，迅速走红，短时间内获得近400万观看并吸引了超过10万新用户。尽管面临DoorDash等巨头的竞争，BiteSight凭借AI技术降低成本，并专注于Z世代的使用习惯，计划扩展至更多城市。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/BiteSight-Founders.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/07/24/how-a-y-combinator-food-delivery-app-used-tiktok-to-soar-in-the-app-store/",
+            "category": "其他"
+        }
+    ],
     "高盛": [
         {
             "title": "高盛再次唱多：全球资金回归中国，看好中国“十巨头”股票",
@@ -3655,6 +4106,15 @@
         }
     ],
     "美团": [
+        {
+            "title": "美团悄悄上线推理大模型，我们离生活Agent又近了一步",
+            "time": "2025-09-23",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkEAGKfGaKWNiabDnpQ2WONHUt6HWO62ibc1v9bFp8daJjLz9ptia2PRlUL04nTfc9ev8Z0GKv8FQcNQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/CYu0qvsLklvmuHyYzpj1Xw",
+            "category": "AI"
+        },
         {
             "title": "预制菜拜拜，我用美团首款生活Agent点新鲜的",
             "time": "2025-09-13",
@@ -3967,6 +4427,15 @@
     ],
     "Bloober Team": [
         {
+            "title": "致敬寂静岭！《OD》预告藏彩蛋 隐藏文字提及《P.T.》",
+            "time": "2025-09-24",
+            "source": "游侠网",
+            "summary": "小岛秀夫新作《OD》预告片引发玩家深度解析，多个隐藏线索被破解，包括被遮挡文字“距离传奇恐怖游戏《P.T.》已过去十年”以及德国演员乌多·奇尔口中闪现的“Atami”一词，被解读为日文“静岡”，暗指《寂静岭》。这些彩蛋强烈暗示《OD》在精神与叙事上延续了《P.T.》与未完成的《寂静岭》项目，被视为小岛对过往恐怖游戏理念的致敬与传承，引发玩家对这款新作的极高期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/09/24/584_20250924112151428.jpg",
+            "url": "https://www.ali213.net/news/html/2025-9/964463.html",
+            "category": "游戏"
+        },
+        {
             "title": "《重返寂静岭》宣传图引发争议:粉丝担忧影片创作方向",
             "time": "2025-09-23",
             "source": "游侠网",
@@ -4102,6 +4571,15 @@
         }
     ],
     "特朗普": [
+        {
+            "title": "特朗普H-1B签证混乱为欧洲创造吸引科技人才的机会",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "美国特朗普政府突然对H-1B签证征收10万美元费用，引发科技行业震荡，大量外籍技术人才陷入不确定性。欧洲初创企业趁机发起人才争夺战，伦敦的Cleo、Synthesia等AI独角兽和多家科技公司公开招募受影响的美国员工，提供签证支持、 relocation补贴和更稳定的环境。英国政府亦考虑免除高端人才签证费用。专家指出，该政策虽不适用于现有持证者，但已严重损害美国作为科技人才目的地的吸引力，客观上为欧洲科技生态注入重大机遇。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK022_ELON_MUSK_4_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784412/trump-h-1b-visa-europe-steal",
+            "category": "其他"
+        },
         {
             "title": "路已铺好！2026：只等特朗普式“人造牛”？",
             "time": "2025-09-22",
@@ -4439,6 +4917,15 @@
     ],
     "三星": [
         {
+            "title": "三星最新Galaxy耳机附赠免费Galaxy SmartTag2追踪器",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "三星推出Galaxy Buds 3 FE真无线降噪耳机，售价149.99美元，并联合亚马逊提供免费Galaxy SmartTag2追踪器的捆绑优惠，节省30美元。该耳机支持6小时续航（开启降噪）、IPx4防水，可与三星设备无缝连接，并支持Galaxy AI实时翻译。此外，文章还推荐了8BitDo复古机械小键盘、Blink视频门铃和Govee户外灯等三款优惠数码产品。该优惠活动截至9月28日。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Samsung-Galaxy-Buds-Fe3-and-SmartThings2-Tracker.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784644/samsung-galaxy-buds-3-fe-blink-video-doorbell-deal-sale",
+            "category": "其他"
+        },
+        {
             "title": "IFA 2025：三星、宏碁、联想等厂商的新品展望",
             "time": "2025-08-29",
             "source": "Engadget",
@@ -4492,6 +4979,15 @@
             "summary": "英伟达与OpenAI宣布战略合作，计划投资高达1000亿美元建设至少10吉瓦的AI算力基础设施，首期系统将于2026年下半年上线。此举旨在确保OpenAI获得先进GPU资源并分散云服务商依赖，同时英伟达通过深度绑定掌握AI生态主导权。分析指出，该合作标志着AI基础设施从硬件销售转向资本捆绑，推动算力资源向少数巨头集中，引发行业垄断与系统性风险的担忧。",
             "image_url": "https://images.tmtpost.com/uploads/avatar/4872192_1753679724.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
             "url": "https://www.tmtpost.com/7702621.html",
+            "category": "AI"
+        },
+        {
+            "title": "NVIDIA拟向OpenAI投资1000亿美元",
+            "time": "2025-09-23",
+            "source": "动点科技",
+            "summary": "据路透社报道，NVIDIA计划向OpenAI投资最高1000亿美元，并供应数据中心芯片，双方已签署意向书。交易将通过非投票股份投资和芯片采购两阶段完成，计划部署至少10吉瓦算力系统，首批硬件预计2026年下半年交付。消息推动NVIDIA股价创历史新高，甲骨文股价亦上涨。分析指出该合作可能引发监管关注，存在资金循环风险，但OpenAI强调不会影响其与微软、博通等既有合作及自研芯片计划。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/07/ai-storm-sora-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-09-23/nvidia-openai-100bn-investment/",
             "category": "AI"
         },
         {
@@ -4822,6 +5318,15 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "视频播客，B站抖音小红书的“新军备竞赛”",
+            "time": "2025-09-25",
+            "source": "钛媒体",
+            "summary": "本文分析了视频播客在中国的兴起趋势，指出B站、小红书、抖音等平台纷纷入局，通过流量扶持、专属录制棚等方式推动音频创作者转型视频内容生产。视频播客作为连接音频与短视频的“内容母体”，被视作破解播客商业化困境的新路径。文章强调其核心价值在于成为可多平台分发的素材库，而非单一节目形态，同时契合家庭大屏场景回归趋势，有望成为平台争夺用户时长与客厅经济入口的重要工具。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/09/803f1dd535bd7d24b64e6a9efebcea91_1758726611.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400/875&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7705099.html",
+            "category": "社交"
+        },
         {
             "title": "“刷着刷着就定了”，抖音小红书们成了酒店的“白月光”？",
             "time": "2025-09-23",
@@ -5332,6 +5837,24 @@
     ],
     "Anthropic": [
         {
+            "title": "微软拥抱OpenAI竞争对手Anthropic以提升Microsoft 365应用",
+            "time": "2025-09-24",
+            "source": "The Verge",
+            "summary": "微软宣布将Anthropic的Claude Sonnet 4和Claude Opus 4.1AI模型引入Microsoft 365 Copilot，为用户提供除OpenAI模型外的新选择。用户可在Researcher和Copilot Studio中通过“Try Claude”按钮切换模型，提升AI在研究、自动化和工作流中的表现。此举标志着微软在AI模型策略上进一步多元化，尽管Anthropic模型仍托管于AWS，但未来可能迁移至Azure。该功能已面向部分订阅用户逐步开放。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/m365copilotanthropic.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature",
+            "category": "AI"
+        },
+        {
+            "title": "微软将Anthropic的AI接入Copilot",
+            "time": "2025-09-24",
+            "source": "TechCrunch",
+            "summary": "微软宣布从9月24日起，将其AI助手Copilot所使用的AI模型扩展至Anthropic的Claude系列，包括用于复杂推理的Opus 4.1和用于常规任务的Sonnet 4。此举标志着微软逐步减少对OpenAI的依赖，此前已宣布在Office 365中整合Anthropic的AI技术。企业用户现在可在Copilot中选择使用OpenAI或Anthropic的模型，以应对不同任务需求，如编程、数据分析和内容生成。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
+            "category": "AI"
+        },
+        {
             "title": "实测腾讯版Claude Code，能微信登陆，还能用GPT5、Claude4和Gemini 2.5 pro御三家",
             "time": "2025-09-11",
             "source": "卡尔的AI沃茨",
@@ -5495,6 +6018,15 @@
         }
     ],
     "Mistral": [
+        {
+            "title": "Mistral：从0到百亿美金，欧洲 AI 独角兽的崛起",
+            "time": "2025-09-24",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRFw39PtK7p6y5VF5M7nhdTujLTrbUI9Mm4AIusDBLtdlXdHqyZbsMLWexfckIREyTO9GozaeM2JWw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/FsWLYBe4e13jppMBubrbxA",
+            "category": "AI"
+        },
         {
             "title": "什么是Mistral AI？关于这家OpenAI竞争对手的一切",
             "time": "2025-09-07",
