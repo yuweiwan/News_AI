@@ -736,6 +736,24 @@
     ],
     "腾讯": [
         {
+            "title": "腾讯开源Nano Banana，我总结了15种邪修玩法（附提示语）",
+            "time": "2025-09-28",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlLs4rNvI5HE6yvNkuQnm3xNSJaOvZPN7LFYdfy9UyJLTMThbicBG0SLA7EYyb4Owd3GUXe0GFV8qw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/mDVmHnv2G7r0Z7G0whoSjw",
+            "category": "AI"
+        },
+        {
+            "title": "业界首个高质量原生3D组件生成模型来了！来自腾讯混元团队",
+            "time": "2025-09-27",
+            "source": "量子位",
+            "summary": "腾讯混元团队推出业界首个高质量原生3D组件生成模型Hunyuan3D-Part，包含P3-SAM原生3D分割模型和X-Part组件生成模型，可将输入图像生成语义可分解的3D组件，适用于游戏资产制作与3D打印。该模型摆脱对2D数据依赖，基于自建370万部件标注数据集训练，显著提升分割精度与生成质量，相关代码与权重已开源。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/6daa8bcae51ee40dc34e0c9c51fb3cb4.jpeg",
+            "url": "https://www.qbitai.com/2025/09/337237.html",
+            "category": "AI"
+        },
+        {
             "title": "腾讯智能体开源大动作！关键技术都拿出来了，开发平台还全面升级",
             "time": "2025-09-22",
             "source": "量子位",
@@ -1016,6 +1034,24 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "韩国计划以国产AI超越OpenAI、谷歌等巨头",
+            "time": "2025-09-27",
+            "source": "TechCrunch",
+            "summary": "韩国政府启动史上最大规模的主权AI计划，投入约3.9亿美元支持LG、SK电信、Naver Cloud、NC AI和Upstage五家本土企业开发大型语言模型，旨在减少对国外AI技术的依赖。各企业聚焦韩语优化、行业应用与效率提升，如LG的Exaone 4.0强调工业数据驱动、SK的A.X在韩语处理上效率超GPT-4o、Naver构建AI全栈生态、Upstage的Solar Pro 2以小模型实现高精度。政府将每半年评估进展，最终仅保留两家领军企业。此举意在打造具有文化适配性和数据主权优势的韩国AI生态。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2016/05/shutterstock_345588500.jpg?w=1000",
+            "url": "https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/",
+            "category": "AI"
+        },
+        {
+            "title": "首款推理具身模型，谷歌DeepMind造！自主理解/规划/执行复杂任务，打破一机一训，还能互相0样本迁移技能",
+            "time": "2025-09-27",
+            "source": "量子位",
+            "summary": "谷歌DeepMind发布新一代通用机器人基座模型Gemini Robotics 1.5系列，包含执行模型GR 1.5与推理模型GR-ER 1.5，首次实现具身推理能力，使机器人能像人类一样“先思考、再行动”。该模型可自主分解复杂任务（如分类衣物、打包行李），并根据环境信息上网搜索决策，支持跨平台零样本技能迁移。通过创新的Motion Transfer机制，模型能在不同机器人间共享动作经验，大幅提升泛化能力。同时，系统在安全性和可解释性上表现优异，已在多项基准测试中超越GPT-5和Gemini 2.5 Flash。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/bc51b69fcb307efc29224d0a54375905.png",
+            "url": "https://www.qbitai.com/2025/09/337202.html",
+            "category": "AI"
+        },
         {
             "title": "Google Vids 现可自动为幻灯片生成AI脚本、配音和背景音乐",
             "time": "2025-09-25",
@@ -1513,6 +1549,15 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta欲成为机器人领域的Android",
+            "time": "2025-09-27",
+            "source": "Engadget",
+            "summary": "Meta正致力于开发机器人软件平台，希望像Android一样通过授权软件而非硬件竞争市场。尽管公司正在研发名为“Metabot”的人形机器人原型，但其核心目标是构建一个可被其他厂商授权使用的“世界模型”软件系统，用于模拟灵巧手部动作等复杂任务。该计划由前Cruise首席执行官Marc Whitten领导，并与Meta的超级智能实验室协同推进，目标是未来实现家务机器人功能，但目前仍处于早期阶段。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/rdhQOpi3LUf6ImDqv1GySw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/6b90e030-9b24-11f0-bdfe-255c8617736f",
+            "url": "https://www.engadget.com/big-tech/meta-wants-to-become-the-android-of-robotics-220701800.html",
+            "category": "AI"
+        },
         {
             "title": "Instagram月活跃用户达到30亿",
             "time": "2025-09-25",
@@ -2128,6 +2173,15 @@
     ],
     "YouTube": [
         {
+            "title": "YouTube Premium为iOS、Android和桌面端增加高清音频和4倍速播放功能",
+            "time": "2025-09-27",
+            "source": "Engadget",
+            "summary": "YouTube Premium现在将多项高级功能扩展至iOS、Android和桌面端，包括0.5x至4x的倍速播放、自动下载Shorts供离线观看以及在智能电视和游戏主机上使用Jump Ahead跳过视频关键片段。此外，音乐视频和Art Tracks的音频质量提升至256kbps，此前仅限YouTube Music应用使用。这些更新旨在统一跨设备体验，但不改变订阅核心价值——无广告观看与音乐服务。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/4bhcXFSrT7toZ0CeHvYwlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/68528240-9b1d-11f0-abae-10f2cf455b30",
+            "url": "https://www.engadget.com/entertainment/youtube/youtube-premium-adds-high-quality-audio-and-4x-playback-for-ios-android-and-desktop-212214797.html",
+            "category": "社交"
+        },
+        {
             "title": "YouTube将允许用户隐藏烦人的结束画面",
             "time": "2025-09-25",
             "source": "The Verge",
@@ -2264,6 +2318,51 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "古尔曼：苹果版 ChatGPT 仅限内部试用，暂不向公众推出",
+            "time": "2025-09-29",
+            "source": "动点科技",
+            "summary": "彭博社记者马克·古尔曼称，苹果内部正在测试一款代号为Veritas的AI聊天机器人，用于验证新一代Siri技术，但不会向公众发布。该应用功能类似ChatGPT，支持对话、照片编辑和数据检索，基于苹果自研模型与外部模型（如Gemini）结合，核心目标是提升Project Linwood的Siri系统。尽管苹果已集成ChatGPT到Siri中，但体验不佳，外界认为缺乏公开聊天机器人可能削弱其在生成式AI领域的竞争力。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2022/11/siri-iphone-omid-armin-AGRtDoZlpYw-unsplash-uai-1000x562.jpg",
+            "url": "https://cn.technode.com/post/2025-09-29/gurman-the-apple-version-of-chatgpt-is-for-internal-trials-only-and-will-not-be-released-to-the-public-yet/",
+            "category": "AI"
+        },
+        {
+            "title": "HLE首次突破60分！Eigen-1基于DeepSeek V3.1领先GPT-5",
+            "time": "2025-09-29",
+            "source": "量子位",
+            "summary": "Eigen-1多智能体系统基于开源DeepSeek V3.1，通过Monitor-based RAG、HSR分层解法修复和QAIR质量感知迭代推理三大创新机制，在HLE Bio/Chem Gold测试集上实现Pass@5准确率61.74%，首次突破60分大关，显著超越GPT-5、Gemini 2.5 Pro等闭源模型。该系统在减少53.5%计算开销的同时提升准确率，标志着AI科学推理进入新范式，为AI辅助科研提供重要突破。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/13fd55eddab6a0a018b58bb01748aeec.png",
+            "url": "https://www.qbitai.com/2025/09/337921.html",
+            "category": "AI"
+        },
+        {
+            "title": "奥特曼和量子计算奠基人讨论GPT-8",
+            "time": "2025-09-28",
+            "source": "量子位",
+            "summary": "奥特曼与量子计算奠基人戴维・多伊奇就AI能否发展为具备意识的超级智能展开对话。多伊奇认为现有AI缺乏“解释性创造力”和自主动机选择能力，无法成为真正AGI；奥特曼则以未来GPT-8可能解决量子引力并讲述其思考过程为例，质疑若AI能生成原创性科学解释，是否应被认可为智能。两人最终在“过程故事”作为判断关键上达成共识。文章还介绍了多伊奇在量子计算领域的奠基性贡献及其著作。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/78ca23ab21cd6f25f66311f1d80e0add.png",
+            "url": "https://www.qbitai.com/2025/09/337727.html",
+            "category": "AI"
+        },
+        {
+            "title": "黄仁勋：OpenAI融资时英伟达太穷，当时应该把所有钱都给他们",
+            "time": "2025-09-28",
+            "source": "量子位",
+            "summary": "英伟达CEO黄仁勋在最新访谈中透露，OpenAI早期寻求英伟达投资时，公司因资金有限未能参与，事后表示“应该把所有钱都给他们”。他预测OpenAI将成为继Meta、谷歌后的下一个万亿美元级公司，并强调英伟达1000亿美元投资是为布局AI基础设施红利，而非单纯促进芯片销售。对话还指出通用计算时代已终结，全球算力正全面转向AI加速计算，所谓“算力过剩”是伪命题，AI正推动芯片设计与系统优化的革命性变革。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/051d97e804db1df9f600ada93de8454a.jpeg",
+            "url": "https://www.qbitai.com/2025/09/337848.html",
+            "category": "AI"
+        },
+        {
+            "title": "韩国计划以国产AI超越OpenAI、谷歌等巨头",
+            "time": "2025-09-27",
+            "source": "TechCrunch",
+            "summary": "韩国政府启动史上最大规模的主权AI计划，投入约3.9亿美元支持LG、SK电信、Naver Cloud、NC AI和Upstage五家本土企业开发大型语言模型，旨在减少对国外AI技术的依赖。各企业聚焦韩语优化、行业应用与效率提升，如LG的Exaone 4.0强调工业数据驱动、SK的A.X在韩语处理上效率超GPT-4o、Naver构建AI全栈生态、Upstage的Solar Pro 2以小模型实现高精度。政府将每半年评估进展，最终仅保留两家领军企业。此举意在打造具有文化适配性和数据主权优势的韩国AI生态。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2016/05/shutterstock_345588500.jpg?w=1000",
+            "url": "https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/",
+            "category": "AI"
+        },
         {
             "title": "刚刚，Sam Altman发文，透露OpenAI正在干的大事业",
             "time": "2025-09-24",
@@ -2869,6 +2968,42 @@
         }
     ],
     "苹果": [
+        {
+            "title": "古尔曼：苹果版 ChatGPT 仅限内部试用，暂不向公众推出",
+            "time": "2025-09-29",
+            "source": "动点科技",
+            "summary": "彭博社记者马克·古尔曼称，苹果内部正在测试一款代号为Veritas的AI聊天机器人，用于验证新一代Siri技术，但不会向公众发布。该应用功能类似ChatGPT，支持对话、照片编辑和数据检索，基于苹果自研模型与外部模型（如Gemini）结合，核心目标是提升Project Linwood的Siri系统。尽管苹果已集成ChatGPT到Siri中，但体验不佳，外界认为缺乏公开聊天机器人可能削弱其在生成式AI领域的竞争力。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2022/11/siri-iphone-omid-armin-AGRtDoZlpYw-unsplash-uai-1000x562.jpg",
+            "url": "https://cn.technode.com/post/2025-09-29/gurman-the-apple-version-of-chatgpt-is-for-internal-trials-only-and-will-not-be-released-to-the-public-yet/",
+            "category": "AI"
+        },
+        {
+            "title": "有消息称苹果“Veritas”是员工对 Siri 人工智能升级的测试",
+            "time": "2025-09-29",
+            "source": "动点科技",
+            "summary": "据彭博社记者马克·古尔曼报道，苹果正在内部测试名为“Veritas”的AI聊天机器人，用于升级Siri功能。该系统允许员工进行多轮对话、搜索个人数据及执行照片编辑等操作，功能类似ChatGPT和Gemini。目前Veritas仅限内部使用，暂无面向公众发布的计划，苹果或更倾向于整合谷歌的Gemini用于AI搜索。此举反映了苹果在AI竞赛中加速内部研发、应对Apple Intelligence初期反响不佳的策略。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2024/09/Apple-iPhone-16-Apple-Intelligence-240909-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-09-29/veritas-siri/",
+            "category": "AI"
+        },
+        {
+            "title": "美国劳工委员会撤销对苹果CEO违反员工权利的指控",
+            "time": "2025-09-28",
+            "source": "Engadget",
+            "summary": "美国国家劳工关系委员会（NLRB）撤销了此前针对苹果公司及其CEO蒂姆·库克的多项指控，包括库克2021年一封关于禁止泄露机密信息的员工邮件被指侵犯员工权利。NLRB同时撤回了对前员工Ashley Gjøvik和#AppleToo运动领导者Janneke Parrish遭报复性解雇的指控，并取消了对苹果保密政策和监控员工行为的违法指控。但部分指控未被撤销，苹果此前已与Gjøvik达成和解，承诺修改员工协议以保障员工讨论薪酬和组织工会的权利。此变动被视为NLRB在特朗普政府下对企业更友好的体现。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/NSJ4s.eSxIB0mXdhQaUomw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/a1f0bed0-8dbd-11f0-a67f-a9fc8d9a34c2",
+            "url": "https://www.engadget.com/big-tech/us-labor-board-drops-allegation-that-apples-ceo-violated-employees-rights-143053792.html",
+            "category": "社交"
+        },
+        {
+            "title": "苹果 reportedly 正接近量产搭载 M5 芯片的 Mac 笔记本",
+            "time": "2025-09-28",
+            "source": "Engadget",
+            "summary": "据彭博社记者 Mark Gurman 报道，苹果正接近量产搭载新一代 M5 芯片的 MacBook Pro、MacBook Air 以及两款新 Mac 显示器，预计将在今年年底至明年第一季度发布。其中 MacBook Pro 可能延续秋季发布传统，而 MacBook Air 或推迟至春季。新款显示器有望升级为 mini-LED 面板，提升亮度与色彩表现。此前苹果曾计划于 2025 年下半年启动 M5 生产，目前时间表基本符合预期。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/9fv2jy6ptlhKdMhE52Ts3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/0e26bc30-9c7d-11f0-b75e-f99e2459fadc",
+            "url": "https://www.engadget.com/computing/laptops/apple-is-reportedly-nearing-production-for-its-latest-m5-powered-macbooks-154148070.html",
+            "category": "其他"
+        },
         {
             "title": "英特尔 reportedly 向苹果寻求投资",
             "time": "2025-09-25",
@@ -3501,6 +3636,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "最近的内存焦虑，让阿里新模型Qwen3-Omni都治好了",
+            "time": "2025-09-26",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXluABEBlic0UGW7P0GcNoCcG1BWCXvX2fRCWbXezvFgu1pYGOxK6lGahicInFUe2YZmdL7cYCH02jCg/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/-3CTyBchm52TaqcZYps16Q",
+            "category": "AI"
+        },
+        {
             "title": "继外卖到家后，阿里又要搅局到店团购了",
             "time": "2025-09-25",
             "source": "36氪",
@@ -4107,6 +4251,15 @@
     ],
     "美团": [
         {
+            "title": "拼车拼好饭之后，国内酒店开始流行“拼楼”",
+            "time": "2025-09-29",
+            "source": "36氪",
+            "summary": "近年来，国内酒店行业内卷加剧，催生“拼楼”式酒店垂直综合体，即一栋公寓楼内密集分布十余家酒店，共享大堂与电梯，通过差异化定位与客流共享实现淡季共担压力、旺季满房。该模式因成本低、回报高受投资者青睐，但亦带来消防隐患、噪音扰民、产权混乱等社会问题。文章以杭州、成都、哈尔滨等地案例分析其兴起背景与风险，并指出未来酒店与公寓界限模糊，需打造复合型生态才能突破同质化竞争。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250929/v2_9b47946770454eca8697581d3d2595b2@5091053_oswg106780oswg1080oswg1070_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3486988232039554",
+            "category": "社交"
+        },
+        {
             "title": "美团悄悄上线推理大模型，我们离生活Agent又近了一步",
             "time": "2025-09-23",
             "source": "卡尔的AI沃茨",
@@ -4427,6 +4580,15 @@
     ],
     "Bloober Team": [
         {
+            "title": "《寂静岭f》宣布改编成官方小说！今年10月30日发售",
+            "time": "2025-09-29",
+            "source": "游侠网",
+            "summary": "科乐美与角川集团联合宣布，《寂静岭f》将改编为官方小说，于2025年10月30日在日本发售，由知名作家@kuromentaiko执笔。小说设定在1960年代日本乡村小镇“戎之丘”，故事背景由《寒蝉鸣泣之时》原作者龙骑士07打造，核心理念为“寻觅恐怖中的美学”。角色与怪物设计由kera负责，音乐由山冈晃、稻毛谦介等知名音乐人参与制作，目前尚未公布其他地区发行计划。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/09/29/584_20250929101811160.jpg",
+            "url": "https://www.ali213.net/news/html/2025-9/966069.html",
+            "category": "游戏"
+        },
+        {
             "title": "致敬寂静岭！《OD》预告藏彩蛋 隐藏文字提及《P.T.》",
             "time": "2025-09-24",
             "source": "游侠网",
@@ -4482,6 +4644,15 @@
         }
     ],
     "卡普空": [
+        {
+            "title": "卡普空×万代推出《生化2RE》大型街机游戏 今冬发售",
+            "time": "2025-09-28",
+            "source": "游侠网",
+            "summary": "卡普空与万代南梦宫合作，推出基于《生化危机2：重制版》的大型街机游戏，预计2025年冬季在北美首发，2026年春季登陆日本。游戏延续光线枪射击玩法，配备气流喷射、地板震动等体感设备，增强恐怖沉浸感。此外，有外媒爆料《生化危机9》将于今年10月或11月开放预购，系列主题音乐会定于明年3月举行，但卡普空尚未对此回应。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/09/28/584_2025092890737407.png",
+            "url": "https://www.ali213.net/news/html/2025-9/965599.html",
+            "category": "游戏"
+        },
         {
             "title": "卡普空总裁称PS5高价格导致《怪物猎人：荒野》销量低迷",
             "time": "2025-09-02",
@@ -4571,6 +4742,15 @@
         }
     ],
     "特朗普": [
+        {
+            "title": "特朗普提议芯片制造平等规则",
+            "time": "2025-09-27",
+            "source": "The Verge",
+            "summary": "特朗普提议实施一项新规则，要求芯片制造商在美国生产的半导体数量必须与其客户从海外进口的数量相等，以此作为关税豁免的条件。该计划旨在推动美国本土芯片制造，但被质疑存在法律漏洞和执行难度。根据《华尔街日报》报道，企业可通过承诺在美国建厂获得进口配额，直至工厂建成。这一政策延续了特朗普政府对半导体产业的干预倾向，此前已出现针对芯片关税的豁免和变相出口税案例，引发业界对政策稳定性和合法性的担忧。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/policy/786492/trump-floats-equal-chipmaking-rule",
+            "category": "其他"
+        },
         {
             "title": "特朗普H-1B签证混乱为欧洲创造吸引科技人才的机会",
             "time": "2025-09-24",
@@ -4690,6 +4870,15 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "Gemini灵魂人物加盟xAI，马斯克亲自夹道欢迎！",
+            "time": "2025-09-28",
+            "source": "量子位",
+            "summary": "前谷歌DeepMind资深研究员Dustin Tran，作为Gemini DeepThink模型的共同创造者，宣布加入马斯克旗下xAI团队。他在谷歌期间主导了Gemini系列模型的研发，帮助谷歌在AI竞争中逆转局势，并曾参与TensorFlow、Vision Transformer等关键项目。Tran称加入xAI主要因马斯克提供的海量算力、独特数据策略及高增长速度，其加盟或将极大推动Grok-5的研发。马斯克本人也亲自转发欢迎。Tran还在文中调侃OpenAI‘点子库存见底’。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d5990780e1426ee850cf6203532cdded.png",
+            "url": "https://www.qbitai.com/2025/09/337739.html",
+            "category": "AI"
+        },
         {
             "title": "马斯克的最快AI模型来了",
             "time": "2025-09-16",
@@ -4964,6 +5153,15 @@
     ],
     "英伟达": [
         {
+            "title": "黄仁勋：OpenAI融资时英伟达太穷，当时应该把所有钱都给他们",
+            "time": "2025-09-28",
+            "source": "量子位",
+            "summary": "英伟达CEO黄仁勋在最新访谈中透露，OpenAI早期寻求英伟达投资时，公司因资金有限未能参与，事后表示“应该把所有钱都给他们”。他预测OpenAI将成为继Meta、谷歌后的下一个万亿美元级公司，并强调英伟达1000亿美元投资是为布局AI基础设施红利，而非单纯促进芯片销售。对话还指出通用计算时代已终结，全球算力正全面转向AI加速计算，所谓“算力过剩”是伪命题，AI正推动芯片设计与系统优化的革命性变革。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/051d97e804db1df9f600ada93de8454a.jpeg",
+            "url": "https://www.qbitai.com/2025/09/337848.html",
+            "category": "AI"
+        },
+        {
             "title": "算力三国：英伟达、甲骨文与 OpenAI的万亿棋局",
             "time": "2025-09-23",
             "source": "36氪",
@@ -5200,6 +5398,15 @@
     ],
     "deepseek": [
         {
+            "title": "HLE首次突破60分！Eigen-1基于DeepSeek V3.1领先GPT-5",
+            "time": "2025-09-29",
+            "source": "量子位",
+            "summary": "Eigen-1多智能体系统基于开源DeepSeek V3.1，通过Monitor-based RAG、HSR分层解法修复和QAIR质量感知迭代推理三大创新机制，在HLE Bio/Chem Gold测试集上实现Pass@5准确率61.74%，首次突破60分大关，显著超越GPT-5、Gemini 2.5 Pro等闭源模型。该系统在减少53.5%计算开销的同时提升准确率，标志着AI科学推理进入新范式，为AI辅助科研提供重要突破。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/13fd55eddab6a0a018b58bb01748aeec.png",
+            "url": "https://www.qbitai.com/2025/09/337921.html",
+            "category": "AI"
+        },
+        {
             "title": "DeepSeek-V3.1发布版本更新",
             "time": "2025-09-23",
             "source": "动点科技",
@@ -5318,6 +5525,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "TikTok Shop欧洲站卖家：“赚欧元也太香了吧！”",
+            "time": "2025-09-29",
+            "source": "白鲸出海",
+            "summary": "TikTok Shop欧洲市场快速增长，月活跃用户超2亿，英国、西班牙、德国等站点GMV表现强劲，其中德国站8月单月GMV突破3460万美元。平台放宽入驻门槛，推出多项扶持政策，吸引大量中国卖家布局。卖家普遍反馈欧洲市场流量红利明显，产品供不应求，尤其德国和西班牙成为热门目标。文章还强调本地化运营、合规（如VAT、EPR）及选品策略的重要性，认为欧洲已成为跨境卖家掘金的新高地。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250929/1759113368769194.jpg",
+            "url": "https://www.baijing.cn/article/54246",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok交易引发更多疑问而非答案",
+            "time": "2025-09-27",
+            "source": "The Verge",
+            "summary": "特朗普政府签署行政命令试图“拯救”TikTok，声称使其“美国运营”，但未公开新所有者身份或持股比例，引发法律合规性质疑。专家指出，总统多次延后禁令执行期限，涉嫌违反宪法“忠实执行法律”条款，导致苹果、谷歌等公司陷入非法运营困境。该事件凸显政府对法治的漠视与权力扩张风险。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN2_CVirginia_A.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+            "url": "https://www.theverge.com/report/786748/tiktok-deal-trump-administration-legal-uncertainty",
+            "category": "社交"
+        },
         {
             "title": "视频播客，B站抖音小红书的“新军备竞赛”",
             "time": "2025-09-25",
@@ -5739,6 +5964,15 @@
     ],
     "月之暗面": [
         {
+            "title": "实测Kimi全新Agent模型「OK Computer」，很OK",
+            "time": "2025-09-27",
+            "source": "量子位",
+            "summary": "Kimi发布全新Agent模型OK Computer，可自主完成网页设计、PPT生成、数据分析等复杂任务。实测中，模型仅凭一句话提示词即可自动生成包含交互功能的Pygame网页、儿童绘本与音频、文艺风格PPT，并能自动搜索月之暗面财务数据并可视化。模型具备任务规划、自主搜索、代码编写与静态部署能力，无需人工干预，展现出强大的多模态任务整合与自主执行能力，被评价为“很OK”。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/0dca34a46fca480df5aa47741b6a00be.gif",
+            "url": "https://www.qbitai.com/2025/09/337099.html",
+            "category": "AI"
+        },
+        {
             "title": "Kimi开源又放大招！20秒更新万亿参数的中间件来了",
             "time": "2025-09-11",
             "source": "量子位",
@@ -5767,6 +6001,15 @@
         }
     ],
     "商汤科技": [
+        {
+            "title": "商汤创编一体AI短片创作agent“Seko”上线，靠对话就能直接成片",
+            "time": "2025-09-29",
+            "source": "动点科技",
+            "summary": "商汤推出行业首发的创编一体AI短片创作Agent“Seko”，用户只需通过对话即可生成完整、连贯的AI视频，无需跨平台操作或学习复杂工具。Seko集成多模态大模型，支持分镜自动拆解、角色台词匹配、一致性画面生成及60种音色配音，并内置专业编辑器实现高效修改。目前已吸引10万创作者使用，单分钟视频制作成本降低99.5%，被赞为“AI短剧大师”，显著降低专业视频创作门槛。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/seko-1.jpg",
+            "url": "https://cn.technode.com/post/partner/sensetime-seko/",
+            "category": "AI"
+        },
         {
             "title": "用即梦4.0直出AI长视频的邪修攻略！我在seko薅商汤羊毛",
             "time": "2025-09-15",
