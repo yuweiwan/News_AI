@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "为什么说 PlayStation 和 Xbox 不再只是游戏机",
+            "time": "2025-10-02",
+            "source": "动点科技",
+            "summary": "文章分析了索尼PlayStation与微软Xbox从昔日主机大战转向跨平台合作的趋势，指出随着游戏引擎普及和玩家需求变化，独占策略已逐渐让位于平台化战略。索尼和微软纷纷将自家游戏登陆对手平台，如《绝地潜兵2》登顶Xbox畅销榜，微软《夺宝奇兵》登陆PS5，反映出硬件销售利润下降、游戏内容成为核心价值的转型。未来主机或将演变为运行Windows系统的PC设备，微软已推出Xbox掌机并规划云游戏串流，索尼亦在扩大PC与移动端游戏发行，主机作为物理设备的重要性正被游戏生态本身取代。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/GzRz_BQWUAA9VJB.jpg",
+            "url": "https://cn.technode.com/post/2025-10-02/sony-playstation-microsoft-xbox-future-gaming/",
+            "category": "游戏"
+        },
+        {
+            "title": "微软推出Microsoft 365 Premium，与ChatGPT Plus同价整合Office与AI功能",
+            "time": "2025-10-02",
+            "source": "The Verge",
+            "summary": "微软推出全新的Microsoft 365 Premium订阅服务，定价为每月19.99美元，与OpenAI的ChatGPT Plus持平。该服务整合了Copilot Pro的高级AI功能与Microsoft 365 Family的全家共享权益，包括Office桌面应用、每人1TB云存储、GPT-4o图像生成与语音功能，并支持用户通过个人账户在工作版Office中启用AI功能，同时保障企业数据安全。此举标志着Copilot Pro将逐步停售，微软旨在强化其在生产力AI领域的竞争优势。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
+            "category": "AI"
+        },
+        {
+            "title": "微软重组Xbox Game Pass计划并将Ultimate价格上调至每月29.99美元",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "微软重新规划Xbox Game Pass订阅体系，将Ultimate套餐价格从19.99美元上调至29.99美元，并为Essential和Premium套餐新增PC游戏库和云游戏支持。所有 tiers 均获得更大游戏库、云游戏访问及游戏内奖励，Ultimate还新增45款新游戏、Fortnite Crew和Ubisoft Plus Classics等内容，云游戏支持提升至1440p分辨率。PC Game Pass价格也上调至16.49美元，但未增加新权益。微软强调此次提价旨在提升服务价值，现有用户将自动升级至新套餐。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/xboxgamepasshed.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789424/xbox-game-pass-premium-essentials-ultimate-price-increase-changes",
+            "category": "游戏"
+        },
+        {
             "title": "高通发布Snapdragon X2 Elite和Extreme芯片，面向Windows PC",
             "time": "2025-09-25",
             "source": "The Verge",
@@ -281,6 +308,24 @@
         }
     ],
     "索尼": [
+        {
+            "title": "为什么说 PlayStation 和 Xbox 不再只是游戏机",
+            "time": "2025-10-02",
+            "source": "动点科技",
+            "summary": "文章分析了索尼PlayStation与微软Xbox从昔日主机大战转向跨平台合作的趋势，指出随着游戏引擎普及和玩家需求变化，独占策略已逐渐让位于平台化战略。索尼和微软纷纷将自家游戏登陆对手平台，如《绝地潜兵2》登顶Xbox畅销榜，微软《夺宝奇兵》登陆PS5，反映出硬件销售利润下降、游戏内容成为核心价值的转型。未来主机或将演变为运行Windows系统的PC设备，微软已推出Xbox掌机并规划云游戏串流，索尼亦在扩大PC与移动端游戏发行，主机作为物理设备的重要性正被游戏生态本身取代。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/GzRz_BQWUAA9VJB.jpg",
+            "url": "https://cn.technode.com/post/2025-10-02/sony-playstation-microsoft-xbox-future-gaming/",
+            "category": "游戏"
+        },
+        {
+            "title": "索尼更新版PS5 Slim在欧洲发售，存储容量减至825GB",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "索尼在欧洲推出了更新版的数字版PS5 Slim，售价仍为499欧元，但内部存储从1TB减少至825GB。据YouTuber Austin Evans的拆机视频证实，实际可用存储仅为667.2GB，低于旧版1TB机型的848GB。新机型还采用了哑光表面设计，重量减轻约100克。索尼未说明此次改动原因，但此前曾以“经济环境严峻”为由提价。目前尚无该机型在欧洲以外地区发布的计划。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sony-ps5-825gb.png?quality=90&strip=all&crop=5.3152789005659%2C0%2C89.369442198868%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789686/sony-digital-ps5-slim-less-storage-europe",
+            "category": "游戏"
+        },
         {
             "title": "维京生存模拟游戏《Valheim》将于2026年登陆PS5",
             "time": "2025-09-17",
@@ -736,6 +781,15 @@
     ],
     "腾讯": [
         {
+            "title": "可能是目前效果最好的开源生图模型，混元生图3.0来了",
+            "time": "2025-09-30",
+            "source": "量子位",
+            "summary": "腾讯混元发布并开源了参数规模达80B的原生多模态生图模型HunyuanImage 3.0，成为目前参数量最大的开源图像生成模型。该模型融合文本理解与图像生成于一体，具备强大的指令遵从、世界知识推理和文字渲染能力，可生成解方程步骤图、堆排序可视化图、多图漫画等复杂内容。其采用VAE+ViT联合编码、广义因果注意力和二维位置编码等创新架构，支持高分辨率生成与长上下文对齐，并通过三阶段数据过滤与多阶段训练策略提升质量。在SSAE与GSB评测中，其效果媲美甚至超越GPT-Image等闭源模型，已开源代码与权重。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/52c0b7066ea62bc1a6e5ee689d80f1c9.png",
+            "url": "https://www.qbitai.com/2025/09/338952.html",
+            "category": "AI"
+        },
+        {
             "title": "腾讯开源Nano Banana，我总结了15种邪修玩法（附提示语）",
             "time": "2025-09-28",
             "source": "卡尔的AI沃茨",
@@ -1034,6 +1088,33 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "沃尔玛Onn摄像头与谷歌合作，低价智能安防新品上市",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "沃尔玛旗下品牌Onn推出两款与谷歌深度合作的智能安防设备：售价23美元的室内摄像头和50美元的视频门铃。两款产品均支持谷歌Home应用，提供1080p或1600x1200 HDR视频、夜视、双向语音和AI运动检测功能。免费提供3小时快照存储，视频录制与智能警报需订阅Google Home Premium（$10起/月）。这是谷歌开放Gemini智能平台后首个合作硬件厂商，旨在以低价策略扩大智能安防生态。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_0172.jpeg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+            "url": "https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌推出Gemini for Home：全面取代Assistant，赋能智能家居",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "谷歌正式推出Gemini for Home，将AI大模型Gemini全面替代原有Google Assistant，覆盖过去十年所有Nest和Google Home智能音箱。新系统支持自然语言交互、上下文理解、多用户语音识别，并可通过Google Home Premium订阅解锁更流畅的Gemini Live对话功能。此外，新版Home应用新增AI助手、自动化创建与每日家庭摘要功能，提升家庭管理智能化水平。首批功能于2025年10月1日启动内测，全面推送计划于2026年春季完成。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Google-Home-Speaker-with-Light-Ring-Berry.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/788102/gemini-for-home-new-google-assistant-launch-date-price-features",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌推出新一代Nest摄像头和门铃，集成Gemini AI功能",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "谷歌发布三款新型有线Nest摄像头和门铃，首次支持2K HDR视频、更广视野和AI驱动的智能警报功能。新设备与Gemini for Home平台深度整合，可生成自然语言描述事件（如“狗跳出围栏”），并推出Home Brief每日摘要功能。所有自2015年以来的Nest设备均支持该AI功能。同时，Google Home应用全面改版，新增Ask Home语音助手，订阅服务升级为Google Home Premium，分标准版和高级版，提供视频历史、AI警报和24/7录制等增强功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0193.jpeg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+            "url": "https://www.theverge.com/news/789412/new-nest-cams-nest-doorbell-launch-price-specs-release-date",
+            "category": "AI"
+        },
         {
             "title": "韩国计划以国产AI超越OpenAI、谷歌等巨头",
             "time": "2025-09-27",
@@ -1549,6 +1630,51 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Instagram负责人称“我们绝对不监听麦克风”引发质疑",
+            "time": "2025-10-02",
+            "source": "The Verge",
+            "summary": "Instagram负责人亚当·莫塞里发布视频否认Meta通过手机麦克风监听用户对话，称此举违反隐私且耗电，同时解释广告精准推送可能源于用户浏览历史、社交网络兴趣关联、潜意识影响或巧合。尽管Meta自2016年起多次否认监听行为，公众仍普遍怀疑其数据收集方式，尤其在Meta宣布将利用AI聊天内容定向广告后，质疑声更甚。莫塞里承认许多人不会相信其解释，评论区也充斥着讽刺与不信任。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1357941759.jpg?quality=90&strip=all&crop=0%2C0.0031251953247065%2C100%2C99.993749609351&w=2400",
+            "url": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram测试将Reels设为首页默认内容",
+            "time": "2025-10-02",
+            "source": "The Verge",
+            "summary": "Instagram正在印度进行一项测试，计划将Reels视频作为应用首页的默认内容，使首页体验类似于iPad版应用。根据Instagram负责人Adam Mosseri的透露，这一改动旨在强化Reels和私信作为平台增长核心驱动力的作用。新界面将保留顶部Stories横栏，但滚动后将切换为全屏视频流，尽管仍会包含关注账号的图片内容，但具体呈现方式尚未明确。此举表明Meta正推动Instagram向短视频主导的娱乐化方向转型。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/790255/instagram-test-reels-home-tab",
+            "category": "社交"
+        },
+        {
+            "title": "Meta将利用你的AI聊天记录个性化你的信息流",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "Meta计划从12月16日起，利用用户在Meta AI聊天中讨论的内容（如 hiking、运动等）来个性化其平台上的广告、推荐内容和群组。该功能将整合Facebook、Instagram和WhatsApp等关联账户的数据，但明确排除宗教、政治、健康等敏感话题。用户无法完全 opting out，但可调整广告偏好。该功能将于10月7日开始通知用户，但英国、欧盟和韩国将暂缓上线以应对监管要求。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789168/meta-ai-chats-personalized-advertising",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram负责人称公司并未使用麦克风监听用户（借助AI数据，无需这样做）",
+            "time": "2025-10-01",
+            "source": "TechCrunch",
+            "summary": "Instagram负责人Adam Mosseri否认Meta通过手机麦克风监听用户对话以投放广告，指出这种说法是长期存在的阴谋论。他解释，Meta的精准广告推荐主要依赖用户行为数据、广告主提供的网站访问信息及算法分析，而非音频采集。随着Meta计划利用用户与AI聊天机器人（如Meta AI）的互动数据进行广告定向，未来推荐将更精准，但依然无需监听麦克风。Mosseri还提到，用户对广告的“神准”感知可能源于心理暗示或记忆混淆。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/instagram-GettyImages-2150186181.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/",
+            "category": "社交"
+        },
+        {
+            "title": "Meta因Instagram Shopping面临反垄断诉讼",
+            "time": "2025-09-30",
+            "source": "动点科技",
+            "summary": "Meta因Instagram Shopping功能被起诉涉嫌反垄断，原告为伦敦初创公司奥利万有限公司，指控Meta窃取其应用程序Winstag的商业计划，并利用其社交网络垄断地位捆绑标签购物市场，排挤竞争对手。诉讼称该行为催生了年价值超20亿美元的垄断市场，违反美国反垄断法。该功能允许用户直接在帖子中购买带标签商品，已被Meta整合进Instagram平台。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/kamil-switalski-p4UDWirvW9g-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-09-30/meta-instagram-shopping-anti-monopolize-lawsuit/",
+            "category": "社交"
+        },
         {
             "title": "Meta欲成为机器人领域的Android",
             "time": "2025-09-27",
@@ -2319,6 +2445,96 @@
     ],
     "OpenAI": [
         {
+            "title": "微软推出Microsoft 365 Premium，与ChatGPT Plus同价整合Office与AI功能",
+            "time": "2025-10-02",
+            "source": "The Verge",
+            "summary": "微软推出全新的Microsoft 365 Premium订阅服务，定价为每月19.99美元，与OpenAI的ChatGPT Plus持平。该服务整合了Copilot Pro的高级AI功能与Microsoft 365 Family的全家共享权益，包括Office桌面应用、每人1TB云存储、GPT-4o图像生成与语音功能，并支持用户通过个人账户在工作版Office中启用AI功能，同时保障企业数据安全。此举标志着Copilot Pro将逐步停售，微软旨在强化其在生产力AI领域的竞争优势。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
+            "category": "AI"
+        },
+        {
+            "title": "实测豆包新上线视觉大模型1.6-vision，OpenAI GPT5要失眠了",
+            "time": "2025-10-02",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkDv9LAXDez78C9n2XyV9Ppf5h5bNhvVqsrMzLqwseUweH86nvjF6M9tloRbU6icH1NRAesHKR1dAQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/lnYhtY-qf7UPP3whrAfUiQ",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，OpenAI Sora 2重磅登场！首个APP上线，或将成为AI时代新TikTok",
+            "time": "2025-10-01",
+            "source": "36氪",
+            "summary": "OpenAI正式发布新一代AI视频模型Sora 2，显著提升物理准确性、一致性与音画同步能力，实现从“像不像”到“合不合理”的跨越。同时推出iOS端Sora App，支持用户将自身形象融入生成视频，开创“Cameo”社交互动新形态。该模型可生成高精度、多风格、多镜头连贯视频，涵盖写实、动漫、吉卜力等风格，并内置严格安全机制。Sora 2被视为AI视频领域的“GPT-3.5时刻”，或将重塑短视频社交生态。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251001/v2_9d1c311b6ab04a749c3619ec0d6eb457@1200352198_oswg30536oswg1080oswg163_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3489923456179073",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI突然发布Sora 2：好一个“AI版抖音”！",
+            "time": "2025-10-01",
+            "source": "量子位",
+            "summary": "OpenAI正式发布Sora 2，大幅升级AI视频生成能力，支持音视频同步生成、更精准的物理模拟与多镜头逻辑一致性，并可将现实人物形象注入生成视频中。同步推出的iOS应用“Sora”被喻为“AI版抖音”，支持用户创作、二次创作与“客串”功能，允许他人使用自己的形象生成视频，但用户可随时控制或删除。实测显示生成视频画质接近真实，风格多样，涵盖吉卜力动画、黑白新闻等，但仍存在画质偏低问题，Pro版仅限ChatGPT付费用户。官方称将开放API，引发业界对AI视频真假难辨的担忧。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/0726d144b99d9e0c0968344ca83aee60.jpeg",
+            "url": "https://www.qbitai.com/2025/10/339008.html",
+            "category": "AI"
+        },
+        {
+            "title": "三星与OpenAI合作推出Stargate芯片",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "三星与OpenAI达成战略合作，将为OpenAI的Stargate项目每月供应高达90万片半导体晶圆，以满足其AI模型对算力的庞大需求。同时，双方正探讨在韩国建设两个AI数据中心，并研究浮动数据中心方案以降低成本和碳排放。SK Hynix也参与此次合作。此举是OpenAI在获取算力、电力与资金方面的一系列关键布局之一，此前Nvidia已宣布计划投资高达100亿美元支持OpenAI。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789687/openai-samsung-stargate-chips",
+            "category": "AI"
+        },
+        {
+            "title": "苹果要求法官驳回马斯克关于ChatGPT集成到iPhone的反垄断诉讼",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "苹果公司已向联邦法官提交文件，请求驳回埃隆·马斯克旗下xAI和X Corp提起的反垄断诉讼。马斯克指控苹果与OpenAI合作将ChatGPT集成至iPhone，故意打压Grok等竞争对手。苹果律师称这些指控是“猜测之上的猜测”，强调合作并非独家，且苹果明确计划与多家AI公司合作，不构成垄断行为。法院尚未作出裁决，此案涉及AI市场竞争与App Store政策的核心争议。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257895_Elon_Musk_Apple_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response",
+            "category": "AI"
+        },
+        {
+            "title": "实测OpenAI Sora2，我找到了两个隐藏踩坑点！（附邀请码）",
+            "time": "2025-10-01",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkvTD2EWXuBENcfMglibXMQz41UlSia4vNmGle6Vzds4JyWjwcf80MqZROD3mqbaWh4ZrNzT6tbIvWw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/iWlJj3hokJeElmiJLHtO5A",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI 上半年营收超过去年全年，但亏损达到135亿美元",
+            "time": "2025-09-30",
+            "source": "动点科技",
+            "summary": "根据OpenAI向股东提交的财务报告，2025年上半年该公司营收达43亿美元，超过去年全年水平，但同期亏损高达135亿美元。主要支出包括ChatGPT研发费用67亿美元、广告营销20亿美元、股票薪酬25亿美元，以及向微软支付的20%收入分成。截至7月底，OpenAI拥有175亿美元现金及证券，并寻求额外300亿美元融资。公司预计全年将实现130亿美元营收和85亿美元现金消耗目标。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/kamil-switalski-p4UDWirvW9g-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-09-30/openai-half-year-lose-money/",
+            "category": "AI"
+        },
+        {
+            "title": "ChatGPT可以下单买买买了",
+            "time": "2025-09-30",
+            "source": "量子位",
+            "summary": "OpenAI正式推出ChatGPT购物功能，用户可在聊天中直接下单Etsy和Shopify平台的商品，实现从需求描述到支付的闭环。该功能基于全新开放协议Agentic Commerce Protocol（ACP），由Stripe支持，仅面向美国地区用户开放。OpenAI不靠广告盈利，而是按成交抽成，此举被视作对谷歌广告模式和亚马逊电商生态的直接挑战，可能重塑AI与电商的交互方式。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/812878d2313138001bece77570ac6d4f.png",
+            "url": "https://www.qbitai.com/2025/09/338533.html",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI要刮油，谁会掉层皮？",
+            "time": "2025-09-30",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VGUBzzq306ic52Jc5NANw42z2UlEQKicibUsGYIZPjzfBlYZDicSXyd0gsKgGhCluMlUUaDviaW1XSdoUA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/fpjWFJ5NI3LK27jhvmAeZg",
+            "category": "其他"
+        },
+        {
             "title": "古尔曼：苹果版 ChatGPT 仅限内部试用，暂不向公众推出",
             "time": "2025-09-29",
             "source": "动点科技",
@@ -2969,6 +3185,24 @@
     ],
     "苹果": [
         {
+            "title": "苹果要求法官驳回马斯克关于ChatGPT集成到iPhone的反垄断诉讼",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "苹果公司已向联邦法官提交文件，请求驳回埃隆·马斯克旗下xAI和X Corp提起的反垄断诉讼。马斯克指控苹果与OpenAI合作将ChatGPT集成至iPhone，故意打压Grok等竞争对手。苹果律师称这些指控是“猜测之上的猜测”，强调合作并非独家，且苹果明确计划与多家AI公司合作，不构成垄断行为。法院尚未作出裁决，此案涉及AI市场竞争与App Store政策的核心争议。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257895_Elon_Musk_Apple_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，苹果买了家芯片公司",
+            "time": "2025-10-01",
+            "source": "36氪",
+            "summary": "本文报道苹果近期秘密收购了芯片设计公司IC Mask Design Limited，该公司专注于VDSM技术节点的IC版图设计服务，曾为全球250多家科技公司提供解决方案。文章回顾了苹果自2008年以来通过收购PA Semi、Intrinsity、Anobit、AuthenTec、Passif、Dialog Semiconductor及英特尔调制解调器业务等逐步构建自主芯片生态的历程，涵盖A、M、H、S等系列芯片的开发。此次收购或助力苹果提升芯片能效与封装技术，尤其可能推动M系列处理器和UltraFusion封装技术的发展，凸显其在半导体领域的持续深耕。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3489907211688840",
+            "category": "其他"
+        },
+        {
             "title": "古尔曼：苹果版 ChatGPT 仅限内部试用，暂不向公众推出",
             "time": "2025-09-29",
             "source": "动点科技",
@@ -3526,6 +3760,15 @@
     ],
     "华为": [
         {
+            "title": "DeepSeek突然拥抱国产GPU语言!对标CUDA替代Triton,华为Day0适配",
+            "time": "2025-09-30",
+            "source": "量子位",
+            "summary": "DeepSeek在v3.2版本中悄然采用国产GPU编程语言TileLang替代Triton，引发开发者广泛关注。TileLang由北京大学团队开发，是一种面向高性能GPU内核的领域专用语言，支持与华为昇腾等国产算力平台适配，可将FlashAttention等算子代码量从500行缩减至80行，性能持平。该语言采用Python式语法，提供三层接口，兼顾初学者与专家需求。DeepSeek团队利用TileLang快速开发原型并优化性能，验证了其在大模型训练中的实用性，标志着国产AI底层生态的重要突破。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d35add03b57e1def117918b62b504fae.png",
+            "url": "https://www.qbitai.com/2025/09/338386.html",
+            "category": "AI"
+        },
+        {
             "title": "《三角洲行动》鸿蒙版正式登陆，高帧流畅，跨端匹配，畅享高品质射击游戏体验",
             "time": "2025-09-23",
             "source": "游侠网",
@@ -3635,6 +3878,15 @@
         }
     ],
     "阿里巴巴": [
+        {
+            "title": "淘宝闪购，三城开“团”",
+            "time": "2025-10-01",
+            "source": "36氪",
+            "summary": "淘宝闪购于2025年国庆前夕在上海、深圳和嘉兴三城试点上线到店团购业务，覆盖茶饮、甜品、正餐等多类餐饮场景，并同步接入支付宝与高德地图，实现“逛买-支付-出行”全链路协同。通过超值优惠（如0.01元套餐）和阿里系三端流量赋能，平台旨在验证到店业务模式并推动商家增量转化。此举被视为阿里生态在本地生活领域撬动市场的新战略，有望打破美团与抖音的双寡头格局，重塑消费路径与商家合作生态。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251001/v2_a2b0488ecc8b4de2983e6d7bd3a5aef8@000000_oswg539921oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3489909326683273",
+            "category": "社交"
+        },
         {
             "title": "最近的内存焦虑，让阿里新模型Qwen3-Omni都治好了",
             "time": "2025-09-26",
@@ -4027,6 +4279,24 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊称其AI将让NBA球迷追踪全新统计数据",
+            "time": "2025-10-02",
+            "source": "The Verge",
+            "summary": "亚马逊云服务（AWS）与NBA合作推出名为“NBA Inside the Game”的新平台，利用AI追踪球员29个身体部位的运动数据，生成前所未有的篮球统计指标。新统计包括“预期投篮命中率”和“引力值”，可评估投篮难度和球员对防守的牵制作用，还推出“防守评分箱”分析防守表现。球迷可通过NBA官网和应用实时查看这些数据，并使用“Play Finder”工具检索单个战术片段。该技术将应用于2025-2026赛季的直播和转播中。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Amazon-NBA-AI-stats.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats",
+            "category": "AI"
+        },
+        {
+            "title": "亚马逊‘全新’Luna推派对游戏和Snoop Dogg",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "亚马逊计划于今年晚些时候重新推出其云游戏服务Luna，重点转向派对游戏市场，推出名为“GameNight”的社交功能，允许Prime会员通过手机扫描二维码参与多人游戏。首批将包含25款以上游戏，如《愤怒的小鸟》《爆炸猫》及《大富翁》等，并推出独家游戏《法庭混乱：Snoop Dogg主演》，玩家需在AI驱动的虚拟法庭中为Snoop Dogg扮演的法官辩护。该功能将免费向Prime会员开放，未来还将接入更多AI创新游戏体验。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Amazon-Luna-relaunch.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789658/amazon-luna-cloud-relaunch-gamenight-social-gaming",
+            "category": "游戏"
+        },
+        {
             "title": "亚马逊开建AGI实验室，一号位也是华人",
             "time": "2025-09-22",
             "source": "量子位",
@@ -4250,6 +4520,15 @@
         }
     ],
     "美团": [
+        {
+            "title": "美团会员6个月，本地生活的价值底座是什么？",
+            "time": "2025-09-30",
+            "source": "36氪",
+            "summary": "美团会员上线六个月，通过持续升级免费权益体系，围绕“优先排队”和“省心服务”推出外卖1对1急送、机场快速通道、迪士尼尊享卡、退货免运费等实用功能，显著提升用户黏性与身份认同。其“白盒化”分层运营模式帮助商家精准触达高价值用户，打破低价内卷，推动跨业态协同。会员体系已成为连接高频生活场景与低频高客单业务的“超级接口”，助力平台构建用户、商家与平台的良性价值循环。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250930/v2_38c2adf9d2424b0ab4b84f4acb3154d2@39566_oswg892114oswg832oswg1246_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3489146568219777",
+            "category": "社交"
+        },
         {
             "title": "拼车拼好饭之后，国内酒店开始流行“拼楼”",
             "time": "2025-09-29",
@@ -4871,6 +5150,24 @@
     ],
     "马斯克": [
         {
+            "title": "苹果要求法官驳回马斯克关于ChatGPT集成到iPhone的反垄断诉讼",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "苹果公司已向联邦法官提交文件，请求驳回埃隆·马斯克旗下xAI和X Corp提起的反垄断诉讼。马斯克指控苹果与OpenAI合作将ChatGPT集成至iPhone，故意打压Grok等竞争对手。苹果律师称这些指控是“猜测之上的猜测”，强调合作并非独家，且苹果明确计划与多家AI公司合作，不构成垄断行为。法院尚未作出裁决，此案涉及AI市场竞争与App Store政策的核心争议。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257895_Elon_Musk_Apple_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response",
+            "category": "AI"
+        },
+        {
+            "title": "李善友：“疯狂”的马斯克，为什么总是创造奇迹？",
+            "time": "2025-09-30",
+            "source": "36氪",
+            "summary": "混沌学园创办人李善友深度解析埃隆·马斯克如何通过使命驱动、第一性原理思维与五步工作法，颠覆航天、汽车与人工智能等行业。文章指出马斯克不为金钱创业，而是以改变人类未来为终极使命，从可回收火箭、星链互联网到火星移民计划，层层推进。其核心在于摒弃类比思维，回归物理本质，以工程化方式实现十倍速创新，并将商业路径与宏大理想深度结合，点燃了新时代的创新精神。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250930/v2_8013851353104be180cd48b0d4fbd162@46958_oswg373329oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3489162867907718",
+            "category": "其他"
+        },
+        {
             "title": "Gemini灵魂人物加盟xAI，马斯克亲自夹道欢迎！",
             "time": "2025-09-28",
             "source": "量子位",
@@ -5105,6 +5402,15 @@
         }
     ],
     "三星": [
+        {
+            "title": "三星与OpenAI合作推出Stargate芯片",
+            "time": "2025-10-01",
+            "source": "The Verge",
+            "summary": "三星与OpenAI达成战略合作，将为OpenAI的Stargate项目每月供应高达90万片半导体晶圆，以满足其AI模型对算力的庞大需求。同时，双方正探讨在韩国建设两个AI数据中心，并研究浮动数据中心方案以降低成本和碳排放。SK Hynix也参与此次合作。此举是OpenAI在获取算力、电力与资金方面的一系列关键布局之一，此前Nvidia已宣布计划投资高达100亿美元支持OpenAI。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/789687/openai-samsung-stargate-chips",
+            "category": "AI"
+        },
         {
             "title": "三星最新Galaxy耳机附赠免费Galaxy SmartTag2追踪器",
             "time": "2025-09-24",
@@ -5398,6 +5704,24 @@
     ],
     "deepseek": [
         {
+            "title": "DeepSeek突然拥抱国产GPU语言!对标CUDA替代Triton,华为Day0适配",
+            "time": "2025-09-30",
+            "source": "量子位",
+            "summary": "DeepSeek在v3.2版本中悄然采用国产GPU编程语言TileLang替代Triton，引发开发者广泛关注。TileLang由北京大学团队开发，是一种面向高性能GPU内核的领域专用语言，支持与华为昇腾等国产算力平台适配，可将FlashAttention等算子代码量从500行缩减至80行，性能持平。该语言采用Python式语法，提供三层接口，兼顾初学者与专家需求。DeepSeek团队利用TileLang快速开发原型并优化性能，验证了其在大模型训练中的实用性，标志着国产AI底层生态的重要突破。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d35add03b57e1def117918b62b504fae.png",
+            "url": "https://www.qbitai.com/2025/09/338386.html",
+            "category": "AI"
+        },
+        {
+            "title": "九章云极率先完成DeepSeek-V3.2-Exp适配，提供安全高效部署方案",
+            "time": "2025-09-30",
+            "source": "量子位",
+            "summary": "九章云极在DeepSeek-V3.2-Exp大语言模型发布后，率先完成其在Alaya NeW智算云平台上的深度适配，提供一键私有化部署方案。该模型采用稀疏注意力（DSA）架构，显著降低长序列推理成本。平台集成高性能GPU资源与弹性调度体系，支持容器、裸机等多种算力形态，并兼容主流AI工具生态，实现模型与数据全链路物理隔离，保障企业数据安全与合规需求，助力AI模型普惠化落地。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5090b75fb4d8ab36ba240f66874eadf6.png",
+            "url": "https://www.qbitai.com/2025/09/338657.html",
+            "category": "AI"
+        },
+        {
             "title": "HLE首次突破60分！Eigen-1基于DeepSeek V3.1领先GPT-5",
             "time": "2025-09-29",
             "source": "量子位",
@@ -5525,6 +5849,60 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "实测豆包新上线视觉大模型1.6-vision，OpenAI GPT5要失眠了",
+            "time": "2025-10-02",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkDv9LAXDez78C9n2XyV9Ppf5h5bNhvVqsrMzLqwseUweH86nvjF6M9tloRbU6icH1NRAesHKR1dAQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/lnYhtY-qf7UPP3whrAfUiQ",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，OpenAI Sora 2重磅登场！首个APP上线，或将成为AI时代新TikTok",
+            "time": "2025-10-01",
+            "source": "36氪",
+            "summary": "OpenAI正式发布新一代AI视频模型Sora 2，显著提升物理准确性、一致性与音画同步能力，实现从“像不像”到“合不合理”的跨越。同时推出iOS端Sora App，支持用户将自身形象融入生成视频，开创“Cameo”社交互动新形态。该模型可生成高精度、多风格、多镜头连贯视频，涵盖写实、动漫、吉卜力等风格，并内置严格安全机制。Sora 2被视为AI视频领域的“GPT-3.5时刻”，或将重塑短视频社交生态。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251001/v2_9d1c311b6ab04a749c3619ec0d6eb457@1200352198_oswg30536oswg1080oswg163_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3489923456179073",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI突然发布Sora 2：好一个“AI版抖音”！",
+            "time": "2025-10-01",
+            "source": "量子位",
+            "summary": "OpenAI正式发布Sora 2，大幅升级AI视频生成能力，支持音视频同步生成、更精准的物理模拟与多镜头逻辑一致性，并可将现实人物形象注入生成视频中。同步推出的iOS应用“Sora”被喻为“AI版抖音”，支持用户创作、二次创作与“客串”功能，允许他人使用自己的形象生成视频，但用户可随时控制或删除。实测显示生成视频画质接近真实，风格多样，涵盖吉卜力动画、黑白新闻等，但仍存在画质偏低问题，Pro版仅限ChatGPT付费用户。官方称将开放API，引发业界对AI视频真假难辨的担忧。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/0726d144b99d9e0c0968344ca83aee60.jpeg",
+            "url": "https://www.qbitai.com/2025/10/339008.html",
+            "category": "AI"
+        },
+        {
+            "title": "字节Seed发布PXDesign：蛋白设计效率提升十倍，进入实用新阶段",
+            "time": "2025-10-01",
+            "source": "量子位",
+            "summary": "字节跳动Seed团队推出新一代蛋白设计方法PXDesign，结合Diffusion与Hallucination技术，实现24小时内生成数百个高质量候选蛋白，湿实验成功率高达20%-73%，较DeepMind的AlphaProteo提升2-6倍。团队同步发布免费在线服务PXDesign Server和评估基准PXDesignBench，降低科研门槛，推动AI蛋白设计从实验室走向开放应用，标志着AI在生物分子设计领域进入实用新阶段。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/824e3fc07365ed8a983e81469aeaaf96.png",
+            "url": "https://www.qbitai.com/2025/10/339061.html",
+            "category": "AI"
+        },
+        {
+            "title": "沙特阿拉伯或将取消外资持股上限规则；TikTok美国新方案：或将成立新合资公司；巴西零售商将重心由黑五转向圣诞季｜一周出海参考",
+            "time": "2025-09-30",
+            "source": "钛媒体",
+            "summary": "本文梳理了一周全球出海动态：沙特拟取消外资持股49%上限，或吸引超百亿美元投资；TikTok美国业务将成立合资公司，字节跳动持股19.9%，负责数据安全；巴西零售商削减黑五投入，转向圣诞季高利润营销；亚马逊MCF服务向SHEIN、Shopify开放；Temu黑五促销周期延长至51天；越南拟立法规范直播带货；刚果(金)改钴出口禁令为配额制；欧盟拟改革cookies弹窗规则；DHL恢复美国运输服务。内容涵盖政策、平台、行业与物流多维度出海情报。",
+            "image_url": "https://images.tmtpost.com/uploads/avatar/6438625_1678507841.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7711475.html",
+            "category": "社交"
+        },
+        {
+            "title": "字节日本短剧APP暂停投放，下载量大幅下滑",
+            "time": "2025-09-30",
+            "source": "白鲸出海",
+            "summary": "字节跳动旗下聚焦日本市场的短剧应用PikoShow自2025年9月5日起大幅缩减广告投放，投放素材量从日均400组骤降至15组，双端下载量锐减，App Store榜单跌出前500名。DataEye研究院分析认为，其收缩主因是日本短剧市场尚不成熟，制作成本高、爆款稀缺，且PikoShow内容以老旧译制剧为主，题材与日本用户偏好的“逆袭”“家庭情感”不符。相较之下，字节另一款应用Melolo保持高投放与高上新率，下载稳定，凸显海外短剧进入淘汰赛阶段。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20250930/1759225316457757.jpg",
+            "url": "https://www.baijing.cn/article/54278",
+            "category": "社交"
+        },
         {
             "title": "TikTok Shop欧洲站卖家：“赚欧元也太香了吧！”",
             "time": "2025-09-29",
@@ -5933,6 +6311,15 @@
     ],
     "智谱": [
         {
+            "title": "智谱发布国内最强Coding模型「GLM-4.6」，寒武纪、摩尔线程完成对其适配",
+            "time": "2025-09-30",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1a1amzUciaDQAib92JwFOW5CaWeKNLkzM64EuHPWnA7lZia2uxC1B9AsdKqbp0XCCIBKyFUtLnvI8U4A/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/wCuifcdsw96xQy-bWe1JqA",
+            "category": "其他"
+        },
+        {
             "title": "智谱开源GLM-4.5工具调用超越Claude Opus 4.1，成本仅1.4%",
             "time": "2025-09-02",
             "source": "量子位",
@@ -6050,6 +6437,15 @@
         }
     ],
     "快手": [
+        {
+            "title": "快手逃离“死亡螺旋”",
+            "time": "2025-10-01",
+            "source": "36氪",
+            "summary": "快手近期对本地生活业务进行战略调整，将其并入商业化体系，放弃独立发展，转而依托广告体系构建“广告引流-交易转化”闭环，以规避资源浪费与组织内耗。与此同时，AI业务可灵AI获得重点扶持，凭借生成视频超2亿、年收入达12亿元的亮眼表现，成为公司下一阶段增长的核心引擎。这一“收缩本地、押注AI”的双轨策略，体现了CEO程一笑在复杂市场中的有限理性决策，旨在集中资源于最具潜力的增长路径。",
+            "image_url": "https://img.36krcdn.com/hsossms/20250930/v2_d233c7d8a7cd4e3f9ba4ca62835b2f31@000000_oswg306303oswg873oswg527_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3489327070747784",
+            "category": "社交"
+        },
         {
             "title": "快手AI超级员工上线！一句话剪出完整短视频，从文案到发布一条龙",
             "time": "2025-09-10",
