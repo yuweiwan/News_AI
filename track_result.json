@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "微软推迟部分国家Xbox Game Pass Ultimate涨价",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "微软宣布推迟对德国、爱尔兰、韩国、波兰和印度等部分国家现有Xbox Game Pass Ultimate订阅用户的涨价计划，新价格仅适用于新订阅用户。现有用户在自动续订情况下将继续按原价（如爱尔兰的€17.99）收费，且微软承诺在调整价格前至少提前60天通知。此举可能与当地订阅法规有关，此前微软曾计划在10月1日对新用户涨价，11月4日起对现有用户生效。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283723/STK048_XBOX_B.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+            "url": "https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-price-changes-countries",
+            "category": "其他"
+        },
+        {
             "title": "为什么说 PlayStation 和 Xbox 不再只是游戏机",
             "time": "2025-10-02",
             "source": "动点科技",
@@ -309,6 +318,15 @@
     ],
     "索尼": [
         {
+            "title": "索尼推出Icon Blue版DualSense手柄，致敬PlayStation经典",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "索尼于2025年10月20日在美国和加拿大推出Icon Blue特别版DualSense无线手柄，售价84.99美元，仅限沃尔玛首发。手柄采用深蓝色设计，背面以片假名书写“Pureisutēshon”（PlayStation的日文拼写），致敬品牌历史。同时，索尼还联合沃尔玛推出一系列PlayStation周边商品，包括Astro Bot午餐盒、Twisted Metal手办、游戏主题背包和夹子等，强化粉丝文化周边生态。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sony1.jpg?quality=90&strip=all&w=2400",
+            "url": "https://www.theverge.com/news/794678/sony-playstation-dualsense-wireless-controller-icon-blue",
+            "category": "游戏"
+        },
+        {
             "title": "为什么说 PlayStation 和 Xbox 不再只是游戏机",
             "time": "2025-10-02",
             "source": "动点科技",
@@ -472,6 +490,15 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "任天堂否认曾与日本政府接触游说反对生成式AI",
+            "time": "2025-10-06",
+            "source": "GamesIndustry.biz",
+            "summary": "任天堂发布声明否认曾与日本政府就生成式AI进行任何游说活动，回应了日本政客Satoshi Asano此前错误声称任天堂美国分部为此拨款 lobbying 的不实信息。Asano随后删除推文并公开道歉。任天堂强调，无论是否涉及生成式AI，都将持续采取必要措施保护其知识产权。此外，任天堂近期还获得一项新专利，保护游戏中角色召唤辅助角色的机制，尽管该机制在以往游戏中已存在。",
+            "image_url": "https://assetsio.gnwcdn.com/Nintendo_Logo_Nq9Ztsr.png?width=570&quality=80&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/nintendo-refutes-claims-it-had-any-contact-with-the-japanese-government-to-lobby-against-genai",
+            "category": "游戏"
+        },
         {
             "title": "宝可梦和Theo Von达成共识：不该出现在国土安全部视频中",
             "time": "2025-09-25",
@@ -1089,6 +1116,69 @@
     ],
     "谷歌": [
         {
+            "title": "2025诺奖，又是谷歌赢了？",
+            "time": "2025-10-08",
+            "source": "36氪",
+            "summary": "2025年诺贝尔物理学奖授予量子电路领域的三位科学家约翰·克拉克、米歇尔·德沃雷和约翰·马丁尼斯，表彰他们在宏观电路中实现量子现象的开创性贡献。三人中，马丁尼斯曾领导谷歌量子团队实现‘量子优越性’，后因风格差异离职；德沃雷曾任谷歌Quantum AI首席科学家；克拉克以极致严谨的实验风格著称。文章通过三人经历，展现科学探索与产业结合的传奇历程。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251007/v2_cbb1249022514b85afcca8adadd0a73e@000000_oswg98181oswg1069oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3499178311883913",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌更实惠的AI Plus计划现已在77个国家推出",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "谷歌宣布其AI Plus订阅计划已扩展至77个国家，新增36个市场，使全球覆盖范围进一步扩大。该计划提供包括Gemini中更高限额的Nano Banana图像生成能力在内的多项高级功能。此前该服务已于上月在印度尼西亚首发，并陆续登陆40个国家。用户可通过官方支持页面查看完整国家列表。此举旨在让更多用户以更低成本使用谷歌的AI服务，强化其在AI消费市场的竞争力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/795193/googles-more-affordable-ai-plus-plan-is-now-available-in-77-countries",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌扩大AI模式支持的语言和地区",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "谷歌宣布其AI Mode功能现已扩展至超过35种新语言和40个新国家和地区，使该功能在全球覆盖的国家和地区总数超过200个。此举旨在提升Google搜索中AI功能的全球可用性，让用户能以本地语言获得更智能的搜索结果和交互体验。该功能此前已在部分市场推出，此次更新标志着其大规模国际化的重要一步。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/795603/google-is-expanding-ai-mode-to-more-languages",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌将其AI vibe-coding应用Opal扩展至15个新国家",
+            "time": "2025-10-07",
+            "source": "TechCrunch",
+            "summary": "谷歌宣布将其AI驱动的无代码应用生成工具Opal扩展至加拿大、印度、日本、韩国、越南、印尼、巴西、新加坡、哥伦比亚、萨尔瓦多、哥斯达黎加、巴拿马、洪都拉斯、阿根廷和巴基斯坦等15个国家。Opal允许用户通过文本提示创建微型网页应用，并提供可视化编辑器以自定义工作流。谷歌还优化了Opal的性能，将生成时间从5秒以上缩短至更快速度，并支持并行执行多步骤流程，同时保持无代码特性。该工具旨在赋能非技术人员快速构建实用应用，与Canva、Figma等竞品形成竞争。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌暗示将推出新款Nest Hub",
+            "time": "2025-10-07",
+            "source": "The Verge",
+            "summary": "谷歌确认将继续投资智能显示屏品类，预计很快将推出新款Nest Hub或Google Home Hub设备。尽管最新发布的智能音箱已搭载Gemini AI平台，但智能显示屏仍被视为提供多模态家庭体验的理想形态。谷歌高管指出，屏幕可增强语音交互并整合摄像头视觉功能，与亚马逊新推出的Echo Show系列形成竞争。当前Nest Hub硬件已过时，市场期待一款能充分发挥Gemini能力的旗舰级智能显示屏。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/nest-hub-max-hands-on-googles-first-smart-display-with-a-camera.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌的智能家居大改造",
+            "time": "2025-10-07",
+            "source": "The Verge",
+            "summary": "在《The Vergecast》播客节目中，作者David Pierce与Google智能家居产品负责人Anish Kattukaran探讨了Google如何借助Gemini AI重塑智能家居体验，试图扭转其过去在该领域的停滞局面。同时，节目还讨论了Peloton以6695美元高价推出智能跑步机并提升订阅费用的商业策略，以及AI驱动的个性化健身趋势。文章指出，尽管技术前景诱人，但当前智能家居仍远未达到用户期望的智能化水平。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast",
+            "category": "AI"
+        },
+        {
+            "title": "最高法院拒绝拯救谷歌，Epic诉讼裁决生效倒计时",
+            "time": "2025-10-07",
+            "source": "The Verge",
+            "summary": "美国最高法院拒绝了谷歌请求暂缓执行Epic诉讼裁决的申请，意味着谷歌必须在2025年10月22日前遵守法院命令，开放Android应用商店的支付与分发限制，允许开发者使用第三方支付系统、引导用户至外部下载渠道并自主定价。谷歌虽表示将依法合规并继续上诉，但其上诉截止日期（10月27日）晚于合规期限。Epic称此举将使开发者获得与苹果App Store用户同等的权益。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047547/236883_Epic_Vs_Google_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied",
+            "category": "其他"
+        },
+        {
             "title": "沃尔玛Onn摄像头与谷歌合作，低价智能安防新品上市",
             "time": "2025-10-01",
             "source": "The Verge",
@@ -1630,6 +1720,42 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Facebook正在变成TikTok",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "Meta正推动Facebook向短视频平台转型，通过升级推荐算法，使用户更快看到符合兴趣的Reels视频，并新增“好友气泡”功能——当好友点赞Reels时，会在视频左下角显示圆形标识，点击可直接私聊讨论。此举旨在增强社交互动，重拾Facebook核心体验，同时提升用户观看时长。Meta称，相关改动已使Facebook视频观看时长同比增长超20%，并已取消Reels时长限制，全面转向短视频策略以应对TikTok竞争。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/794923/meta-facebook-tiktok-reels-friend-bubble",
+            "category": "社交"
+        },
+        {
+            "title": "Meta使Facebook Reels更像Instagram版本",
+            "time": "2025-10-08",
+            "source": "Engadget",
+            "summary": "Meta正在更新Facebook Reels，使其体验更贴近Instagram Reels。新功能包括显示好友互动的“好友气泡”，便于用户即时聊天；推荐算法升级，能更快学习用户兴趣，每日推荐内容增加50%，并根据用户偏好的视频时长调整推荐；新增“不感兴趣”按钮以优化推荐精准度。此外，AI技术被引入以提供深度兴趣推荐，提升内容个性化体验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/Q4RJV1AojacHkI3lixgZBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/060031a0-a3a6-11f0-bdff-1ee79663361d",
+            "url": "https://www.engadget.com/social-media/meta-makes-facebook-reels-more-like-their-instagram-counterparts-180822646.html",
+            "category": "社交"
+        },
+        {
+            "title": "Facebook更新算法，让用户对观看的视频拥有更多控制权",
+            "time": "2025-10-07",
+            "source": "TechCrunch",
+            "summary": "Meta宣布更新Facebook算法，增强用户对Reels视频内容的控制权，包括新增“不感兴趣”选项、改进“收藏”功能、AI搜索建议和好友动态气泡。此次更新旨在回应用户对低质、垃圾或AI生成内容的广泛不满，并优先展示当日上传的新视频，提升内容相关性。同时，Facebook正与Meta AI的AI生成视频功能“Vibes”形成联动，进一步推动个性化推荐。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Facebooks-upgraded-recommendations.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/07/facebook-updates-its-algorithm-to-give-users-more-control-over-which-videos-they-see/",
+            "category": "社交"
+        },
+        {
+            "title": "Funcom关闭Metal Hellsinger工作室The Outsiders",
+            "time": "2025-10-06",
+            "source": "GamesIndustry.biz",
+            "summary": "Funcom宣布关闭其旗下工作室The Outsiders，该工作室曾开发游戏《Metal Hellsinger》。工作室创始人兼创意总监David Goldfarb在Bluesky上确认了这一消息，并表示团队曾经历《Darkborn》取消的低谷，最终成功推出《Metal Hellsinger》。此次关闭是Funcom整体重组和裁员的一部分，尽管团队努力寻求新的发展方向，但目前仍面临困境。据估算，2025年游戏行业已裁员至少4400人，实际数字可能更高。",
+            "image_url": "https://assetsio.gnwcdn.com/metal-hellsinger.png?width=570&quality=80&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/funcom-is-closing-metal-hellsinger-studio-the-outsiders",
+            "category": "游戏"
+        },
         {
             "title": "Instagram负责人称“我们绝对不监听麦克风”引发质疑",
             "time": "2025-10-02",
@@ -2445,6 +2571,87 @@
     ],
     "OpenAI": [
         {
+            "title": "ChatGPT开放外部App接入，迈向“AI应用商店”时代",
+            "time": "2025-10-07",
+            "source": "动点科技",
+            "summary": "OpenAI在OpenAI DevDay 2025上宣布ChatGPT正式开放第三方应用接入，通过新推出的SDK，用户可在聊天界面内直接调用外部服务完成任务，如使用Canva生成海报、通过Zillow查询房源等。首批接入应用包括Booking.com、Canva、Spotify、Zillow等，未来将扩展至DoorDash、Uber等服务。开发者SDK已开放预览，年内将上线应用审核、目录及变现机制，标志着ChatGPT正从对话工具转型为多功能AI应用平台。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/08/Duolingo-ilgmyzin-mSIFEZ8WW1M-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-07/chatgpt-app-integration-sdk-2025/",
+            "category": "AI"
+        },
+        {
+            "title": "华尔街分析师解析AMD如何用自身股票支付OpenAI数十亿美元芯片采购费用",
+            "time": "2025-10-07",
+            "source": "TechCrunch",
+            "summary": "AMD与OpenAI达成一项价值数十亿美元的芯片供应协议，OpenAI将不以现金支付，而是通过AMD股票期权作为对价。AMD授予OpenAI最高1.6亿股股票期权，其价值取决于AMD股价达到特定目标（最高至每股600美元），若全部兑现，OpenAI所持股票市值可能高达1000亿美元。分析师认为，此举实为AMD以股权融资方式支持客户采购，同时获得OpenAI对其AI芯片的技术背书，有望加速其在云计算市场的渗透。尽管该模式不如英伟达直接投资OpenAI有利，但被视作AMD在AI芯片市场的重要突破。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1165704565.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI屏蔽更多中国账户，其利用ChatGPT开发社交媒体监控工具",
+            "time": "2025-10-07",
+            "source": "Engadget",
+            "summary": "OpenAI披露并屏蔽了多个源自中国的账户，这些账户利用ChatGPT为政府客户设计社交媒体监控工具，用于追踪政治、民族或宗教相关内容，包括针对维吾尔族人群的‘高风险流入预警模型’。OpenAI称无法独立验证这些工具是否被中国政府实际使用，但已多次打击类似滥用行为。此外，OpenAI还发现俄、韩、中语开发者用ChatGPT优化恶意软件，以及东南亚和尼日利亚网络诈骗团伙利用AI生成诈骗内容。公司自2024年起定期发布AI威胁报告，强调AI被用于网络攻击、钓鱼和宣传操控。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/W89fuWwbK.AezWIvoK7Paw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NDE-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/711e7190-4113-11f0-bbfa-928d6002f09c",
+            "url": "https://www.engadget.com/ai/openai-has-disrupted-more-chinese-accounts-using-chatgpt-to-create-social-media-surveillance-tools-142538093.html",
+            "category": "AI"
+        },
+        {
+            "title": "ChatGPT内嵌App！OpenAI开发者日全览，Agent工具链+应用生态+模型API多箭齐发",
+            "time": "2025-10-07",
+            "source": "量子位",
+            "summary": "OpenAI在2025开发者日发布多项重磅更新：ChatGPT可直接内嵌Booking.com、Canva、Coursera等第三方App，用户可通过自然语言调用；推出AgentKit工具包，支持可视化构建智能体，并开源Apps SDK；Codex编程助手全面上线，新增Slack集成与SDK支持；GPT-5 Pro、Sora 2和GPT-Realtime-Mini等模型通过API开放，定价高昂但功能强大。开发者可立即使用部分工具，应用生态与Agent开发进入新阶段。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/22ec75c71fd06160e2991f3680a9b077.gif",
+            "url": "https://www.qbitai.com/2025/10/339739.html",
+            "category": "AI"
+        },
+        {
+            "title": "AMD与OpenAI达成重磅合作：卖出数百亿美元显卡丨视讯速递",
+            "time": "2025-10-07",
+            "source": "钛媒体",
+            "summary": "AMD与OpenAI达成重大合作，预计将向OpenAI供应数百亿美元规模的AI显卡，助力其大模型训练与算力扩张。该合作标志着AI算力竞争进一步加剧，AMD在AI芯片市场对英伟达形成有力挑战。消息引发市场高度关注，投资者预计此举将显著提升AMD在数据中心领域的市场份额，并推动全球AI基础设施的多元化布局。",
+            "image_url": "https://diantv.tmtpost.com/uploads/video_images/2025/10/20251007092910711.jpg",
+            "url": "https://www.tmtpost.com/video/7714090.html",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI DevDay发布会：所有信息，都在这了",
+            "time": "2025-10-07",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/yjP0aguj9gXTRHg3o1rQvg",
+            "category": "AI"
+        },
+        {
+            "title": "重生之在《我的世界》做山姆·奥特曼：网友在线手搓ChatGPT",
+            "time": "2025-10-06",
+            "source": "量子位",
+            "summary": "一位网友在《我的世界》中利用红石电路手动构建了一个拥有500万参数的小型GPT模型，无需指令集，完全通过二进制逻辑门实现词嵌入、注意力机制等核心结构。该模型使用TinyChat数据集训练，上下文窗口为64个token，生成一个回复需约2小时。项目展示了红石电路构建复杂计算系统的惊人潜力，此前已有玩家在游戏内实现CNN、CPU、互联网等复杂系统，引发对游戏计算极限与AGI可能性的热议。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/2307b994d2c6a907a4027dc2bd781a28.png",
+            "url": "https://www.qbitai.com/2025/10/339569.html",
+            "category": "游戏"
+        },
+        {
+            "title": "OpenAI同意采购价值数百亿美元的AMD芯片",
+            "time": "2025-10-06",
+            "source": "Engadget",
+            "summary": "OpenAI宣布与AMD达成战略合作，计划采购价值数十亿美元的AMD芯片，用于构建六吉瓦规模的AI基础设施，并将在2026年下半年部署首批MI450 GPU。作为协议一部分，OpenAI有权以每股一美分的价格收购最多1.6亿股AMD股票，最终可能获得AMD最多10%的股权。此举标志着OpenAI在AI算力布局上进一步多元化，此前已与NVIDIA达成百亿美元投资协议，并与微软保持深度合作。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/U38bf6YYy7L.Q6FWdANr9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/c19ba700-a2b1-11f0-a3fb-878dd3eda9b8",
+            "url": "https://www.engadget.com/ai/openai-agrees-to-buy-tens-of-billions-worth-of-amd-chips-134816630.html",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI与乔尼·艾维合作的首款设备或因技术问题延迟发布",
+            "time": "2025-10-06",
+            "source": "Engadget",
+            "summary": "据《金融时报》报道，OpenAI与苹果前设计总监乔尼·艾维合作开发的首款AI硬件设备可能因技术问题推迟至2026年发布。核心挑战包括AI助手的个性设定（需避免“怪异AI女友”形象）和隐私问题，因设备需持续监听环境。此外，高昂的计算成本也可能影响预算。目前尚不清楚设备形态，但据称可能为无屏、口袋大小且具备环境感知能力。此前Humane AI Pin的失败使OpenAI更加谨慎。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/mtuTzgECtGSiYXpUEtZfVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/b45ee950-a214-11f0-a3b2-264553e22483",
+            "url": "https://www.engadget.com/ai/openais-first-device-with-jony-ive-could-be-delayed-due-to-technical-issues-182226416.html",
+            "category": "AI"
+        },
+        {
             "title": "微软推出Microsoft 365 Premium，与ChatGPT Plus同价整合Office与AI功能",
             "time": "2025-10-02",
             "source": "The Verge",
@@ -3185,6 +3392,51 @@
     ],
     "苹果": [
         {
+            "title": "ICEBlock创作者Joshua Aaron指责蒂姆·库克破坏了用户对苹果的信任",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "ICEBlock应用的创作者Joshua Aaron在《瑞秋·马多秀》中公开指责苹果CEO蒂姆·库克破坏了用户对苹果的信任。他指出，ICEBlock的用户群体与苹果核心用户高度重合，这些用户日常依赖并信任苹果产品，而苹果上周将ICEBlock从App Store下架的行为违背了这种信任。Aaron呼吁库克正视问题并修复关系。该事件引发科技圈对苹果应用审核政策的广泛讨论，多位前苹果高管也已公开批评这一决定。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/795441/iceblock-creator-joshua-aaron-says-tim-cook-has-broken-trust-in-apple",
+            "category": "其他"
+        },
+        {
+            "title": "前苹果高管批评下架ICEBlock应用的决定",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "前苹果高管Wiley Hodges和Alex Horovitz致信CEO蒂姆·库克，批评苹果下架ICEBlock应用的决定，认为此举违背了苹果长期以来对用户隐私和自由的承诺。他们指出，苹果曾因拒绝为FBI破解iPhone而赢得公众信任，而此次在未见法律依据的情况下屈从于政府压力，损害了其作为科技道德标杆的形象。谷歌也同步下架了类似应用，但未收到官方要求。苹果尚未对此作出回应。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊10月Prime Day：25款最佳苹果设备折扣，包括AirPods、iPad等",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "本文报道了亚马逊10月Prime Day期间苹果产品的大幅折扣，涵盖AirPods Pro、AirPods 4、iPad系列、Apple Watch Ultra 2、MacBook Air及MagSafe充电器等热门设备。其中，第二代AirPods Pro降至139.99美元，iPad（第11代）低至279美元，Apple Watch Series 10降至279美元，MacBook Air M4起价799美元。文章还提供了各商品在亚马逊、沃尔玛、Best Buy等平台的比价信息，并推荐了Apple Pencil Pro和AirTag等配件的优惠。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24040655/226285_AIRPODS_PRO_2_cwelch_0011.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025",
+            "category": "其他"
+        },
+        {
+            "title": "《模拟人生》和足球：Apple Arcade即将上线新游戏",
+            "time": "2025-10-07",
+            "source": "The Verge",
+            "summary": "Apple Arcade将于11月4日上线更新版《足球经理26 Touch》，首次加入女子球队；11月6日还将推出两款《MySims》游戏和一系列《Toca Boca》迷你游戏。此举丰富了订阅服务的游戏内容，尤其在模拟经营和休闲类游戏领域带来新选择。文章还提及了配图来自Sega官方截图，展示了《足球经理26 Touch》的游戏界面。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-Arcade-Football-Manager-26-Touch-03.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/games/794425/sims-and-soccer",
+            "category": "游戏"
+        },
+        {
+            "title": "苹果将CrowdStrike蓝屏事件转化为反PC广告",
+            "time": "2025-10-07",
+            "source": "The Verge",
+            "summary": "苹果发布了一部八分钟的广告，讽刺去年CrowdStrike安全软件更新导致数百万Windows设备出现蓝屏（BSOD）的事件。广告以虚构公司The Underdogs参加展会为背景，展示Windows电脑因内核级漏洞瘫痪，而Mac电脑则稳定运行，最终引导观众转向Mac。广告中苹果安全专家强调Mac系统对第三方软件的保护机制，重申这是Windows的问题。该广告延续了苹果多年来对Windows安全性的调侃传统，如经典的“I’m a Mac”系列。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197777/profilephoto.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/794185/apple-bsod-crowdstrike-windows-pc-ad-commercial",
+            "category": "其他"
+        },
+        {
             "title": "苹果要求法官驳回马斯克关于ChatGPT集成到iPhone的反垄断诉讼",
             "time": "2025-10-01",
             "source": "The Verge",
@@ -3879,6 +4131,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "加码团购，阿里、字节等大厂们为何卡点国庆前发力？",
+            "time": "2025-10-06",
+            "source": "36氪",
+            "summary": "文章分析阿里、字节、小红书等大厂为何集中于国庆前加码本地生活团购业务，指出其核心逻辑是借势假期消费高峰，而非依赖传统电商造节模式。本地生活服务受限于时空履约，需依托长假集中释放需求。阿里通过淘宝闪购、高德、支付宝三端协同，构建到家到店联动生态；京东、美团则布局硬折扣超市以优化供应链和提升毛利。文章强调，大厂此举重在战略卡位，抢占线下流量入口，实现消费闭环，而非短期盈利。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3495996676364417",
+            "category": "社交"
+        },
+        {
             "title": "淘宝闪购，三城开“团”",
             "time": "2025-10-01",
             "source": "36氪",
@@ -4278,6 +4539,42 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "亚马逊10月Prime Day：25款最佳苹果设备折扣，包括AirPods、iPad等",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "本文报道了亚马逊10月Prime Day期间苹果产品的大幅折扣，涵盖AirPods Pro、AirPods 4、iPad系列、Apple Watch Ultra 2、MacBook Air及MagSafe充电器等热门设备。其中，第二代AirPods Pro降至139.99美元，iPad（第11代）低至279美元，Apple Watch Series 10降至279美元，MacBook Air M4起价799美元。文章还提供了各商品在亚马逊、沃尔玛、Best Buy等平台的比价信息，并推荐了Apple Pencil Pro和AirTag等配件的优惠。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24040655/226285_AIRPODS_PRO_2_cwelch_0011.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊十月Prime Day最佳笔记本电脑优惠",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "本文介绍了亚马逊十月Prime Day期间的各类笔记本电脑及电脑配件优惠，涵盖苹果MacBook Pro、MacBook Air、微软Surface系列、华硕、戴尔、Razer等品牌的热销型号，提供详细的价格对比与购买建议。重点推荐了M4 Max MacBook Pro直降400美元、Surface Laptop 13.8英寸降至935美元、Razer Blade 16降至1800美元等重磅优惠，并对OLED显示器、电源银行、USB-C线缆等配件进行了推荐。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊秋季Prime Day：Pixel 9A降至349美元，创历史新低",
+            "time": "2025-10-07",
+            "source": "The Verge",
+            "summary": "The Verge报道，谷歌Pixel 9A手机在亚马逊秋季Prime Day促销中降至349美元，比此前7月的最低价还低50美元，成为目前最实惠的中端安卓手机。该机型配备6.3英寸OLED屏幕、IP68防水防尘、Tensor G4芯片、8GB内存和5100mAh电池，并承诺提供7年软件更新。尽管性能不及Pixel 10系列，但其相机体验接近基础款Pixel 10，性价比极高。目前该机在亚马逊、谷歌和Best Buy均有售。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257690_Google_Pixel_9A_AJohnson_0003.jpg?quality=90&strip=all&crop=0%2C0.02498750624688%2C100%2C99.950024987506&w=2400",
+            "url": "https://www.theverge.com/tech/789306/amazon-october-prime-day-google-pixel-9a-deal-sale-2025",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊“盲眼”机器人30秒跑酷首秀惊艳！华人学者领衔",
+            "time": "2025-10-06",
+            "source": "量子位",
+            "summary": "亚马逊机器人团队FAR发布首个足式人形机器人研究成果OmniRetarget，该系统无需摄像头或雷达等感知单元，仅依赖本体感知与参考轨迹，即可实现复杂动作如搬椅、爬桌、翻跟头等。其核心是基于交互网格的动作重定向方法，能高效生成多样化运动学参考，并通过强化学习实现仿真到硬件的零样本迁移。实验显示其在运动学质量和策略成功率上均优于现有基线，背后团队由伯克利背景的华人学者领衔，成立仅七个多月即取得突破性进展。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/cd54c7422d5012b2b178bc8f6932e0f7.gif",
+            "url": "https://www.qbitai.com/2025/10/339675.html",
+            "category": "AI"
+        },
         {
             "title": "亚马逊称其AI将让NBA球迷追踪全新统计数据",
             "time": "2025-10-02",
@@ -4838,6 +5135,15 @@
         }
     ],
     "Epic Games": [
+        {
+            "title": "最高法院拒绝拯救谷歌，Epic诉讼裁决生效倒计时",
+            "time": "2025-10-07",
+            "source": "The Verge",
+            "summary": "美国最高法院拒绝了谷歌请求暂缓执行Epic诉讼裁决的申请，意味着谷歌必须在2025年10月22日前遵守法院命令，开放Android应用商店的支付与分发限制，允许开发者使用第三方支付系统、引导用户至外部下载渠道并自主定价。谷歌虽表示将依法合规并继续上诉，但其上诉截止日期（10月27日）晚于合规期限。Epic称此举将使开发者获得与苹果App Store用户同等的权益。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047547/236883_Epic_Vs_Google_B_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied",
+            "category": "其他"
+        },
         {
             "title": "谷歌也扛不住了？Epic连胜两大巨头，谷歌或将开放三方支付和商店",
             "time": "2025-08-08",
@@ -5459,6 +5765,15 @@
     ],
     "英伟达": [
         {
+            "title": "英伟达竞争对手Cerebras放弃美股IPO：刚完成11亿美元融资，投后估值81亿美元",
+            "time": "2025-10-06",
+            "source": "36氪",
+            "summary": "人工智能芯片制造商Cerebras Systems宣布撤回其在美国纳斯达克的IPO申请，尽管此前已提交上市计划。该公司于2025年9月刚完成11亿美元G轮融资，投后估值达81亿美元，由Fidelity和Atreides Management领投。Cerebras致力于开发全球最大的AI芯片WSE-3，拥有4万亿晶体管和125 petaflops算力，旨在挑战英伟达的市场主导地位。尽管营收快速增长，公司仍处于亏损状态，2024年净亏损达6661万美元。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251005/v2_df0790665a104ede9adc06f92a1954e2@000000_oswg54575oswg1035oswg1018_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3495810346802055",
+            "category": "AI"
+        },
+        {
             "title": "黄仁勋：OpenAI融资时英伟达太穷，当时应该把所有钱都给他们",
             "time": "2025-09-28",
             "source": "量子位",
@@ -5849,6 +6164,33 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "Facebook正在变成TikTok",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "Meta正推动Facebook向短视频平台转型，通过升级推荐算法，使用户更快看到符合兴趣的Reels视频，并新增“好友气泡”功能——当好友点赞Reels时，会在视频左下角显示圆形标识，点击可直接私聊讨论。此举旨在增强社交互动，重拾Facebook核心体验，同时提升用户观看时长。Meta称，相关改动已使Facebook视频观看时长同比增长超20%，并已取消Reels时长限制，全面转向短视频策略以应对TikTok竞争。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/794923/meta-facebook-tiktok-reels-friend-bubble",
+            "category": "社交"
+        },
+        {
+            "title": "加码团购，阿里、字节等大厂们为何卡点国庆前发力？",
+            "time": "2025-10-06",
+            "source": "36氪",
+            "summary": "文章分析阿里、字节、小红书等大厂为何集中于国庆前加码本地生活团购业务，指出其核心逻辑是借势假期消费高峰，而非依赖传统电商造节模式。本地生活服务受限于时空履约，需依托长假集中释放需求。阿里通过淘宝闪购、高德、支付宝三端协同，构建到家到店联动生态；京东、美团则布局硬折扣超市以优化供应链和提升毛利。文章强调，大厂此举重在战略卡位，抢占线下流量入口，实现消费闭环，而非短期盈利。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3495996676364417",
+            "category": "社交"
+        },
+        {
+            "title": "Sora2还在5秒打转，字节AI生视频已经4分钟“起飞”",
+            "time": "2025-10-06",
+            "source": "量子位",
+            "summary": "字节跳动联合UCLA提出新方法Self-Forcing++，无需更换模型架构或收集长视频数据，即可生成长达4分15秒的高质量AI视频，突破了Sora2等模型仅能生成5-10秒视频的瓶颈。该方法通过反向噪声初始化、扩展分布匹配蒸馏和滚动KV缓存等技术，显著提升长视频的视觉稳定性与运动连贯性，且在短时长生成质量上也优于主流模型，同时开源代码并提出基于Gemini-2.5-Pro的新型评估标准，推动AI视频生成迈向实用化。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/b610126557d9263a81c063a90faebf07.png",
+            "url": "https://www.qbitai.com/2025/10/339556.html",
+            "category": "AI"
+        },
         {
             "title": "实测豆包新上线视觉大模型1.6-vision，OpenAI GPT5要失眠了",
             "time": "2025-10-02",
@@ -6427,6 +6769,15 @@
     ],
     "MiniMax": [
         {
+            "title": "MiniMax“版权劫”：好莱坞重拳下负重前行？",
+            "time": "2025-10-08",
+            "source": "36氪",
+            "summary": "中国AI公司MiniMax因旗下图像生成服务“海螺AI”被好莱坞三大巨头迪士尼、环球影业和华纳兄弟起诉，指控其系统性盗用蜘蛛侠、达斯·维德等受版权保护的IP角色训练模型并商业化。诉讼要求赔偿数亿美元并禁止其继续使用侵权内容，可能重创其估值超40亿美元的融资与上市计划。尽管MiniMax曾凭借海外AI应用Talkie年营收超7000万美元快速扩张，但此次诉讼或迫使其面临数据清洗与模型重构的严峻挑战，或借鉴Anthropic和解模式寻求出路。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230327/v2_49dd3c20cc224f408a18dd45341c67a9_oswg4022oswg192oswg192_img_000",
+            "url": "https://36kr.com/p/3499784950602882",
+            "category": "AI"
+        },
+        {
             "title": "海螺首尾帧的10大邪修玩法，我把黑神话悟空做成AI摸头闪避版",
             "time": "2025-09-02",
             "source": "卡尔的AI沃茨",
@@ -6475,6 +6826,24 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "Anthropic与IBM宣布战略合作",
+            "time": "2025-10-07",
+            "source": "TechCrunch",
+            "summary": "IBM与AI研究公司Anthropic达成战略合作，将Anthropic的Claude大语言模型集成至其软件产品中，首个应用为IBM的集成开发环境，已向部分客户开放。双方还联合发布企业级AI代理构建指南。Anthropic近期加速企业市场布局，此前已与德勤达成全球最大规模的企业部署协议。研究表明，企业对Claude模型的偏好已超过OpenAI，使用率自2023年起持续上升。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=1024",
+            "url": "https://techcrunch.com/2025/10/07/anthropic-and-ibm-announce-strategic-partnership/",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic计划在印度开设办公室并寻求与亿万富翁阿尼尔·安巴尼合作",
+            "time": "2025-10-07",
+            "source": "TechCrunch",
+            "summary": "Anthropic联合创始人兼CEO Dario Amodei计划在印度班加罗尔设立办公室，并与亿万富翁穆克什·安巴尼的信实工业探讨合作，以扩大其Claude AI助手在印度的影响力。印度是Anthropic全球第二大市场，用户流量和应用下载量仅次于美国。此次访问还包括与印度总理莫迪及政府官员会面，旨在推动AI基础设施建设。与OpenAI不同，Anthropic将聚焦开发者和初创企业，而非直接面向消费者市场。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/07/anthropic-plans-to-open-india-office-eyes-tie-up-with-billionaire-ambani/",
+            "category": "AI"
+        },
         {
             "title": "微软拥抱OpenAI竞争对手Anthropic以提升Microsoft 365应用",
             "time": "2025-09-24",
