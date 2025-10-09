@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "微软将AI服务全面整合至Office，正面交锋OpenAI",
+            "time": "2025-10-09",
+            "source": "白鲸出海",
+            "summary": "微软宣布将AI功能全面整合至Microsoft 365 Office套件，推出每月19.99美元的高级套餐，包含Copilot聊天机器人、图像生成等AI工具，以低于ChatGPT Plus的价格争夺个人用户市场。此举旨在强化其在生产力软件领域的AI优势，直接与OpenAI的ChatGPT竞争。微软同时保留10美元的基础版和13美元的家庭版，企业端产品不受影响。目前其个人付费用户近9000万，但未披露Copilot Pro具体规模。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251009/1759977510960713.jpg",
+            "url": "https://www.baijing.cn/article/54301",
+            "category": "AI"
+        },
+        {
             "title": "微软推迟部分国家Xbox Game Pass Ultimate涨价",
             "time": "2025-10-08",
             "source": "The Verge",
@@ -8,6 +17,15 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283723/STK048_XBOX_B.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
             "url": "https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-price-changes-countries",
             "category": "其他"
+        },
+        {
+            "title": "微软在部分市场暂停Xbox Game Pass涨价",
+            "time": "2025-10-08",
+            "source": "GamesIndustry.biz",
+            "summary": "微软宣布在德国、爱尔兰、韩国、波兰和印度等市场暂停Xbox Game Pass Ultimate的订阅价格上涨，现有用户将继续按原价续费，新用户则适用新价格。若用户取消后重新订阅，将按新费率收费。微软承诺在任何价格调整前至少60天通知用户，并强调此举是为遵守当地法规。此前微软曾宣布将该服务月费从19.99美元上调至29.99美元，引发用户关注。",
+            "image_url": "https://assetsio.gnwcdn.com/xbox-game-pass-2024.jpg?width=570&quality=80&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/microsoft-halts-xbox-game-pass-price-hikes-in-select-markets",
+            "category": "游戏"
         },
         {
             "title": "为什么说 PlayStation 和 Xbox 不再只是游戏机",
@@ -490,6 +508,24 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "我的Switch 2必备配件在十月Prime Day期间前所未有的便宜",
+            "time": "2025-10-09",
+            "source": "The Verge",
+            "summary": "本文作者Cameron Faulkner推荐了多款适用于Nintendo Switch 2的高性价比配件，包括microSD扩展卡、保护壳、无线手柄和屏幕保护膜等，均在亚马逊十月Prime Day促销期间达到历史最低价。文章详细介绍了PNY、Belkin、8BitDo、GameSir、EasySMX、Hori、Lexar、amFilm、tomtoc、Spigen、Gulikit等品牌的热门产品及其优惠价格，帮助玩家在促销尾声前抓住省钱机会。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&strip=all&crop=0%2C0.010773540185305%2C100%2C99.978452919629&w=2400",
+            "url": "https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day",
+            "category": "游戏"
+        },
+        {
+            "title": "NBA 2K26和Switch 2推动2025年8月美国游戏消费增长",
+            "time": "2025-10-08",
+            "source": "GamesIndustry.biz",
+            "summary": "2025年8月，美国游戏市场总支出达47亿美元，同比增长11%，主要得益于Nintendo Switch 2的强劲销售和移动游戏消费增长。Switch 2在首发三个月内售出240万台，超越PS4同期销量5%，成为硬件销售主力。NBA 2K26成为当月最畅销的付费游戏，并登上年度畅销榜第五位。其他新作如《Mafia: The Old Country》《Metal Gear Solid Delta》和《Gears of War: Reloaded》也进入销量前六。移动游戏方面，《Monopoly Go!》持续领跑，而《Free Fire》已超越《Call of Duty: Mobile》。",
+            "image_url": "https://assetsio.gnwcdn.com/ss_9f6861c20e1c0afe637936bb02af06e9b27313e9.1920x1080-2499056672.jpg?width=570&quality=80&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/nba-2k26-and-switch-2-drive-growth-in-august-2025-video-game-spending-us-monthly-charts",
+            "category": "游戏"
+        },
         {
             "title": "任天堂否认曾与日本政府接触游说反对生成式AI",
             "time": "2025-10-06",
@@ -1143,6 +1179,15 @@
             "category": "AI"
         },
         {
+            "title": "Google搜索AI模式现已在更多语言和地区上线",
+            "time": "2025-10-08",
+            "source": "Engadget",
+            "summary": "谷歌已将Search中的AI模式扩展至40个新地区和35种新语言，包括阿拉伯语、中文、德语、法语、俄语、泰语和越南语等。该功能基于定制的Gemini模型，能更好地理解本地语言的细微差别。此前AI模式已在美国全面上线，并逐步融入核心搜索体验。谷歌还提升了AI模式对视觉提示的理解能力。然而，研究显示AI摘要可能导致用户点击网页链接的意愿降低，影响 publishers 的流量。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/8LlAkrpsYF740ln7ocpvng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MTA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/e0abe790-a3f6-11f0-87b8-11c0fe54e19c",
+            "url": "https://www.engadget.com/ai/google-search-ai-mode-is-now-available-in-more-languages-and-regions-043540278.html",
+            "category": "AI"
+        },
+        {
             "title": "谷歌将其AI vibe-coding应用Opal扩展至15个新国家",
             "time": "2025-10-07",
             "source": "TechCrunch",
@@ -1721,6 +1766,15 @@
     ],
     "Meta": [
         {
+            "title": "视频生成迎来“ChatGPT时刻”，OpenAI推社交应用正面硬刚TikTok及Meta",
+            "time": "2025-10-09",
+            "source": "白鲸出海",
+            "summary": "OpenAI正式发布全新社交应用Sora，基于升级版Sora 2视频生成模型，允许用户通过文本提示生成AI视频并分享互动，引入虚拟分身功能，直击TikTok和Meta的AI视频流竞争。Sora 2在物理规律模拟、场景衔接和多语言生成方面取得突破，并加入水印与屏蔽录制等防滥用机制。尽管面临谷歌、Runway等对手，OpenAI视其为视频生成领域的“ChatGPT时刻”，意图开辟广告营收新渠道。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251009/1759978718743218.jpg",
+            "url": "https://www.baijing.cn/article/54304",
+            "category": "社交"
+        },
+        {
             "title": "Facebook正在变成TikTok",
             "time": "2025-10-08",
             "source": "The Verge",
@@ -1739,12 +1793,30 @@
             "category": "社交"
         },
         {
+            "title": "Meta让Facebook Reels更像Instagram版本",
+            "time": "2025-10-08",
+            "source": "Engadget",
+            "summary": "Meta正在更新Facebook Reels，使其体验更贴近Instagram Reels。新功能包括显示好友互动的“朋友气泡”，便于用户即时聊天；推荐算法升级，能更快学习用户兴趣，每日推荐的新Reels数量增加50%，并根据用户偏好的视频长度调整推荐内容。此外，新增“不感兴趣”按钮以优化推荐精准度，并引入AI驱动的深度兴趣推荐功能，提升内容个性化体验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/iscf9M6hT3Jq0j7gB2MMkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/088f4a70-a476-11f0-bfee-0a8466d846cd",
+            "url": "https://www.engadget.com/social-media/meta-makes-facebook-reels-more-like-their-instagram-counterparts-180822646.html",
+            "category": "社交"
+        },
+        {
             "title": "Facebook更新算法，让用户对观看的视频拥有更多控制权",
             "time": "2025-10-07",
             "source": "TechCrunch",
             "summary": "Meta宣布更新Facebook算法，增强用户对Reels视频内容的控制权，包括新增“不感兴趣”选项、改进“收藏”功能、AI搜索建议和好友动态气泡。此次更新旨在回应用户对低质、垃圾或AI生成内容的广泛不满，并优先展示当日上传的新视频，提升内容相关性。同时，Facebook正与Meta AI的AI生成视频功能“Vibes”形成联动，进一步推动个性化推荐。",
             "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Facebooks-upgraded-recommendations.jpg?w=1024",
             "url": "https://techcrunch.com/2025/10/07/facebook-updates-its-algorithm-to-give-users-more-control-over-which-videos-they-see/",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram将为精选创作者颁发实体戒指奖",
+            "time": "2025-10-07",
+            "source": "Engadget",
+            "summary": "Instagram宣布推出一项全新创作者奖励计划，将向25位精选创作者颁发由时尚设计师Grace Wales Bonner设计的实体戒指，作为对其创意突破的表彰。获奖者还将获得数字版戒指图标，可展示在个人资料和动态中，并可自定义个人主页背景色。该奖项无现金奖励，评选标准聚焦于敢于创新、持续突破的创作者，由Instagram高层及名人如Spike Lee和Yari Shahidi共同评审。获奖名单将于10月16日公布，旨在打造类似奥斯卡的社交媒体荣誉体系。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/MIaFG9Riiap4EIR3YEFCVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU5OA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/13cdbef0-a2d5-11f0-b032-6ecedad75194",
+            "url": "https://www.engadget.com/social-media/instagram-will-start-handing-out-awards-to-select-creators-170531135.html",
             "category": "社交"
         },
         {
@@ -2571,6 +2643,78 @@
     ],
     "OpenAI": [
         {
+            "title": "视频生成迎来“ChatGPT时刻”，OpenAI推社交应用正面硬刚TikTok及Meta",
+            "time": "2025-10-09",
+            "source": "白鲸出海",
+            "summary": "OpenAI正式发布全新社交应用Sora，基于升级版Sora 2视频生成模型，允许用户通过文本提示生成AI视频并分享互动，引入虚拟分身功能，直击TikTok和Meta的AI视频流竞争。Sora 2在物理规律模拟、场景衔接和多语言生成方面取得突破，并加入水印与屏蔽录制等防滥用机制。尽管面临谷歌、Runway等对手，OpenAI视其为视频生成领域的“ChatGPT时刻”，意图开辟广告营收新渠道。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251009/1759978718743218.jpg",
+            "url": "https://www.baijing.cn/article/54304",
+            "category": "社交"
+        },
+        {
+            "title": "赚100亿，烧1万亿，OpenAI算力神话：英伟达撒钱、AMD送股、全硅谷陪跑",
+            "time": "2025-10-09",
+            "source": "36氪",
+            "summary": "文章探讨OpenAI在2025年估值飙升至5000亿美元背后的算力军备竞赛，其未来十年计划部署相当于20座核反应堆的20GW算力，总投资达1万亿美元。英伟达、AMD、甲骨文等巨头通过投资、认股权证、芯片供应等方式深度绑定，形成资本闭环。AMD以1美分股价认股权证换取合作，英伟达则直接注资并以GPU为抵押融资。OpenAI靠信仰式豪赌推动增长，但其巨额亏损与债务风险引发对AI泡沫的担忧。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251009/v2_424cb8f403a8497d8e752fc72adaae79@5888275_oswg312544oswg1080oswg730_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3501393519860873",
+            "category": "AI"
+        },
+        {
+            "title": "微软将AI服务全面整合至Office，正面交锋OpenAI",
+            "time": "2025-10-09",
+            "source": "白鲸出海",
+            "summary": "微软宣布将AI功能全面整合至Microsoft 365 Office套件，推出每月19.99美元的高级套餐，包含Copilot聊天机器人、图像生成等AI工具，以低于ChatGPT Plus的价格争夺个人用户市场。此举旨在强化其在生产力软件领域的AI优势，直接与OpenAI的ChatGPT竞争。微软同时保留10美元的基础版和13美元的家庭版，企业端产品不受影响。目前其个人付费用户近9000万，但未披露Copilot Pro具体规模。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251009/1759977510960713.jpg",
+            "url": "https://www.baijing.cn/article/54301",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI的低价ChatGPT Go计划扩展至亚洲16国",
+            "time": "2025-10-09",
+            "source": "TechCrunch",
+            "summary": "OpenAI将其每月5美元的ChatGPT Go订阅计划扩展至亚洲16个新国家，包括菲律宾、越南、马来西亚、巴基斯坦等，部分国家支持本地货币支付。该计划提供更高的每日消息限额、图像生成次数和文件上传容量，以及双倍内存以增强个性化响应。此举旨在应对东南亚地区用户量激增，并与Google的AI Plus计划竞争。OpenAI近期宣布ChatGPT全球周活跃用户达8亿，同时正将ChatGPT转型为类似应用商店的生态系统。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/ChatGPT-Go_white-background.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI和Stripe合作开发ChatGPT支付",
+            "time": "2025-10-09",
+            "source": "出海记",
+            "summary": "OpenAI与Stripe合作推出ChatGPT内嵌支付功能，允许美国用户在聊天中直接购买Etsy商品，并计划扩展至百万级Shopify商家。该功能基于双方共同开发的开放标准“代理商务协议”（ACP），通过共享支付令牌（SPT）实现安全交易，商家可保留支付与客户关系控制权。此举标志着AI代理从推荐向实际交易的跃进，旨在为AI与企业间建立标准化支付语言。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251009/1759980131175356.jpeg",
+            "url": "https://www.baijing.cn/article/54305",
+            "category": "AI"
+        },
+        {
+            "title": "即使在Stargate、甲骨文、英伟达和AMD之后，OpenAI即将迎来更多重大交易，萨姆·阿尔特曼表示",
+            "time": "2025-10-08",
+            "source": "TechCrunch",
+            "summary": "OpenAI首席执行官萨姆·阿尔特曼表示，尽管公司已与英伟达、AMD、甲骨文等达成总额高达1万亿美元的基础设施协议，但更多重大合作仍在筹备中。这些交易多采用创新的资本结构，如AMD以股票换取AI芯片采购承诺，英伟达则投资OpenAI股权。阿尔特曼称，为支持未来AI模型的爆发性需求，OpenAI正推动整个行业共同参与基础设施建设，目标是实现自建超大规模数据中心。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
+            "category": "AI"
+        },
+        {
+            "title": "Sora首周下载量接近ChatGPT发布时水平",
+            "time": "2025-10-08",
+            "source": "TechCrunch",
+            "summary": "OpenAI的视频生成应用Sora在上线首周（2025年9月30日至10月6日）于iOS平台获得62.7万次下载，略超ChatGPT同期的60.6万次。尽管Sora仅限邀请制使用，而ChatGPT当时更开放，这一成绩仍显惊人。Sora在首日即登顶美国App Store总榜第三，三天后升至第一，日下载峰值达10.78万次。其生成的深度伪造视频在社交媒体广泛传播，甚至引发对逝者AI图像滥用的伦理争议。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI的尼克·特利谈将ChatGPT转变为操作系统",
+            "time": "2025-10-08",
+            "source": "TechCrunch",
+            "summary": "OpenAI ChatGPT负责人尼克·特利在接受采访时表示，公司正致力于将ChatGPT从一个聊天机器人转变为类似操作系统的平台，集成第三方应用，以支持更丰富的交互场景。他借鉴浏览器和早期苹果产品的发展路径，强调不亲自构建所有功能，而是开放生态让开发者参与。ChatGPT已拥有8亿周活跃用户，新应用生态将整合外卖、旅行等服务，并探索数据隐私保护机制，如分区内存。特利认为，这一商业化努力正是实现AGI普惠使命的核心载体。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Nick-Turley.jpg?w=680",
+            "url": "https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/",
+            "category": "AI"
+        },
+        {
             "title": "ChatGPT开放外部App接入，迈向“AI应用商店”时代",
             "time": "2025-10-07",
             "source": "动点科技",
@@ -2622,6 +2766,15 @@
             "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
             "image_url": "",
             "url": "https://mp.weixin.qq.com/s/yjP0aguj9gXTRHg3o1rQvg",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI揭露中国账户利用ChatGPT开发社交媒体监控工具",
+            "time": "2025-10-07",
+            "source": "Engadget",
+            "summary": "OpenAI披露一个源自中国的已封禁账户利用ChatGPT为政府客户设计社交媒体监控工具，该工具可爬取X、Facebook、Instagram等平台上的政治、民族或宗教相关内容，并开发了针对维吾尔人群的‘高风险流入预警模型’。OpenAI称无法独立验证其是否由政府使用，但已多次阻止类似滥用行为。此外，OpenAI还发现俄、韩、中语开发者用AI优化恶意软件，以及柬埔寨、缅甸等地网络诈骗团伙利用ChatGPT实施诈骗，而AI检测诈骗的频率是制造诈骗的三倍。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/W89fuWwbK.AezWIvoK7Paw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NDE-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/711e7190-4113-11f0-bbfa-928d6002f09c",
+            "url": "https://www.engadget.com/ai/openai-has-disrupted-more-chinese-accounts-using-chatgpt-to-create-social-media-surveillance-tools-142538093.html",
             "category": "AI"
         },
         {
@@ -3391,6 +3544,24 @@
         }
     ],
     "苹果": [
+        {
+            "title": "4万亿帝国接班人浮出水面，苹果不需要另一个库克",
+            "time": "2025-10-09",
+            "source": "36氪",
+            "summary": "随着苹果CEO蒂姆·库克临近65岁退休年龄，公司高层权力结构正悄然重组。首席运营官Jeff Williams卸任后，硬件工程高级副总裁约翰·特努斯（John Ternus）被广泛视为最可能的接班人。他年富力强、技术背景深厚，深得库克信任，并频繁代表公司亮相重要产品发布。与此同时，AI与芯片部门面临领导层更迭，苹果或通过外部挖角强化技术实力。这场平稳的权力交接标志着苹果从运营驱动向技术驱动转型的关键时刻。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251009/v2_a4a5f87ab5554e19a34d84598b0e885c@5888275_oswg41143oswg1080oswg377_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3501393728412546",
+            "category": "其他"
+        },
+        {
+            "title": "苹果仅改 20 字节代码就解决 iPhone 4 “天线门”？15 年谜团终被揭开",
+            "time": "2025-10-09",
+            "source": "动点科技",
+            "summary": "15年前iPhone 4的“天线门”事件真相终于被揭开：软件工程师萨姆·亨利·戈尔德通过分析固件代码发现，问题并非硬件缺陷，而是苹果在信号显示算法中使用了过于乐观的查找表，导致信号格虚高。苹果仅修改了20字节数据，调整了信号强度与显示格数的对应关系，使显示更真实，避免了断崖式下跌。此外，苹果还略微提升了前两格信号条高度，以缓解用户对弱信号的心理不适。这一技术细节的披露终结了长期争议。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/截屏2025-10-09-10.58.04.jpg",
+            "url": "https://cn.technode.com/post/2025-10-09/a-15-year-mystery-solved-the-20-bytes-of-code-that-fixed-antennagate/",
+            "category": "其他"
+        },
         {
             "title": "ICEBlock创作者Joshua Aaron指责蒂姆·库克破坏了用户对苹果的信任",
             "time": "2025-10-08",
@@ -4540,6 +4711,15 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊药房自助服务终端将于12月在洛杉矶的One Medical诊所投入使用",
+            "time": "2025-10-09",
+            "source": "动点科技",
+            "summary": "亚马逊计划于2025年12月在洛杉矶的One Medical诊所部署处方药自动售货机，方便患者在就诊后快速取药。设备可提供抗生素、吸入器、降压药等常见处方药，不包含管制药品或需冷藏药物，药品由亚马逊药剂师审核，患者可通过移动应用扫码支付并在几分钟内取药。此举旨在应对实体药房关闭潮，提升药品获取效率，未来将根据各诊所处方模式调整库存并逐步推广至其他地区。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/03/ipads-daniel-romero-cCxgKIA5RA-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-09/amazon-one-medical-vending-machines/",
+            "category": "其他"
+        },
+        {
             "title": "亚马逊10月Prime Day：25款最佳苹果设备折扣，包括AirPods、iPad等",
             "time": "2025-10-08",
             "source": "The Verge",
@@ -5456,6 +5636,33 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克与前推特高管达成1.28亿美元诉讼和解",
+            "time": "2025-10-09",
+            "source": "Engadget",
+            "summary": "经过一年多的法律纠纷，埃隆·马斯克与前推特首席执行官帕拉格·阿格拉瓦尔、首席财务官内德·塞加尔等高管达成和解，就约1.28亿美元未支付的遣散费达成协议。和解条件尚待满足，若未能履行，案件将于10月31日继续审理。此前马斯克在收购推特后迅速裁员并试图规避遣散义务，引发高管集体诉讼。此次和解标志着推特被收购后动荡时期的正式收尾。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/69.VN1zoXdY8NkNnszUF6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/13122a70-a472-11f0-bfbb-ced1b69218f8",
+            "url": "https://www.engadget.com/social-media/elon-musk-and-former-twitter-execs-agree-to-settle-128-million-lawsuit-181915972.html",
+            "category": "社交"
+        },
+        {
+            "title": "黄仁勋表示后悔没有在 xAI 上投入更多资金",
+            "time": "2025-10-09",
+            "source": "动点科技",
+            "summary": "英伟达首席执行官黄仁勋在接受CNBC采访时坦言，后悔没有对埃隆·马斯克旗下的人工智能初创公司xAI进行更多投资，称其为少数让他感到遗憾未加大投入的公司之一。他高度评价马斯克打造变革型企业的能力，并将xAI与OpenAI、Anthropic并列为新一代人工智能领军企业。黄仁勋还回应了关于英伟达与xAI融资交易的“循环融资”质疑，强调对xAI技术前景的看好。该言论反映了AI领域巨头间日益紧密的资本与技术联动。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/iphone-4-uai-1032x580.webp",
+            "url": "https://cn.technode.com/post/2025-10-09/jensenhuang-regret-xai/",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克将 settle 1.28 亿美元推特高管诉讼",
+            "time": "2025-10-08",
+            "source": "The Verge",
+            "summary": "埃隆·马斯克已同意与四名前推特高管达成和解，解决因被解雇后未支付超过1.28亿美元遣散费引发的诉讼。这四名高管包括前CEO帕拉格·阿格拉瓦尔、CFO内德·塞加尔、首席法务官维贾亚·加德和总法律顾问肖恩·埃德盖特。和解协议依赖于马斯克满足某些未公开的条件，原定于10月31日恢复的诉讼将被推迟。此前，高管们指控马斯克提前一天完成收购以规避2亿美元的股票期权支付，并引用其传记中“猎杀所有高管”的言论作为证据。X公司同期也已解决数千起前员工诉讼。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25489921/STK022_ELON_MUSK_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+            "url": "https://www.theverge.com/news/796239/elon-musk-x-128-million-twitter-exec-lawsuit-settlement",
+            "category": "社交"
+        },
+        {
             "title": "苹果要求法官驳回马斯克关于ChatGPT集成到iPhone的反垄断诉讼",
             "time": "2025-10-01",
             "source": "The Verge",
@@ -5764,6 +5971,33 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "英伟达垄断AI算力局面或将被颠覆，AMD赌上身家发起决斗，奥特曼窃喜",
+            "time": "2025-10-09",
+            "source": "36氪",
+            "summary": "OpenAI与AMD达成重大合作协议，计划部署6GW AMD GPU并可通过认股权证以极低价格收购AMD最多1.6亿股股票，若行权成功将成AMD约10%股东。此举被视为打破英伟达在AI算力市场垄断的关键一步，推动AMD股价暴涨近40%。文章分析了AMD在硬件、软件生态、产能交付和市场估值等方面面临的挑战与机遇，并预测合作可能走向乐观、中性或悲观三种结局，标志着AI基础设施多源供给时代的来临。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251009/v2_983843ebaa02428bb97e2dc2c9c1a1c2@5888275_oswg127613oswg1044oswg573_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3501393208630147",
+            "category": "AI"
+        },
+        {
+            "title": "赚100亿，烧1万亿，OpenAI算力神话：英伟达撒钱、AMD送股、全硅谷陪跑",
+            "time": "2025-10-09",
+            "source": "36氪",
+            "summary": "文章探讨OpenAI在2025年估值飙升至5000亿美元背后的算力军备竞赛，其未来十年计划部署相当于20座核反应堆的20GW算力，总投资达1万亿美元。英伟达、AMD、甲骨文等巨头通过投资、认股权证、芯片供应等方式深度绑定，形成资本闭环。AMD以1美分股价认股权证换取合作，英伟达则直接注资并以GPU为抵押融资。OpenAI靠信仰式豪赌推动增长，但其巨额亏损与债务风险引发对AI泡沫的担忧。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251009/v2_424cb8f403a8497d8e752fc72adaae79@5888275_oswg312544oswg1080oswg730_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3501393519860873",
+            "category": "AI"
+        },
+        {
+            "title": "即使在Stargate、甲骨文、英伟达和AMD之后，OpenAI即将迎来更多重大交易，萨姆·阿尔特曼表示",
+            "time": "2025-10-08",
+            "source": "TechCrunch",
+            "summary": "OpenAI首席执行官萨姆·阿尔特曼表示，尽管公司已与英伟达、AMD、甲骨文等达成总额高达1万亿美元的基础设施协议，但更多重大合作仍在筹备中。这些交易多采用创新的资本结构，如AMD以股票换取AI芯片采购承诺，英伟达则投资OpenAI股权。阿尔特曼称，为支持未来AI模型的爆发性需求，OpenAI正推动整个行业共同参与基础设施建设，目标是实现自建超大规模数据中心。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
+            "category": "AI"
+        },
         {
             "title": "英伟达竞争对手Cerebras放弃美股IPO：刚完成11亿美元融资，投后估值81亿美元",
             "time": "2025-10-06",
@@ -6165,12 +6399,48 @@
     ],
     "字节跳动": [
         {
+            "title": "视频生成迎来“ChatGPT时刻”，OpenAI推社交应用正面硬刚TikTok及Meta",
+            "time": "2025-10-09",
+            "source": "白鲸出海",
+            "summary": "OpenAI正式发布全新社交应用Sora，基于升级版Sora 2视频生成模型，允许用户通过文本提示生成AI视频并分享互动，引入虚拟分身功能，直击TikTok和Meta的AI视频流竞争。Sora 2在物理规律模拟、场景衔接和多语言生成方面取得突破，并加入水印与屏蔽录制等防滥用机制。尽管面临谷歌、Runway等对手，OpenAI视其为视频生成领域的“ChatGPT时刻”，意图开辟广告营收新渠道。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251009/1759978718743218.jpg",
+            "url": "https://www.baijing.cn/article/54304",
+            "category": "社交"
+        },
+        {
+            "title": "“鸡排哥”带火景德镇四亿流量，抖音能否再造“平民英雄”神话？",
+            "time": "2025-10-09",
+            "source": "钛媒体",
+            "summary": "景德镇炸鸡排摊主李俊永（“鸡排哥”）凭借幽默金句和真诚服务在抖音走红，48小时内涨粉近百万，带动景德镇文旅流量超4亿，相关话题登顶抖音热榜。官方授予其“文旅推介官”称号，带动陶瓷博物馆、手工陶艺等团购销量大幅增长。文章分析其走红是算法与黄金周文旅结合的典型案例，反映草根经济与情绪消费的崛起，但也警示流量热潮后如何提升城市基础设施与长期旅游体验仍是挑战。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/10/e696e25ee3f64753db10e622fb0708ed_1759937575.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x1050/gravity/center/crop/!1400x1050&ext=.png",
+            "url": "https://www.tmtpost.com/7714725.html",
+            "category": "社交"
+        },
+        {
+            "title": "苹果仅改 20 字节代码就解决 iPhone 4 “天线门”？15 年谜团终被揭开",
+            "time": "2025-10-09",
+            "source": "动点科技",
+            "summary": "15年前iPhone 4的“天线门”事件真相终于被揭开：软件工程师萨姆·亨利·戈尔德通过分析固件代码发现，问题并非硬件缺陷，而是苹果在信号显示算法中使用了过于乐观的查找表，导致信号格虚高。苹果仅修改了20字节数据，调整了信号强度与显示格数的对应关系，使显示更真实，避免了断崖式下跌。此外，苹果还略微提升了前两格信号条高度，以缓解用户对弱信号的心理不适。这一技术细节的披露终结了长期争议。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/截屏2025-10-09-10.58.04.jpg",
+            "url": "https://cn.technode.com/post/2025-10-09/a-15-year-mystery-solved-the-20-bytes-of-code-that-fixed-antennagate/",
+            "category": "其他"
+        },
+        {
             "title": "Facebook正在变成TikTok",
             "time": "2025-10-08",
             "source": "The Verge",
             "summary": "Meta正推动Facebook向短视频平台转型，通过升级推荐算法，使用户更快看到符合兴趣的Reels视频，并新增“好友气泡”功能——当好友点赞Reels时，会在视频左下角显示圆形标识，点击可直接私聊讨论。此举旨在增强社交互动，重拾Facebook核心体验，同时提升用户观看时长。Meta称，相关改动已使Facebook视频观看时长同比增长超20%，并已取消Reels时长限制，全面转向短视频策略以应对TikTok竞争。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/794923/meta-facebook-tiktok-reels-friend-bubble",
+            "category": "社交"
+        },
+        {
+            "title": "做“脸部按摩”生意，TikTok卖家60天营收超200万",
+            "time": "2025-10-08",
+            "source": "白鲸出海",
+            "summary": "一篇关于跨境卖家通过TikTok销售淋巴轮廓面部按摩刷实现热销的案例分析。该产品由Face Beauty Workshop于今年7月上架，60天内销量达2.55万件，GMV超30万美元。其成功得益于精准切入北美消费者对健康美容、抗浮肿与轮廓塑形的需求，并通过达人短视频内容种草（79%成交来自TikTok），配合可视化前后对比效果，引爆社交传播。文章还建议卖家关注功能可视化、材质安全及健康美容融合趋势，以挖掘细分市场潜力。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251008/1759938445360525.jpeg",
+            "url": "https://www.baijing.cn/article/54299",
             "category": "社交"
         },
         {
