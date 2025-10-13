@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "Windows 10将于明日起“停服”",
+            "time": "2025-10-13",
+            "source": "36氪",
+            "summary": "微软将于2025年10月14日起停止对Windows 10的操作系统支持，包括技术协助、功能更新和安全更新。微软建议用户升级至Windows 11，或注册扩展安全性更新（ESU）计划。Windows 11在界面设计、安全防护（如强制TPM 2.0、智能应用控制）和多任务处理方面优于Windows 10。尽管Windows 10仍拥有约44.48%的全球市场份额，但其市场份额已被Windows 11超越。本文源自界面新闻，36氪经授权发布。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251013/v2_cc0c4dff09d645768868d66c1e9ba438@5091053_oswg514508oswg1080oswg664_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3507080272485251",
+            "category": "其他"
+        },
+        {
             "title": "微软将AI服务全面整合至Office，正面交锋OpenAI",
             "time": "2025-10-09",
             "source": "白鲸出海",
@@ -336,6 +345,33 @@
     ],
     "索尼": [
         {
+            "title": "PlayStation Store沦陷？玩家痛批：AI生成内容充斥",
+            "time": "2025-10-13",
+            "source": "游侠网",
+            "summary": "近期PlayStation Store上架大量低质量游戏，引发玩家广泛批评。这些游戏普遍存在对经典作品的拙劣模仿（如《Beam Driver》抄袭《BeamNG.drive》）和滥用AI生成内容的问题，包括封面、宣传图、奖杯图标甚至宣传片均为AI制作。部分开发者通过改名重复包装同一款游戏规避审核，甚至盗用《GTA: San Andreas》地图并加入争议性元素。尽管技术缺陷明显，这些游戏仍能上架销售并享有折扣，引发对索尼审核机制的质疑，也使优质游戏的发现愈发困难。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/13/584_20251013105438644.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/968481.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《黑神话：悟空》重大更新今天上线！PS5版高达93GB",
+            "time": "2025-10-13",
+            "source": "游侠网",
+            "summary": "《黑神话：悟空》于今日推出重大更新补丁，主要包含BUG修复与性能优化，但因底层结构大幅调整，可能导致部分玩家体验异常。PS5平台补丁体积高达93.5GB，主要受文件存储方式影响。官方提醒已安装MOD的玩家更新前需卸载MOD，以防游戏无法启动，并建议更新后检查文件完整性。未安装补丁的玩家仍可继续游玩当前版本，或选择重装游戏。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/13/584_20251013102252334.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/968463.html",
+            "category": "游戏"
+        },
+        {
+            "title": "索尼首席工程师公开“紫水晶计划”，小编带你揭秘PS6三大黑科技",
+            "time": "2025-10-11",
+            "source": "游侠网",
+            "summary": "索尼首席系统架构师马克·塞尔尼在官方视频中公开了代号为“紫水晶计划”的PS6主机三大核心技术：一是与AMD合作的“神经阵列”AI超分技术，提升画质并降低GPU负载；二是全新“光辉核心”光追单元，独立处理光线追踪任务以提升帧率与效果；三是“通用压缩技术”，优化数据加载效率，缓解高画质游戏的内存压力。文章还分析了这些技术对当前PS5痛点的针对性改进，并提及索尼计划在PS6周期每年推出超3款第一方大作，引发玩家期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/11/584_2025101151844662.png",
+            "url": "https://www.ali213.net/news/html/2025-10/968093.html",
+            "category": "游戏"
+        },
+        {
             "title": "索尼推出Icon Blue版DualSense手柄，致敬PlayStation经典",
             "time": "2025-10-08",
             "source": "The Verge",
@@ -508,6 +544,15 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "又来碰瓷《黑神话》？可疑“悟空”新游登陆Switch",
+            "time": "2025-10-13",
+            "source": "游侠网",
+            "summary": "近日，任天堂Switch日服eShop上架了一款名为《Wukong Black Legend》的动作冒险游戏，因其名称与题材高度相似于现象级游戏《黑神话：悟空》，引发玩家对其“蹭热度”的质疑。该游戏定价1499日元，但商店页面信息匮乏，缺乏日语支持、实质内容和真实画面展示，仅用空泛词汇描述玩法，被广泛视为标题党式蹭IP作品，玩家对其开发背景与实际质量持谨慎态度。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/13/584_20251013112845585.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/968491.html",
+            "category": "游戏"
+        },
         {
             "title": "我的Switch 2必备配件在十月Prime Day期间前所未有的便宜",
             "time": "2025-10-09",
@@ -1152,6 +1197,15 @@
     ],
     "谷歌": [
         {
+            "title": "谷歌Chrome 或将消除烦人的通知",
+            "time": "2025-10-13",
+            "source": "动点科技",
+            "summary": "谷歌宣布将在Android和桌面版Chrome浏览器中推出新功能，自动禁用用户长期未互动网站的通知权限，以减少无关弹窗干扰。该功能基于现有安全检查机制，仅影响低参与度网站，不撤销已安装网络应用的通知。谷歌数据显示，用户收到的通知中不到1%被互动，此举旨在促使垃圾通知网站减少推送频率，提升用户体验。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-10-13/chrome-notification/",
+            "category": "社交"
+        },
+        {
             "title": "2025诺奖，又是谷歌赢了？",
             "time": "2025-10-08",
             "source": "36氪",
@@ -1765,6 +1819,42 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta旗下Instagram探索开发电视应用，计划进军大屏视频与YouTube竞争",
+            "time": "2025-10-13",
+            "source": "白鲸出海",
+            "summary": "Meta旗下Instagram正探索开发独立的电视应用，旨在顺应用户向大屏视频消费迁移的趋势，与YouTube展开竞争。Instagram负责人亚当·莫塞里在Screentime会议上表示，公司希望在所有相关设备上以引人入胜的方式呈现内容，并认为现有垂直视频内容可适配电视格式，但对授权体育赛事或好莱坞独家内容不感兴趣。目前尚无具体发布计划。该内容源自智通财经App，白鲸出海仅作转载分享。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251013/1760324433793648.jpeg",
+            "url": "https://www.baijing.cn/article/54358",
+            "category": "社交"
+        },
+        {
+            "title": "Meta「分割一切」3.0曝光！技能语义分割加入概念提示，好好玩，要爆了",
+            "time": "2025-10-13",
+            "source": "量子位",
+            "summary": "Meta曝光了第三代「分割一切」（SAM 3）模型，支持基于文本短语、图像示例等概念提示进行多实例语义分割，突破前代仅限单实例的限制。新架构引入Presence Head模块，提升检测精度，并构建了覆盖400万概念、5200万掩码的大规模数据集。在SA-Co基准测试中表现远超基线，处理百物体图像仅需30ms，视频推理接近实时。虽不支持复杂语言理解，但与多模态大模型结合可完成如“坐着但没拿礼物盒的人”等复杂任务。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/c7347509eb8529eb1d738d77e16a9592.gif",
+            "url": "https://www.qbitai.com/2025/10/340783.html",
+            "category": "AI"
+        },
+        {
+            "title": "拒绝小扎15亿美元offer的大佬，还是加入Meta了",
+            "time": "2025-10-12",
+            "source": "量子位",
+            "summary": "前OpenAI首席架构师Andrew Tulloch宣布离职创业公司Thinking Machines Lab，加入Meta。他曾于Meta工作11年，2016年拒绝OpenAI的低薪邀请，2023年才加入OpenAI参与GPT-4.5和o系列模型研发。今年1月他与Mira Murati共同创立Thinking Machines Lab，但两个月前拒绝了扎克伯格开出的15亿美元薪酬包，最终仍选择回归Meta。外界对其离职原因猜测颇多，Meta否认收购公司及具体薪酬数字，但确认挖角成功。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d147c1876734685ee952a6f23e00b7d7.png",
+            "url": "https://www.qbitai.com/2025/10/340662.html",
+            "category": "社交"
+        },
+        {
+            "title": "Thinking Machines Lab联合创始人Andrew Tulloch加盟Meta",
+            "time": "2025-10-11",
+            "source": "TechCrunch",
+            "summary": "AI初创公司Thinking Machines Lab的联合创始人Andrew Tulloch已离职并加入Meta。据《华尔街日报》报道，Tulloch在周五向员工发送消息宣布这一决定，公司方面称其离职是出于个人原因。Tulloch曾任职于OpenAI和Facebook AI研究团队，此前Meta曾试图收购Thinking Machines Lab未果，随后以高达15亿美元的薪酬方案试图挽留他，但Meta否认了相关报价的准确性。此举凸显了科技巨头对顶尖AI人才的激烈争夺。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/",
+            "category": "社交"
+        },
         {
             "title": "视频生成迎来“ChatGPT时刻”，OpenAI推社交应用正面硬刚TikTok及Meta",
             "time": "2025-10-09",
@@ -2497,6 +2587,15 @@
     ],
     "YouTube": [
         {
+            "title": "Meta旗下Instagram探索开发电视应用，计划进军大屏视频与YouTube竞争",
+            "time": "2025-10-13",
+            "source": "白鲸出海",
+            "summary": "Meta旗下Instagram正探索开发独立的电视应用，旨在顺应用户向大屏视频消费迁移的趋势，与YouTube展开竞争。Instagram负责人亚当·莫塞里在Screentime会议上表示，公司希望在所有相关设备上以引人入胜的方式呈现内容，并认为现有垂直视频内容可适配电视格式，但对授权体育赛事或好莱坞独家内容不感兴趣。目前尚无具体发布计划。该内容源自智通财经App，白鲸出海仅作转载分享。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251013/1760324433793648.jpeg",
+            "url": "https://www.baijing.cn/article/54358",
+            "category": "社交"
+        },
+        {
             "title": "YouTube Premium为iOS、Android和桌面端增加高清音频和4倍速播放功能",
             "time": "2025-09-27",
             "source": "Engadget",
@@ -2642,6 +2741,42 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "OpenAI旗下视频生成应用Sora实现百万下载，AI编码竞赛格局生变",
+            "time": "2025-10-13",
+            "source": "白鲸出海",
+            "summary": "OpenAI旗下AI视频生成应用Sora在推出后不到五天实现百万下载，超越ChatGPT初期下载速度，目前仅限iOS端邀请制使用，引发好莱坞对版权侵权的担忧。OpenAI计划推出版权控制功能并分享收益。同时，其Codex编码助手在代码采纳率上以74.3%略超Anthropic的Claude Code，但使用率仍较低。Modu数据显示，Codex在复杂任务和成本效率上表现更优，而Sourcegraph的Amp代理采纳率最高，谷歌Gemini CLI则最经济。编码助手竞争加剧，成为AI通用智能的关键战场。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251013/1760324295416410.jpg",
+            "url": "https://www.baijing.cn/article/54357",
+            "category": "AI"
+        },
+        {
+            "title": "吴恩达Agentic AI新课：手把手教你搭建Agent工作流，GPT-3.5反杀GPT-4就顺手的事",
+            "time": "2025-10-12",
+            "source": "量子位",
+            "summary": "吴恩达推出全新Agentic AI课程，系统性地提出智能体开发的四大核心设计模式：反思、工具调用、规划与多智能体协作。课程强调通过任务分解、逐步执行与闭环迭代优化，而非端到端生成，大幅提升AI系统性能。演示中，GPT-3.5借助Agentic工作流在编程任务中超越GPT-4。课程还介绍使用沙盒环境保障工具调用安全，以及MCP统一协议简化工具集成，并倡导以评估与误差分析为核心驱动系统持续进化。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/f5c7b4f70edebdc0d9d46c43f4d50f51.png",
+            "url": "https://www.qbitai.com/2025/10/340687.html",
+            "category": "AI"
+        },
+        {
+            "title": "陶哲轩用GPT5-Pro跨界挑战！3年无解的难题，11分钟出完整证明",
+            "time": "2025-10-11",
+            "source": "量子位",
+            "summary": "数学家陶哲轩借助GPT-5 Pro解决了一个微分几何领域三年未解的开放问题。尽管该问题超出其专业领域，AI在11分钟内完成复杂计算并给出完整证明，帮助陶哲轩验证直觉、发现错误并重构思路。他总结AI在小尺度计算中有用、中尺度策略上无益、大尺度理解上有帮助，强调AI应作为“副驾驶”辅助人类研究，而非替代创造性工作。此次经历深化了他对AI多尺度价值与人机协作模式的思考。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5cf995d3185e1b86dc6d1c82b91eaa19.png",
+            "url": "https://www.qbitai.com/2025/10/340468.html",
+            "category": "AI"
+        },
+        {
+            "title": "实测GAGA-1: 跟OpenAI Sora2互飙中文演技，创作瓶颈又不存在了",
+            "time": "2025-10-10",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXmnBqEMNkDE0jMzUiblxKyiaXhKR9o3agwuVpFlEiaiaRaKfLbAhRkOaAxk7zg0X2XAodUjSJ8Z6FxxiaA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/WZVmRbbA8hn4h4ZgOnnRWw",
+            "category": "AI"
+        },
         {
             "title": "视频生成迎来“ChatGPT时刻”，OpenAI推社交应用正面硬刚TikTok及Meta",
             "time": "2025-10-09",
@@ -3544,6 +3679,42 @@
         }
     ],
     "苹果": [
+        {
+            "title": "苹果停止支持已被遗忘的照片视频编辑应用 Clips，App Store 已下架",
+            "time": "2025-10-13",
+            "source": "动点科技",
+            "summary": "苹果已将照片视频编辑应用Clips从App Store下架，并停止对其更新。自2025年10月10日起，新用户无法下载该应用，但现有用户仍可在旧版iOS和iPadOS系统中使用并重新下载。Clips于2017年发布，旨在对标Snapchat和Instagram Stories，允许用户拼接媒体并添加滤镜与音乐，但近年来仅进行漏洞修复。苹果建议用户将视频保存至照片库以备后续编辑。该应用因使用率低而被市场遗忘，用户反应冷淡。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-10-13/apples-clips-app-discontinued/",
+            "category": "其他"
+        },
+        {
+            "title": "首批搭载苹果 M5 芯片的产品预计会在本周亮相",
+            "time": "2025-10-13",
+            "source": "动点科技",
+            "summary": "彭博社记者马克·古尔曼透露，苹果即将在本周发布首批搭载M5芯片的产品，包括新款iPad Pro和升级版Vision Pro，且已投入量产。同时，苹果正研发H3芯片用于新一代AirPods，探索在耳机中嵌入红外摄像头以实现AI功能与空间感知，并计划推出AirPods 5、M5 MacBook Air、iPhone 17e等新品。健康监测功能如体温检测或将在未来机型中逐步加入，但AirPods 5暂不包含心率传感器。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/ridepods-uai-750x421.webp",
+            "url": "https://cn.technode.com/post/2025-10-13/the-first-products-with-apples-m5-chip-could-make-their-debut-this-week/",
+            "category": "其他"
+        },
+        {
+            "title": "苹果还有机会让AI做对",
+            "time": "2025-10-11",
+            "source": "TechCrunch",
+            "summary": "本文探讨了苹果在AI时代重塑Siri和应用交互方式的潜力，对比了OpenAI推出的ChatGPT应用平台。尽管ChatGPT允许用户通过聊天界面调用第三方应用，但其依赖手动指令、缺乏多应用协同且需用户重新适应，而苹果凭借其庞大的iPhone用户群、自有操作系统和App Store生态，正准备推出更自然、深度集成的AI语音交互功能，有望实现“无图标”应用操作，重新定义AI时代的移动体验。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7975.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/",
+            "category": "AI"
+        },
+        {
+            "title": "库克虎口夺食：马斯克盯上的北大校友AI公司被苹果抢走",
+            "time": "2025-10-11",
+            "source": "量子位",
+            "summary": "苹果疑似通过反向收购（acqui-hire）方式，从初创公司Prompt AI手中挖走其核心团队与技术资产，该团队由北大校友Tete Xiao及UC伯克利背景成员组成，专注视觉智能与家庭安防AI。其产品Seemour可实现环境感知与自然语言交互，但商业模式难盈利，交易完成后将停止服务。马斯克旗下xAI和Neuralink曾参与竞购，最终未能胜出。此举意在强化苹果在HomeKit与Vision Pro等产品的视觉AI布局。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/0930137f329b9118ab8f25cd5e87bbee.png",
+            "url": "https://www.qbitai.com/2025/10/340467.html",
+            "category": "AI"
+        },
         {
             "title": "4万亿帝国接班人浮出水面，苹果不需要另一个库克",
             "time": "2025-10-09",
@@ -4711,6 +4882,15 @@
     ],
     "亚马逊": [
         {
+            "title": "AI语言学习应用BeeSpeaker融资200万欧元，短视频+口语练习让学习者会开口说",
+            "time": "2025-10-13",
+            "source": "多知网",
+            "summary": "波兰语言学习应用BeeSpeaker获得200万欧元种子轮融资，由Movens Capital领投，旨在拓展新市场并增加德语、法语等新语言课程。该应用通过AI驱动的短视频互动与口语对话练习，帮助学习者突破“会读不会说”的瓶颈，模拟真实场景如点餐、面试，提供个性化反馈。其核心理念是模仿儿童语言习得方式，强调大胆开口与沉浸式对话，目前已拥有超6万付费用户。",
+            "image_url": "http://www.duozhi.com/d/file/2025/10/a579d90001636f22632f7715764c45c4.png",
+            "url": "http://www.duozhi.com/industry/insight/2025101317771.shtml",
+            "category": "AI"
+        },
+        {
             "title": "亚马逊药房自助服务终端将于12月在洛杉矶的One Medical诊所投入使用",
             "time": "2025-10-09",
             "source": "动点科技",
@@ -4910,6 +5090,15 @@
         }
     ],
     "红杉资本": [
+        {
+            "title": "聚水潭今起招股：获红杉、景林等超10亿港元基石认购，IPO市值130亿港元",
+            "time": "2025-10-13",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1ajdz4IOR5RUhZrwxoqteeeURhuWR4ns1CrUYXFGcyTzGkDvPmgJ9VAze5UWBucSdwxwFbZFWRxdA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/1C932ztZoUL05zQnYgNC3w",
+            "category": "其他"
+        },
         {
             "title": "星巴克筛选Boyau、凯雷、EQT和红杉为中国业务出售最终竞购方",
             "time": "2025-09-10",
@@ -5345,6 +5534,15 @@
     ],
     "Bloober Team": [
         {
+            "title": "Fami通9月销量榜：《寂静岭f》排第二 第一断崖领先！",
+            "time": "2025-10-13",
+            "source": "游侠网",
+            "summary": "Fami通公布2025年9月日本游戏软硬件销量榜，《马里奥赛车：世界》以145,397份销量登顶实体游戏榜首，远超第二名《寂静岭f》的57,475份。任天堂Switch 2以175,542台成为最畅销主机，Switch销量降至82,946台。任天堂以36.6万份游戏销量领跑发行商，万代南梦宫与科乐美分列二、三位。《寂静岭f》作为新作表现强劲，引发广泛讨论。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/13/584_20251013103959667.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/968473.html",
+            "category": "游戏"
+        },
+        {
             "title": "《寂静岭f》宣布改编成官方小说！今年10月30日发售",
             "time": "2025-09-29",
             "source": "游侠网",
@@ -5508,6 +5706,15 @@
     ],
     "特朗普": [
         {
+            "title": "特朗普威胁加税，LABUBU高兴坏了",
+            "time": "2025-10-13",
+            "source": "36氪财经",
+            "summary": "本文分析了特朗普威胁对中国商品加征关税对玩具行业的影响，重点聚焦泡泡玛特如何应对。尽管关税可能推高成本，但泡泡玛特通过转移产能至越南、提升海外售价及强化IP营销，有效缓冲冲击。其潮玩IP LABUBU在美国市场火爆，门店客流量仅次于苹果，海外营收占比超40%，美洲市场同比增长超11倍。公司计划加大美国旗舰店布局，提升数字化运营，展现强劲的全球化扩张态势。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251013/v2_f759cfb15a044a1598c91d2a9c19d655@394564713_oswg44973oswg871oswg347_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3507106562038658",
+            "category": "社交"
+        },
+        {
             "title": "特朗普提议芯片制造平等规则",
             "time": "2025-09-27",
             "source": "The Verge",
@@ -5635,6 +5842,24 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "马斯克从英伟达挖人做AI游戏！第一步：研发世界模型",
+            "time": "2025-10-13",
+            "source": "量子位",
+            "summary": "马斯克领导的xAI团队近期从英伟达挖角两位资深研究员Zeeshan Patel和Ethan He，两人均参与过Omniverse平台的核心开发，具备世界模型与多模态系统研发经验。xAI计划将英伟达在物理仿真与图形渲染方面的技术应用于世界模型，目标是在2026年底前推出一款由AI生成、可实时响应玩家行为的逼真3D游戏。团队正组建全模态研究小组，并招募游戏导师向AI传授游戏机制，此举被视为构建AGI核心底座的关键一步，未来或与特斯拉、Neuralink形成AI生态闭环。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/39ce1a6b170a2575aef996ba1612183e.png",
+            "url": "https://www.qbitai.com/2025/10/340762.html",
+            "category": "AI"
+        },
+        {
+            "title": "库克虎口夺食：马斯克盯上的北大校友AI公司被苹果抢走",
+            "time": "2025-10-11",
+            "source": "量子位",
+            "summary": "苹果疑似通过反向收购（acqui-hire）方式，从初创公司Prompt AI手中挖走其核心团队与技术资产，该团队由北大校友Tete Xiao及UC伯克利背景成员组成，专注视觉智能与家庭安防AI。其产品Seemour可实现环境感知与自然语言交互，但商业模式难盈利，交易完成后将停止服务。马斯克旗下xAI和Neuralink曾参与竞购，最终未能胜出。此举意在强化苹果在HomeKit与Vision Pro等产品的视觉AI布局。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/0930137f329b9118ab8f25cd5e87bbee.png",
+            "url": "https://www.qbitai.com/2025/10/340467.html",
+            "category": "AI"
+        },
         {
             "title": "马斯克与前推特高管达成1.28亿美元诉讼和解",
             "time": "2025-10-09",
@@ -5972,6 +6197,24 @@
     ],
     "英伟达": [
         {
+            "title": "马斯克从英伟达挖人做AI游戏！第一步：研发世界模型",
+            "time": "2025-10-13",
+            "source": "量子位",
+            "summary": "马斯克领导的xAI团队近期从英伟达挖角两位资深研究员Zeeshan Patel和Ethan He，两人均参与过Omniverse平台的核心开发，具备世界模型与多模态系统研发经验。xAI计划将英伟达在物理仿真与图形渲染方面的技术应用于世界模型，目标是在2026年底前推出一款由AI生成、可实时响应玩家行为的逼真3D游戏。团队正组建全模态研究小组，并招募游戏导师向AI传授游戏机制，此举被视为构建AGI核心底座的关键一步，未来或与特斯拉、Neuralink形成AI生态闭环。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/39ce1a6b170a2575aef996ba1612183e.png",
+            "url": "https://www.qbitai.com/2025/10/340762.html",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达的AI帝国：揭秘其顶级初创企业投资",
+            "time": "2025-10-12",
+            "source": "TechCrunch",
+            "summary": "英伟达在过去两年中利用其快速增长的资本，投资了超过100家AI初创企业，涵盖生成式AI、自动驾驶、机器人、数据中心和医疗AI等多个前沿领域。其最大手笔包括向OpenAI承诺投资高达1000亿美元，参与xAI、Mistral AI、Reflection AI等多家独角兽的数十亿美元融资，并在Inflection、Figure AI、Scale AI等公司中占据重要股东地位。这些投资不仅扩大了其生态影响力，也巩固了其在AI基础设施中的核心地位。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/12/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+            "category": "AI"
+        },
+        {
             "title": "英伟达垄断AI算力局面或将被颠覆，AMD赌上身家发起决斗，奥特曼窃喜",
             "time": "2025-10-09",
             "source": "36氪",
@@ -6253,6 +6496,15 @@
     ],
     "deepseek": [
         {
+            "title": "实测智谱新GLM-4.6 VS DeepSeek V3.2 - 国产Claude，当之无愧",
+            "time": "2025-10-09",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkXCwr0dZOBY5LAxJqkBibPnbTqictGFicAa7UFLF7eDgaKZR9mLk7Gnt3ROCI62QgUICGhSnWXo0EAw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/uFkrwXxNlQ1SbH5i-DRsGw",
+            "category": "AI"
+        },
+        {
             "title": "DeepSeek突然拥抱国产GPU语言!对标CUDA替代Triton,华为Day0适配",
             "time": "2025-09-30",
             "source": "量子位",
@@ -6398,6 +6650,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "单价200多的塑料雪人，竟在TikTok上卖断货",
+            "time": "2025-10-13",
+            "source": "白鲸出海",
+            "summary": "近期，一款售价约242元的会唱歌动画雪人在TikTok走红，凭借LED面部投影、口型同步和圣诞歌曲播放功能，单日销量突破3000件，28天GMV达25.7万美元，一度断货。同时，定制记忆水晶球灯也因情感化体验火爆，成为热门圣诞礼物。文章指出，个性化、定制化礼物正成为欧美消费趋势，跨境卖家可借势POD模式与社交媒体营销抢占节日市场。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251013/1760328571146232.jpg",
+            "url": "https://www.baijing.cn/article/54360",
+            "category": "社交"
+        },
+        {
+            "title": "字节PICO、大朋VR的光学引擎供应商拟赴美上市，2025财年营收1.87亿元",
+            "time": "2025-10-11",
+            "source": "多知网",
+            "summary": "南京栢拓视觉科技有限公司（Boundless Group）提交赴美上市招股书，拟在纳斯达克上市，股票代码为BLTG。公司主要为PICO、大朋VR等提供VR光学引擎模组，2025财年营收达1.87亿元人民币，净亏损约1277万元。其彩色电子纸显示产品线计划与教育机构合作推广电子纸学习本，面向教育、医疗等领域，主打低能耗、护眼特性。公司核心技术源于光学显示领域，客户高度集中于前三大客户，研发团队经验丰富，正拓展车载与CMS等新业务线。",
+            "image_url": "http://www.duozhi.com/d/file/2025/10/7328b3ddb258d86760d2f5aa5a4d85ff.png",
+            "url": "http://www.duozhi.com/industry/insight/2025101117767.shtml",
+            "category": "其他"
+        },
         {
             "title": "视频生成迎来“ChatGPT时刻”，OpenAI推社交应用正面硬刚TikTok及Meta",
             "time": "2025-10-09",
@@ -6923,6 +7193,15 @@
     ],
     "智谱": [
         {
+            "title": "实测智谱新GLM-4.6 VS DeepSeek V3.2 - 国产Claude，当之无愧",
+            "time": "2025-10-09",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkXCwr0dZOBY5LAxJqkBibPnbTqictGFicAa7UFLF7eDgaKZR9mLk7Gnt3ROCI62QgUICGhSnWXo0EAw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/uFkrwXxNlQ1SbH5i-DRsGw",
+            "category": "AI"
+        },
+        {
             "title": "智谱发布国内最强Coding模型「GLM-4.6」，寒武纪、摩尔线程完成对其适配",
             "time": "2025-09-30",
             "source": "IPO早知道",
@@ -7096,6 +7375,15 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "实测智谱新GLM-4.6 VS DeepSeek V3.2 - 国产Claude，当之无愧",
+            "time": "2025-10-09",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkXCwr0dZOBY5LAxJqkBibPnbTqictGFicAa7UFLF7eDgaKZR9mLk7Gnt3ROCI62QgUICGhSnWXo0EAw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/uFkrwXxNlQ1SbH5i-DRsGw",
+            "category": "AI"
+        },
         {
             "title": "Anthropic与IBM宣布战略合作",
             "time": "2025-10-07",
