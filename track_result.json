@@ -1,6 +1,36 @@
 {
     "微软": [
         {
+            "title": "《黑神话：悟空》Xbox版更新上线！部分报错BUG修复",
+            "time": "2025-10-15",
+            "source": "游侠网",
+            "summary": "《黑神话：悟空》Xbox版本发布1.0.20.21815更新，主要优化存档界面阅读性并新增捷克语支持，修复了若干导致游戏报错的问题及多语言翻译错误。此次更新规模较小，与此前PS5和WeGame/Epic平台的大型性能优化补丁不同。官方同步公布了其他平台更新内容，涵盖画质、性能与BUG修复，引发玩家关注。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/15/584_2025101542541794.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/969331.html",
+            "category": "游戏"
+        },
+        {
+            "title": "ROG Xbox ALLY定制版Win11有黑科技：内存消耗少2G！",
+            "time": "2025-10-15",
+            "source": "游侠网",
+            "summary": "游侠网报道，华硕ROG Xbox ALLY掌机搭载的定制版Windows 11通过进程管理优化，显著降低内存占用约2GB。系统在全屏沉浸模式下仅保留游戏必需的核心功能，切换至桌面模式时再加载其他组件，实现无缝切换无需重启。微软与华硕计划未来为现有ROG ALLY设备推送该定制系统，但因技术难题尚未确定发布时间，目前仍在积极推进适配工作。",
+            "image_url": [
+                "https://img2.ali213.net/picfile/News/2025/10/15/584_2025101543210496.jpg",
+                "https://img2.ali213.net/picfile/News/2025/10/15/584_2025101543210264.jpg"
+            ],
+            "url": "https://www.ali213.net/news/html/2025-10/969333.html",
+            "category": "游戏"
+        },
+        {
+            "title": "Nscale与微软达成大规模AI基础设施协议",
+            "time": "2025-10-15",
+            "source": "TechCrunch",
+            "summary": "AI基础设施初创公司Nscale与微软达成一项重大合作协议，将部署约20万块NVIDIA GB300 GPU到欧洲和美国的四个数据中心。其中10.4万块GPU将部署于德克萨斯州的Ionic Digital数据中心，1.26万块部署于葡萄牙Sines的Start Campus，其余分别用于英国和挪威的微软AI园区。该交易依托Nscale与投资方Aker的合资模式，凸显其在AI硬件部署领域的快速扩张能力。Nscale成立于2024年，已融资超17亿美元，并计划于明年上市。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2201260651.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/15/nscale-inks-massive-ai-infrastructure-deal-with-microsoft/",
+            "category": "AI"
+        },
+        {
             "title": "Windows 10将于明日起“停服”",
             "time": "2025-10-13",
             "source": "36氪",
@@ -545,6 +575,15 @@
     ],
     "任天堂": [
         {
+            "title": "第一实至名归！IGN评选《宝可梦》系列十大衍生游戏",
+            "time": "2025-10-14",
+            "source": "游侠网",
+            "summary": "IGN评选了《宝可梦》系列十大衍生游戏，涵盖从《宝可梦GO》《宝可梦传说：阿尔宙斯》到《宝可梦巡护员》《宝可梦不可思议迷宫》等作品。文章指出，这些衍生作通过突破传统回合制RPG模式，从不同角度拓展了宝可梦宇宙的深度与趣味，强调情感联结与世界观探索，而非单纯对战。其中《宝可梦传说：阿尔宙斯》位列榜首，因其创新的开放世界与动作玩法获得高度评价。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/14/584_2025101423412133.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/968903.html",
+            "category": "游戏"
+        },
+        {
             "title": "又来碰瓷《黑神话》？可疑“悟空”新游登陆Switch",
             "time": "2025-10-13",
             "source": "游侠网",
@@ -889,6 +928,15 @@
     ],
     "腾讯": [
         {
+            "title": "腾讯PvEvP猎杀夺宝FPS新作，《灰境行者》全球首曝",
+            "time": "2025-10-15",
+            "source": "游侠网",
+            "summary": "腾讯北极光工作室自研的FPS新作《灰境行者》正式发布首曝PV及实机视频，游戏融合PvEvP玩法，玩家组成三人小队在9分钟猎杀发育阶段收集战利品，随后进入随机夺宝对决空间，与怪物和对手博弈。游戏采用UE5引擎，拥有独特怪物设计与职业天赋系统，三种职业可自由搭配天赋，形成多样战术组合，单局时长控制在20分钟内，强调策略性与高复玩性，备受玩家期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/15/584_2025101544549296.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/969339.html",
+            "category": "游戏"
+        },
+        {
             "title": "可能是目前效果最好的开源生图模型，混元生图3.0来了",
             "time": "2025-09-30",
             "source": "量子位",
@@ -1196,6 +1244,33 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌允许用户将朋友设为账户恢复联系人",
+            "time": "2025-10-15",
+            "source": "TechCrunch",
+            "summary": "谷歌推出多项安全与账户恢复新功能，包括允许用户添加最多10位可信赖的亲友作为恢复联系人，当账户被锁定时，联系人将收到15分钟有效的验证码协助用户恢复访问。同时，谷歌还引入通过手机号码和旧设备锁屏密码进行身份验证的恢复方式，并在Google Messages中为所有用户增加垃圾链接检测与端到端加密密钥验证功能。此外，谷歌还上线了名为《Be Scam Ready》的互动游戏，以教育用户识别网络诈骗。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Google-Blog_Oct15_Recovery-Contacts.jpeg?w=680",
+            "url": "https://techcrunch.com/2025/10/15/google-now-lets-you-add-friends-as-contacts-for-account-recovery/",
+            "category": "社交"
+        },
+        {
+            "title": "谷歌将允许朋友帮助你恢复账户",
+            "time": "2025-10-15",
+            "source": "The Verge",
+            "summary": "谷歌推出两项新安全功能，帮助用户在丢失密码或账户被黑时更便捷地恢复访问权限。一是“恢复联系人”功能，允许用户指定可信亲友协助验证身份；二是“通过手机号登录”功能，专为安卓用户设计，可通过旧设备的锁屏密码自动识别账户，无需密码。这些功能是谷歌反诈骗和安全升级的一部分，旨在提升账户恢复的安全性与易用性，目前已在部分账户中逐步上线。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/799780/google-account-recovery-trusted-contacts-mobile-number",
+            "category": "社交"
+        },
+        {
+            "title": "谷歌发布Veo 3.1并将其集成至Flow视频编辑器",
+            "time": "2025-10-15",
+            "source": "TechCrunch",
+            "summary": "谷歌发布了AI视频生成模型Veo 3.1，该版本在Veo 3基础上提升了音频生成能力、图像转视频效果和精细编辑控制。新功能包括在视频中添加或移除对象、根据参考帧生成连贯片段，并为所有编辑功能增加同步音频，使生成视频更生动。Veo 3.1已集成至谷歌的Flow视频编辑器、Gemini应用及Vertex和Gemini API中。自5月Flow上线以来，用户已创建超过2.75亿个视频。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-15-at-8.03.20PM.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/15/google-releases-veo-3-1-adds-it-to-flow-video-editor/",
+            "category": "AI"
+        },
         {
             "title": "谷歌Chrome 或将消除烦人的通知",
             "time": "2025-10-13",
@@ -1819,6 +1894,42 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Threads即将在欧盟推出群组聊天功能",
+            "time": "2025-10-15",
+            "source": "TechCrunch",
+            "summary": "Meta旗下的Threads应用正式向全球用户推出支持最多50人的群组聊天功能，并同步在欧盟地区上线消息服务。用户可发送文字、视频、GIF和表情符号，但消息不采用端到端加密。群聊需互相关注才能被邀请，且未来将支持通过链接邀请成员。该功能旨在强化用户基于共同兴趣的深度连接，与Instagram的Reels和私信策略保持一致，以应对X等竞争对手。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Threads_Group-Chats.png?w=680",
+            "url": "https://techcrunch.com/2025/10/15/threads-is-getting-group-chats-as-messaging-rolls-out-to-the-eu/",
+            "category": "社交"
+        },
+        {
+            "title": "Facebook移除追踪ICE的页面，因美国政府介入",
+            "time": "2025-10-15",
+            "source": "The Verge",
+            "summary": "Facebook在司法部介入后移除了一个追踪美国移民与海关执法局（ICE）行动的页面，该页面被指用于曝光ICE特工位置。此举与此前苹果和谷歌下架类似追踪应用的行动一致。司法部官员帕姆·邦迪称该页面威胁执法人员安全，但Meta未确认具体页面名称。该事件引发关于政府是否通过“施压”干预合法言论的争议，尽管此前类似案件中最高法院未认定政府行为构成强制。同时，政府对ICE追踪工具与暴力事件的关联性缺乏确凿证据。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK432_Government__CVirginia_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning",
+            "category": "社交"
+        },
+        {
+            "title": "Threads现在支持群组私信",
+            "time": "2025-10-15",
+            "source": "Engadget",
+            "summary": "Meta已开始在Threads应用中推出群组私信功能，用户可创建最多容纳50人的群聊，并自定义群名称。该功能目前仅限移动端，未来将支持通过链接邀请成员加入。同时，欧盟地区用户将同步获得包括群聊、消息控制、隐私设置和垃圾信息过滤在内的完整消息功能。自7月上线私信功能以来，Threads已陆续支持图片、视频、GIF及消息请求过滤等特性，Meta称其正朝着成为公司下一个核心应用的目标迈进。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/TJR6Q1tW3l9I4wLjHiQiSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTg0Ng--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/50ea9480-a9b9-11f0-acdd-9fa9d020dcef",
+            "url": "https://www.engadget.com/social-media/threads-now-supports-group-dm-150002493.html",
+            "category": "社交"
+        },
+        {
+            "title": "Meta与Arm合作扩大AI努力",
+            "time": "2025-10-15",
+            "source": "TechCrunch",
+            "summary": "半导体公司Arm与Meta达成多年合作，将Meta的排名与推荐系统迁移至Arm的Neoverse平台，以提升其AI系统的能效与扩展能力。Meta正在大规模扩建数据中心网络，包括俄亥俄州的“Prometheus”和路易斯安那州的“Hyperion”项目，预计总功率达数吉瓦。此次合作强调低功耗部署优势，不同于NVIDIA等公司通过股权投资构建AI基础设施的模式，双方不涉及股权或实体基础设施交换。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/",
+            "category": "AI"
+        },
         {
             "title": "Meta旗下Instagram探索开发电视应用，计划进军大屏视频与YouTube竞争",
             "time": "2025-10-13",
@@ -2587,6 +2698,33 @@
     ],
     "YouTube": [
         {
+            "title": "YouTube、YouTube TV 和 YouTube Music 在国际性中断后恢复服务",
+            "time": "2025-10-16",
+            "source": "The Verge",
+            "summary": "YouTube及其相关服务YouTube TV和YouTube Music在经历约一小时的全球性服务中断后已恢复正常。据Downdetector和谷歌官方支持论坛确认，问题已解决。文章提及用户对YouTube近期更新的视频播放器界面存在争议，该更新虽更透明但引发部分用户不满。此次中断影响了全球多个地区的流媒体体验，但未造成数据丢失或长期服务影响。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/news/800507/youtube-youtube-tv-and-youtube-music-are-back-after-an-outage-blanked-out-streams-internationally",
+            "category": "社交"
+        },
+        {
+            "title": "参议员质疑YouTube对特朗普和解协议是否构成贿赂",
+            "time": "2025-10-16",
+            "source": "The Verge",
+            "summary": "五名美国民主党参议员致信谷歌和YouTube首席执行官，质疑其与前总统特朗普达成的2450万美元和解协议是否构成非法贿赂。该协议旨在解决特朗普因被封禁而提起的诉讼，但其法律依据薄弱，且巨额资金中的2200万美元用于资助白宫舞厅建设，引发外界对谷歌为换取反垄断案件宽大处理而进行利益输送的担忧。参议员援引联邦反贿赂法，要求披露是否存在与政府决策挂钩的私下交易。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194353922.jpg?quality=90&strip=all&crop=0%2C0.003551388592939%2C100%2C99.992897222814&w=2400",
+            "url": "https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube推出全新视频播放器",
+            "time": "2025-10-15",
+            "source": "The Verge",
+            "summary": "YouTube本周开始在其移动、网页和电视端推出全新视频播放器，旨在提供更简洁、沉浸式的观看体验。新播放器采用圆角透明控件、更新的图标设计，并优化了双击跳过、评论回复系统和点赞动画等功能，减少对视频内容的遮挡。该更新此前已在测试阶段，官方称其视觉效果虽类似液态玻璃，但更为克制。此次更新覆盖全平台，提升用户观看体验。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Watch-Player.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/799492/youtube-new-video-player-update-changes",
+            "category": "社交"
+        },
+        {
             "title": "Meta旗下Instagram探索开发电视应用，计划进军大屏视频与YouTube竞争",
             "time": "2025-10-13",
             "source": "白鲸出海",
@@ -2741,6 +2879,51 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "8点1氪丨官方通报“升龙烟花秀”：始祖鸟承担相应赔偿修复责任；于东来自曝公司账上资金有41亿；ChatGPT即将解禁成人内容",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "36氪报道了当日重要商业与科技新闻：西藏“升龙烟花秀”被查，始祖鸟作为赞助商需承担生态修复责任，当地官员被立案；胖东来创始人于东来披露公司账上资金达41亿元且无贷款；OpenAI宣布ChatGPT将推出年龄验证系统，允许成年用户访问成人内容。此外，苹果发布M5芯片及搭载新品，美司法部没收150亿美元比特币，三花智控澄清特斯拉订单传闻，山姆、匹克、世纪佳缘等企业涉舆情事件，微软计划部署20万块英伟达GPU，多起投融资与上市动态同步更新。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_e75fe88cee8547fb9a0f544263569db3@5667365_oswg982756oswg1033oswg6240_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511110575234180",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI“隐秘客户榜”曝光：谁在烧掉上万亿Token？",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "外媒披露OpenAI年收入突破120亿美元，一份泄露的名单曝光了30家年消耗超万亿Token的客户，包括Duolingo、Salesforce、Shopify、T-Mobile等。这些企业主要集中在SaaS、开发工具、企业自动化和医疗健康等领域，AI已深度融入其核心业务流程，成为算力消耗主力。文章指出，真正高耗能的并非C端应用，而是B端和D端的后台服务，AI正从辅助工具演变为产品“灵魂”。创业者应聚焦企业级场景，挖掘高频、刚需的AI调用机会。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_60f46d99040b450390fb4d129d6917d6@5091053_oswg505282oswg1080oswg562_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511027412097928",
+            "category": "AI"
+        },
+        {
+            "title": "为了10000亿美元，OpenAI做了一份五年商业规划",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "OpenAI公布为期五年的商业战略，应对未来可能超1万亿美元的巨额开支，计划通过为政府和企业提供定制化AI解决方案、商业化Sora视频模型与AI智能体、开发AI硬件设备、进军广告市场及创新债务融资等方式创收。其与甲骨文、英伟达等合作构建算力基础设施，采用杠杆式合作模式缓解资金压力。尽管市场担忧AI泡沫，OpenAI高管对长期回报持乐观态度，强调战略有扎实的技术与商业支撑。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_ea87edd035ad47409b4c6b9b8c34faad@5091053_oswg124291oswg788oswg579_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511096684321926",
+            "category": "AI"
+        },
+        {
+            "title": "日本要求OpenAI不要侵犯不可替代的漫画和动画内容",
+            "time": "2025-10-15",
+            "source": "Engadget",
+            "summary": "日本政府已要求OpenAI调整其Sora 2视频生成器，避免使用日本动漫和漫画的受版权保护内容，称其为“不可替代的国宝”。内阁大臣木内孝胤在记者会上明确表示，日本有责任在AI与版权规则方面发挥领导作用。尽管日本推动AI发展，但对侵权内容的执法仍不明确。OpenAI此前已向内容方提供退出训练数据的选项，但尚不清楚是否有日本工作室参与。近期Sora 2生成的大量短视频涉及《龙珠》《宝可梦》等经典IP，引发广泛关注。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/ZPFXctr5HjEz2GJYjx8Zvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02NTI-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/8954ccf0-a996-11f0-a8df-cb673ab07705",
+            "url": "https://www.engadget.com/ai/japan-asks-openai-not-to-infringe-on-irreplaceable-manga-and-anime-content-120008580.html",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI将于12月允许成年人在ChatGPT中使用情色内容",
+            "time": "2025-10-14",
+            "source": "Engadget",
+            "summary": "OpenAI宣布自2025年12月起，将在完成年龄验证机制后，允许经过验证的成年人在ChatGPT中使用情色内容，此举基于“对待成年用户如成人”的原则。公司此前已推出家长控制和自动年龄检测功能，并在DevDay 2025中明确支持18+成熟应用。此举引发争议，因此前曾发生未成年人因ChatGPT影响自杀的悲剧，OpenAI也通过发布GPT-5和提醒用户休息等措施应对心理健康问题。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/zNqnXjePTUvtyqwjxOaDAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/f16b74f0-a929-11f0-9d7d-26f6b9e78917",
+            "url": "https://www.engadget.com/ai/openai-will-let-adults-use-chatgpt-for-erotica-starting-in-december-182417583.html",
+            "category": "AI"
+        },
         {
             "title": "OpenAI旗下视频生成应用Sora实现百万下载，AI编码竞赛格局生变",
             "time": "2025-10-13",
@@ -3679,6 +3862,60 @@
         }
     ],
     "苹果": [
+        {
+            "title": "苹果将于下月以250美元单独销售PS VR2 Sense控制器",
+            "time": "2025-10-16",
+            "source": "Engadget",
+            "summary": "苹果在发布第二代Vision Pro头显的同时，宣布将于11月11日起在官网单独销售索尼PS VR2 Sense控制器，售价250美元。此前这些控制器仅能通过400美元的PS VR2套装购买。新控制器支持六自由度运动追踪、手指触控检测和震动反馈，可提升Vision Pro的沉浸式游戏体验。第二代Vision Pro搭载M5芯片并配备双针织头带，提升稳定性和舒适度。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/rntqCM28lWkMmXCpEhIOzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/aa68ee80-aa04-11f0-bf77-aabc70025f2b",
+            "url": "https://www.engadget.com/wearables/apple-will-sell-ps-vr2-sense-controllers-separately-for-250-next-month-203602932.html",
+            "category": "游戏"
+        },
+        {
+            "title": "苹果M5「夜袭」高通英特尔，AI算力狂飙400%，Pro三剑客火速上新",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "苹果悄然发布搭载M5芯片的三款Pro新品：14英寸MacBook Pro、iPad Pro和Vision Pro，AI性能相较M4提升最高达4倍，图形性能提升45%，统一内存带宽增至153GB/s，支持本地AI推理与多任务高效处理。三款产品均保持与M4版本相同价格，加量不加价。M5芯片采用第三代3纳米工艺，每个GPU核心内置神经网络加速器，大幅提升本地AI应用体验，如图像生成、视频剪辑和空间计算，推动设备端AI进入新阶段。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_059d3798897b4f23a006484f417fb168@5091053_oswg101291oswg1080oswg407_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511004289358720",
+            "category": "AI"
+        },
+        {
+            "title": "突袭发布，苹果M5三款产品来了，AI性能飙升3.5倍，8999元起",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "苹果于2025年10月16日低调发布三款搭载全新M5芯片的产品：14英寸MacBook Pro、iPad Pro和Vision Pro，均于10月22日发售。M5芯片使AI性能较上代提升3.5倍，图形处理能力提升1.6倍，MacBook Pro续航达24小时，iPad Pro厚度降至5.1毫米，Vision Pro支持120Hz刷新率并优化佩戴舒适度。三款产品价格从8999元起，主打设备端AI与专业工作流加速，正值库克访华与双11前夕，被视作抢占中国市场的关键举措。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_520b220738194c14978a9e472b00b80d@5091053_oswg90190oswg992oswg638_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511128289614729",
+            "category": "AI"
+        },
+        {
+            "title": "苹果在欧洲新增650兆瓦可再生能源，中国将有更多投资",
+            "time": "2025-10-15",
+            "source": "TechCrunch",
+            "summary": "苹果公司宣布在欧洲签署650兆瓦可再生能源合同，涵盖希腊、西班牙、意大利等国的风电与光伏项目，主要用于抵消客户设备充电及运营的碳排放。同时，苹果将投资1.5亿美元帮助中国供应商转向可再生能源，目前其在华制造90%以上已使用清洁能源。值得注意的是，此类公告未出现在美国官网，或为规避政治压力。太阳能与风能因成本低、建设快，成为科技公司首选能源方案。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-831764682.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/10/15/apple-adds-650-megawatts-of-renewables-in-europe-with-more-coming-in-china/",
+            "category": "其他"
+        },
+        {
+            "title": "苹果推出搭载M5芯片的iPad Pro、MacBook Pro和Vision Pro",
+            "time": "2025-10-15",
+            "source": "TechCrunch",
+            "summary": "苹果于2025年10月15日发布搭载全新M5芯片的iPad Pro、MacBook Pro和Vision Pro三款设备。M5芯片相较M4在GPU性能上提升四倍以上，AI性能提升显著，其中iPad Pro的AI性能提升达3.5倍，MacBook Pro内存带宽提升至153Gbps，Vision Pro则提升显示渲染速度并延长电池续航。三款设备均于10月22日开售，价格分别为999美元起、1599美元起和3499美元。苹果同时强调M5芯片为苹果芯片的下一代AI性能飞跃。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Apple-iPad-Pro-lifestyle-251015_big.jpg.large_2x.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/15/apple-upgrades-ipad-pro-macbook-pro-and-vision-pro-with-new-m5-chip/",
+            "category": "其他"
+        },
+        {
+            "title": "苹果公司宣布向清华大学启动一项新的捐赠计划",
+            "time": "2025-10-14",
+            "source": "多知网",
+            "summary": "苹果公司宣布向清华大学启动一项新的捐赠计划，旨在帮助学生掌握推动可持续创新所需的知识与技能，延续并拓展此前在该校开展的环境教育项目。该计划将通过跨学科课程与供应链工厂实践，赋能来自40多个院系的学生，已有多个创新成果被企业采纳，部分学生走上绿色创业道路。此前苹果曾支持清华“中国绿色创新夏季学院”，累计培训超两万名学生，研究覆盖制造业能效、乡村碳减排等前沿领域。",
+            "image_url": "http://www.duozhi.com/d/file/2025/10/3f3da5acf73689bbcd0756d9fe0ad2cf.png",
+            "url": "http://www.duozhi.com/industry/insight/2025101417778.shtml",
+            "category": "其他"
+        },
         {
             "title": "苹果停止支持已被遗忘的照片视频编辑应用 Clips，App Store 已下架",
             "time": "2025-10-13",
@@ -4882,6 +5119,15 @@
     ],
     "亚马逊": [
         {
+            "title": "长沙跨境大卖又出圈，7个月吸金30亿，拿下亚马逊TOP1",
+            "time": "2025-10-15",
+            "source": "白鲸出海",
+            "summary": "中国鞋履品牌Dream Pairs母公司美迈科技在2025年前七个月实现30亿元GMV，其主品牌Dream Pairs在亚马逊美国站女鞋类目登顶。品牌依托中国供应链优势，自2009年创立以来逐步构建多品牌矩阵，并通过TikTok、Instagram等社交平台进行场景化内容营销，达人带货贡献超六成销售额。同时布局线下门店与全渠道销售网络，成为中国品牌出海的成功范例。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251015/1760512303884521.jpg",
+            "url": "https://www.baijing.cn/article/54396",
+            "category": "其他"
+        },
+        {
             "title": "AI语言学习应用BeeSpeaker融资200万欧元，短视频+口语练习让学习者会开口说",
             "time": "2025-10-13",
             "source": "多知网",
@@ -5534,6 +5780,15 @@
     ],
     "Bloober Team": [
         {
+            "title": "《寂静岭f》女主脸模晒生活照：打扮美美的吃海底捞！",
+            "time": "2025-10-15",
+            "source": "游侠网",
+            "summary": "《寂静岭f》女主角“深水雏子”的脸模加藤小夏近日在社交媒体分享多张生活照，展现其清纯外貌与日常状态，其中包含她前往海底捞用餐的场景，引发玩家热议。作为《寂静岭》系列最新作，《寂静岭f》以日本小镇“戎之丘”为舞台，玩家将跟随女主角探索神秘真相。游戏已登陆PS5、Xbox Series X|S及PC平台，凭借独特的日式恐怖风格与角色设计获得广泛关注。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/15/584_2025101544638518.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/969329.html",
+            "category": "游戏"
+        },
+        {
             "title": "Fami通9月销量榜：《寂静岭f》排第二 第一断崖领先！",
             "time": "2025-10-13",
             "source": "游侠网",
@@ -5706,6 +5961,15 @@
     ],
     "特朗普": [
         {
+            "title": "参议员质疑YouTube对特朗普和解协议是否构成贿赂",
+            "time": "2025-10-16",
+            "source": "The Verge",
+            "summary": "五名美国民主党参议员致信谷歌和YouTube首席执行官，质疑其与前总统特朗普达成的2450万美元和解协议是否构成非法贿赂。该协议旨在解决特朗普因被封禁而提起的诉讼，但其法律依据薄弱，且巨额资金中的2200万美元用于资助白宫舞厅建设，引发外界对谷歌为换取反垄断案件宽大处理而进行利益输送的担忧。参议员援引联邦反贿赂法，要求披露是否存在与政府决策挂钩的私下交易。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194353922.jpg?quality=90&strip=all&crop=0%2C0.003551388592939%2C100%2C99.992897222814&w=2400",
+            "url": "https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe",
+            "category": "社交"
+        },
+        {
             "title": "特朗普威胁加税，LABUBU高兴坏了",
             "time": "2025-10-13",
             "source": "36氪财经",
@@ -5713,6 +5977,15 @@
             "image_url": "https://img.36krcdn.com/hsossms/20251013/v2_f759cfb15a044a1598c91d2a9c19d655@394564713_oswg44973oswg871oswg347_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3507106562038658",
             "category": "社交"
+        },
+        {
+            "title": "特朗普“破防”：不只TACO，还会有中国资产重估？",
+            "time": "2025-10-13",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHib03yzo0rNuln0YMBIKXCWd3urnKbXLjrp3zFwIzNk0aqMTvQQOHmPzjjlr7jVuiaAZ2HLlYGlnHQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/oTSl8xFuKuC9rrRy6B16CQ",
+            "category": "其他"
         },
         {
             "title": "特朗普提议芯片制造平等规则",
@@ -5842,6 +6115,15 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "马斯克的作业还是被奥特曼「抄走了」",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "OpenAI宣布将在12月推出ChatGPT「成人模式」，允许用户生成带有成人内容的个性化回复，此举被视为模仿马斯克旗下Grok AI的策略。此前OpenAI因规避风险而削弱ChatGPT的人性化特征，引发用户不满。文章分析指出，AI竞争已从技术参数转向用户注意力与多巴胺刺激，马斯克通过AI女友、NSFW内容等手段快速引流，而OpenAI的转向标志着技术理想主义向市场现实妥协。文中还提及星舰测试、黄仁勋送超算等彩蛋，反映科技巨头间的复杂博弈。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_27f90ab010eb4de683ba938eb03a0422@5091053_oswg86083oswg390oswg388_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511030203309190",
+            "category": "AI"
+        },
         {
             "title": "马斯克从英伟达挖人做AI游戏！第一步：研发世界模型",
             "time": "2025-10-13",
@@ -6197,6 +6479,33 @@
     ],
     "英伟达": [
         {
+            "title": "苏姿丰出手，Oracle下单5万颗AMD芯片，英伟达王座撼动",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "Oracle宣布自2026年第三季度起将在其云基础设施中部署5万颗AMD Instinct MI450系列GPU，构建AI超级集群，并计划持续扩容。此举被视为AMD在打破英伟达主导的AI算力生态中的关键突破。AMD与Oracle的合作深化，结合其Helios液冷架构、EPYC Venice CPU与Vulcano网络技术，形成高性能、高能效的垂直优化方案。与此同时，AMD与OpenAI达成6吉瓦算力合作，进一步巩固其在AI芯片市场的战略联盟。市场认为，这一系列合作正在构建贯通芯片、云平台与AI应用的新生态，挑战英伟达的垄断地位。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_84842058ef134f6cb2178d5814b0a1ba@5091053_oswg121669oswg1080oswg297_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511017482476419",
+            "category": "其他"
+        },
+        {
+            "title": "一位芯片老兵，再战英伟达",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "本文讲述了Nervana Systems联合创始人Naveen Rao从被英特尔收购到项目终止，再到创立新公司Unconventional的创业历程。他携10亿美元融资计划，目标估值50亿美元，试图以神经科学为灵感，开发新一代高效AI计算架构，挑战英伟达在AI芯片市场的垄断地位。文章回顾了其团队在AI硬件领域的探索、英特尔的战略转向，以及当前AI芯片市场格局的剧变，凸显技术路线选择与生态构建的重要性。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_50fa8061de2c478a9966bbe3c2c332f3@000000_oswg533659oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511165238058120",
+            "category": "其他"
+        },
+        {
+            "title": "英伟达投资AI语音技术公司ElevenLabs，后者已应用于出版和教育等领域",
+            "time": "2025-10-14",
+            "source": "多知网",
+            "summary": "英伟达投资英国AI语音技术公司ElevenLabs，该公司可生成32种语言的自然声音，广泛应用于媒体、出版和教育领域。其技术结合深度学习与语音克隆，支持实时个性化语音交互，已用于黄仁勋的多语言主题演讲。ElevenLabs估值达33亿美元，正扩展英美业务，并与英伟达合作开发基于Blackwell GPU的AI语音模型。专家预测AI语音将通过图灵测试，实现类人对话交互。",
+            "image_url": "http://www.duozhi.com/d/file/2025/10/469c999aa2b60b6c9f3f4ff948bea604.jpg",
+            "url": "http://www.duozhi.com/industry/insight/2025101417779.shtml",
+            "category": "AI"
+        },
+        {
             "title": "马斯克从英伟达挖人做AI游戏！第一步：研发世界模型",
             "time": "2025-10-13",
             "source": "量子位",
@@ -6495,6 +6804,15 @@
         }
     ],
     "deepseek": [
+        {
+            "title": "实测蚂蚁万亿新思考模型Ring-1T，跟DeepSeek V3.2拼一把",
+            "time": "2025-10-14",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnJxU3nJjzHCRuphIuDGJ0MT9WTQRbEHUB4Max18qSEBaO1eeHL7YZjHJoxU6NGjaQgDiaKia1LnvZA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/luSNCRZVdCbyPD3DXYFsqA",
+            "category": "AI"
+        },
         {
             "title": "实测智谱新GLM-4.6 VS DeepSeek V3.2 - 国产Claude，当之无愧",
             "time": "2025-10-09",
@@ -7375,6 +7693,15 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "Anthropic推轻量模型Haiku 4.5：推理速度提升超两倍，成本仅三分之一",
+            "time": "2025-10-16",
+            "source": "36氪",
+            "summary": "Anthropic发布轻量级AI模型Claude Haiku 4.5，其性能可与中高端模型Sonnet 4媲美，推理速度提升超两倍，成本降低约三分之二，定价仅为Sonnet 4.5的三分之一，并支持免费用户使用。公司同时设定2026年年化营收200亿至260亿美元的激进目标，计划在印度班加罗尔设立首个海外办公室，并正与阿布扎比投资公司MGX接洽新一轮融资，加速全球扩张与算力布局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251016/v2_a92dced16fa3420f9ef0f19ad1d6e054@5091053_oswg79030oswg960oswg609_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3511160373042050",
+            "category": "AI"
+        },
         {
             "title": "实测智谱新GLM-4.6 VS DeepSeek V3.2 - 国产Claude，当之无愧",
             "time": "2025-10-09",
