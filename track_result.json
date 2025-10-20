@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "Windows 10停服，但其实还能继续当钉子户",
+            "time": "2025-10-20",
+            "source": "36氪",
+            "summary": "微软于2025年10月14日正式终止对Windows 10的支持，用户将不再获得安全更新。文章分析了Windows 11推广遇冷的原因，包括硬件门槛（TPM 2.0）和交互逻辑剧变引发的用户抵触。为应对停服，微软提供两种方案：一是付费购买一年扩展安全更新（ESU），二是使用企业长期支持版（LTSC），后者支持至2032年但缺少常用应用且需企业密钥激活。文章探讨了用户是否应升级或继续做“钉子户”的现实困境。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251019/v2_687a62ca9e0644c5a28bf3d975988aa7@000000_oswg24475oswg600oswg221_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3515984811432841",
+            "category": "其他"
+        },
+        {
+            "title": "前索尼总裁购入Xbox新掌机 评价实际上它就是一台PC!",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "前PlayStation总裁吉田修平购入Xbox Ally X掌机，并在社交平台评价其“实际上是一台PC”。该设备基于定制化Windows 11系统，搭载AMD Ryzen AI Z2 Extreme处理器、24GB内存和1TB存储，支持Steam、Epic等PC平台游戏，无需兼容层即可运行。其硬件配置媲美中高端游戏本，打破了传统主机界限，被视作微软对便携式游戏电脑的精准定位，吉田的举动也被解读为对微软跨平台理念的认可。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_20251019115537234.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/970331.html",
+            "category": "游戏"
+        },
+        {
+            "title": "前《使命召唤》负责人担忧：微软收购后系列发展未来",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "前Sledgehammer Games《使命召唤》项目负责人格伦·斯科菲尔德在亚洲科隆游戏展上表达对微软收购动视暴雪后该系列未来的深切担忧。他指出微软收购后可能削弱开发团队激励机制，导致人才流失与创作力下降，并以《光环》《战争机器》等IP衰落为鉴。他还批评2023年《现代战争3》媒体评分仅50分，认为系列质量自2018年他离职后明显下滑，尽管《黑色行动6》首日表现亮眼，但玩家流失速度加剧。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101930300172.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/970345.html",
+            "category": "游戏"
+        },
+        {
             "title": "《黑神话：悟空》Xbox版更新上线！部分报错BUG修复",
             "time": "2025-10-15",
             "source": "游侠网",
@@ -375,6 +402,15 @@
     ],
     "索尼": [
         {
+            "title": "前索尼总裁购入Xbox新掌机 评价实际上它就是一台PC!",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "前PlayStation总裁吉田修平购入Xbox Ally X掌机，并在社交平台评价其“实际上是一台PC”。该设备基于定制化Windows 11系统，搭载AMD Ryzen AI Z2 Extreme处理器、24GB内存和1TB存储，支持Steam、Epic等PC平台游戏，无需兼容层即可运行。其硬件配置媲美中高端游戏本，打破了传统主机界限，被视作微软对便携式游戏电脑的精准定位，吉田的举动也被解读为对微软跨平台理念的认可。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_20251019115537234.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/970331.html",
+            "category": "游戏"
+        },
+        {
             "title": "PlayStation Store沦陷？玩家痛批：AI生成内容充斥",
             "time": "2025-10-13",
             "source": "游侠网",
@@ -574,6 +610,33 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "PS6掌机最新爆料！ PS6掌机性能或3倍\"吊打\"Switch2",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "据科技爆料者Moore’s Law is Dead透露，索尼正在开发下一代掌机PS6，其性能预计在底座模式下达到Switch 2的3倍，掌机模式下更是高达3.4倍。PS6掌机将搭载AMD定制APU，配备Zen 6c核心与RDNA 5显卡，手持模式GPU频率为1.2GHz，底座模式可提升至1.65GHz，并支持PS4/PS5游戏向下兼容，预计售价约500美元，2027年末发售。同时，爆料称Switch在软件优化方面表现不佳，进一步凸显PS6的性能优势。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101981847865.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970301.html",
+            "category": "游戏"
+        },
+        {
+            "title": "Switch难承载？《咚奇刚》团队解释转战Switch2原因",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "《咚奇刚 蕉力全开》开发团队透露，该游戏最初为Switch平台开发，但因Switch硬件性能受限，难以稳定实现30FPS帧率，且内存不足导致关卡构建与特效处理困难，最终决定转向性能更强的Switch2平台。在Switch2上，团队得以实现60FPS、增加可破坏物体数量及复杂连锁反应设计，游戏体验大幅提升。团队强调，Switch版早期原型因技术瓶颈已无法满足设计目标，转平台是为保证游戏品质的必然选择。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_20251019113622766.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/970329.html",
+            "category": "游戏"
+        },
+        {
+            "title": "宝可梦传说：Z-A 电龙手机评测：更好的相机，更高的跳跃",
+            "time": "2025-10-18",
+            "source": "The Verge",
+            "summary": "本文评测了《宝可梦传说：Z-A》中的第三代电龙手机，指出其在相机功能上显著升级，新增三镜头支持远程变焦，且可在移动中拍摄，极大提升了捕捉宝可梦的体验。同时引入“Roto-Glide”功能，可在跳跃时提供缓冲或助推，方便在卢米埃尔市的屋顶间穿梭。虽然设计保守、缺乏配件，但其交互优化、Pokédex界面改进及电池续航表现优异，是体验游戏不可或缺的虚拟装备。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0172.jpg?quality=90&strip=all&crop=9.41171875%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review",
+            "category": "游戏"
+        },
         {
             "title": "第一实至名归！IGN评选《宝可梦》系列十大衍生游戏",
             "time": "2025-10-14",
@@ -1895,6 +1958,51 @@
     ],
     "Meta": [
         {
+            "title": "法院减少Meta从NSO集团获得的赔偿金至400万美元，但禁止其攻击WhatsApp",
+            "time": "2025-10-19",
+            "source": "Engadget",
+            "summary": "美国地方法官Phyllis Hamilton将Meta起诉NSO集团的赔偿金额从1.67亿美元大幅削减至400万美元，但永久禁止NSO集团利用其Pegasus间谍软件攻击WhatsApp。Meta自2019年起指控NSO利用恶意短信和未接来电感染用户设备，侵犯1400名全球记者与人权活动家。法官指出NSO仍在尝试绕过WhatsApp安全措施，因此要求其删除相关代码。WhatsApp负责人称此裁决为重要先例，彰显对科技公司攻击行为的追责。NSO近期被美国投资集团收购。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/XRYAlLIjBrBtevLbcsPklA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/2d2a6cb0-ac33-11f0-aff9-20ebf7ac9774",
+            "url": "https://www.engadget.com/cybersecurity/court-reduces-damages-meta-will-get-from-spyware-maker-nso-group-but-bans-it-from-whatsapp-163016648.html",
+            "category": "社交"
+        },
+        {
+            "title": "间谍软件制造商NSO集团被禁止攻击WhatsApp",
+            "time": "2025-10-18",
+            "source": "TechCrunch",
+            "summary": "美国联邦法官裁定，禁止以色列间谍软件公司NSO集团针对WhatsApp用户进行攻击，并批准了Meta旗下WhatsApp提出的永久禁令。此前，NSO因2019年针对1400多名用户（包括人权活动家和记者）的间谍软件行动被陪审团判决赔偿超1.67亿美元，但法官因证据不足将惩罚性赔偿大幅削减至约400万美元。WhatsApp负责人表示，这一裁决标志着六年诉讼的胜利，彻底阻止NSO再次攻击其平台。NSO集团近期已确认被美国投资者收购。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/WhatsApp-resized.webp?w=1024",
+            "url": "https://techcrunch.com/2025/10/18/spyware-maker-nso-group-blocked-from-whatsapp/",
+            "category": "社交"
+        },
+        {
+            "title": "WhatsApp将测试每月限制被收件人忽略的消息数量",
+            "time": "2025-10-18",
+            "source": "Engadget",
+            "summary": "WhatsApp正测试一项新反垃圾功能，限制用户每月向未回复的收件人发送的消息数量，旨在打击商业垃圾信息和诈骗行为。该限制适用于所有消息，但若收件人回复，则消息将从计数中移除。Meta表示普通用户 unlikely 达到此上限，主要针对高频率发送者。此举是继去年允许退订营销消息、今年8月警告群聊骗局后的又一举措，并称2025年上半年已封禁超680万个诈骗账户。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/OWgc6unN0j7IM4aAkiWP9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/36dbcaf0-ab76-11f0-bbb7-78245a54c1da",
+            "url": "https://www.engadget.com/social-media/whatsapp-will-test-a-monthly-cap-on-messages-ignored-by-recipients-164024928.html",
+            "category": "社交"
+        },
+        {
+            "title": "重磅：Facebook 下场“本地招聘（Local Jobs）”：重返社区级就业入口，抢夺蓝领市场",
+            "time": "2025-10-18",
+            "source": "HRTechChina",
+            "summary": "Facebook近日在美国重新上线“Local Jobs”功能，将职位入口嵌入Marketplace、群组与主页页面，专注服务入门级、技工与服务业等本地化岗位。该功能结合AI推荐算法与地理定位，旨在连接社区内18岁及以上求职者与小型企业，对标Indeed与Craigslist，强化蓝领招聘的便捷性与发现性。平台支持雇主发布职位、筛选候选人，并通过Messenger外联提升互动效率，标志着Facebook正式切入社区级就业市场。",
+            "image_url": "https://wp.hrtechchina.com/wp-content/uploads/Local-Jobs-on-Facebook_Header.webp",
+            "url": "https://www.hrtechchina.com/73167.html",
+            "category": "社交"
+        },
+        {
+            "title": "WhatsApp更改条款禁止通用型聊天机器人接入平台",
+            "time": "2025-10-18",
+            "source": "TechCrunch",
+            "summary": "Meta旗下通讯应用WhatsApp更新其商业API使用条款，自2026年1月15日起禁止通用型人工智能聊天机器人接入平台，旨在防止AI模型提供商利用WhatsApp分发其助手服务。此举主要影响OpenAI、Perplexity、Luzia等公司开发的通用聊天机器人，但不禁止企业用于客户服务的专用机器人。Meta表示此举是为保护其商业API的设计初衷——支持企业客户支持而非AI分发平台，并缓解因聊天机器人引发的消息量激增带来的系统负担。未来WhatsApp上仅保留Meta自家的AI助手。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/Green-white-apple-logo.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/",
+            "category": "社交"
+        },
+        {
             "title": "Threads即将在欧盟推出群组聊天功能",
             "time": "2025-10-15",
             "source": "TechCrunch",
@@ -2697,6 +2805,15 @@
         }
     ],
     "YouTube": [
+        {
+            "title": "YouTuber不再依赖广告收入：他们如何实现多元化盈利",
+            "time": "2025-10-18",
+            "source": "TechCrunch",
+            "summary": "随着YouTube广告收入的不确定性增加，众多知名YouTuber正转向多元化商业模式，建立独立的消费品品牌和实体业务。MrBeast的Feastables巧克力品牌年收入达2.5亿美元，超越其YouTube业务；Emma Chamberlain的咖啡品牌Chamberlain Coffee已开设实体店并预计2025年收入超3300万美元；Logan Paul的Prime能量饮料曾年销超12亿美元；Ryan’s World、Rosanna Pansino、Michelle Phan和Huda Kattan等也通过玩具、厨具、美妆产品等实现收入转型。这些创作者正从内容生产者转变为垂直整合的商业企业。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Beast-Games-Suit-Arms-Crossed.jpg?w=680",
+            "url": "https://techcrunch.com/2025/10/18/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
+            "category": "社交"
+        },
         {
             "title": "YouTube、YouTube TV 和 YouTube Music 在国际性中断后恢复服务",
             "time": "2025-10-16",
@@ -3863,6 +3980,15 @@
     ],
     "苹果": [
         {
+            "title": "7亿美元独播F1，苹果“整顿”体育版权市场",
+            "time": "2025-10-20",
+            "source": "36氪",
+            "summary": "苹果以每年1.4亿美元、五年总计7亿美元的价格，获得F1赛事在美国市场的独家转播权，自2026年起通过Apple TV+全平台直播所有赛事。此举旨在强化其流媒体服务的差异化竞争力，结合Apple生态（如地图、新闻、健身等）提升用户粘性。F1在美国市场增长迅猛，粉丝达5200万，苹果借此切入体育内容领域，有望重塑赛事版权市场格局，并推动硬件与服务协同增长。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251019/v2_fb9ed91ba7244748b59c830d9527ff5b@000000_oswg184825oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3516110417566849",
+            "category": "社交"
+        },
+        {
             "title": "苹果将于下月以250美元单独销售PS VR2 Sense控制器",
             "time": "2025-10-16",
             "source": "Engadget",
@@ -4710,6 +4836,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "拉美阿里Mercado：阿里的“面子”，亚马逊的“里子”？",
+            "time": "2025-10-17",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VF5C3y0Na9GIPYuhvql6Y48m2DUwtgPQpmkwpxHQaiaC50l5cUiaeBUftAQGNg9RIw6icRR4vu3ic5bnQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/2_LVPboHhQt_3Y6BkhV3zw",
+            "category": "其他"
+        },
+        {
             "title": "加码团购，阿里、字节等大厂们为何卡点国庆前发力？",
             "time": "2025-10-06",
             "source": "36氪",
@@ -5118,6 +5253,15 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "拉美阿里Mercado：阿里的“面子”，亚马逊的“里子”？",
+            "time": "2025-10-17",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VF5C3y0Na9GIPYuhvql6Y48m2DUwtgPQpmkwpxHQaiaC50l5cUiaeBUftAQGNg9RIw6icRR4vu3ic5bnQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/2_LVPboHhQt_3Y6BkhV3zw",
+            "category": "其他"
+        },
         {
             "title": "长沙跨境大卖又出圈，7个月吸金30亿，拿下亚马逊TOP1",
             "time": "2025-10-15",
@@ -5712,6 +5856,15 @@
         }
     ],
     "Rockstar Games": [
+        {
+            "title": "《GTA6》新爆料：引入武器存储机制 体验更接近真实",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "据爆料，《GTA6》或将借鉴《荒野大镖客2》的武器存储机制，将多余武器存放于车辆后备箱中，通过轮盘调用，以提升操作真实感与沉浸感。知名内幕人士Tez2透露，R星曾尝试在主武器轮盘中加入子轮盘功能，但该设计可能已被取消或修改。目前所有信息尚未获官方证实，游戏仍可能存在其他重大改动。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101922522318.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970343.html",
+            "category": "游戏"
+        },
         {
             "title": "曝Take-Two《GTA6》发售日目标:预计2000万份 远超前作",
             "time": "2025-09-23",
@@ -6968,6 +7121,15 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "抖音猛攻酒旅，能否再造一个“携程”？",
+            "time": "2025-10-20",
+            "source": "36氪",
+            "summary": "本文探讨抖音如何凭借流量优势和低价策略切入酒旅市场，冲击携程等传统OTA平台。抖音通过直播带货、免佣政策、亿级补贴和内容种草，推动酒店预订增长，2024年GMV预计达900亿元。但其面临酒店覆盖不足、核销率低（约30%）、服务履约不完善等挑战。相较之下，携程依托成熟供应链与服务保障，仍占据半数以上市场份额。双方呈现“有竞有合”格局，酒店方普遍采取“携程稳基本盘、抖音创增量”的多平台策略。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251019/v2_8b00360ada704daf8e59b51a643b06cc@000000_oswg118835oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3515976044567682",
+            "category": "社交"
+        },
         {
             "title": "单价200多的塑料雪人，竟在TikTok上卖断货",
             "time": "2025-10-13",
