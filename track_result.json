@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "前索尼高管盛赞Xbox多平台策略！但不理解XGP涨价",
+            "time": "2025-10-21",
+            "source": "游侠网",
+            "summary": "前PlayStation负责人吉田修平对微软的Xbox战略发表矛盾看法，高度认可其将顶级游戏引入PlayStation平台的多平台策略，并指出微软已成为PS商店最大的游戏发行商。但他对XGP服务月费从20美元大幅上调至30美元表示难以理解，认为此举与微软在订阅服务上的巨大投入相悖，引发玩家退订潮和行业广泛争议。他的观点反映了市场对微软定价策略的普遍困惑。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/10/21/584_2025102153545928.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970769.html",
+            "category": "游戏"
+        },
+        {
             "title": "Windows 10停服，但其实还能继续当钉子户",
             "time": "2025-10-20",
             "source": "36氪",
@@ -8,6 +17,15 @@
             "image_url": "https://img.36krcdn.com/hsossms/20251019/v2_687a62ca9e0644c5a28bf3d975988aa7@000000_oswg24475oswg600oswg221_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3515984811432841",
             "category": "其他"
+        },
+        {
+            "title": "Meta将移除Windows和macOS平台的Messenger应用",
+            "time": "2025-10-20",
+            "source": "The Verge",
+            "summary": "Meta计划于2025年12月彻底停止支持Windows和macOS平台的独立Messenger桌面应用，两款应用已从微软商店和苹果App Store下架。现有用户将收到通知，Windows版将在12月14日失效，macOS版则有60天过渡期。此后，用户只能通过网页版或Facebook应用进行Messenger通信。此举是Meta简化产品线的一部分，未来WhatsApp的Windows应用也将被网页版取代。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/802627/meta-messenger-app-removal-windows-macos",
+            "category": "社交"
         },
         {
             "title": "前索尼总裁购入Xbox新掌机 评价实际上它就是一台PC!",
@@ -411,12 +429,37 @@
     ],
     "索尼": [
         {
+            "title": "前索尼高管盛赞Xbox多平台策略！但不理解XGP涨价",
+            "time": "2025-10-21",
+            "source": "游侠网",
+            "summary": "前PlayStation负责人吉田修平对微软的Xbox战略发表矛盾看法，高度认可其将顶级游戏引入PlayStation平台的多平台策略，并指出微软已成为PS商店最大的游戏发行商。但他对XGP服务月费从20美元大幅上调至30美元表示难以理解，认为此举与微软在订阅服务上的巨大投入相悖，引发玩家退订潮和行业广泛争议。他的观点反映了市场对微软定价策略的普遍困惑。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/10/21/584_2025102153545928.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970769.html",
+            "category": "游戏"
+        },
+        {
             "title": "前索尼总裁购入Xbox新掌机 评价实际上它就是一台PC!",
             "time": "2025-10-19",
             "source": "游侠网",
             "summary": "前PlayStation总裁吉田修平购入了微软与华硕合作推出的Xbox Ally X掌机，并在社交平台评论称“这是Xbox！（实际上它是一台PC）”。该设备基于定制化Windows 11系统，搭载AMD Ryzen AI Z2 Extreme处理器、24GB内存和1TB存储，可直接运行Steam、Epic等PC平台游戏，无需兼容层。其硬件配置媲美中高端游戏本，被视作便携式游戏电脑，吉田的举动被解读为对微软掌机理念的认可。",
             "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_20251019115537234.jpg",
             "url": "https://www.ali213.net/news/html/2025-10/970331.html",
+            "category": "游戏"
+        },
+        {
+            "title": "游侠晚报：国行版PS5Pro要来了？《GTA6》最新爆料！",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "游侠晚报汇总了当日游戏圈热点：索尼中国官宣10月21日直播，引发国行PS5 Pro即将发布预期，预计售价5499元；《GTA6》将引入车辆后备箱武器存储机制，提升真实感；《双截龙再临》公布预下载日期与容量；《星际争霸2》国服开启预下载，10月28日正式回归；《黑神话》总监杨奇回应全身扫描设备成本高昂，称需增加一倍机器，费用贵10个平方。",
+            "image_url": [
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945749633.jpeg",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945750218.png",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945750773.jpg",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945749613.png",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945749370.jpg",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945750539.png"
+            ],
+            "url": "https://www.ali213.net/news/html/2025-10/970357.html",
             "category": "游戏"
         },
         {
@@ -619,6 +662,24 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "《宝可梦传说ZA》颠覆性改动：鲤鱼王竟搭载高压水炮",
+            "time": "2025-10-21",
+            "source": "游侠网",
+            "summary": "《宝可梦传说：Z-A》中，原本被视为弱小过渡型宝可梦的鲤鱼王被赋予颠覆性设定，配备原本属于进化形态暴鲤龙的强力水系技能“水炮”，并在密阿雷市区域作为头目野生宝可梦登场。其超远射程与高伤害引发玩家热议，不少玩家遭遇“非自愿高压水洗”而被秒杀，这一改动打破鲤鱼王三十年来作为笑柄的固有印象，为其赢得独立百科词条，并在玩家社群中掀起对“暴力美学正当性”的讨论。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/10/21/584_202510216420238.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970777.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂9款手游创收156亿元：最高单款85亿，新游失利仅获百万流水",
+            "time": "2025-10-20",
+            "source": "游戏陀螺",
+            "summary": "任天堂旗下9款手游累计营收达22亿美元（约156.7亿元人民币），其中《火焰纹章：英雄》以84.76亿元人民币成为最赚钱单品。《马里奥赛车：巡回赛》和《动物森友会：口袋营地》收入均超3亿美元。然而，2025年9月推出的新作《火焰纹章：暗影》开局低迷，上线仅获约142万元人民币流水，反映任天堂手游策略已转向保守，研发重心回归主机平台。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251020/1760945619284489.jpg",
+            "url": "https://www.baijing.cn/article/54451",
+            "category": "游戏"
+        },
         {
             "title": "PS6掌机最新爆料！ PS6掌机性能或3倍\"吊打\"Switch2",
             "time": "2025-10-19",
@@ -1321,6 +1382,42 @@
     ],
     "谷歌": [
         {
+            "title": "AI正在改写地图APP！这一次轮到谷歌了",
+            "time": "2025-10-21",
+            "source": "量子位",
+            "summary": "谷歌宣布通过Gemini API开放地图功能，开发者可调用其2.5亿个地点数据，实现位置感知的AI应用，如智能推荐餐厅、规划行程等，按查询次数收费。该功能支持Gemini 2.5系列模型，并已在AI Studio开放体验。文章同时对比了高德地图的“小高老师”智能体和“扫街榜”，指出AI正推动地图从导航工具升级为具备时空推理能力的“空间智能体”，实现从平面工具到动态智能体的升维。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/06de939fc76f90a906c1ac7c31e3ebab.jpeg",
+            "url": "https://www.qbitai.com/2025/10/343898.html",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+            "time": "2025-10-21",
+            "source": "量子位",
+            "summary": "DeepSeek开源了名为DeepSeek-OCR的3B参数模型，创新性地提出“上下文光学压缩”方法，将文本信息压缩为视觉token，通过图像形式输入大模型，大幅降低算力消耗。该模型在文档解析任务中以极少视觉token达到SOTA性能，单A100 GPU每日可生成20万页训练数据，被赞为“AI的JPEG时刻”。其编码器DeepEncoder采用局部提取、压缩、全局理解三阶段设计，支持动态压缩比，并类比人类记忆机制提出“遗忘式压缩”新思路，或为超长上下文架构提供新路径。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/33a0eaa6352a1cb145ddd9b98c1e2ed0.png",
+            "url": "https://www.qbitai.com/2025/10/343810.html",
+            "category": "AI"
+        },
+        {
+            "title": "顶尖OpenAI和谷歌大脑研究人员创办Periodic Labs，引发3亿美元风投热潮",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "由前OpenAI研究员Liam Fedus和前谷歌大脑科学家Ekin Dogus Cubuk联合创立的AI科学初创公司Periodic Labs，近日宣布完成3亿美元种子轮融资，由Felicis领投，Andreessen Horowitz、NVIDIA、DST等机构及贝索斯、施密特等知名天使投资人参投。公司旨在通过AI驱动的自动化实验系统加速新材料发现，尤其聚焦超导体研发。团队融合AI、物理与机器人技术，已组建顶尖科研团队并建立实验平台，虽机器人系统尚未完全就绪，但已开始数据采集与模拟实验，被视为AI赋能科学发现的前沿探索。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Periodic-Labs.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+            "category": "AI"
+        },
+        {
+            "title": "Zocdoc首席执行官：‘谷歌医生’将被‘AI医生’取代",
+            "time": "2025-10-20",
+            "source": "The Verge",
+            "summary": "The Verge的Decoder播客专访Zocdoc首席执行官Oliver Kharraz，探讨AI在医疗领域的应用边界。Kharraz认为，AI将取代‘谷歌医生’成为患者初步咨询的工具，但Zocdoc坚决不提供医疗建议，仅用于预约调度等非诊断性任务。他强调Zocdoc拥有二十年积累的医疗数据和系统整合优势，AI需与确定性系统结合以确保安全，且AI代理（如ChatGPT、Siri）需依赖Zocdoc的底层基础设施，而非取代它。他坚信医疗领域的复杂性使Zocdoc拥有可持续的竞争壁垒。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors",
+            "category": "AI"
+        },
+        {
             "title": "Pebble正式重返App Store和Google Play",
             "time": "2025-10-19",
             "source": "The Verge",
@@ -1997,6 +2094,24 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta将移除Windows和macOS平台的Messenger应用",
+            "time": "2025-10-20",
+            "source": "The Verge",
+            "summary": "Meta计划于2025年12月彻底停止支持Windows和macOS平台的独立Messenger桌面应用，两款应用已从微软商店和苹果App Store下架。现有用户将收到通知，Windows版将在12月14日失效，macOS版则有60天过渡期。此后，用户只能通过网页版或Facebook应用进行Messenger通信。此举是Meta简化产品线的一部分，未来WhatsApp的Windows应用也将被网页版取代。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/802627/meta-messenger-app-removal-windows-macos",
+            "category": "社交"
+        },
+        {
+            "title": "Meta AI应用下载量和日活跃用户在推出‘Vibes’AI视频流后激增",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "根据市场分析公司Similarweb的数据，Meta AI移动应用的日活跃用户在四周内从77.5万飙升至270万，日新增下载量达30万次，远超此前的20万次。这一增长与9月下旬推出的‘Vibes’AI短视频功能密切相关。尽管Meta未公开推广，但分析认为该功能可能是主要驱动因素。此外，OpenAI的Sora引发关注也可能间接推动用户尝试Meta AI作为替代方案。同期，ChatGPT、Grok等竞品的日活跃用户均出现下滑。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/",
+            "category": "AI"
+        },
         {
             "title": "Engadget回顾：新Pixel设备、Meta Ray-Ban Display、ASUS ROG Xbox Ally X等产品评测",
             "time": "2025-10-19",
@@ -3046,6 +3161,60 @@
     ],
     "OpenAI": [
         {
+            "title": "甲骨文推出全球最大AI超算，作为OpenAI「星际之门」算力核心",
+            "time": "2025-10-21",
+            "source": "36氪",
+            "summary": "甲骨文在2025年AI World大会上发布名为OCI Zettascale10的云端AI超级计算机，由约80万块NVIDIA GPU组成，峰值算力达16 ZettaFLOPS，成为OpenAI「星际之门」集群的核心算力支持。其独创的Acceleron RoCE网络架构显著提升GPU互联效率与能效，降低通信延迟。尽管该算力数据尚未经独立验证，且可能基于理论峰值或低精度计算，但其与OpenAI的深度合作已赋予其实战背书。甲骨文计划于2026年下半年开放服务，并推出多云通用积分计划以增强客户黏性。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251021/v2_57dbb5bbbe084a20b42790b1f45468fc@1743780481_oswg506579oswg1080oswg532_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3518250228046722",
+            "category": "AI"
+        },
+        {
+            "title": "布莱恩·克兰斯顿与SAG-AFTRA称OpenAI正认真对待其深度伪造担忧",
+            "time": "2025-10-21",
+            "source": "The Verge",
+            "summary": "演员布莱恩·克兰斯顿并未授权OpenAI使用其形象，但其 likeness 却出现在Sora 2生成的AI视频中，包括与迈克尔·杰克逊自拍的虚假内容。随后，OpenAI与SAG-AFTRA、克兰斯顿及多家经纪公司联合发布声明，承认生成行为属无意，并承诺加强“选择加入”机制以保护艺人肖像与声音权益。OpenAI表示将快速审查违规投诉，但未透露具体技术改进细节。SAG-AFTRA则呼吁立法通过《NO FAKES法案》以全面遏制AI复制技术对艺人的侵害。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes",
+            "category": "AI"
+        },
+        {
+            "title": "顶尖OpenAI和谷歌大脑研究人员创办Periodic Labs，引发3亿美元风投热潮",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "由前OpenAI研究员Liam Fedus和前谷歌大脑科学家Ekin Dogus Cubuk联合创立的AI科学初创公司Periodic Labs，近日宣布完成3亿美元种子轮融资，由Felicis领投，Andreessen Horowitz、NVIDIA、DST等机构及贝索斯、施密特等知名天使投资人参投。公司旨在通过AI驱动的自动化实验系统加速新材料发现，尤其聚焦超导体研发。团队融合AI、物理与机器人技术，已组建顶尖科研团队并建立实验平台，虽机器人系统尚未完全就绪，但已开始数据采集与模拟实验，被视为AI赋能科学发现的前沿探索。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Periodic-Labs.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenEvidence，医生的ChatGPT，融资2亿美元估值达60亿美元",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "医疗AI平台OpenEvidence宣布完成2亿美元融资，估值达60亿美元，由谷歌风投领投，红杉资本、Kleiner Perkins等多家知名机构参投。该平台训练于《JAMA》《新英格兰医学杂志》等权威医学文献，帮助医生快速获取医学知识以辅助诊疗，目前每月临床咨询量已达1500万次。其服务对经过验证的医疗专业人士免费开放，依靠广告支持运营。该轮融资距离其上一轮2.1亿美元融资仅三个月，凸显市场对垂直领域AI应用的高度关注。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI以为GPT-5搞出了数学大新闻，结果…哈萨比斯都觉得尴尬",
+            "time": "2025-10-20",
+            "source": "量子位",
+            "summary": "OpenAI研究员宣称GPT-5独立破解了10个厄尔多斯数学难题，引发全网热议，但随后被证实仅为通过网络搜索检索到已有论文答案，并非自主突破。DeepMind CEO哈萨比斯与LeCun等业界大咖公开嘲讽，指出其宣传夸大误导。OpenAI随后删除相关推文并致歉。尽管如此，GPT-5在数学辅助研究方面仍展现强大文献检索与推理能力，如协助陶哲轩解决复杂问题，凸显AI在科研中的工具价值而非替代性突破。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/c00bc725a0f69c61de9ab1fea658c082.png",
+            "url": "https://www.qbitai.com/2025/10/343499.html",
+            "category": "AI"
+        },
+        {
+            "title": "GPT-5≈o3.1！OpenAI首次详解思考机制：RL+预训练才是AGI正道",
+            "time": "2025-10-20",
+            "source": "量子位",
+            "summary": "OpenAI研究副总裁Jerry Tworek在播客中首次系统阐述GPT-5的思考机制，认为其本质是o3模型的迭代（o3.1），强调强化学习（RL）与预训练结合是通往AGI的正确路径。他详细介绍思维链推理、RLHF对ChatGPT突破的关键作用，并高度评价DeepSeek的GRPO算法。Jerry还分享了个人从交易员转型AI研究者的经历，指出OpenAI内部采用自上而下与自下而上结合的协作模式，模型需长时间独立思考以解决复杂任务，且对齐问题本质上是RL问题。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/954c28a9e417578ef71726e66b834b5f.png",
+            "url": "https://www.qbitai.com/2025/10/343637.html",
+            "category": "AI"
+        },
+        {
             "title": "模型“看视频写网页”，GPT-5仅36.35分！首个video2code基准发布",
             "time": "2025-10-19",
             "source": "量子位",
@@ -4038,6 +4207,24 @@
     ],
     "苹果": [
         {
+            "title": "沉睡巨头苏醒，苹果股价暴涨创新高",
+            "time": "2025-10-21",
+            "source": "36氪",
+            "summary": "苹果股价在2025年10月20日盘中涨超4%，创下每股263.59美元的历史新高，市值突破3.9万亿美元。这一涨势主要受益于iPhone 17系列在中国和美国市场销量超预期，较iPhone 16系列高出14%，市场预期换机潮正在开启。多家投行上调目标价，Loop Capital将目标价上调至315美元，但也有分析师警告其估值过高，市盈率超32倍，且市场对可折叠iPhone的乐观情绪可能过度。本文源自微信公众号“科创板日报”，36氪经授权发布。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251021/v2_cf67187b8098498989eab624cf25235f@1743780481_oswg18097oswg707oswg340_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3518205050559364",
+            "category": "其他"
+        },
+        {
+            "title": "中国消费者集体举报苹果反垄断案：全球歧视与高额“苹果税”的挑战",
+            "time": "2025-10-21",
+            "source": "36氪",
+            "summary": "55名中国iPhone和iPad用户在律师王琼飞带领下，向国家市场监督管理总局投诉苹果公司滥用市场支配地位，要求开放第三方支付与应用商店渠道、取消30%佣金并降低“苹果税”。此次行政投诉延续了2024年败诉的民事诉讼，强调苹果在中国市场占有100%份额，却未如美欧般开放政策，构成对消费者的国别歧视。分析指出，中国正加强平台经济反垄断监管，此案或成推动苹果调整中国区政策的重要契机，并反映中美科技规则博弈的深化。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251020/v2_e08fd52d3ceb4b5f9eaceca13a7699e8@5655031_oswg119939oswg1080oswg1211_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3517499421514119",
+            "category": "其他"
+        },
+        {
             "title": "7亿美元独播F1，苹果“整顿”体育版权市场",
             "time": "2025-10-20",
             "source": "36氪",
@@ -4045,6 +4232,24 @@
             "image_url": "https://img.36krcdn.com/hsossms/20251019/v2_fb9ed91ba7244748b59c830d9527ff5b@000000_oswg184825oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3516110417566849",
             "category": "社交"
+        },
+        {
+            "title": "55名中国消费者联合举报苹果，要求零佣金开放第三方支付与应用商店",
+            "time": "2025-10-20",
+            "source": "36氪",
+            "summary": "55名中国消费者联合向国家市场监督管理总局提交举报信，指控苹果公司在中国市场滥用市场支配地位，强制用户通过App Store下载应用、通过IAP系统支付并收取高达30%的佣金，构成限定交易、搭售及不公平高价行为。举报人要求开放第三方支付渠道和第三方应用商店，并免收佣金，指出中国消费者承担的“苹果税”相对负担已超美欧，且总金额或将跃居全球第一。举报信援引美欧已开放第三方支付的案例，批评苹果对中国市场实施国别性歧视。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251020/v2_c8f6286584dc4ed0abcc75842849c5eb@5469108_oswg232384oswg830oswg930_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3517497295542405",
+            "category": "其他"
+        },
+        {
+            "title": "苹果将推出新“染色”选项，允许用户回退Liquid Glass设计",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "苹果在iOS 26.1、iPadOS 26.1和macOS 26.1的测试版中新增了Liquid Glass设计的自定义选项，允许用户在“清晰”和“染色”两种模式间切换，以应对用户对界面透明度过高导致内容难以阅读的反馈。该功能旨在提升可读性，适用于通知、播放控件等界面元素，开发者也可自动适配用户偏好。此举延续了苹果在重大UI变更后提供回退选项的策略，类似2021年Safari地址栏位置调整后的处理方式。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/liquid-glass.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option",
+            "category": "其他"
         },
         {
             "title": "苹果将于下月以250美元单独销售PS VR2 Sense控制器",
@@ -4903,6 +5108,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "阿里悄悄上线自家Claude Code，Gemini3同款的操作系统复刻让我做出来了",
+            "time": "2025-10-20",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXmLS2XmFdXmI1F4CuHo6CuTK90sk1Poch1YnuQ8RBwoKGUWfycnkgr6wbgzDsmt1YLHG3JzHtuCqA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/hUkqNoFsCE4aWXfO2VYvKw",
+            "category": "AI"
+        },
+        {
             "title": "拉美阿里Mercado：阿里的“面子”，亚马逊的“里子”？",
             "time": "2025-10-17",
             "source": "海豚投研",
@@ -5329,6 +5543,15 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "亚马逊DNS故障导致互联网大面积瘫痪，仍在恢复中",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "亚马逊云服务（AWS）因DNS解析故障导致全球互联网大面积瘫痪，影响包括Coinbase、Fortnite、Signal、Zoom及亚马逊自身服务如Ring等。亚马逊确认问题源于弗吉尼亚北部区域的DynamoDB API端点DNS解析异常，并于美西时间凌晨2:24完成根本修复，但服务恢复仍在进行中。此次事件凸显AWS在全球云基础设施中的关键地位，类似大规模中断此前曾由CrowdStrike和Akamai引发。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/IMG_1367.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/amazon-dns-outage-breaks-much-of-the-internet",
+            "category": "其他"
+        },
         {
             "title": "亚马逊公布美国首批模块化核反应堆外观",
             "time": "2025-10-18",
@@ -5960,6 +6183,22 @@
             "category": "游戏"
         },
         {
+            "title": "游侠晚报：国行版PS5Pro要来了？《GTA6》最新爆料！",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "游侠晚报汇总了当日游戏圈热点：索尼中国官宣10月21日直播，引发国行PS5 Pro即将发布预期，预计售价5499元；《GTA6》将引入车辆后备箱武器存储机制，提升真实感；《双截龙再临》公布预下载日期与容量；《星际争霸2》国服开启预下载，10月28日正式回归；《黑神话》总监杨奇回应全身扫描设备成本高昂，称需增加一倍机器，费用贵10个平方。",
+            "image_url": [
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945749633.jpeg",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945750218.png",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945750773.jpg",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945749613.png",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945749370.jpg",
+                "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101945750539.png"
+            ],
+            "url": "https://www.ali213.net/news/html/2025-10/970357.html",
+            "category": "游戏"
+        },
+        {
             "title": "曝Take-Two《GTA6》发售日目标:预计2000万份 远超前作",
             "time": "2025-09-23",
             "source": "游侠网",
@@ -6026,6 +6265,24 @@
         }
     ],
     "Bloober Team": [
+        {
+            "title": "《寂静岭》系列制作人解释多项目齐发策略：展现诚意",
+            "time": "2025-10-21",
+            "source": "游侠网",
+            "summary": "《寂静岭》系列制作人冈本基表示，科乐美选择同时公布《寂静岭2：重制版》《寂静岭f》与《寂静岭：Townfall》三款新作，旨在向玩家展示复活这一经典IP的坚定决心，而非仅以单部作品试探市场。他认为企业必须率先展现诚意，才能激发玩家的热情。尽管此前部分作品反响平平，但《寂静岭2：重制版》与《寂静岭f》已成功重塑IP影响力，而《寂静岭：Townfall》仍备受期待。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/10/21/584_2025102165629221.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970779.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《寂静岭2RE》女主演：一人饰两角还兼顾怪物动作捕捉",
+            "time": "2025-10-19",
+            "source": "游侠网",
+            "summary": "冰岛女演员Salóme Gunnarsdóttir在《寂静岭2：重制版》中同时饰演了玛丽亚与玛丽两个角色，并参与了游戏中怪物的动作捕捉表演。这一幕后细节是她本人在Twitch直播中透露的。她还回应了关于DLC的传闻，表示未参与任何DLC内容的录制，目前无相关消息。Salóme此前因出演《秋日之光》《扎克·施奈德版正义联盟》等影视作品广为人知，也在《最终幻想14》中担任过配音。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/19/584_2025101980504726.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970299.html",
+            "category": "游戏"
+        },
         {
             "title": "《寂静岭f》女主脸模晒生活照：打扮美美的吃海底捞！",
             "time": "2025-10-15",
@@ -6207,6 +6464,15 @@
         }
     ],
     "特朗普": [
+        {
+            "title": "特朗普能源部确认取消超7亿美元制造业拨款",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "美国能源部（DOE）确认取消总额达7.2亿美元的制造业拨款，涉及三家初创企业，包括电池材料回收公司Ascend Elements、石墨阳极生产商Anovion和节能窗企LuxWall。这些拨款原为2021年《两党基础设施法》授权，旨在支持清洁能源技术商业化。能源部称项目“未达里程碑”且“未有效推动国家能源需求”，但受助企业表示已通过其他资金继续推进项目。此举被视为特朗普政府延续对拜登时期气候项目的撤销行动。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/chris-wright.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/trump-doe-confirms-its-canceling-over-700m-in-manufacturing-grants",
+            "category": "其他"
+        },
         {
             "title": "参议员质疑YouTube对特朗普和解协议是否构成贿赂",
             "time": "2025-10-16",
@@ -6679,6 +6945,15 @@
     ],
     "三星": [
         {
+            "title": "三星Moohan头显将首发搭载MLB、Synth Riders和FitXR",
+            "time": "2025-10-21",
+            "source": "The Verge",
+            "summary": "三星即将推出的Moohan AR/VR头显将在首发时搭载多款热门应用，包括MLB At Bat、Synth Riders和FitXR等。根据Google Play上提前曝光的应用列表，此外还有Tripp XR、Walkabout Mini Golf以及Adobe推出的专为头显优化的视频编辑器。这些应用的上线标志着三星在Android XR生态上的重要布局，旨在为用户提供沉浸式娱乐与健身体验。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/new_profile.avif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/802827/samsungs-moohan-headset-will-launch-with-mlb-synth-riders-and-fitxr",
+            "category": "AI"
+        },
+        {
             "title": "三星与OpenAI合作推出Stargate芯片",
             "time": "2025-10-01",
             "source": "The Verge",
@@ -7070,6 +7345,33 @@
     ],
     "deepseek": [
         {
+            "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
+            "time": "2025-10-21",
+            "source": "36氪",
+            "summary": "美国AI研究实验室nof1.ai在‘Alpha Arena’平台上发起一场真实加密货币交易竞赛，六大主流AI模型各获1万美元实盘资金，自主交易永续合约。经过近60小时对决，DeepSeek V3.1 Chat以约40%收益率领先，Grok 4次之；GPT-5与Gemini 2.5 Pro亏损超27%，表现最差。比赛旨在测试AI在动态、对抗性市场中的决策能力，推动DeFAI（DeFi+AI）应用发展。本文经36氪授权转载自财联社。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251021/v2_a369d32b15694ba6b4305ec67c48329a@1743780481_oswg120133oswg1080oswg551_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3518191121701762",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，DeepSeek重要突破，大模型上下文紧箍咒打破",
+            "time": "2025-10-21",
+            "source": "36氪",
+            "summary": "DeepSeek开源DeepSeek-OCR模型，提出‘上下文光学压缩’新方法，将文本信息通过图像化压缩，实现高达10倍压缩比下97%的解码精度，20倍压缩时仍保持60%精度。该模型使用视觉token替代大量文本token，显著降低算力消耗，在OmniDocBench等基准测试中超越GOT-OCR2.0和MinerU2.0，支持多语言、图表、化学式等复杂文档解析，并已在Hugging Face开源。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251020/v2_818c4fce4d2446f09d8ce2855b797f06@000000_oswg147976oswg1000oswg452_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3517473609718916",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+            "time": "2025-10-21",
+            "source": "量子位",
+            "summary": "DeepSeek开源了名为DeepSeek-OCR的3B参数模型，创新性地提出“上下文光学压缩”方法，将文本信息压缩为视觉token，通过图像形式输入大模型，大幅降低算力消耗。该模型在文档解析任务中以极少视觉token达到SOTA性能，单A100 GPU每日可生成20万页训练数据，被赞为“AI的JPEG时刻”。其编码器DeepEncoder采用局部提取、压缩、全局理解三阶段设计，支持动态压缩比，并类比人类记忆机制提出“遗忘式压缩”新思路，或为超长上下文架构提供新路径。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/33a0eaa6352a1cb145ddd9b98c1e2ed0.png",
+            "url": "https://www.qbitai.com/2025/10/343810.html",
+            "category": "AI"
+        },
+        {
             "title": "实测蚂蚁万亿新思考模型Ring-1T，跟DeepSeek V3.2拼一把",
             "time": "2025-10-14",
             "source": "卡尔的AI沃茨",
@@ -7241,6 +7543,15 @@
             "image_url": "https://img.36krcdn.com/hsossms/20251019/v2_8b00360ada704daf8e59b51a643b06cc@000000_oswg118835oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3515976044567682",
             "category": "社交"
+        },
+        {
+            "title": "AI助手Cici悄然霸榜海外，又是字节",
+            "time": "2025-10-20",
+            "source": "量子位",
+            "summary": "字节跳动推出的AI智能助手Cici近期在墨西哥、英国、东南亚等海外市场应用商店迅速霸榜，下载量爆发式增长。Cici界面与字节国内产品豆包高度相似，但针对海外用户优化，突出数学求解能力，未加入音乐/视频生成等功能。其技术融合了字节旗下PicPic、Coze等工具，并调用OpenAI的GPT和谷歌Gemini模型。数据显示，Cici过去三个月稳居多国应用商店免费下载前20名，体现字节AI全球化战略。与此同时，豆包在国内AI助手赛道持续领先，累计下载破亿，日活超3300万，形成DDKT第一梯队，唯独在Web端仍被DeepSeek超越。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/ae8dd5a37fd981e5e576f8f6c41e85c0.jpeg",
+            "url": "https://www.qbitai.com/2025/10/343514.html",
+            "category": "AI"
         },
         {
             "title": "单价200多的塑料雪人，竟在TikTok上卖断货",
@@ -7976,6 +8287,33 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "Anthropic推出Claude Code的iOS和网页版",
+            "time": "2025-10-21",
+            "source": "Engadget",
+            "summary": "Anthropic宣布将其AI编程助手Claude Code扩展至网页端和iOS应用，开发者无需使用命令行即可通过图形界面直接与AI协作编程。用户可连接GitHub仓库，实时指导Claude完成多任务并行编码，所有操作均在隔离沙盒环境中进行，保障代码与凭证安全。目前仅限Pro和Max订阅用户使用，iOS版本仍为预览版，公司计划根据用户反馈优化移动端体验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/nmdP1l2vtsn9UDTRU9IkMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/f61ccc00-addf-11f0-afff-7db1310622db",
+            "url": "https://www.engadget.com/ai/anthropic-brings-claude-code-to-ios-and-the-web-180023611.html",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic将Claude Code引入网页端",
+            "time": "2025-10-20",
+            "source": "TechCrunch",
+            "summary": "Anthropic推出Claude Code的网页版应用，允许开发者通过浏览器创建和管理多个AI编码代理，目前已向其20美元/月的Pro计划及更高阶用户开放。该功能可通过claude.ai网站或iOS应用访问，标志着Anthropic从命令行工具向多平台扩展的重要一步。尽管CLI仍是核心，但公司致力于让Claude Code覆盖更多使用场景。Claude Code自5月全面上线后用户增长十倍，年收入超5亿美元，其成功得益于强大的AI模型与产品设计中的趣味性。同时，AI编码工具在复杂代码库中仍面临准确性和效率挑战。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=1024",
+            "url": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
+            "category": "AI"
+        },
+        {
+            "title": "阿里悄悄上线自家Claude Code，Gemini3同款的操作系统复刻让我做出来了",
+            "time": "2025-10-20",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXmLS2XmFdXmI1F4CuHo6CuTK90sk1Poch1YnuQ8RBwoKGUWfycnkgr6wbgzDsmt1YLHG3JzHtuCqA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/hUkqNoFsCE4aWXfO2VYvKw",
+            "category": "AI"
+        },
         {
             "title": "Anthropic推轻量模型Haiku 4.5：推理速度提升超两倍，成本仅三分之一",
             "time": "2025-10-16",
