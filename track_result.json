@@ -1,6 +1,42 @@
 {
     "微软": [
         {
+            "title": "微软似乎在暗示下一代 Xbox 将是一台 PC",
+            "time": "2025-10-22",
+            "source": "动点科技",
+            "summary": "微软Xbox总裁Sarah Bond在接受采访时表示，下一代Xbox游戏机将带来前所未有的技术飞跃，暗示其将不再是传统主机，而是融合PC元素的混合设备。她强调微软正与Windows团队紧密合作，推动Windows成为首选游戏平台，并提及最新推出的Xbox Ally X掌机作为这一方向的体现。此举可能意味着下一代Xbox将搭载Windows系统，打破单一设备限制，实现跨平台游戏体验。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/chatgpt-atlas-uai-1032x580.png",
+            "url": "https://cn.technode.com/post/2025-10-22/microsoft-xbox-sarah-bond-next-gen-xbox-console-pc/",
+            "category": "游戏"
+        },
+        {
+            "title": "曝《无尽传说：复刻版》Xbox实体版取消！已安排退款",
+            "time": "2025-10-22",
+            "source": "游侠网",
+            "summary": "据北美游戏零售商VGP公告，原定于10月30日发售的《无尽传说：复刻版》Xbox Series X欧版实体版在发售前一周被取消，所有预订订单均已安排退款。该复刻版为2011年PS3版的现代移植版本，此次取消意味着Xbox平台实体版发售计划全面搁置，欧洲是唯一计划推出实体版的地区。事件原因未明，但被描述为“超出控制”的外部因素所致。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/22/584_20251022114941304.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/971299.html",
+            "category": "游戏"
+        },
+        {
+            "title": "“氛围工作”时代来临：从微软到OpenAI，白领职场掀起感觉革命",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "本文探讨了由生成式AI推动的‘氛围工作’新趋势，从硅谷科技公司如微软、OpenAI的AI辅助办公工具，到企业设立‘首席氛围官’等新岗位，重新定义白领工作方式。文章指出，尽管‘氛围’强调轻松与即兴，实则对员工的AI应用能力与专业素养提出更高要求，而企业普遍缺乏系统培训，导致人才需求与能力供给严重脱节。专家警示，过度依赖AI可能弱化战略思考，导致‘工作糟粕’泛滥，真正的效率提升仍需扎实的专业积累。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3519833173171076",
+            "category": "AI"
+        },
+        {
+            "title": "Win11变身AI先锋：微软押注原生系统，Win12五年后登场",
+            "time": "2025-10-22",
+            "source": "游侠网",
+            "summary": "微软将Win11定位为AI原生平台，通过Copilot+ PC和26H2版本深度整合AI功能，重构人机交互逻辑，涵盖语音控制、智能补全、安全防护等系统级应用。尽管Win12仍在五年规划中，但Win11的AI实践被视为下一代系统的试验场。当前用户关注AI在复杂场景中的稳定性与隐私保护，26H2版本将决定Win11能否成为AI操作系统标杆。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/22/584_20251022105131186.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/971285.html",
+            "category": "AI"
+        },
+        {
             "title": "前索尼高管盛赞Xbox多平台策略！但不理解XGP涨价",
             "time": "2025-10-21",
             "source": "游侠网",
@@ -663,12 +699,30 @@
     ],
     "任天堂": [
         {
+            "title": "《女神异闻录3RE》NS2版M站79分：画面流畅令人满意！",
+            "time": "2025-10-22",
+            "source": "游侠网",
+            "summary": "《女神异闻录3 Reload》Switch 2版媒体评测公布，M站均分79分，22篇评测中18篇好评。媒体普遍认为游戏在Switch 2上表现优异，画面流畅、重制精致，保留了原作魅力并提升视听体验。但部分评测指出掌机模式下帧率和性能表现不佳，且缺少DLC内容影响完整体验。尽管如此，仍被评价为体验该经典RPG的最佳方式。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/22/584_20251022111441232.png",
+            "url": "https://www.ali213.net/news/html/2025-10/971307.html",
+            "category": "游戏"
+        },
+        {
             "title": "《宝可梦传说ZA》颠覆性改动：鲤鱼王竟搭载高压水炮",
             "time": "2025-10-21",
             "source": "游侠网",
             "summary": "《宝可梦传说：Z-A》中，原本被视为弱小过渡型宝可梦的鲤鱼王被赋予颠覆性设定，配备原本属于进化形态暴鲤龙的强力水系技能“水炮”，并在密阿雷市区域作为头目野生宝可梦登场。其超远射程与高伤害引发玩家热议，不少玩家遭遇“非自愿高压水洗”而被秒杀，这一改动打破鲤鱼王三十年来作为笑柄的固有印象，为其赢得独立百科词条，并在玩家社群中掀起对“暴力美学正当性”的讨论。",
             "image_url": "https://images.ali213.net/picfile/pic/2025/10/21/584_202510216420238.png",
             "url": "https://www.ali213.net/news/html/2025-10/970777.html",
+            "category": "游戏"
+        },
+        {
+            "title": "我测试了15款Switch 2保护壳，这些是最好的",
+            "time": "2025-10-21",
+            "source": "The Verge",
+            "summary": "本文作者Cameron Faulkner测试了多款Nintendo Switch 2保护壳，推荐Dbrand Killswitch为综合最佳选择，兼顾手持与底座模式使用，提供全面保护且不牺牲功能。同时推荐JSAUX为高性价比替代品，tomtoc Slim为最佳携带包，Spigen Rugged Armor适合仅手持玩家。文章详细分析了各款产品的安装便捷性、贴合度、功能保留情况及价格，帮助玩家根据需求选择。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257824_buying_guide_switch_2_case_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
             "category": "游戏"
         },
         {
@@ -1382,6 +1436,15 @@
     ],
     "谷歌": [
         {
+            "title": "OpenAI发布AI浏览器ChatGPT Atlas，谷歌股价应声下跌",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "OpenAI正式发布首款人工智能驱动的网页浏览器ChatGPT Atlas，直接挑战谷歌Chrome的市场主导地位。该浏览器基于Chromium内核，深度融合ChatGPT智能能力，推出“随行聊天”“浏览器记忆”和“代理模式”三大核心功能，支持一键导入Chrome数据，降低用户迁移成本。代理模式可自主执行多步骤网络操作，如填写表单、预订机票等。受此消息影响，谷歌母公司Alphabet股价当日收跌2.21%。分析认为，ChatGPT Atlas凭借8亿用户基础，有望开启AI代理在网页端竞争的新阶段。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251022/v2_63601266a46f4754b4b3cd76ca5ad2d8@1743780481_oswg123421oswg1292oswg1038_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3519823703252100",
+            "category": "AI"
+        },
+        {
             "title": "AI正在改写地图APP！这一次轮到谷歌了",
             "time": "2025-10-21",
             "source": "量子位",
@@ -1397,6 +1460,42 @@
             "summary": "DeepSeek开源了名为DeepSeek-OCR的3B参数模型，创新性地提出“上下文光学压缩”方法，将文本信息压缩为视觉token，通过图像形式输入大模型，大幅降低算力消耗。该模型在文档解析任务中以极少视觉token达到SOTA性能，单A100 GPU每日可生成20万页训练数据，被赞为“AI的JPEG时刻”。其编码器DeepEncoder采用局部提取、压缩、全局理解三阶段设计，支持动态压缩比，并类比人类记忆机制提出“遗忘式压缩”新思路，或为超长上下文架构提供新路径。",
             "image_url": "https://www.qbitai.com/wp-content/uploads/replace/33a0eaa6352a1cb145ddd9b98c1e2ed0.png",
             "url": "https://www.qbitai.com/2025/10/343810.html",
+            "category": "AI"
+        },
+        {
+            "title": "Cloudflare首席执行官敦促英国监管机构拆分谷歌的搜索和AI爬虫",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "Cloudflare首席执行官Matthew Prince在伦敦会见英国竞争与市场管理局（CMA），呼吁监管机构强制谷歌将其搜索爬虫与AI内容爬取功能分离。他认为，谷歌利用其在搜索市场的主导地位，无偿抓取全网内容用于训练AI产品，形成不公平竞争。其他AI公司需付费获取数据，而谷歌却能通过捆绑爬虫免费使用，这对媒体和初创企业构成严重威胁。Prince强调Cloudflare作为中立基础设施提供商，拥有大量AI客户，可提供关键数据支持监管决策。谷歌回应称网站所有者可通过工具选择退出AI训练，但批评者认为该机制不足以保障内容方权益。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/videoframe_402382.png?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/",
+            "category": "AI"
+        },
+        {
+            "title": "Google Fi将推出AI增强音频和RCS网页消息功能",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "Google宣布其电信服务Google Fi将推出多项更新，包括AI增强音频功能，可有效降低通话背景噪音并提升语音清晰度，即使对方使用固话或旧设备也能实现更自然的通话体验，该功能将于下月自动上线，用户可选择关闭。同时，Google将升级“Messages for web”以支持RCS协议，允许在消息中发送高清图片和视频，预计12月推出。此外，Wi-Fi Auto Connect+功能将扩展至更多机场和商场，并自动加密连接。Google Fi应用还将提供AI驱动的账单摘要服务，并推出新用户15个月50%折扣的限时优惠。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/rubaitul-azad-pBaJRaF4x9Q-unsplash.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出新浏览器Atlas，直击谷歌核心",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "OpenAI正式发布AI驱动的全新浏览器Atlas，旨在重新定义网络浏览体验，直接挑战谷歌Chrome的主导地位。CEO萨姆·阿尔特曼指出，AI时代需要摒弃传统以URL和搜索框为核心的浏览模式，转而采用对话式交互。Atlas通过多轮对话式搜索、实时屏幕内容分析等创新功能，提供超越谷歌搜索的用户体验。尽管目前不投放广告，但其浏览器级数据收集能力为未来精准广告业务埋下伏笔，可能严重削弱谷歌在搜索和广告市场的控制力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-21-at-5.13.11-PM.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌Fi将使用AI提升通话音质并推出多项新功能",
+            "time": "2025-10-21",
+            "source": "Engadget",
+            "summary": "谷歌宣布其电信服务Google Fi将引入AI技术以优化通话音质，确保在嘈杂或风大的环境中也能清晰通话，该功能将于11月上线。此外，服务将支持HD/HD+通话、自动连接Wi-Fi、端到端VPN加密，并允许用户通过网页浏览器拨打电话和发送短信，支持RCS协议。同时，谷歌将整合Gemini AI生成简洁的账单摘要，并为新用户提供15个月50%折扣的限时优惠。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/a.d.d47pPJ1WUf.EV4cIkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/5b0ee8d0-aabd-11f0-9fb9-160f50d78e30",
+            "url": "https://www.engadget.com/mobile/smartphones/google-fi-will-start-using-ai-to-make-calls-sound-better-170025805.html",
             "category": "AI"
         },
         {
@@ -2094,6 +2193,24 @@
         }
     ],
     "Meta": [
+        {
+            "title": "WhatsApp和Messenger新增警告功能帮助老年人防范网络诈骗",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "Meta公司推出新功能，在WhatsApp中当用户尝试与未知联系人共享屏幕时显示警告，以防止敏感信息泄露；在Messenger中则利用AI检测可疑消息并发出“可能面临金钱损失”的警示。此举旨在保护老年人免受网络诈骗侵害，此前Meta已打击数百万诈骗账户，并加入国家老年人欺诈协调中心。尽管此前已推出部分安全提醒，但此次功能更直接针对老年用户群体的高风险场景。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/elderly-adult-GettyImages-1390895748.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/whatsapp-and-messenger-add-new-warnings-to-help-older-people-avoid-online-scams/",
+            "category": "社交"
+        },
+        {
+            "title": "Meta将警告WhatsApp和Messenger用户防范诈骗",
+            "time": "2025-10-21",
+            "source": "Engadget",
+            "summary": "Meta宣布推出新工具以保护WhatsApp和Messenger用户免受网络诈骗侵害。自2025年初以来，该公司已识别并关闭了约800万个与诈骗相关的账户，主要来自缅甸、老挝、柬埔寨、阿联酋和菲律宾。新功能包括在视频通话中尝试与非联系人共享屏幕时弹出警告，并在Messenger中引入AI检测可疑消息，提醒用户警惕虚假兼职、转账要求等常见骗局。同时鼓励用户启用密钥验证并运行安全检查。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/pDuiNoH.C8GPIAXcfCVsRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTgzNg--/https://s.yimg.com/os/creatr-uploaded-images/2025-10/5cbfe2c0-ae63-11f0-9b67-6b687e68b192",
+            "url": "https://www.engadget.com/social-media/meta-will-warn-whatsapp-and-messenger-users-against-scams-120048067.html",
+            "category": "社交"
+        },
         {
             "title": "Meta将移除Windows和macOS平台的Messenger应用",
             "time": "2025-10-20",
@@ -2979,6 +3096,15 @@
     ],
     "YouTube": [
         {
+            "title": "YouTube的相似度检测技术正式上线",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "YouTube正式向符合条件的YouTube合作伙伴计划创作者推出相似度检测技术，旨在识别并管理利用创作者面部和声音生成的AI内容，防止其被用于未经同意的广告推广或虚假信息传播。创作者需通过扫描二维码、提交身份证和自拍视频完成身份验证，之后可查看并申请下架侵权视频，或选择归档。该技术此前处于试点阶段，YouTube已与创意经纪公司CAA合作，并支持《NO FAKES法案》以应对AI伪造问题。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/YT-likenessreport.png?w=680",
+            "url": "https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/",
+            "category": "AI"
+        },
+        {
             "title": "YouTube、YouTube TV 和 YouTube Music 在国际性中断后恢复服务",
             "time": "2025-10-16",
             "source": "The Verge",
@@ -3161,6 +3287,51 @@
     ],
     "OpenAI": [
         {
+            "title": "OpenAI发布AI浏览器ChatGPT Atlas，谷歌股价应声下跌",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "OpenAI正式发布首款人工智能驱动的网页浏览器ChatGPT Atlas，直接挑战谷歌Chrome的市场主导地位。该浏览器基于Chromium内核，深度融合ChatGPT智能能力，推出“随行聊天”“浏览器记忆”和“代理模式”三大核心功能，支持一键导入Chrome数据，降低用户迁移成本。代理模式可自主执行多步骤网络操作，如填写表单、预订机票等。受此消息影响，谷歌母公司Alphabet股价当日收跌2.21%。分析认为，ChatGPT Atlas凭借8亿用户基础，有望开启AI代理在网页端竞争的新阶段。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251022/v2_63601266a46f4754b4b3cd76ca5ad2d8@1743780481_oswg123421oswg1292oswg1038_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3519823703252100",
+            "category": "AI"
+        },
+        {
+            "title": "“氛围工作”时代来临：从微软到OpenAI，白领职场掀起感觉革命",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "本文探讨了由生成式AI推动的‘氛围工作’新趋势，从硅谷科技公司如微软、OpenAI的AI辅助办公工具，到企业设立‘首席氛围官’等新岗位，重新定义白领工作方式。文章指出，尽管‘氛围’强调轻松与即兴，实则对员工的AI应用能力与专业素养提出更高要求，而企业普遍缺乏系统培训，导致人才需求与能力供给严重脱节。专家警示，过度依赖AI可能弱化战略思考，导致‘工作糟粕’泛滥，真正的效率提升仍需扎实的专业积累。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3519833173171076",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI发布AI浏览器ChatGPT Atlas，挑战Chrome霸主地位",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "OpenAI正式发布AI浏览器ChatGPT Atlas，以智能体模式为核心，实现AI直接执行用户指令，如自动购物、任务同步等，颠覆传统浏览器‘点击链接’模式。其创新功能包括搜索反转、上下文侧边栏和光标聊天，并强调安全控制与隐私保护，支持浏览器记忆功能但可手动清除。目前仅限macOS平台，Plus及以上用户可体验智能体模式，Windows、iOS等版本正在开发中，被视为对Chrome霸权的直接挑战。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251022/v2_0661ffb883c14611b685f8a1ee43b3fc@1743780481_oswg22464oswg960oswg539_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3519816492702848",
+            "category": "AI"
+        },
+        {
+            "title": "AI浏览器战国时代到来，OpenAI推出AI浏览器ChatGPT Atlas",
+            "time": "2025-10-22",
+            "source": "动点科技",
+            "summary": "OpenAI正式发布AI浏览器ChatGPT Atlas，以ChatGPT为核心，整合搜索与AI助手功能，支持在浏览网页时实时生成总结、编辑文本、规划日程等任务。其内置“记忆”系统可跨页面保留上下文，提升个性化体验，并通过“Agent模式”实现自动操作，目前已在macOS上线，Windows、iOS和Android版本即将推出。该产品被视为大模型竞争新前沿，与谷歌Chrome整合Gemini、Perplexity的Comet浏览器等形成竞争格局。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/DWN-5600_feature_1-1-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-22/openai-chatgpt-atlas/",
+            "category": "AI"
+        },
+        {
+            "title": "聊聊OpenAI新Atlas浏览器，小白如何五选一出合适的AI助理",
+            "time": "2025-10-22",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/Chx4et_kbHviu3S5vQ-lPg",
+            "category": "AI"
+        },
+        {
             "title": "甲骨文推出全球最大AI超算，作为OpenAI「星际之门」算力核心",
             "time": "2025-10-21",
             "source": "36氪",
@@ -3176,6 +3347,33 @@
             "summary": "演员布莱恩·克兰斯顿并未授权OpenAI使用其形象，但其 likeness 却出现在Sora 2生成的AI视频中，包括与迈克尔·杰克逊自拍的虚假内容。随后，OpenAI与SAG-AFTRA、克兰斯顿及多家经纪公司联合发布声明，承认生成行为属无意，并承诺加强“选择加入”机制以保护艺人肖像与声音权益。OpenAI表示将快速审查违规投诉，但未透露具体技术改进细节。SAG-AFTRA则呼吁立法通过《NO FAKES法案》以全面遏制AI复制技术对艺人的侵害。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出新浏览器Atlas，直击谷歌核心",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "OpenAI正式发布AI驱动的全新浏览器Atlas，旨在重新定义网络浏览体验，直接挑战谷歌Chrome的主导地位。CEO萨姆·阿尔特曼指出，AI时代需要摒弃传统以URL和搜索框为核心的浏览模式，转而采用对话式交互。Atlas通过多轮对话式搜索、实时屏幕内容分析等创新功能，提供超越谷歌搜索的用户体验。尽管目前不投放广告，但其浏览器级数据收集能力为未来精准广告业务埋下伏笔，可能严重削弱谷歌在搜索和广告市场的控制力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-21-at-5.13.11-PM.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出AI浏览器ChatGPT Atlas",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "OpenAI正式发布AI驱动的浏览器ChatGPT Atlas，旨在挑战Google在信息检索领域的主导地位。该浏览器将首先登陆macOS，随后支持Windows、iOS和Android，并向所有免费用户开放。核心功能包括内置侧边栏聊天机器人、浏览历史记忆以实现个性化回答，以及面向Plus、Pro和Business用户的AI代理任务自动化功能。与Perplexity Comet和The Browser Company的Dia类似，ChatGPT Atlas通过减少用户复制粘贴上下文的摩擦，提升交互体验。尽管AI浏览器在硅谷备受关注，但其能否撼动拥有30亿用户的Chrome仍存疑。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出AI驱动浏览器ChatGPT Atlas，今日登陆macOS",
+            "time": "2025-10-21",
+            "source": "Engadget",
+            "summary": "OpenAI今日正式发布其AI驱动的浏览器ChatGPT Atlas，率先在macOS平台上线，后续将推出Windows、iOS和Android版本。Atlas将ChatGPT深度集成至浏览器界面，支持在浏览网页时直接调用AI助手进行文本润色、搜索记忆和任务自动化。用户可通过侧边栏或新标签页与AI对话，浏览器还能记住偏好以优化搜索体验，并提供隐身模式和可管理的浏览记忆功能。此外，高级用户可试用Agent模式，让AI代为完成订票、编辑文档等任务。OpenAI强调不会用用户浏览内容训练模型，此举使其加入Opera、Perplexity等AI浏览器竞争行列。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/McpZ_unN5NTqlLOFINPR4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/1f6636a0-aea3-11f0-be8f-738b9aaa0906",
+            "url": "https://www.engadget.com/ai/openais-ai-powered-browser-chatgpt-atlas-launches-on-macos-today-170735742.html",
             "category": "AI"
         },
         {
@@ -4207,6 +4405,24 @@
     ],
     "苹果": [
         {
+            "title": "苹果首款可折叠 iPad 或售 3000 美元，最早 2029 年上市",
+            "time": "2025-10-22",
+            "source": "动点科技",
+            "summary": "据彭博社记者马克·古尔曼报道，苹果正在研发首款可折叠 iPad，预计售价约3000美元，最早将于2029年上市。该设备将采用约18英寸的折叠屏，由三星显示公司提供，旨在最小化折痕。原型机重量约1.59公斤，远高于现有iPad，成为主要技术挑战。与可折叠iPhone不同，该设备无外屏，展开后类似13英寸笔记本，但全屏替代键盘与触控板。目前苹果正致力于解决重量与显示技术难题，该产品更可能定位为高端 MacBook Pro 级别设备，而非直接替代现有iPad。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/DWN-5600_feature_1-1-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-22/apples-first-foldable-ipad-may-cost-3000-and-launch-as-early-as-2029/",
+            "category": "其他"
+        },
+        {
+            "title": "曝苹果可折叠iPad：售价超3000美元 上市推迟至2029",
+            "time": "2025-10-22",
+            "source": "游侠网",
+            "summary": "据彭博社记者马克・古尔曼报道，苹果正在开发首款可折叠iPad，预计售价接近3000美元，上市时间因工程难题推迟至2029年或更晚。该设备将与三星显示合作打造约18英寸屏幕，致力于最小化折痕，完全展开后形态类似13英寸笔记本，但取消实体键盘与触控板，全由触控屏替代。当前原型机重量达3.5磅（约1.59公斤），远超现有iPad，成为主要技术瓶颈。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/22/584_20251022112734392.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/971311.html",
+            "category": "其他"
+        },
+        {
             "title": "沉睡巨头苏醒，苹果股价暴涨创新高",
             "time": "2025-10-21",
             "source": "36氪",
@@ -4980,6 +5196,15 @@
     ],
     "华为": [
         {
+            "title": "华为首款“Air”系列手机现身电信数据库，或为Mate 70 Air",
+            "time": "2025-10-22",
+            "source": "动点科技",
+            "summary": "华为即将发布的新机Mate 70 Air近日出现在中国电信产品库中，型号为SUP-AL90，系华为首款以“Air”命名的手机。该机预计配备6.9英寸、1920×1200分辨率屏幕，提供12GB+256GB和12GB+512GB两种存储版本，预装鸿蒙OS 5.0系统，支持黑、白、银三种配色。目前该机型页面已被下架，具体配置与eSIM支持情况尚未确认，华为也未说明“Air”系列在Mate产品线中的定位。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/DWN-5600_feature_1-1-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-22/huawei-mate70-air/",
+            "category": "其他"
+        },
+        {
             "title": "61岁退休后，华为海思创始总裁成了复旦北大清华老师",
             "time": "2025-10-18",
             "source": "量子位",
@@ -5107,6 +5332,15 @@
         }
     ],
     "阿里巴巴": [
+        {
+            "title": "掏10亿去“扫街”，高德想要什么？",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "本文分析高德推出“扫街榜”的战略动因与成功逻辑，指出其依托海量动态位置数据与AI算法，将导航工具升级为生活决策平台。通过真实用户行为数据构建可信榜单，结合阿里生态协同，实现从“去哪”到“去哪好”的转型。文章同时探讨其面临的生态竞争、用户心智转变与运营能力挑战，认为“扫街榜”是高德从基础设施向本地生活平台跃迁的关键一步。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251022/v2_9aa2258e5b1b4d48900a1dc1c398cf33@000000_oswg807753oswg908oswg604_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3519661032414337",
+            "category": "AI"
+        },
         {
             "title": "阿里悄悄上线自家Claude Code，Gemini3同款的操作系统复刻让我做出来了",
             "time": "2025-10-20",
@@ -5544,6 +5778,24 @@
     ],
     "亚马逊": [
         {
+            "title": "Agent的权力游戏：亚马逊的“罗马帝国”与沃尔玛的“紫禁城”",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "本文深入分析了亚马逊与沃尔玛在Agentic AI时代的战略分野：亚马逊构建横向扩展的“平台帝国”，通过AWS输出标准化AI工具，致力于成为AI时代的基础设施；沃尔玛则打造纵向深耕的“零售王朝”，依托独家数据与物理网络，构建深度整合的“零售智能大脑”。两者分别以“云端兵工厂”和“实景演武场”竞争效率与成本，最终胜负将取决于平台能否深度垂直、王朝能否经济扩张。文章呼吁企业审视自身基因，抉择是成为赋能生态的帝国，还是深耕场景的王朝。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251022/v2_e1d91a7e35de4deebe378b2792a09782@643532081_oswg20159oswg950oswg497_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3519856392542594",
+            "category": "AI"
+        },
+        {
+            "title": "亚马逊“停电”，“马斯克”乐坏",
+            "time": "2025-10-21",
+            "source": "动点科技",
+            "summary": "2025年10月19日，亚马逊AWS美国东部数据中心（US-EAST-1）因内部监控系统故障导致大规模宕机，影响全球超两千家服务商、八百万用户，涉及社交、支付、游戏、电商等多个关键服务。事故暴露了云计算市场高度集中带来的系统性风险，AWS、微软Azure和谷歌云合计掌控全球七成基础设施。马斯克借机在X平台嘲讽AWS依赖AI生成代码，并宣传自家不依赖AWS的X Chat。事件也引发对自动化过度、人工干预减少的反思，尽管AWS否认裁员与事故直接相关，但业内普遍认为技术精简削弱了应急能力。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/aws-us-east-1-meme.jpeg",
+            "url": "https://cn.technode.com/post/2025-10-21/amazon-aws-outage/",
+            "category": "其他"
+        },
+        {
             "title": "亚马逊DNS故障导致互联网大面积瘫痪，仍在恢复中",
             "time": "2025-10-20",
             "source": "TechCrunch",
@@ -5883,6 +6135,15 @@
     ],
     "高盛": [
         {
+            "title": "人均身价过亿，高盛买了",
+            "time": "2025-10-22",
+            "source": "36氪",
+            "summary": "高盛官宣收购管理70亿美元资产的风投公司Industry Ventures，交易总价最高达9.65亿美元，45名员工平均身价过亿。此次收购旨在强化高盛在私募股权二级市场（S基金）的布局，Industry Ventures以S交易和混合基金策略见长，拥有超800家基金投资组合。交易预计2026年完成，团队将整体并入高盛XIG部门。此举反映华尔街对私募二级市场的重视，或带动更多银行布局类似交易，尽管国内S市场仍处起步阶段，但该案例为VC退出路径提供新启示。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3519747329530752",
+            "category": "其他"
+        },
+        {
             "title": "高盛再次唱多：全球资金回归中国，看好中国“十巨头”股票",
             "time": "2025-06-17",
             "source": "36氪",
@@ -6174,6 +6435,15 @@
     ],
     "Rockstar Games": [
         {
+            "title": "《GTA6》新预告日期再落空？粉丝重新锁定希望！",
+            "time": "2025-10-22",
+            "source": "游侠网",
+            "summary": "知名R星消息人士TezFun否认《侠盗猎车手6》第三支预告片将于12月2日发布的传闻，但粉丝并未因此失望，转而将希望寄托于11月8日。该日期被推测为R星官宣首支预告的周年纪念日，且有玩家发现第二支预告中男主角手表显示时间为11:08，疑似隐藏彩蛋。尽管官方尚未确认，玩家仍持续关注并解读线索，期待新预告的正式公布。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/22/584_20251022114108762.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/971317.html",
+            "category": "游戏"
+        },
+        {
             "title": "《GTA6》新爆料：引入武器存储机制 体验更接近真实",
             "time": "2025-10-19",
             "source": "游侠网",
@@ -6272,6 +6542,24 @@
             "summary": "《寂静岭》系列制作人冈本基表示，科乐美选择同时公布《寂静岭2：重制版》《寂静岭f》与《寂静岭：Townfall》三款新作，旨在向玩家展示复活这一经典IP的坚定决心，而非仅以单部作品试探市场。他认为企业必须率先展现诚意，才能激发玩家的热情。尽管此前部分作品反响平平，但《寂静岭2：重制版》与《寂静岭f》已成功重塑IP影响力，而《寂静岭：Townfall》仍备受期待。",
             "image_url": "https://images.ali213.net/picfile/pic/2025/10/21/584_2025102165629221.png",
             "url": "https://www.ali213.net/news/html/2025-10/970779.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《寂静岭f》女主脸模新美照：摆弄双马尾俏皮又可爱！",
+            "time": "2025-10-20",
+            "source": "游侠网",
+            "summary": "随着《寂静岭f》正式发售，女主角深水雏子的脸模加藤小夏因其清纯可爱的形象受到玩家喜爱。近日，她在社交媒体分享了全新美照，身穿简约服装、摆弄双马尾的造型俏皮动人。游戏以日本山村“戎之丘”为背景，玩家将跟随深水雏子探索迷雾笼罩的小镇，揭开隐藏真相。该作已登陆PS5、Xbox Series X|S及PC平台。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/20/584_2025102024236801.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/970533.html",
+            "category": "游戏"
+        },
+        {
+            "title": "玩家最期待的10月PS+会免游戏：《寂静岭2RE》无悬念",
+            "time": "2025-10-20",
+            "source": "游侠网",
+            "summary": "根据外媒PushSquare的调查，玩家对2025年10月PS Plus Extra档会免游戏阵容普遍满意，其中《寂静岭2：重制版》以51%的投票率高居最期待游戏榜首，成为本月焦点。其他游戏如《铁拳3》等三档阵容反响平平。文章还提及了玩家对恐怖游戏的热衷，以及《寂静岭2RE》在媒体与社区中的广泛讨论。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/20/584_2025102084806274.png",
+            "url": "https://www.ali213.net/news/html/2025-10/970371.html",
             "category": "游戏"
         },
         {
@@ -6465,6 +6753,15 @@
     ],
     "特朗普": [
         {
+            "title": "Anthropic首席执行官回应特朗普官员指责其制造AI恐慌",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "Anthropic首席执行官Dario Amodei回应特朗普政府官员对其制造AI恐慌的指控，强调公司致力于推动AI为人类进步服务，而非制造恐慌。他指出Anthropic已与联邦政府合作，包括向政府部门提供Claude模型、与国防部签订2亿美元协议，并支持特朗普的AI行动计划。尽管被批评为阻碍创新，Amodei强调公司反对州级AI监管禁令、支持加州SB 53安全法案，并坚持不向中国控制公司销售服务，称其政策基于责任而非政治。他重申公司已从10亿美元估值增长至70亿美元，坚持诚实透明的政策立场。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/Dario.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/",
+            "category": "AI"
+        },
+        {
             "title": "特朗普能源部确认取消超7亿美元制造业拨款",
             "time": "2025-10-20",
             "source": "TechCrunch",
@@ -6628,6 +6925,15 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "亚马逊“停电”，“马斯克”乐坏",
+            "time": "2025-10-21",
+            "source": "动点科技",
+            "summary": "2025年10月19日，亚马逊AWS美国东部数据中心（US-EAST-1）因内部监控系统故障导致大规模宕机，影响全球超两千家服务商、八百万用户，涉及社交、支付、游戏、电商等多个关键服务。事故暴露了云计算市场高度集中带来的系统性风险，AWS、微软Azure和谷歌云合计掌控全球七成基础设施。马斯克借机在X平台嘲讽AWS依赖AI生成代码，并宣传自家不依赖AWS的X Chat。事件也引发对自动化过度、人工干预减少的反思，尽管AWS否认裁员与事故直接相关，但业内普遍认为技术精简削弱了应急能力。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/aws-us-east-1-meme.jpeg",
+            "url": "https://cn.technode.com/post/2025-10-21/amazon-aws-outage/",
+            "category": "其他"
+        },
         {
             "title": "马斯克发起编程人机大战！卡帕西说了不",
             "time": "2025-10-19",
@@ -7372,6 +7678,15 @@
             "category": "AI"
         },
         {
+            "title": "聊聊DeepSeek OCR和Manus 1.5都在做的无限上下文",
+            "time": "2025-10-21",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/LBeYJ8hul649siQ4wCBGcA",
+            "category": "AI"
+        },
+        {
             "title": "实测蚂蚁万亿新思考模型Ring-1T，跟DeepSeek V3.2拼一把",
             "time": "2025-10-14",
             "source": "卡尔的AI沃茨",
@@ -7551,6 +7866,15 @@
             "summary": "字节跳动推出的AI智能助手Cici近期在墨西哥、英国、东南亚等海外市场应用商店迅速霸榜，下载量爆发式增长。Cici界面与字节国内产品豆包高度相似，但针对海外用户优化，突出数学求解能力，未加入音乐/视频生成等功能。其技术融合了字节旗下PicPic、Coze等工具，并调用OpenAI的GPT和谷歌Gemini模型。数据显示，Cici过去三个月稳居多国应用商店免费下载前20名，体现字节AI全球化战略。与此同时，豆包在国内AI助手赛道持续领先，累计下载破亿，日活超3300万，形成DDKT第一梯队，唯独在Web端仍被DeepSeek超越。",
             "image_url": "https://www.qbitai.com/wp-content/uploads/replace/ae8dd5a37fd981e5e576f8f6c41e85c0.jpeg",
             "url": "https://www.qbitai.com/2025/10/343514.html",
+            "category": "AI"
+        },
+        {
+            "title": "拍照答疑产品收入现状：字节旗下Gauth月流水突破百万美元",
+            "time": "2025-10-20",
+            "source": "多知网",
+            "summary": "字节跳动旗下AI教育产品Gauth在2025年9月全球收入达122万美元，创近一年新高，其中90%以上来自美国市场，预计全年流水超1400万美元。Gauth原名Gauthmath，2024年更名为Gauth并扩展至全学科，用户群体以中学生为主，正从拍题拓展至生活场景识别（如卡路里、植物识别），并计划升级Web端引入agent功能。其商业模式为免费下载+付费订阅增值服务。同期，字节旗下豆包爱学上线“豆包老师”，或与Gauth形成协同。此外，粉笔AI刷题系统班也取得亿元级营收，显示AI在教育商业化中的实际落地能力。",
+            "image_url": "http://www.duozhi.com/d/file/2025/10/b57699212abb7739ba05b8ac2fb64f30.jpg",
+            "url": "http://www.duozhi.com/industry/insight/2025102017795.shtml",
             "category": "AI"
         },
         {
@@ -8294,6 +8618,15 @@
             "summary": "Anthropic宣布将其AI编程助手Claude Code扩展至网页端和iOS应用，开发者无需使用命令行即可通过图形界面直接与AI协作编程。用户可连接GitHub仓库，实时指导Claude完成多任务并行编码，所有操作均在隔离沙盒环境中进行，保障代码与凭证安全。目前仅限Pro和Max订阅用户使用，iOS版本仍为预览版，公司计划根据用户反馈优化移动端体验。",
             "image_url": "https://s.yimg.com/ny/api/res/1.2/nmdP1l2vtsn9UDTRU9IkMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/f61ccc00-addf-11f0-afff-7db1310622db",
             "url": "https://www.engadget.com/ai/anthropic-brings-claude-code-to-ios-and-the-web-180023611.html",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic首席执行官回应特朗普官员指责其制造AI恐慌",
+            "time": "2025-10-21",
+            "source": "TechCrunch",
+            "summary": "Anthropic首席执行官Dario Amodei回应特朗普政府官员对其制造AI恐慌的指控，强调公司致力于推动AI为人类进步服务，而非制造恐慌。他指出Anthropic已与联邦政府合作，包括向政府部门提供Claude模型、与国防部签订2亿美元协议，并支持特朗普的AI行动计划。尽管被批评为阻碍创新，Amodei强调公司反对州级AI监管禁令、支持加州SB 53安全法案，并坚持不向中国控制公司销售服务，称其政策基于责任而非政治。他重申公司已从10亿美元估值增长至70亿美元，坚持诚实透明的政策立场。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/Dario.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/",
             "category": "AI"
         },
         {
