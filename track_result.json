@@ -1,6 +1,51 @@
 {
     "微软": [
         {
+            "title": "下一代 Xbox 据称可运行你的整个 Xbox 库和 Steam 游戏",
+            "time": "2025-10-28",
+            "source": "动点科技",
+            "summary": "据Windows Central报道，微软正在研发的下一代Xbox将支持运行整个Xbox主机游戏库，并可直接接入Steam、Battle.net等PC游戏平台，不再局限于单一商店。该设备将采用类似主机的界面，同时提供PC风格体验，预计搭载Windows系统并由AMD提供芯片。此外，微软或将取消Xbox Live Gold付费多人模式，以强化跨平台无缝游戏体验。报道指出，ROG Xbox Ally掌机已初步体现这一设计理念，且新设备定价或高于下一代PlayStation，定位高端游戏融合平台。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-10-28/next-gen-xbox-backward-compatible-steam-playstation-games/",
+            "category": "游戏"
+        },
+        {
+            "title": "曝Xbox合作伙伴预览会将于11月举办：展示第三方游戏",
+            "time": "2025-10-28",
+            "source": "游侠网",
+            "summary": "微软将于2025年11月举办Xbox合作伙伴预览会，重点展示第三方厂商的游戏，且阵容几乎全部由Xbox Play Anywhere游戏构成，支持跨主机与PC平台畅玩。此举体现微软从设备绑定转向跨平台融合的战略转型，强调生态开放性，排除强制AI技术，坚持创意优先，并计划在后续机型中支持《战神》等原平台独占作品。同时，Xbox还将参与IGN独立游戏展示会、TGA盛典及开发者直面会，进一步强化内容兼容与用户覆盖。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/28/584_20251028102111185.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/972931.html",
+            "category": "游戏"
+        },
+        {
+            "title": "绷不住了！曝下一代Xbox可以玩PlayStation独占游戏",
+            "time": "2025-10-28",
+            "source": "游侠网",
+            "summary": "据IGN与WindowsCentral报道，微软下一代Xbox将兼具主机与PC双重属性，支持在PC模式下运行Steam、魔兽世界、英雄联盟等游戏，并可玩部分PC端已支持的PlayStation独占游戏，但《血源诅咒》除外。微软放弃传统独占策略，计划将《光环：战役进化》登陆PS5，强调跨平台兼容性。该设备代号“Magnus”，被质疑是主机还是PC，而索尼PS6则预计延续传统独占路线。行业对平台独占战略是否过时仍存争议。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/28/584_20251028105307347.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/972957.html",
+            "category": "游戏"
+        },
+        {
+            "title": "外媒分析Xbox Ally掌机：体验远未完美 但未来可期！",
+            "time": "2025-10-28",
+            "source": "游侠网",
+            "summary": "外媒Windows Central对ROG Xbox Ally掌机进行分析，指出其虽被视为微软未来主机战略的“公开测试”，但当前存在诸多体验缺陷，如Windows系统在电视端适配不佳、UAC弹窗干扰、社区功能缺失等。尽管Xbox Play Anywhere计划逐步扩大游戏库，但主流3A厂商尚未全面支持。文章认为，微软正试图打破传统主机规则，重新定义“主机”概念，未来是否能实现简单易用、价格合理、内容丰富的生态仍待观察，11月的合作伙伴预览展示会或将带来关键进展。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/28/584_20251028110031127.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/972959.html",
+            "category": "游戏"
+        },
+        {
+            "title": "菲尔·斯宾塞：Xbox并未强制创意团队使用AI，日本市场增长显著",
+            "time": "2025-10-27",
+            "source": "GamesIndustry.biz",
+            "summary": "微软游戏CEO菲尔·斯宾塞表示，Xbox目前主要将AI用于安全与Xbox Live内容审核，而非强制应用于创意开发过程。他强调创意团队可自主选择是否使用AI工具，反对自上而下的强制推行。同时，他透露Xbox在日本的玩家总游戏时长在过去一年增长约20%，涵盖主机、PC和云游戏，显示出该市场正逐步改善。此举与EA等公司全面拥抱AI形成对比，凸显微软在AI应用上的谨慎策略。",
+            "image_url": "https://assetsio.gnwcdn.com/xbox-series-x-billy-freeman-unsplash.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/phil-spencer-xbox-isnt-mandating-ai-for-creatives-and-is-seeing-good-growth-in-japan",
+            "category": "游戏"
+        },
+        {
             "title": "微软似乎在暗示下一代 Xbox 将是一台 PC",
             "time": "2025-10-22",
             "source": "动点科技",
@@ -464,6 +509,24 @@
         }
     ],
     "索尼": [
+        {
+            "title": "绷不住了！曝下一代Xbox可以玩PlayStation独占游戏",
+            "time": "2025-10-28",
+            "source": "游侠网",
+            "summary": "据IGN与WindowsCentral报道，微软下一代Xbox将兼具主机与PC双重属性，支持在PC模式下运行Steam、魔兽世界、英雄联盟等游戏，并可玩部分PC端已支持的PlayStation独占游戏，但《血源诅咒》除外。微软放弃传统独占策略，计划将《光环：战役进化》登陆PS5，强调跨平台兼容性。该设备代号“Magnus”，被质疑是主机还是PC，而索尼PS6则预计延续传统独占路线。行业对平台独占战略是否过时仍存争议。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/28/584_20251028105307347.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/972957.html",
+            "category": "游戏"
+        },
+        {
+            "title": "PS5主机搭配两年PS Plus Premium的套装优惠170美元",
+            "time": "2025-10-27",
+            "source": "The Verge",
+            "summary": "The Verge报道了GameStop正在促销一款PS5主机套装，包含825GB带光驱的PS5主机和24个月PS Plus Premium会员服务，原价749.99美元，现仅售579.99美元，相当于节省170美元。PS Plus Premium提供每月免费游戏、在线多人游戏和经典游戏库，价值约320美元。文章还推荐了其他优惠商品，包括Pixel Watch 3降价100美元、Joy-Con手柄折扣和Anker Soundcore Sport X20耳机的史低价格。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ps5lede.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/806949/ps5-ps-plus-premium-console-bundle-deal-sale",
+            "category": "游戏"
+        },
         {
             "title": "前索尼高管盛赞Xbox多平台策略！但不理解XGP涨价",
             "time": "2025-10-21",
@@ -1119,6 +1182,15 @@
     ],
     "腾讯": [
         {
+            "title": "实测腾讯元宝新出的AI录音笔，突破物理限制后更好用了",
+            "time": "2025-10-25",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnZnRyafJd2BJ5YaGQTnJcQ7HrowXVfRicLOJuRUsHARG0PbZaQ8joDiabuXJ5sicId7ibzJic2qJbyXyg/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/WbndNPTQa1mvHb91b6X2FA",
+            "category": "AI"
+        },
+        {
             "title": "腾讯PvEvP猎杀夺宝FPS新作，《灰境行者》全球首曝",
             "time": "2025-10-15",
             "source": "游侠网",
@@ -1435,6 +1507,24 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌AI健康教练即将面向部分Fitbit高级用户推出",
+            "time": "2025-10-28",
+            "source": "Engadget",
+            "summary": "谷歌即将为部分美国Fitbit Premium用户推出AI健康教练的预览版，初期仅支持Android设备，iOS版本正在开发中。该AI聊天机器人通过5至10分钟的对话评估用户的健康与健身目标，可提供个性化训练计划、睡眠分析、健康趋势建议，并能根据环境（如酒店房间）生成定制化锻炼方案。该功能整合于新版Fitbit应用中，依托Pixel Watch或Fitbit设备数据，目前为公测阶段，谷歌将根据用户反馈持续优化功能。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/KGZjlO37yQJyHPt3KdNeUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEwMDk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/50186980-b353-11f0-bf79-fd9d3dc1c801",
+            "url": "https://www.engadget.com/ai/googles-ai-health-coach-will-soon-be-available-to-some-fitbit-premium-users-170022769.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌Gemini现在可以为你生成演示文稿",
+            "time": "2025-10-26",
+            "source": "Engadget",
+            "summary": "谷歌正在为其AI助手Gemini的Canvas功能推出新功能，允许用户通过输入提示或上传文档、表格、论文等文件自动生成演示文稿。生成的幻灯片已包含主题和图片，用户可直接导出至Google Slides进行进一步编辑或协作。该功能面向个人和Workspace账户逐步上线。Canvas原用于展示代码或项目设计的可视化效果，此次扩展使其成为更强大的内容创作工具。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/KTiEiHf5OWUPMSx_TF2zow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3128ccc0-b1c0-11f0-bd75-334152591034",
+            "url": "https://www.engadget.com/ai/googles-gemini-will-now-generate-presentations-for-you-010040637.html",
+            "category": "AI"
+        },
         {
             "title": "OpenAI发布AI浏览器ChatGPT Atlas，谷歌股价应声下跌",
             "time": "2025-10-22",
@@ -2193,6 +2283,15 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Threads即将推出消失帖子功能",
+            "time": "2025-10-28",
+            "source": "The Verge",
+            "summary": "Threads正在推出一项名为“幽灵帖子”（ghost post）的新功能，允许用户发布24小时后自动归档的临时内容。这类帖子将以灰色气泡形式显示在动态中，仅发布者可见回复和点赞，其他用户无法查看互动内容。该功能旨在满足用户分享即时想法但不愿长期保留的诉求，此前X平台用户曾依赖第三方工具实现类似效果。Threads自今年4月起已开始测试该功能，并陆续推出私信、长文本和群聊等功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Threads-Ghost-Post.png?quality=90&strip=all&crop=0,2.0806928601605,100,95.838614279679",
+            "url": "https://www.theverge.com/news/806940/threads-disappearing-ghost-posts-launch",
+            "category": "社交"
+        },
         {
             "title": "WhatsApp和Messenger新增警告功能帮助老年人防范网络诈骗",
             "time": "2025-10-21",
@@ -3286,6 +3385,42 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "OpenAI IPO计划第一步曝光，奥特曼骚操作看傻华尔街",
+            "time": "2025-10-27",
+            "source": "量子位",
+            "summary": "OpenAI获得软银225亿美元追加投资，条件是年底前完成从非营利组织向公益企业重组，为IPO铺路，总投资额达300亿美元，若重组失败则缩水至200亿。奥特曼绕过投行与律师，亲自带队与英伟达、AMD等巨头谈判，达成总额超1.5万亿美元的芯片采购与投资协议，交易依赖信任而非合同细节，财务条款模糊，引发华尔街广泛质疑。其核心团队包括Greg Brockman、Sarah Friar和Peter Hoeschele，近期还挖来马斯克xAI前CFO加强财务能力。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/c276d8f337344615c8b2fdb080c120a3.jpeg",
+            "url": "https://www.qbitai.com/2025/10/346103.html",
+            "category": "AI"
+        },
+        {
+            "title": "全成“绳上蚂蚱”，OpenAI是灵珠or魔丸？",
+            "time": "2025-10-27",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VGsGXWugPS6ibSWw2qXaAzluJx9ciaeXsMP3e7nkUEDDnxmA37I5dlpmXRqsvkWWyfBZfNLBJXQFDNw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/MscCUrnAhpdKnhBnRI2LSA",
+            "category": "其他"
+        },
+        {
+            "title": "OpenAI被曝瞄准AI音乐赛道商业化，Suno首当其冲",
+            "time": "2025-10-26",
+            "source": "量子位",
+            "summary": "OpenAI被曝正与茱莉亚学院合作，筹备AI音乐生成模型，计划整合进Sora 2并进军To B广告市场，直接冲击Suno、Udio等AI音乐初创公司。Suno今年ARR已达1.5亿美元，毛利率超60%，成为AI领域罕见的盈利案例。OpenAI曾于2019年推出MuseNet和Jukebox，但因资金限制搁置，如今因商业变现压力重启该计划。业内担忧AI音乐将引发版权争议，而消费者或将受益于更激烈的竞争与创新。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/4e40c90207fd3e2e38c58aaad24c85c1.png",
+            "url": "https://www.qbitai.com/2025/10/346019.html",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek大反转，Qwen成为最赚钱AI，GPT5亏麻了",
+            "time": "2025-10-23",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/ngM35AqNULpZJXAo6AzPaQ",
+            "category": "AI"
+        },
         {
             "title": "OpenAI发布AI浏览器ChatGPT Atlas，谷歌股价应声下跌",
             "time": "2025-10-22",
@@ -4405,6 +4540,33 @@
     ],
     "苹果": [
         {
+            "title": "Spotify终于为Apple TV应用带来视频播客和音乐视频",
+            "time": "2025-10-28",
+            "source": "The Verge",
+            "summary": "Spotify对其Apple TV（tvOS）应用进行了全面重制，新增视频播客和音乐视频功能，提升大屏观看体验。用户可通过“切换到视频”提示观看歌曲对应的音乐视频，目前已在97个市场上线，但美国和加拿大尚未开放。视频播客支持播放速度调节，并集成歌词显示、队列管理、Spotify DJAI推荐及跨设备控制等移动端功能。此次更新回应了用户对旧版应用导航混乱和功能缺失的长期批评。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/spotify_1.jpg?quality=90&strip=all&crop=0%2C0.0099980003999178%2C100%2C99.9800039992&w=2400",
+            "url": "https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts",
+            "category": "社交"
+        },
+        {
+            "title": "外媒爆料苹果可折叠 iPad 项目陷入停滞，或将借鉴华为 MateBook Fold 经验",
+            "time": "2025-10-27",
+            "source": "动点科技",
+            "summary": "据彭博社记者Mark Gurman透露，苹果原计划于2028年推出的18英寸可折叠iPad项目（折叠为iPad，展开为MacBook）已推迟至最早2029年，主要因机身过重、可折叠OLED面板制造工艺复杂及成本过高（预计超3000美元），市场需求不确定性增加。项目能否量产仍存疑，但苹果或参考华为MateBook Fold非凡大师（售价约3400美元）的经验，优化产品设计与市场策略。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/grokipedia-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-27/apple-ipad-foldable-learn-huawei/",
+            "category": "其他"
+        },
+        {
+            "title": "苹果 reportedly 正准备在地图应用中引入广告",
+            "time": "2025-10-27",
+            "source": "Engadget",
+            "summary": "据彭博社报道，苹果计划于明年在Maps应用中引入广告，以提升愿意付费的商家曝光度。广告将采用AI优化搜索结果，并提供比谷歌地图更优的界面体验。此举是苹果在iOS生态中扩大广告收入的一部分，此前已在App Store等应用中部署广告位。未来可能扩展至News、Books和Podcasts等应用，但广告形式将避免类似YouTube的不可跳过广告，以提升用户体验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/zC30V4srEjxoWIvMeIxDJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04ODc-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6dee9a70-b28a-11f0-96f6-9a1eab8a41f2",
+            "url": "https://www.engadget.com/apps/apple-is-reportedly-getting-ready-to-introduce-ads-to-its-maps-app-170654072.html",
+            "category": "其他"
+        },
+        {
             "title": "苹果首款可折叠 iPad 或售 3000 美元，最早 2029 年上市",
             "time": "2025-10-22",
             "source": "动点科技",
@@ -5196,6 +5358,24 @@
     ],
     "华为": [
         {
+            "title": "外媒爆料苹果可折叠 iPad 项目陷入停滞，或将借鉴华为 MateBook Fold 经验",
+            "time": "2025-10-27",
+            "source": "动点科技",
+            "summary": "据彭博社记者Mark Gurman透露，苹果原计划于2028年推出的18英寸可折叠iPad项目（折叠为iPad，展开为MacBook）已推迟至最早2029年，主要因机身过重、可折叠OLED面板制造工艺复杂及成本过高（预计超3000美元），市场需求不确定性增加。项目能否量产仍存疑，但苹果或参考华为MateBook Fold非凡大师（售价约3400美元）的经验，优化产品设计与市场策略。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/grokipedia-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-27/apple-ipad-foldable-learn-huawei/",
+            "category": "其他"
+        },
+        {
+            "title": "中国快充方案成为全球标准：中国信通院牵头，联合华为、vivo、OPPO 撰写",
+            "time": "2025-10-27",
+            "source": "动点科技",
+            "summary": "由中国信息通信研究院牵头，联合华为、vivo、OPPO等企业共同制定的国际标准ITU-T L.1004《移动终端通用快速充电解决方案》正式发布，这是ITU首个全球通用快充标准。该标准融合了中国自主创新的快充技术，解决了跨品牌设备充电协议不兼容的行业难题，未来用户可使用单一充电器为多品牌手机、平板等设备快速充电，有助于减少电子垃圾，推动可持续发展。相关中国团体标准也被引用为参考。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/motion-robin-pierre-dPgPoiUIiXk-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-10-27/universal-fast-charging-solution-for-mobile-terminals-cn/",
+            "category": "其他"
+        },
+        {
             "title": "华为首款“Air”系列手机现身电信数据库，或为Mate 70 Air",
             "time": "2025-10-22",
             "source": "动点科技",
@@ -5332,6 +5512,33 @@
         }
     ],
     "阿里巴巴": [
+        {
+            "title": "阿里字节，谁是“云”第一？",
+            "time": "2025-10-28",
+            "source": "36氪",
+            "summary": "文章分析了阿里云、火山引擎、腾讯云、华为云等厂商在AI云市场的竞争格局，指出各厂商通过不同维度标榜“第一”：阿里云以IaaS+PaaS整体份额领先，火山引擎靠MaaS层Token调用量称雄，腾讯云深耕游戏与音视频垂直领域，华为云则主导政企市场。随着AI驱动云服务升级，竞争焦点正从算力价格转向生态构建，厂商通过投资合作强化客户粘性，未来或将形成多个垂直领域的生态强者，而非单一绝对第一。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251028/v2_6b49495af8564937ae5f986e8a3762f2@000000_oswg1331396oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3528162774719362",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，Thinking Machines Lab博客提出在策略蒸馏，Qwen被cue 38次",
+            "time": "2025-10-28",
+            "source": "36氪",
+            "summary": "Thinking Machines Lab（TML）发布博客提出「在策略蒸馏」新方法，结合强化学习的纠错相关性与监督微调的密集奖励信号，低成本提升小型语言模型在数学推理和对话助手任务中的表现。该方法显著优于传统RL与离策略蒸馏，成本仅为RL的十分之一，并多次引用Qwen3模型，Qwen关键词出现38次。研究还证明该方法可有效用于持续学习，恢复因微调丢失的指令遵循能力。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251028/v2_b95136d532144cbc89d4e4073c1f1e67@5091053_oswg130734oswg867oswg918_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3528135837817733",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek大反转，Qwen成为最赚钱AI，GPT5亏麻了",
+            "time": "2025-10-23",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/ngM35AqNULpZJXAo6AzPaQ",
+            "category": "AI"
+        },
         {
             "title": "掏10亿去“扫街”，高德想要什么？",
             "time": "2025-10-22",
@@ -5778,6 +5985,24 @@
     ],
     "亚马逊": [
         {
+            "title": "流量格局生变，亚马逊搜索机制大调整",
+            "time": "2025-10-28",
+            "source": "AMZ123跨境电商",
+            "summary": "亚马逊近期疑似调整搜索算法，显著提升标题关键词权重，同时大幅降低Search Term的作用，导致卖家必须将核心关键词前置至标题以提升排名。此外，同一父ASIN下的多个子变体可同时出现在搜索结果中，造成流量向热销变体集中，加剧头部卖家优势，中小卖家突围难度上升。该变化或与亚马逊的关键词治理及AI检索机制升级有关，但尚未获官方确认，卖家面临合规与竞争双重压力。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251028/1761621648179373.jpg",
+            "url": "https://www.baijing.cn/article/54543",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊据称计划裁减约3万名公司职位",
+            "time": "2025-10-27",
+            "source": "TechCrunch",
+            "summary": "亚马逊据称计划从周二开始裁减多达3万名公司岗位，这是自2023年以来最大规模的裁员行动。受影响部门包括人力资源、设备与服务、运营等。此次裁员与公司持续推进AI代理、减少对人工依赖的战略相关。此前亚马逊在2022年曾裁减2.7万人，近期也在可持续发展等部门进行过小规模调整。截至发稿，亚马逊尚未对此事作出回应。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/27/amazon-reportedly-plans-to-cut-around-30000-corporate-jobs/",
+            "category": "其他"
+        },
+        {
             "title": "Agent的权力游戏：亚马逊的“罗马帝国”与沃尔玛的“紫禁城”",
             "time": "2025-10-22",
             "source": "36氪",
@@ -6050,6 +6275,24 @@
     ],
     "红杉资本": [
         {
+            "title": "风险投资不是一种资产类别，红杉资本的罗埃尔夫·博塔表示",
+            "time": "2025-10-27",
+            "source": "TechCrunch",
+            "summary": "在TechCrunch Disrupt 2025大会上，红杉资本管理合伙人罗埃尔夫·博塔指出，风险投资并非一种资产类别，向硅谷投入更多资金并不会催生更多优秀公司。他认为，当前美国有3000家风投机构，远超20年前的1000家，但过去20年仅产生约380家估值超10亿美元的公司，增长已趋饱和。过度资本化反而稀释了资源，使真正杰出的初创企业更难脱颖而出。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/botha.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/27/venture-capital-is-not-an-asset-class-says-sequoias-roelof-botha/",
+            "category": "其他"
+        },
+        {
+            "title": "罗埃尔夫·博塔解释为何红杉资本支持肖恩·马圭尔在COO离职后",
+            "time": "2025-10-27",
+            "source": "TechCrunch",
+            "summary": "红杉资本管理合伙人罗埃尔夫·博塔在TechCrunch Disrupt 2025大会上为合伙人肖恩·马圭尔的争议言论辩护，称公司支持合伙人言论自由，并需要‘有棱角’的人才。马圭尔此前在社交媒体上发表针对纽约市长候选人的激烈言论，引发广泛批评，随后COO苏迈亚·巴尔巴勒因不满公司处理方式辞职。博塔承认这种立场存在代价，但也强调马圭尔在太空、国防科技等领域的投资价值及其对特定创始人的吸引力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/27/roelof-botha-explains-why-sequoia-supports-shaun-maguire-after-coo-quit/",
+            "category": "其他"
+        },
+        {
             "title": "聚水潭今起招股：获红杉、景林等超10亿港元基石认购，IPO市值130亿港元",
             "time": "2025-10-13",
             "source": "IPO早知道",
@@ -6154,6 +6397,15 @@
         }
     ],
     "美团": [
+        {
+            "title": "直击IROS现场：宇树禾赛自变量杭州论剑，美团C位攒局",
+            "time": "2025-10-27",
+            "source": "量子位",
+            "summary": "本文报道了IROS 2025机器人学术年会现场盛况，美团作为核心主办方，携无人机、无人配送车等具身智能成果C位亮相，强调“零售+科技”战略。多位行业领袖如禾赛李一帆、自变量王潜、宇树王兴兴等分享观点，聚焦具身智能的本质——非AI应用而是物理世界基础模型，探讨软硬件协同、数据驱动与模型驱动的平衡，以及机器人第一性原理。席宁教授提出GAT模型与感知控制新理论，圆桌讨论深入哲学与工程层面，共同指向未来机器人需具备欲望、先验与经验闭环的智能形态。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/8c4331df800b8b136f1d99324fdb0b6f.png",
+            "url": "https://www.qbitai.com/2025/10/346201.html",
+            "category": "AI"
+        },
         {
             "title": "美团会员6个月，本地生活的价值底座是什么？",
             "time": "2025-09-30",
@@ -6291,6 +6543,15 @@
         }
     ],
     "京东": [
+        {
+            "title": "终于有个简单的办公Agent入门教程了，京东云JoyAgent上大分",
+            "time": "2025-10-27",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXl0uomLJjvRpKCkTbIXIGHnV48EKG8wI0ibw9FnvBDGHdm9owtuctFafWjPiauSlwZO6EdxibEeMHWXA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/hQDDanBF9x-tFaIh7iCdcQ",
+            "category": "AI"
+        },
         {
             "title": "腾讯、京东出局，为什么星巴克中国要卖给他们",
             "time": "2025-09-11",
@@ -6535,6 +6796,15 @@
         }
     ],
     "Bloober Team": [
+        {
+            "title": "《寂静岭f》怪猎联动MOD！爱丽丝身着炎火村礼服，在迷雾中挥动太刀",
+            "time": "2025-10-28",
+            "source": "游侠网",
+            "summary": "一款名为《寂静岭f》与《怪物猎人》联动的MOD近日上线，玩家可操控主角爱丽丝身着炎火村正统礼服，手持太刀在寂静岭的浓雾中战斗。MOD完整还原了怪物猎人的连招动作，包括居合斩、袈裟斩与收刀甩鞘，并重构了太刀狩技，新增气刃斩连段、登龙剑对灵体怪物造成三倍伤害，以及炼气槽满时触发的鬼人化紫焰特效。礼服还融入防火布材质与龙炎纹路，配套怨虎龙面具带来鬼火特效，引发玩家热议。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/28/584_2025102894127153.png",
+            "url": "https://www.ali213.net/news/html/2025-10/972919.html",
+            "category": "游戏"
+        },
         {
             "title": "《寂静岭》系列制作人解释多项目齐发策略：展现诚意",
             "time": "2025-10-21",
@@ -6926,6 +7196,33 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克的 AI 百科全书 Grokipedia 存逐字照搬维基百科现象",
+            "time": "2025-10-28",
+            "source": "动点科技",
+            "summary": "马斯克旗下xAI推出的AI百科全书Grokipedia上线后，被发现大量内容直接照搬维基百科，部分条目甚至逐字复制，虽标注来源但未开放用户编辑功能。其声称由Grok进行事实核查，但AI易生成虚假信息引发质疑。维基媒体基金会指出，维基百科作为非营利、开放协作的知识平台，是包括Grokipedia在内的AI内容基础。目前Grokipedia仅有88.5万条目，版本仍为v0.1，内容质量与可信度存疑。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/grokipedia.jpg",
+            "url": "https://cn.technode.com/post/2025-10-28/elon-musk-grokipedia-launch-wikipedia-xai-copied/",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克「世界模拟器」首曝，1天蒸馏人类500年驾驶经验，擎天柱同脑进化",
+            "time": "2025-10-27",
+            "source": "36氪",
+            "summary": "特斯拉发布「世界模拟器」，利用端到端神经网络每天模拟500年人类驾驶数据，构建高保真虚拟世界以训练FSD自动驾驶系统与擎天柱机器人。该系统摒弃传统模块化架构，直接从摄像头像素输入输出驾驶指令，学习人类驾驶价值观，消除模块间信息损失，并通过生成式高斯泼溅技术实现可解释的AI决策。模拟器可生成极端场景进行闭环测试，实现FSD与擎天柱共享同一AI大脑，标志着特斯拉正打造通用物理世界交互的底层AI引擎。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251027/v2_35c54294b37c4a3691cfb159fe680b56@46958_oswg156794oswg1080oswg426_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3527049206307971",
+            "category": "AI"
+        },
+        {
+            "title": "盲人复明！马斯克Neuralink联创实现人工视觉里程碑",
+            "time": "2025-10-26",
+            "source": "量子位",
+            "summary": "70岁黄斑变性患者希拉·欧文通过新型光伏视网膜植入物PRIMA重获中央视力，可独立阅读文字。该技术由Neuralink联合创始人Max Hodak创立的Science Corporation研发，设备仅厚30微米，无线供电，通过红外光刺激视网膜神经元传递视觉信号。临床试验显示84%患者功能性视力显著改善，平均提升25.5个字母，已提交欧洲监管审批，计划明年上市。该突破为干性AMD等致盲疾病带来全新治疗希望。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/02c52842204a95b8c05379e485933aef.png",
+            "url": "https://www.qbitai.com/2025/10/345914.html",
+            "category": "AI"
+        },
+        {
             "title": "亚马逊“停电”，“马斯克”乐坏",
             "time": "2025-10-21",
             "source": "动点科技",
@@ -7316,6 +7613,15 @@
     ],
     "英伟达": [
         {
+            "title": "财经网站预测NVIDIA增长远未停止！市值或破10万亿美元",
+            "time": "2025-10-28",
+            "source": "游侠网",
+            "summary": "财经网站Fool预测，英伟达（NVIDIA）凭借在AI GPU市场的垄断地位，市值已达到4.5万亿美元，未来五年有望突破10万亿美元，成为全球首家市值超10万亿美元的公司。即使市场份额下滑至25%，其年营收仍可达7500亿美元，利润超3750亿美元，按25倍市盈率计算市值将达9.4万亿美元。这一增长依赖于AI数据中心的强劲需求和其超过70%的高利润率，但前提为AI投资未形成严重泡沫。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/28/584_20251028110139887.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/972953.html",
+            "category": "AI"
+        },
+        {
             "title": "英伟达展示首款在美国制造的Blackwell晶圆",
             "time": "2025-10-18",
             "source": "Engadget",
@@ -7651,6 +7957,15 @@
     ],
     "deepseek": [
         {
+            "title": "DeepSeek大反转，Qwen成为最赚钱AI，GPT5亏麻了",
+            "time": "2025-10-23",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/ngM35AqNULpZJXAo6AzPaQ",
+            "category": "AI"
+        },
+        {
             "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
             "time": "2025-10-21",
             "source": "36氪",
@@ -7850,6 +8165,33 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "阿里字节，谁是“云”第一？",
+            "time": "2025-10-28",
+            "source": "36氪",
+            "summary": "文章分析了阿里云、火山引擎、腾讯云、华为云等厂商在AI云市场的竞争格局，指出各厂商通过不同维度标榜“第一”：阿里云以IaaS+PaaS整体份额领先，火山引擎靠MaaS层Token调用量称雄，腾讯云深耕游戏与音视频垂直领域，华为云则主导政企市场。随着AI驱动云服务升级，竞争焦点正从算力价格转向生态构建，厂商通过投资合作强化客户粘性，未来或将形成多个垂直领域的生态强者，而非单一绝对第一。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251028/v2_6b49495af8564937ae5f986e8a3762f2@000000_oswg1331396oswg1080oswg1440_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3528162774719362",
+            "category": "AI"
+        },
+        {
+            "title": "限制出1单？TikTok美区卖家集体炸锅",
+            "time": "2025-10-28",
+            "source": "白鲸出海",
+            "summary": "TikTok美区卖家在中美经贸磋商期间遭遇系统异常，大量店铺被限制仅能出一单，引发广泛不满。经调查，该问题疑似为系统bug，多数卖家通过申诉得以解决。与此同时，TikTok Shop自10月27日起逐步禁止自发货卖家使用USPS，强制转向官方物流TikTok Shipping、FBT或CBT，旨在提升配送可靠性、遏制刷单与价格战。此举虽增加部分卖家物流成本，但平台同步推出黑五补贴与绩效豁免等激励措施，推动卖家向正规化转型，长远看有助于净化平台生态。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251028/1761619940744687.jpeg",
+            "url": "https://www.baijing.cn/article/54542",
+            "category": "其他"
+        },
+        {
+            "title": "张一鸣向双11扔了一个豆包",
+            "time": "2025-10-27",
+            "source": "36氪",
+            "summary": "文章聚焦字节跳动旗下AI应用豆包在双11期间接入抖音商城与本地生活服务，成为国内首个大规模实现AI导流电商的APP。通过自然语言交互推荐冰箱、餐饮等商品并跳转购买，豆包试图为抖音电商注入新流量，但当前存在推荐不准、价格混乱等问题。相较之下，国外OpenAI已实现ChatGPT内一键结账，并与沃尔玛等合作，国内大厂则普遍谨慎。豆包凭借1.57亿月活用户，正成为字节突破电商增长瓶颈的新武器。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251027/v2_6109e6345921402ebdc770d5121e6857@000000_oswg152695oswg567oswg355_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3527101474135173",
+            "category": "AI"
+        },
         {
             "title": "抖音猛攻酒旅，能否再造一个“携程”？",
             "time": "2025-10-20",
