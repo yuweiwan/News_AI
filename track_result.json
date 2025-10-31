@@ -1,6 +1,42 @@
 {
     "微软": [
         {
+            "title": "三星网页浏览器登陆Windows，瞄准AI未来",
+            "time": "2025-10-31",
+            "source": "Engadget",
+            "summary": "三星于2025年10月正式推出Windows版三星互联网浏览器，旨在将其从传统浏览器转型为集成AI平台，实现“环境式AI”愿景。新版本支持跨平台同步书签、浏览历史和自动填充，并强调隐私保护功能。此举意在紧跟AI浏览器潮流，与OpenAI的ChatGPT Atlas、微软Edge Copilot等竞争。目前该浏览器仅通过Beta计划提供，支持Windows 10（1809以上）和Windows 11。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/fpi46bZzSmii9ahTn4qNeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3b1d21e0-b5ad-11f0-bae9-a7828ffd6718",
+            "url": "https://www.engadget.com/computing/samsungs-web-browser-arrives-on-windows-with-an-ai-future-on-its-radar-163526726.html",
+            "category": "AI"
+        },
+        {
+            "title": "Windows 11与Meta Quest头戴设备的混合现实链接功能现已向所有人开放",
+            "time": "2025-10-31",
+            "source": "Engadget",
+            "summary": "微软与Meta联合推出的Mixed Reality Link功能现已全面向用户开放，允许Windows 11用户通过Meta Quest 3和Quest 3S头戴设备访问虚拟桌面环境，实现多屏沉浸式办公体验。该功能此前仅限于预览用户，现支持云桌面服务如Windows 365和Azure Virtual Desktop。相比苹果Vision Pro高达3500美元的价格，Meta头戴设备仅售300美元，大幅降低了虚拟办公的门槛。Meta正持续投入AR/VR领域，未来或将推出更先进的VR设备与智能眼镜。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/B9MqFbrRE5DGTh_sQ18LVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/0f4ecf20-b5b0-11f0-bb73-4e716954c8b2",
+            "url": "https://www.engadget.com/ar-vr/mixed-reality-link-for-windows-11-and-meta-quest-headsets-is-now-available-to-everyone-165545794.html",
+            "category": "其他"
+        },
+        {
+            "title": "与 OpenAI“貌合神离”后，微软还香不香？",
+            "time": "2025-10-31",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VFaCpAOq51qH3lHzkE8WNcVEowQ2nMianV3LCxxKgtP4JFwzY9tKh3bJdgEmMwA2hI7AsTqicojPBEQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/ZNxJh5udUftIKjG829WSzA",
+            "category": "其他"
+        },
+        {
+            "title": "微软称在Azure中断后正在恢复，影响365、Xbox和星巴克",
+            "time": "2025-10-30",
+            "source": "The Verge",
+            "summary": "微软Azure云服务因一次无意的配置更改和DNS问题发生大规模中断，导致Microsoft 365、Xbox、Minecraft等服务瘫痪，并波及星巴克、Capital One、阿拉斯加航空等第三方企业。微软在状态页面确认问题始于10月29日16:00 UTC，并预计于10月30日00:40 UTC完成全面恢复。受影响服务包括Azure Front Door、Azure Active Directory、SQL数据库等。Xbox服务已基本恢复，部分用户需重启设备。此次事件凸显了企业对Azure基础设施的高度依赖。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_STK048_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage",
+            "category": "AI"
+        },
+        {
             "title": "下一代 Xbox 据称可运行你的整个 Xbox 库和 Steam 游戏",
             "time": "2025-10-28",
             "source": "动点科技",
@@ -509,6 +545,24 @@
         }
     ],
     "索尼": [
+        {
+            "title": "万圣节当然要感受惊悚恐怖！外媒评选PS5最佳恐怖游戏",
+            "time": "2025-10-31",
+            "source": "游侠网",
+            "summary": "外媒Gamespot基于PS5的强劲性能与DualSense手柄的创新触觉反馈，评选出一系列最佳原生PS5恐怖游戏，旨在帮助玩家在万圣节期间沉浸于恐怖氛围。上榜作品包括《最后生还者 第二部》《生化危机2》《心灵杀手2》《寂静岭2》《生化危机8：村庄》和《深海迷航》等，强调了游戏在氛围营造与物理反馈上的卓越表现，为恐怖游戏爱好者提供了权威推荐。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/31/584_2025103190517183.png",
+            "url": "https://www.ali213.net/news/html/2025-10/974009.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《光环》上了 PS5，但其实主机大战早已结束",
+            "time": "2025-10-31",
+            "source": "36氪",
+            "summary": "文章指出，主机厂商之间的竞争已从‘主机大战’转向应对智能手机和碎片化娱乐的共同挑战。索尼放弃独占策略，推动游戏跨平台发行；微软聚焦Xbox Game Pass服务与Windows生态整合；任天堂则坚守IP独占并拓展电影、游乐场等多元娱乐形态。三者虽路径不同，但目标一致：让游戏触达更广泛用户。游戏开发成本飙升而用户时间碎片化，传统3A游戏面临严峻生存压力。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251030/v2_02491139aed74c2d95498ff4f957cfb0@000000_oswg108543oswg922oswg1024_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3531650921929601",
+            "category": "游戏"
+        },
         {
             "title": "绷不住了！曝下一代Xbox可以玩PlayStation独占游戏",
             "time": "2025-10-28",
@@ -1508,6 +1562,42 @@
     ],
     "谷歌": [
         {
+            "title": "谷歌将Wear OS时钟应用限制为Pixel手表独占",
+            "time": "2025-10-31",
+            "source": "The Verge",
+            "summary": "谷歌宣布将Wear OS系统的官方时钟应用（含闹钟、计时器和秒表功能）限制为仅预装在Pixel手表上，其他厂商的新款Wear OS智能手表将无法下载或更新该应用。此举与此前限制天气应用的策略一致，旨在推动品牌厂商使用自有应用。现有非Pixel手表用户仍可继续使用已安装的时钟应用，但将不再获得后续更新。这一变化反映了谷歌在Wear OS生态中逐步收紧核心应用控制权的趋势。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/810841/googles-restricting-its-wear-os-clock-app-to-pixel-watches",
+            "category": "AI"
+        },
+        {
+            "title": "9月北美地区丨网易《Destiny》爆火；“龙珠”MOBA新游登榜；谷歌AI应用登顶之下，《ChatGPT》数据并未受到明显影响",
+            "time": "2025-10-30",
+            "source": "点点出海",
+            "summary": "2025年9月，北美移动应用市场整体下载与收入数据环比下滑，但AI应用逆势增长。网易《Destiny: Rising》凭借IP影响力与多元玩法登顶收入榜前列，预估收入超千万美元；万代南梦宫“龙珠”MOBA新游《DRAGON BALL GEKISHIN SQUADRA》上线即冲入下载榜前20；谷歌AI应用Gemini凭借图像生成模型Gemini 2.5 Flash Image登顶非游戏下载榜，超越ChatGPT，但ChatGPT仍稳居下载冠军并实现收入增长，显示其用户粘性与持续优化能力。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251030/1761809391820460.jpeg",
+            "url": "https://www.baijing.cn/article/54583",
+            "category": "游戏"
+        },
+        {
+            "title": "谷歌与安巴尼的信实合作，向数百万Jio用户免费提供AI Pro服务",
+            "time": "2025-10-30",
+            "source": "TechCrunch",
+            "summary": "谷歌与印度信实工业达成合作，为符合条件的Jio 5G用户免费提供18个月的Google AI Pro订阅服务，涵盖Gemini 2.5 Pro模型、AI图像与视频生成工具、Notebook LM研究功能及2TB云存储。该服务初期面向18至25岁用户，后续将扩展至全体Jio用户，估值约396美元。此举旨在加速印度市场AI普及，巩固谷歌在新兴市场的战略布局，同时信实也将与谷歌云合作推广企业级AI解决方案。此举与OpenAI、Anthropic等公司纷纷进军印度的趋势一致。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/gemini.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/30/google-partners-with-ambanis-reliance-to-offer-free-ai-pro-access-to-millions-of-jio-users-in-india/",
+            "category": "AI"
+        },
+        {
+            "title": "10月29日起，Google Play在美国无条件开放第三方支付",
+            "time": "2025-10-30",
+            "source": "白鲸出海",
+            "summary": "自2025年10月29日起，Google Play在美国市场不再强制要求应用使用其内置支付系统，允许开发者使用第三方支付方式，并可自由与用户沟通外部支付及下载链接。此举为响应美国法院禁令，旨在打破谷歌支付垄断，但仅适用于美国市场，且政策有效期为两年，将于2027年11月1日到期。开发者需注意全球支付策略不可一刀切，避免合规风险。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251030/1761803818547241.jpg",
+            "url": "https://www.baijing.cn/article/54579",
+            "category": "其他"
+        },
+        {
             "title": "谷歌AI健康教练即将面向部分Fitbit高级用户推出",
             "time": "2025-10-28",
             "source": "Engadget",
@@ -2283,6 +2373,78 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Windows 11与Meta Quest头戴设备的混合现实链接功能现已向所有人开放",
+            "time": "2025-10-31",
+            "source": "Engadget",
+            "summary": "微软与Meta联合推出的Mixed Reality Link功能现已全面向用户开放，允许Windows 11用户通过Meta Quest 3和Quest 3S头戴设备访问虚拟桌面环境，实现多屏沉浸式办公体验。该功能此前仅限于预览用户，现支持云桌面服务如Windows 365和Azure Virtual Desktop。相比苹果Vision Pro高达3500美元的价格，Meta头戴设备仅售300美元，大幅降低了虚拟办公的门槛。Meta正持续投入AR/VR领域，未来或将推出更先进的VR设备与智能眼镜。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/B9MqFbrRE5DGTh_sQ18LVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/0f4ecf20-b5b0-11f0-bb73-4e716954c8b2",
+            "url": "https://www.engadget.com/ar-vr/mixed-reality-link-for-windows-11-and-meta-quest-headsets-is-now-available-to-everyone-165545794.html",
+            "category": "其他"
+        },
+        {
+            "title": "WhatsApp将允许使用通行密钥保护备份",
+            "time": "2025-10-30",
+            "source": "Engadget",
+            "summary": "WhatsApp正在推出通行密钥（passkeys）功能，用于增强聊天、照片、语音笔记等备份的安全性。尽管备份早已采用端到端加密，但通行密钥通过指纹或面部识别等生物特征认证，进一步提升安全性，无需用户记忆额外密码。该功能已开始逐步推送，部分设备也支持屏幕锁定码作为替代验证方式。用户可在设置中启用此功能，标志着WhatsApp在安全认证方面的持续演进。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/9sNdZrOErU0jXyA30vYziw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDE-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/1e083de0-b4f1-11f0-afcf-32797f0c6001",
+            "url": "https://www.engadget.com/cybersecurity/whatsapp-will-let-you-use-passkeys-for-your-backups-130022640.html",
+            "category": "社交"
+        },
+        {
+            "title": "WhatsApp为端到端加密备份添加通行密钥保护",
+            "time": "2025-10-30",
+            "source": "TechCrunch",
+            "summary": "WhatsApp宣布为其端到端加密聊天备份新增通行密钥（passkey）支持，用户可通过指纹、面部识别或设备锁屏密码恢复备份，无需记忆复杂的加密密钥。该功能旨在提升用户体验，解决此前依赖64位密码或密钥带来的不便。该功能将在未来数周至数月内逐步向全球30亿活跃用户推送，用户可在设置中手动启用。此举进一步强化了WhatsApp在隐私与安全方面的领先地位。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/English_WhatsApp_passkey-encrypted-backups-1.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/10/30/whatsapp-adds-passkey-protection-to-end-to-end-encrypted-backups/",
+            "category": "社交"
+        },
+        {
+            "title": "Threads现在允许用户批准和过滤回复",
+            "time": "2025-10-30",
+            "source": "TechCrunch",
+            "summary": "Meta旗下的社交平台Threads推出了两项新功能，允许用户批准回复并过滤活动流。新功能使用户能在保持回复开放给所有人的同时，避免讨论被干扰，用户可自行决定哪些回复可见。此外，活动流新增过滤选项，便于查看关注者或提及的回复。该功能与此前推出的社区和“幽灵帖子”一同强化了内容控制。Threads日活跃用户已达1.5亿，Meta正加速商业化，计划推出视频广告，并测试算法个性化功能。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Reply-approvals.png?w=680",
+            "url": "https://techcrunch.com/2025/10/30/threads-now-lets-you-approve-and-filter-your-replies/",
+            "category": "社交"
+        },
+        {
+            "title": "WhatsApp现在可以使用通行密钥保护聊天备份",
+            "time": "2025-10-30",
+            "source": "The Verge",
+            "summary": "WhatsApp推出通行密钥加密备份功能，允许用户通过面部识别、指纹或设备锁屏密码来安全加密聊天记录备份，无需再记忆64位加密密钥或设置复杂密码。该功能逐步向iOS和Android用户推送，延续了2021年推出的端到端加密备份，进一步推动无密码安全趋势。WhatsApp强调，此举旨在保护用户多年积累的珍贵聊天记忆，如照片、语音消息和重要对话，提升数据迁移和设备丢失时的安全性。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/English_WhatsApp_passkey-encrypted-backups-1.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/809842/whatsapp-passkey-chat-backup-encryption",
+            "category": "社交"
+        },
+        {
+            "title": "Meta将把大量AI内容加入推荐系统",
+            "time": "2025-10-30",
+            "source": "Engadget",
+            "summary": "Meta首席执行官马克·扎克伯格在财报电话会议上表示，公司将在其推荐系统中引入大量由AI生成和混合的内容，标志着社交媒体进入第三个时代——AI内容时代。此前已有朋友内容和创作者内容两个阶段，如今AI生成内容将大规模出现在Facebook和Instagram中。Meta已推出Vibes等AI内容流，用户已生成超200亿张AI图像，并计划进一步开发新型AI内容。公司还在Instagram、WhatsApp等平台部署了AI编辑工具和聊天机器人。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/A1tQ9cmdENeWX1wNGGOBpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/bbcaf8c0-b55e-11f0-bb7f-0d7771bf9c91",
+            "url": "https://www.engadget.com/social-media/meta-will-add-a-huge-corpus-of-ai-content-into-its-recommendation-system-113027353.html",
+            "category": "社交"
+        },
+        {
+            "title": "Threads推出新功能：用户可控制回复的公开显示",
+            "time": "2025-10-30",
+            "source": "The Verge",
+            "summary": "Threads近日推出两项新功能，允许用户更精准地管理帖子回复的公开显示。用户可逐条批准或忽略回复，也可批量处理，以维护讨论的文明与相关性。此外，新增的筛选功能使用户能仅查看关注者或提及自己的回复，提升互动效率。此举是Meta继推出“幽灵帖子”、长文本、群聊和社区功能后，进一步优化Threads用户体验的举措，旨在鼓励更有意义的对话。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/threads1.jpg?quality=90&strip=all&crop=0.019999999999996%2C0%2C99.96%2C100&w=2400",
+            "url": "https://www.theverge.com/news/809956/threads-reply-approvals-posts-filter-people-you-follow",
+            "category": "社交"
+        },
+        {
+            "title": "丢失了Meta神经腕带？新的价格为199美元",
+            "time": "2025-10-30",
+            "source": "The Verge",
+            "summary": "Meta Ray-Ban Display智能眼镜附带的神经腕带并非单独销售，但若用户不慎丢失，可通过联系客服以199美元的价格购买替换品。该腕带是控制眼镜显示功能的关键组件，此前用户普遍认为无法单独更换。Meta确认仅限已购买眼镜且超出保修期的用户可申请更换，此举凸显了该配件在产品生态中的重要性与高昂的替换成本。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0332.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/809805/meta-ray-ban-display-neural-band-wristband-replacement-cost",
+            "category": "AI"
+        },
         {
             "title": "Threads即将推出消失帖子功能",
             "time": "2025-10-28",
@@ -3195,6 +3357,15 @@
     ],
     "YouTube": [
         {
+            "title": "YouTube因AI重组推出员工自愿离职计划",
+            "time": "2025-10-30",
+            "source": "Engadget",
+            "summary": "YouTube首席执行官Neal Mohan宣布公司正在进行以AI为核心的重组，将组织结构划分为观众产品、创作者与社区产品、订阅产品三大板块，并提供自愿离职计划以优化团队。Mohan强调无强制裁员，但希望员工在AI驱动的未来中寻求新机遇。YouTube目前拥有1.25亿Premium和音乐订阅用户及800万YouTube TV用户，并已向生态伙伴支付1000亿美元。此举与亚马逊、Alphabet等科技巨头削减人力、聚焦AI的趋势一致。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/ixTM1sbH.5N.6RUFwNiRzA--~B/aD0zMzUwO3c9NTE1NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2025-10/d399ded8-db83-4547-965b-e76c1c16b08e",
+            "url": "https://www.engadget.com/big-tech/youtube-is-offering-employees-buyouts-as-part-of-an-ai-focused-reorganization-120047466.html",
+            "category": "AI"
+        },
+        {
             "title": "YouTube的相似度检测技术正式上线",
             "time": "2025-10-21",
             "source": "TechCrunch",
@@ -3385,6 +3556,69 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "与 OpenAI“貌合神离”后，微软还香不香？",
+            "time": "2025-10-31",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VFaCpAOq51qH3lHzkE8WNcVEowQ2nMianV3LCxxKgtP4JFwzY9tKh3bJdgEmMwA2hI7AsTqicojPBEQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/ZNxJh5udUftIKjG829WSzA",
+            "category": "其他"
+        },
+        {
+            "title": "9月北美地区丨网易《Destiny》爆火；“龙珠”MOBA新游登榜；谷歌AI应用登顶之下，《ChatGPT》数据并未受到明显影响",
+            "time": "2025-10-30",
+            "source": "点点出海",
+            "summary": "2025年9月，北美移动应用市场整体下载与收入数据环比下滑，但AI应用逆势增长。网易《Destiny: Rising》凭借IP影响力与多元玩法登顶收入榜前列，预估收入超千万美元；万代南梦宫“龙珠”MOBA新游《DRAGON BALL GEKISHIN SQUADRA》上线即冲入下载榜前20；谷歌AI应用Gemini凭借图像生成模型Gemini 2.5 Flash Image登顶非游戏下载榜，超越ChatGPT，但ChatGPT仍稳居下载冠军并实现收入增长，显示其用户粘性与持续优化能力。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251030/1761809391820460.jpeg",
+            "url": "https://www.baijing.cn/article/54583",
+            "category": "游戏"
+        },
+        {
+            "title": "The Prompting Company 获得650万美元融资，助力产品在ChatGPT等AI应用中被提及",
+            "time": "2025-10-30",
+            "source": "TechCrunch",
+            "summary": "AI驱动的产品发现正取代传统搜索引擎，The Prompting Company是一家Y Combinator支持的初创公司，通过“生成引擎优化”（GEO）技术，帮助品牌在ChatGPT等AI模型中被自动推荐。该公司近日完成650万美元种子轮融资，客户包括Rippling、Rho等企业，已为客户提供约五十万条AI优化页面，月均驱动数千万流量。其核心理念是为AI代理构建无干扰的专用网页，以适应未来AI代购趋势。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?w=1024",
+            "url": "https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出角色彩蛋功能，允许用户在Sora视频中加入宠物和原创人物",
+            "time": "2025-10-30",
+            "source": "Engadget",
+            "summary": "OpenAI在其Sora视频生成应用中推出了新的角色彩蛋（Character Cameos）功能，允许用户上传几秒的宠物或原创人物视频，生成可重复使用的动画角色，并在生成视频时通过标签调用。用户可自定义角色名称、动画风格及使用权限（如仅自己、好友或公开）。该功能在Cameo公司因商标侵权起诉OpenAI后不久上线，OpenAI反驳称“cameo”一词不应被独占。此外，Sora还新增了视频拼接（stitching）和热门视频排行榜功能。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/CDHFU4xJSrtId5xOamnGqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MjY-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/8a11a3d0-b548-11f0-97e7-9a574c245f85",
+            "url": "https://www.engadget.com/ai/openais-character-cameos-will-let-you-put-pets-and-original-personas-in-sora-videos-123043189.html",
+            "category": "AI"
+        },
+        {
+            "title": "首个100%人工操控家务机器人Neo开放订阅，OpenAI投资1X出品",
+            "time": "2025-10-30",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnNFlFreIqHwYQChUPRLLIwtkznQ0Lyljo1xTDqbxlfkdgwOKibtKpvzXePLFwZ46cyx9yecuEibJwQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/fAoHDw8Nui_dmptEPNi_Fw",
+            "category": "AI"
+        },
+        {
+            "title": "14万！全球首款家务机器人开卖，OpenAI投资，萌脸翘臀会自己充电",
+            "time": "2025-10-29",
+            "source": "量子位",
+            "summary": "全球首款家用人形机器人NEO由1X Technologies推出，售价约14万元，支持月租，具备自主打扫、喂猫、关抽屉、充电等家务能力，搭载Redwood AI系统与英伟达Jetson Thor平台，可语音交互并学习任务。机器人身高168cm，体重30kg，动作安静，皮肤防水可机洗，支持外观定制。虽目前部分操作仍依赖远程专家控制，但目标是2026年实现完全自主。OpenAI创业基金曾投资该公司，推动具身智能发展。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/df8bc5344245fd409ed81bc8ce56ece8.gif",
+            "url": "https://www.qbitai.com/2025/10/346842.html",
+            "category": "AI"
+        },
+        {
+            "title": "实测flowithOS，OpenAI新浏览器Atlas出道一周排名就要掉了",
+            "time": "2025-10-29",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkiaiavmA98SoalJsPr9M8werXTzniau3s1n07iaHqw4693SicIMic0KL6C4hexP7tfh4OAfPgYrDcyjbZQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/dthJahPemFbzn58zO2CT7Q",
+            "category": "AI"
+        },
         {
             "title": "OpenAI IPO计划第一步曝光，奥特曼骚操作看傻华尔街",
             "time": "2025-10-27",
@@ -4540,6 +4774,33 @@
     ],
     "苹果": [
         {
+            "title": "库克称更多AI将融入Apple Intelligence",
+            "time": "2025-10-31",
+            "source": "The Verge",
+            "summary": "苹果CEO蒂姆·库克在财报电话会上表示，苹果计划未来将更多第三方AI工具整合进Apple Intelligence系统，目前已与ChatGPT合作并正在探索与Google Gemini、Anthropic和Perplexity等公司的合作可能。苹果正积极推进Siri的AI升级，预计明年发布增强版Siri，并对并购持开放态度以加速AI布局。此番言论伴随苹果第四季度创纪录的1025亿美元营收公布，同时苹果近期还发布了搭载M5芯片的iPad Pro、MacBook Pro和Vision Pro等新品。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC01507.webp?quality=90&strip=all&crop=0%2C0.36194415718717%2C100%2C99.276111685626&w=2400",
+            "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
+            "category": "AI"
+        },
+        {
+            "title": "苹果：iPhone稳住C位，AI何时露真容？",
+            "time": "2025-10-31",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VFaCpAOq51qH3lHzkE8WNcVHsyCxSv0Eb5WT2mBqbZgMnaqiauY6PdATsg283n8xY7XEHWozibooI7w/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/5ahMkcrqcUTnW3YEJCrRfQ",
+            "category": "其他"
+        },
+        {
+            "title": "有人说它能做“具身智能时代的苹果”，这家公司凭什么？",
+            "time": "2025-10-30",
+            "source": "量子位",
+            "summary": "加速进化公司发布的入门级具身智能开发平台Booster K1，以2.99万元起售、高稳定性与完整开发工具链赢得市场关注。该平台支持二次开发、开源Booster Gym框架，并配备多个预置Agent应用，已覆盖全球200多家客户，累计交付超700台。其在RoboCup机器人世界杯中助清华队夺冠，打破欧美垄断，验证了硬件可靠性与生态潜力。公司定位为“具身智能时代的苹果”，通过教育、赛事、科研三大场景构建开放平台生态，推动人形机器人像个人电脑一样普及。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/abe3694d1403bc2f4feb4bd7d953196a.png",
+            "url": "https://www.qbitai.com/2025/10/347301.html",
+            "category": "AI"
+        },
+        {
             "title": "Spotify终于为Apple TV应用带来视频播客和音乐视频",
             "time": "2025-10-28",
             "source": "The Verge",
@@ -5513,6 +5774,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "阿里美团京东，从外卖缠斗至社区超市",
+            "time": "2025-10-31",
+            "source": "36氪",
+            "summary": "阿里、美团、京东三大互联网巨头纷纷布局社区折扣超市，推动“硬折扣”模式兴起，通过源头直采、自营品牌、精简SKU和供应链优化实现低价，重塑社区零售生态。盒马“超盒算NB”已实现盈利并开放加盟，京东与美团也加速线下门店扩张。该模式强调“店仓网一体化”，整合线上流量与线下仓储配送，形成即时零售新网络，同时倒逼上游供应商提升效率与规模，但也带来产能过剩与过度依赖平台的风险。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3532336921910145",
+            "category": "社交"
+        },
+        {
             "title": "阿里字节，谁是“云”第一？",
             "time": "2025-10-28",
             "source": "36氪",
@@ -5985,6 +6255,33 @@
     ],
     "亚马逊": [
         {
+            "title": "曝亚马逊《指环王》网游项目已被取消！并大规模裁员",
+            "time": "2025-10-31",
+            "source": "游侠网",
+            "summary": "亚马逊因大规模裁员取消了原计划的《指环王》网游项目，同时停止了《新世界》的后续开发。据前员工在领英透露，该项目自2023年与Embracer集团合作公布，是一款涵盖《霍比特人》与《指环王》三部曲的开放世界冒险游戏。此次裁员波及Amazon Games Orange County工作室，涉及1.4万名员工，引发业界对亚马逊游戏战略调整的广泛关注。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/10/31/584_2025103185806836.jpg",
+            "url": "https://www.ali213.net/news/html/2025-10/974011.html",
+            "category": "游戏"
+        },
+        {
+            "title": "14000人原地被裁！亚马逊今日：打工人水深，AI机器人火热",
+            "time": "2025-10-30",
+            "source": "量子位",
+            "summary": "亚马逊于2025年10月28日启动新一轮裁员，约1.4万名员工被裁，主要集中在零售业务的中层管理者。尽管公司财报表现良好，销售额同比增长13%，但管理层以AI驱动效率提升为由，推进组织精简。裁员同时伴随大规模AI与机器人部署，包括收购Covariant技术、推广Bluejay和Starling机械臂，并计划到2027年将高自动化仓库扩展至近50个。分析指出，此次裁员实为资源重组，旨在为AI和自动化转型腾出资金，未来或取代超50万个蓝领岗位。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/b15ab5508d1273f18aa8c13b5ea0b500.png",
+            "url": "https://www.qbitai.com/2025/10/347253.html",
+            "category": "AI"
+        },
+        {
+            "title": "Amazon Echo Studio (2025) 评测：全面 redesign，Alexa+ 成主角",
+            "time": "2025-10-29",
+            "source": "Engadget",
+            "summary": "Engadget 对亚马逊2025款Echo Studio进行了深度评测，指出其采用全新紧凑球形设计，外观更贴近家居装饰，并搭载新一代AI语音助手Alexa+，对话体验显著提升，能进行上下文连贯交流。但音质方面存在低频表现薄弱、 bass 沉闷的问题，虽支持空间音频，整体听感不如前代。此外，Alexa Home Theater功能尚未上线，触控功能存在使用限制，整体仍具未完全释放的潜力。",
+            "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/IMG_7344.jpg",
+            "url": "https://www.engadget.com/audio/speakers/amazon-echo-studio-2025-review-a-comprehensive-redesign-for-alexa-140000191.html",
+            "category": "其他"
+        },
+        {
             "title": "流量格局生变，亚马逊搜索机制大调整",
             "time": "2025-10-28",
             "source": "AMZ123跨境电商",
@@ -6331,6 +6628,15 @@
     ],
     "YC": [
         {
+            "title": "Y Combinator：AI 初创公司的七种护城河",
+            "time": "2025-10-30",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRHU2djh7O1IU0ciaZpeJta4ZpLEX72BS9OUOQCia562fBtSxAL4Tic9ImkVK6xKLKcLhZwiaCtb65wZuA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/DXqK7-kSwSunT9MAODOLfQ",
+            "category": "AI"
+        },
+        {
             "title": "YC创始人五次转型后打造社交应用，六个月内获30万用户和百万美元年收入",
             "time": "2025-09-24",
             "source": "TechCrunch",
@@ -6397,6 +6703,15 @@
         }
     ],
     "美团": [
+        {
+            "title": "阿里美团京东，从外卖缠斗至社区超市",
+            "time": "2025-10-31",
+            "source": "36氪",
+            "summary": "阿里、美团、京东三大互联网巨头纷纷布局社区折扣超市，推动“硬折扣”模式兴起，通过源头直采、自营品牌、精简SKU和供应链优化实现低价，重塑社区零售生态。盒马“超盒算NB”已实现盈利并开放加盟，京东与美团也加速线下门店扩张。该模式强调“店仓网一体化”，整合线上流量与线下仓储配送，形成即时零售新网络，同时倒逼上游供应商提升效率与规模，但也带来产能过剩与过度依赖平台的风险。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3532336921910145",
+            "category": "社交"
+        },
         {
             "title": "直击IROS现场：宇树禾赛自变量杭州论剑，美团C位攒局",
             "time": "2025-10-27",
@@ -6543,6 +6858,15 @@
         }
     ],
     "京东": [
+        {
+            "title": "阿里美团京东，从外卖缠斗至社区超市",
+            "time": "2025-10-31",
+            "source": "36氪",
+            "summary": "阿里、美团、京东三大互联网巨头纷纷布局社区折扣超市，推动“硬折扣”模式兴起，通过源头直采、自营品牌、精简SKU和供应链优化实现低价，重塑社区零售生态。盒马“超盒算NB”已实现盈利并开放加盟，京东与美团也加速线下门店扩张。该模式强调“店仓网一体化”，整合线上流量与线下仓储配送，形成即时零售新网络，同时倒逼上游供应商提升效率与规模，但也带来产能过剩与过度依赖平台的风险。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3532336921910145",
+            "category": "社交"
+        },
         {
             "title": "终于有个简单的办公Agent入门教程了，京东云JoyAgent上大分",
             "time": "2025-10-27",
@@ -7196,6 +7520,15 @@
     ],
     "马斯克": [
         {
+            "title": "AI 重写知识库？马斯克 Grokipedia 对上科学界的 SciencePedia，Wikipedia：那我走？",
+            "time": "2025-10-29",
+            "source": "量子位",
+            "summary": "本文对比了马斯克xAI团队推出的Grokipedia与深势科技打造的SciencePedia两款AI知识库产品。Grokipedia试图全面替代Wikipedia，强调去偏见与真相重建，但面临技术与伦理挑战；而SciencePedia聚焦科学知识，构建可推理、可验证的知识图谱，采用长思维链、逆思维链搜索与人机协同机制，更注重学术严谨性与系统性。文章指出，后者因定位务实、结构清晰，在AI重写知识库的赛道中更具实用价值与可持续性。",
+            "image_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+            "url": "https://www.qbitai.com/2025/10/347231.html",
+            "category": "AI"
+        },
+        {
             "title": "马斯克的 AI 百科全书 Grokipedia 存逐字照搬维基百科现象",
             "time": "2025-10-28",
             "source": "动点科技",
@@ -7548,6 +7881,33 @@
     ],
     "三星": [
         {
+            "title": "三星网页浏览器登陆Windows，瞄准AI未来",
+            "time": "2025-10-31",
+            "source": "Engadget",
+            "summary": "三星于2025年10月正式推出Windows版三星互联网浏览器，旨在将其从传统浏览器转型为集成AI平台，实现“环境式AI”愿景。新版本支持跨平台同步书签、浏览历史和自动填充，并强调隐私保护功能。此举意在紧跟AI浏览器潮流，与OpenAI的ChatGPT Atlas、微软Edge Copilot等竞争。目前该浏览器仅通过Beta计划提供，支持Windows 10（1809以上）和Windows 11。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/fpi46bZzSmii9ahTn4qNeQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/3b1d21e0-b5ad-11f0-bae9-a7828ffd6718",
+            "url": "https://www.engadget.com/computing/samsungs-web-browser-arrives-on-windows-with-an-ai-future-on-its-radar-163526726.html",
+            "category": "AI"
+        },
+        {
+            "title": "三星互联网浏览器登陆PC",
+            "time": "2025-10-30",
+            "source": "The Verge",
+            "summary": "三星正式推出其移动浏览器Samsung Internet的PC版测试版，支持跨设备同步浏览历史、书签和密码，并引入AI辅助功能，可自动总结网页内容和翻译文本。该浏览器目前仅限美国和韩国用户通过官方测试计划下载，同时保留了其智能反追踪功能，可阻止第三方跟踪器和弹窗。这是三星继2023年短暂在微软商店上架后，再次尝试将移动浏览器扩展至桌面端。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/galaxy-samsung-browser.jpg?quality=90&strip=all&crop=7.775%2C0%2C84.45%2C100&w=2400",
+            "url": "https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch",
+            "category": "社交"
+        },
+        {
+            "title": "三星电子公布2025年第三季度业绩",
+            "time": "2025-10-30",
+            "source": "Samsung Newsroom",
+            "summary": "三星电子2025年第三季度合并营收达86.1万亿韩元，营业利润为12.2万亿韩元，分别环比增长15.4%和显著提升。半导体部门（DS）因HBM3E和服务器SSD需求强劲创下历史最高销售额，内存业务利润大幅提升；移动部门（MX）受益于Galaxy Z Fold7等旗舰机型热销，营收和利润双增长；显示部门（SDC）因高端智能手机和游戏显示器需求上升表现良好。公司预计第四季度将继续受益于AI技术驱动的市场需求，并计划在2026年加速HBM4量产及2nm工艺扩产。",
+            "image_url": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/10/citizenship_728x410_우측배너.jpg",
+            "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2025-results",
+            "category": "AI"
+        },
+        {
             "title": "三星Moohan头显将首发搭载MLB、Synth Riders和FitXR",
             "time": "2025-10-21",
             "source": "The Verge",
@@ -7612,6 +7972,15 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "英伟达 reportedly 投资高达10亿美元于Poolside",
+            "time": "2025-10-30",
+            "source": "TechCrunch",
+            "summary": "据彭博社报道，半导体巨头英伟达计划向AI软件开发公司Poolside投资5亿至10亿美元，作为其20亿美元融资轮的一部分，Poolside估值达120亿美元。这是英伟达继2024年10月参与其5亿美元B轮融资后的又一重大投资。英伟达近年来持续加码AI领域，此前还投资了自动驾驶公司Wayve并收购了英特尔50亿美元股份，显示出其在AI生态中的广泛布局。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/",
+            "category": "AI"
+        },
         {
             "title": "财经网站预测NVIDIA增长远未停止！市值或破10万亿美元",
             "time": "2025-10-28",
@@ -8165,6 +8534,15 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "美区TikTok卖家的盲盒",
+            "time": "2025-10-30",
+            "source": "白鲸出海",
+            "summary": "本文分析了美国TikTok Shop电商生态中中国卖家面临的达人合作困境。由于美国TikTok达人生态尚处早期阶段，头部达人稀缺、中尾部达人数量庞大，卖家通过寄样建联往往效果不佳，出现“薅羊毛”和“直播挂车”等低ROI现象。文章指出，建联达人如同抽盲盒，成功率低，但新兴AI工具如95AI正尝试通过数据分析提升匹配效率，推动从随机尝试向精准合作转型，以实现真正的商业转化。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251030/1761804850711525.jpg",
+            "url": "https://www.baijing.cn/article/54580",
+            "category": "社交"
+        },
         {
             "title": "阿里字节，谁是“云”第一？",
             "time": "2025-10-28",
@@ -8969,15 +9347,6 @@
             "summary": "Anthropic首席执行官Dario Amodei回应特朗普政府官员对其制造AI恐慌的指控，强调公司致力于推动AI为人类进步服务，而非制造恐慌。他指出Anthropic已与联邦政府合作，包括向政府部门提供Claude模型、与国防部签订2亿美元协议，并支持特朗普的AI行动计划。尽管被批评为阻碍创新，Amodei强调公司反对州级AI监管禁令、支持加州SB 53安全法案，并坚持不向中国控制公司销售服务，称其政策基于责任而非政治。他重申公司已从10亿美元估值增长至70亿美元，坚持诚实透明的政策立场。",
             "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/Dario.jpg?w=1024",
             "url": "https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/",
-            "category": "AI"
-        },
-        {
-            "title": "Anthropic将Claude Code引入网页端",
-            "time": "2025-10-20",
-            "source": "TechCrunch",
-            "summary": "Anthropic推出Claude Code的网页版应用，允许开发者通过浏览器创建和管理多个AI编码代理，目前已向其20美元/月的Pro计划及更高阶用户开放。该功能可通过claude.ai网站或iOS应用访问，标志着Anthropic从命令行工具向多平台扩展的重要一步。尽管CLI仍是核心，但公司致力于让Claude Code覆盖更多使用场景。Claude Code自5月全面上线后用户增长十倍，年收入超5亿美元，其成功得益于强大的AI模型与产品设计中的趣味性。同时，AI编码工具在复杂代码库中仍面临准确性和效率挑战。",
-            "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=1024",
-            "url": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
             "category": "AI"
         },
         {
