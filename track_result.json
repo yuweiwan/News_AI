@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "Lambda与微软达成数十亿美元AI基础设施协议",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "AI基础设施公司Lambda宣布与微软达成一项数十亿美元的协议，将部署数万台NVIDIA GPU，其中包括新发布的GB300 NVL72系统。该交易是在微软同日宣布以97亿美元收购澳大利亚数据中心公司IREN的AI云容量后不久公布的。LambdaCEO表示，这是双方八年合作的重要里程碑。此交易反映了AI算力需求激增背景下，科技巨头与基础设施供应商的深度绑定，同期OpenAI也与亚马逊和甲骨文达成了数百亿美元的云服务协议。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
+            "category": "AI"
+        },
+        {
+            "title": "微软与澳大利亚IREN达成97亿美元AI云容量协议",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "微软与澳大利亚公司IREN签署了一项为期五年、价值97亿美元的协议，以获取AI云计算基础设施能力。该基础设施将基于英伟达GB300 GPU构建，计划分阶段部署于得克萨斯州Childress的数据中心，总功率达750兆瓦。IREN此前主营比特币挖矿，现已转型为AI算力服务商，此次交易预计年收入达19.4亿美元。此 deal 是微软近期在AI算力领域的一系列重大投资之一，此前已与Nscale、Lambda等公司达成类似协议。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1883327378-e1730136121848.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/",
+            "category": "AI"
+        },
+        {
+            "title": "微软152亿美元投资阿联酋，使其成为美国AI外交的试验场",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "微软宣布在未来四年向阿联酋投资152亿美元，用于建设AI基础设施、培训本地人才并扩大云服务。美国政府首次批准微软向阿联酋出口英伟达高端GPU芯片，此举使阿联酋成为美国出口管制政策的试验场，同时强化美国在中东的AI影响力。微软已累计部署相当于21,500块A100/H100/H200芯片的算力，并计划到2027年培训百万当地居民。该投资也与阿联酋主权AI公司G42深度合作，引发外界对美国对华芯片限制政策被绕过的担忧。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/microsoft-uae.jpg?w=960",
+            "url": "https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/",
+            "category": "AI"
+        },
+        {
             "title": "三星网页浏览器登陆Windows，瞄准AI未来",
             "time": "2025-10-31",
             "source": "Engadget",
@@ -815,6 +842,15 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "任天堂胜诉起诉直播主提前直播盗版游戏",
+            "time": "2025-11-03",
+            "source": "GamesIndustry.biz",
+            "summary": "任天堂成功起诉直播主Jesse Keighin（别名Every Game Guru）在游戏正式发布前非法直播多款盗版Switch游戏，包括《马里奥与路易吉：兄弟情》和《塞尔达传说：智慧的回声》。Keighin被指控使用修改主机和模拟器传播泄露内容，并在多个平台持续直播，尽管收到数十次下架通知。法院判决其赔偿17,500美元，并颁发禁令，但拒绝了任天堂要求销毁设备及追究第三方的请求。此案是任天堂近期打击游戏盗版的又一重要行动。",
+            "image_url": "https://assetsio.gnwcdn.com/2x1_NSwitch_TheLegendofZeldaEchoesOfWisdom_image1600w.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/nintendo-wins-lawsuit-against-streamer-who-livestreamed-priated-games-before-release",
+            "category": "游戏"
+        },
         {
             "title": "《女神异闻录3RE》NS2版M站79分：画面流畅令人满意！",
             "time": "2025-10-22",
@@ -2374,6 +2410,24 @@
     ],
     "Meta": [
         {
+            "title": "Facebook群组现在可以转为公开而不暴露成员的私有帖子",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "Meta宣布更新Facebook群组功能，允许管理员将原本私有的群组转为公开，而无需暴露成员以往的私有帖子、评论或成员列表。转换后，历史内容仅对原有成员、管理员和版主可见，新内容则对所有人开放，包括未登录用户，并有助于搜索引擎索引。管理员可通知其他管理员并有三天时间撤销更改，成员也会收到通知。此功能旨在帮助群组扩大影响力，同时保护用户隐私。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Facebook-Groups-Private-to-Public-Update_Header.webp?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/facebook-groups-can-now-go-public-without-exposing-members-private-posts/",
+            "category": "社交"
+        },
+        {
+            "title": "等等，人们真的在使用Facebook Dating吗？",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "Meta首次公布Facebook Dating的用户数据，显示其全球日活跃用户达2150万，其中美国18-29岁用户达177万。尽管该功能作为Facebook内嵌模块而非独立应用，长期被忽视，但其免费模式正吸引年轻用户，与需付费解锁匹配的Hinge等应用形成对比。文章指出，Facebook Dating无需购买虚拟礼物，避免了“玫瑰牢笼”等商业化设计，可能成为用户厌倦付费约会应用后的替代选择。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2101883924.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/wait-people-actually-use-facebook-dating/",
+            "category": "社交"
+        },
+        {
             "title": "Windows 11与Meta Quest头戴设备的混合现实链接功能现已向所有人开放",
             "time": "2025-10-31",
             "source": "Engadget",
@@ -3556,6 +3610,42 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "OpenAI 发布 ChatGPT Atlas：一个能自己上网的浏览器",
+            "time": "2025-11-04",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRF1a3q9raOX3ErBEhDcwXDbgKmjcqMYicHVd7uic1ibzFub1M0wI26KJPoP51codiaicOzP42MPic4uFvYw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/phf9Mn-l73V9_p6Cdotjlg",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI与亚马逊达成380亿美元云计算协议",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "OpenAI宣布与亚马逊达成一项为期七年的380亿美元云计算服务采购协议，将立即启动AWS计算资源部署，并计划在2026年底前完成全部容量部署。此举是OpenAI为支持其代理工作负载扩展、实现未来十年超万亿美元算力投资目标的重要一环。该交易发生在OpenAI完成盈利结构重组后，使其可自由选择云服务商。此前，OpenAI已与甲骨文、软银、阿联酋及芯片厂商英伟达、AMD等达成类似合作，引发业界对AI领域投资过热和潜在泡沫的担忧。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-data-center.png?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/openai-and-amazon-ink-38b-cloud-computing-deal/",
+            "category": "AI"
+        },
+        {
+            "title": "从 ChatGPT 到 OpenEvidence：AI 医疗的正确打开方式",
+            "time": "2025-11-03",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRGoSrqqMYF0DBWiceNGCHtF3QCkLMoUXSAnKRkTjt2Fk1KI5ickpM3rArpDs2gcToquVepuzYJQ7GibA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/Hu4v3740oIqxYnPpHvP-aQ",
+            "category": "AI"
+        },
+        {
+            "title": "奥特曼纳德拉同台回应一切：合作细节、OpenAI未来路线曝光",
+            "time": "2025-11-02",
+            "source": "量子位",
+            "summary": "微软CEO纳德拉与OpenAI CEO奥特曼首次同台，详细披露双方深度合作关系：微软以130亿美元投资获得OpenAI约27%股权，并独家获得GPT系列模型7年分发权；OpenAI计划未来4-5年投入1.4万亿美元用于算力，其2025年营收远超外界预期的130亿美元；双方共同构建非营利组织架构，确保AGI惠及全人类，并计划将250亿美元用于医疗与AI安全；OpenAI尚未确定上市时间表，但估值有望达万亿美元；纳德拉强调电力与基础设施建设成为算力瓶颈，而非芯片短缺，微软通过Azure与Copilot产品体系实现AI商业化落地。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5256ce537b9ec5756dddc5f103239fb5.png",
+            "url": "https://www.qbitai.com/2025/11/348079.html",
+            "category": "AI"
+        },
         {
             "title": "与 OpenAI“貌合神离”后，微软还香不香？",
             "time": "2025-10-31",
@@ -4774,6 +4864,42 @@
     ],
     "苹果": [
         {
+            "title": "苹果为 Apple TV 推出全新片头动画",
+            "time": "2025-11-04",
+            "source": "动点科技",
+            "summary": "苹果正式发布Apple TV全新片头动画，标志着其流媒体服务品牌从‘Apple TV+’简化为‘Apple TV’的品牌升级。新片头由格莱美奖得主Finneas创作，包含5秒主版、1秒精简版和12秒加长版，分别用于剧集、预告片和影院电影。动画设计融入多彩飞溅元素，与iOS 26.1更新后的应用图标风格一致，强化视觉识别。此举旨在建立更统一、鲜明的品牌形象，应对激烈流媒体市场竞争。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/coolmate-2025-uai-1032x580.png",
+            "url": "https://cn.technode.com/post/2025-11-04/apple-tv-new-intro/",
+            "category": "其他"
+        },
+        {
+            "title": "Apple TV新名称伴随全新音效",
+            "time": "2025-11-04",
+            "source": "The Verge",
+            "summary": "苹果公司近期将其流媒体服务Apple TV+更名为Apple TV，并邀请比莉·艾利什的兄弟兼制作人Finneas创作了全新的开场音效与动画。该音效被称为“记忆点”（mnemonic），包含三个版本：5秒的电视节目版、1秒的电影预告片版和12秒的影院放映版。新音效与多色Apple TV标志同步推出，旨在为用户在连续观看剧集时提供简洁而富有辨识度的听觉体验。Finneas强调，该音效应像“卷寿司间的姜片”般轻盈但令人难忘。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/812644/apple-tv-sound-video-mnemonic-finneas-rebrand-name-plus",
+            "category": "其他"
+        },
+        {
+            "title": "苹果将App Store带入网页端",
+            "time": "2025-11-04",
+            "source": "The Verge",
+            "summary": "苹果公司推出了网页版App Store，用户可通过apps.apple.com浏览适用于iPhone、iPad、Mac、Vision Pro、Apple Watch和Apple TV的应用程序，界面经过全面重构，支持分类浏览、今日推荐和应用搜索功能。然而，网页版目前仅提供应用展示与分享功能，无法直接下载或安装应用，仍需跳转至设备上的原生App Store完成安装。此举旨在统一跨平台应用展示体验，但并未改变其封闭生态的限制。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/apple-app-store-games-page.png?quality=90&strip=all&crop=0%2C0.35460992907802%2C100%2C99.290780141844&w=2400",
+            "url": "https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad",
+            "category": "其他"
+        },
+        {
+            "title": "苹果App Store推出全新网页界面",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "苹果公司推出了App Store的全新网页界面，使用户即使在非苹果设备上也能浏览iOS、iPadOS、Watch等平台的应用程序。此前，网页端仅能查看单个应用页面，无法进行分类浏览，且在非苹果设备上点击链接会跳转至无法使用的原生应用商店。此次更新虽仍不支持网页端下载应用，但被视为苹果在应对全球反垄断压力下，推动生态开放的重要举措，有助于开发者和研究人员跨平台了解应用生态。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/apples-app-store-gets-a-new-web-interface/",
+            "category": "其他"
+        },
+        {
             "title": "库克称更多AI将融入Apple Intelligence",
             "time": "2025-10-31",
             "source": "The Verge",
@@ -5774,6 +5900,24 @@
     ],
     "阿里巴巴": [
         {
+            "title": "消息称高德将进军Robotaxi领域，定位战略级业务拓展全球市场",
+            "time": "2025-11-04",
+            "source": "动点科技",
+            "summary": "据新浪科技独家消息，高德即将正式进入Robotaxi（自动驾驶出行）领域，并将该项目列为公司战略级业务，旨在拓展全球市场。知情人士透露，高德凭借其在地图导航、出行服务及位置数据方面的深厚技术积累，有望借此突破原有出行生态边界，成为公司新的增长引擎。业内人士认为，此举顺应了无人驾驶赛道的持续升温趋势，标志着高德在智能出行领域的进一步深化布局。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/siri-omid-armin-AGRtDoZlpYw-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-11-04/amap-robotaxi-global-expansion/",
+            "category": "AI"
+        },
+        {
+            "title": "Qwen拿半成品刷下AIME’25满分，给别人留点面子吧……",
+            "time": "2025-11-04",
+            "source": "量子位",
+            "summary": "阿里通义千问团队发布Qwen3-Max-Thinking早期预览版，在高难度数学竞赛AIME 25和HMMT25中实现100%准确率，超越此前由GPT-5系列保持的纪录。尽管模型仍处于训练阶段，实测中成功解答IMO数论题、编写物理模拟代码并构建3D太阳系，展现强大推理与编程能力。官方已开放免费试用和API，但尚未开源，引发社区对后续版本的广泛关注。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/a35a73da64a55720e4d68b53f6e3014f.png",
+            "url": "https://www.qbitai.com/2025/11/348524.html",
+            "category": "AI"
+        },
+        {
             "title": "阿里美团京东，从外卖缠斗至社区超市",
             "time": "2025-10-31",
             "source": "36氪",
@@ -6255,6 +6399,24 @@
     ],
     "亚马逊": [
         {
+            "title": "OpenAI与亚马逊达成380亿美元云计算协议",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "OpenAI宣布与亚马逊达成一项为期七年的380亿美元云计算服务采购协议，将立即启动AWS计算资源部署，并计划在2026年底前完成全部容量部署。此举是OpenAI为支持其代理工作负载扩展、实现未来十年超万亿美元算力投资目标的重要一环。该交易发生在OpenAI完成盈利结构重组后，使其可自由选择云服务商。此前，OpenAI已与甲骨文、软银、阿联酋及芯片厂商英伟达、AMD等达成类似合作，引发业界对AI领域投资过热和潜在泡沫的担忧。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-data-center.png?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/openai-and-amazon-ink-38b-cloud-computing-deal/",
+            "category": "AI"
+        },
+        {
+            "title": "营收1801亿美元，亚马逊的增长方式变了",
+            "time": "2025-11-03",
+            "source": "白鲸出海",
+            "summary": "亚马逊2025年第三季度财报显示，净销售额达1801.69亿美元，同比增长13%，净利润增长38%。增长动力来自AWS云业务、广告业务及AI技术的深度融合。广告收入达177亿美元，同比增长24%，正从流量广告转向生态广告；AI已渗透至消费者推荐、卖家商品生成等全链路，推动运营效率提升。资本开支创新高，主要投入数据中心与AI基础设施，标志着亚马逊正从电商巨头转型为智能商业基础设施提供者。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251103/1762140900827398.jpg",
+            "url": "https://www.baijing.cn/article/54612",
+            "category": "其他"
+        },
+        {
             "title": "曝亚马逊《指环王》网游项目已被取消！并大规模裁员",
             "time": "2025-10-31",
             "source": "游侠网",
@@ -6704,6 +6866,15 @@
     ],
     "美团": [
         {
+            "title": "美团新独立APP，点不了菜只能点AI",
+            "time": "2025-11-03",
+            "source": "量子位",
+            "summary": "美团开源多模态大模型LongCat-Flash-Omni，支持文本、图像、音频、视频全模态输入与实时交互，参数量达560B但激活参数仅27B，采用MoE架构实现高效推理，在Omni-Bench等基准测试中超越Qwen3-Omni与Gemini-2.5-Flash，达到开源SOTA水平。该模型已上线美团LongCat APP，实测显示其在语音识别、视觉理解、物理推理和梗图识别中表现优异，具备低延迟、高稳定性的交互体验。美团正通过软硬件协同布局，构建“世界模型+具身智能”的技术体系，推动数字与物理世界的深度连接。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/06d916887ea930953cbd1a88f91d9065.png",
+            "url": "https://www.qbitai.com/2025/11/348222.html",
+            "category": "AI"
+        },
+        {
             "title": "阿里美团京东，从外卖缠斗至社区超市",
             "time": "2025-10-31",
             "source": "36氪",
@@ -6711,6 +6882,15 @@
             "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
             "url": "https://36kr.com/p/3532336921910145",
             "category": "社交"
+        },
+        {
+            "title": "一手实测美团首个视频大模型，原生输出5分钟写实长视频",
+            "time": "2025-10-31",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXn8XPXVFVd3xQswq6qiagK81tGCcWA64859Q2KoliczLnTyIZhgHgfjgyghwzVRNWZiaYpaeumrB6CYg/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/7DsI7BX58kLKg3ENy8tf8A",
+            "category": "AI"
         },
         {
             "title": "直击IROS现场：宇树禾赛自变量杭州论剑，美团C位攒局",
@@ -7347,6 +7527,15 @@
     ],
     "特朗普": [
         {
+            "title": "特朗普称不认识币安创始人赵长鹏",
+            "time": "2025-11-03",
+            "source": "The Verge",
+            "summary": "特朗普在《60分钟》采访中表示不认识币安创始人赵长鹏，这与他两周前赦免赵长鹏时的说法一致。尽管电视播出版本未显示，但完整 transcript 揭示了特朗普在被问及加密货币和腐败问题后展开的长篇 rant。文章还提及特朗普此前赦免赵长鹏的新闻，并引用了CBS发布的完整采访文字记录，揭示其对加密货币监管态度的矛盾与不一致。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/197794/dominic-preston.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/812412/i-dont-know-who-he-is",
+            "category": "其他"
+        },
+        {
             "title": "Anthropic首席执行官回应特朗普官员指责其制造AI恐慌",
             "time": "2025-10-21",
             "source": "TechCrunch",
@@ -7519,6 +7708,15 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "马斯克提出太空遮阳计划 部署卫星反射阳光为地球降温",
+            "time": "2025-11-04",
+            "source": "游侠网",
+            "summary": "特斯拉与SpaceX首席执行官埃隆·马斯克在X平台提出通过部署轨道卫星集群反射太阳光，以减少地表辐射量来应对全球变暖，即“基于太空的太阳辐射管理”技术。该设想虽非首创，但引发广泛关注。科学界普遍持审慎态度，指出其面临技术可行性、生态风险及伦理争议，可能扰乱全球气候模式。尽管SpaceX具备发射能力，但实现大规模部署仍面临巨大工程与经济障碍。该议题正从科幻走向主流气候辩论。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/04/584_2025110430243561.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/975255.html",
+            "category": "其他"
+        },
         {
             "title": "AI 重写知识库？马斯克 Grokipedia 对上科学界的 SciencePedia，Wikipedia：那我走？",
             "time": "2025-10-29",
@@ -8535,6 +8733,42 @@
     ],
     "字节跳动": [
         {
+            "title": "大批TikTok卖家遭“二审”，需身份验证",
+            "time": "2025-11-04",
+            "source": "白鲸出海",
+            "summary": "近期，大批TikTok Shop美区卖家收到平台身份验证违规处罚，被指存在可疑关联活动，导致店铺限流甚至面临封禁风险。该现象多由新店注册信息不一致、共用IP、产品描述相似、发货地址重复等触发，平台借此加强黑五期间的合规风控。专家建议卖家及时按要求补充材料申诉，提供法人信息、仓库合同、采购发票等证明材料可显著提升过审率，合规经营是应对平台收紧政策的关键。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251104/1762223834608755.jpeg",
+            "url": "https://www.baijing.cn/article/54622",
+            "category": "社交"
+        },
+        {
+            "title": "把DIY门槛“打下来”的开扣神器，TikTok狂赚了200万",
+            "time": "2025-11-04",
+            "source": "白鲸出海",
+            "summary": "一款名为免缝钉扣钳的DIY工具在TikTok美区迅速走红，凭借极低使用门槛和实用场景，上架两个月售出2.92万件，销售额达28.55万美元（约203万元人民币）。该产品可快速修复衣物扣件，替代传统缝纫，结合多巴胺配色赠品，引发用户共鸣。相关话题如#NoSew和#DIYClothingRepair在平台持续引爆流量，带动家纺布艺类目热销，成为跨境电商低成本爆品新范式。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251104/1762226556842679.jpg",
+            "url": "https://www.baijing.cn/article/54624",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok宣布在美国举办首届颁奖典礼",
+            "time": "2025-11-03",
+            "source": "TechCrunch",
+            "summary": "TikTok宣布将于2025年12月18日在洛杉矶好莱坞帕拉迪姆剧院举办其在美国的首届颁奖典礼，表彰年度最佳创作者、视频、音乐人等。活动将设有红毯、现场表演和数百名创作者参与的现场观众，并通过TikTok应用和Tubi平台直播。用户可通过11月18日上线的专属投票门户参与评选。此举旨在强化TikTok作为娱乐产业重要力量的地位，此前已在德国、墨西哥、韩国等地举办过类似活动。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2198288850.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/03/tiktok-announces-its-first-awards-show-in-the-us/",
+            "category": "社交"
+        },
+        {
+            "title": "福克斯新闻因误信AI生成的TikTok视频而撤回关于SNAP受益人的报道",
+            "time": "2025-11-02",
+            "source": "The Verge",
+            "summary": "福克斯新闻曾发布一篇声称SNAP受益者计划在政府停摆期间抢劫商店的虚假报道，引用了伪造的视频和言论。后经核实，这些视频实为AI生成的TikTok内容，福克斯新闻随后发布更正声明，但措辞轻率，仅称‘此前未注明视频为AI生成’。该事件再次暴露了主流媒体在AI虚假信息面前的脆弱性，引发对新闻核查机制的广泛批评。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Terrence-OBrien-headshot-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/812099/fox-news-was-forced-to-retract-a-story-about-snap-beneficiaries-after-it-fell-for-ai-tiktok-videos",
+            "category": "社交"
+        },
+        {
             "title": "美区TikTok卖家的盲盒",
             "time": "2025-10-30",
             "source": "白鲸出海",
@@ -9273,6 +9507,15 @@
         }
     ],
     "MiniMax": [
+        {
+            "title": "用海螺2.3和LTX2做百万级产品转场，我在lovart上搭了一套工作流",
+            "time": "2025-11-03",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlGgReq5DrRT4RKLKFJtCfcMQZB7I4icG8V8hPfXD05KLbUZYLBD3fvAbiaeMLyjbOIaibHnjwNYFQnA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/Bz8bqEticpIlbjxAYjOH0Q",
+            "category": "AI"
+        },
         {
             "title": "MiniMax“版权劫”：好莱坞重拳下负重前行？",
             "time": "2025-10-08",
