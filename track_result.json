@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "Xbox Game Pass将于11月新增《使命召唤：黑色行动7》等十一款游戏",
+            "time": "2025-11-05",
+            "source": "Engadget",
+            "summary": "微软宣布Xbox Game Pass将在11月新增包括《使命召唤：黑色行动7》在内的十一款游戏，其中《黑色行动7》将于11月14日上线并支持当日游玩，但需订阅$30/月的Ultimate高级套餐。其他新增游戏包括独立游戏《Egging On》《Whiskerwood》《Dead Static Drive》等，覆盖生存恐怖、策略、平台跳跃等多种类型。同时，多款游戏将于11月15日移出库，如《Frostpunk》和《S.T.A.L.K.E.R. 2》。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/M7qSWtAjMoJBMhiCW3DarQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/23f3a4c0-7c60-11f0-addf-438efd438abd",
+            "url": "https://www.engadget.com/gaming/xbox/xbox-game-pass-is-adding-cod-black-ops-7-and-ten-other-titles-in-november-193151259.html",
+            "category": "游戏"
+        },
+        {
+            "title": "OpenAI合纵亚马逊，微软连横Anthropic，硅谷只有利益没有盟友",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "OpenAI宣布与亚马逊达成380亿美元云计算战略合作，全面接入AWS的数十万张英伟达GPU及数千万颗CPU，标志着其彻底摆脱微软Azure的独家云依赖。此前微软曾投入130亿美元支持OpenAI，但随着算力需求激增，OpenAI转向多云策略，同时与甲骨文签订3000亿美元合同，并承诺未来投资1.4万亿美元建设算力基础设施。微软则转向投资Anthropic，并在Copilot中集成Claude，形成硅谷巨头间利益至上的复杂博弈格局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_8ff4273bece1483b9299143354c06b9c@5091053_oswg53903oswg1080oswg161_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539549845434240/",
+            "category": "AI"
+        },
+        {
+            "title": "People Inc.与微软达成AI授权协议，谷歌流量下滑",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "美国大型媒体出版商People Inc.（原Dotdash Meredith）与微软达成AI内容授权协议，成为微软出版商内容市场首批合作伙伴，其媒体内容将用于Copilot。该协议采用按使用付费模式，区别于此前与OpenAI的“无限使用”模式。People Inc. CEO指出，谷歌AI摘要导致其搜索流量从两年前的54%降至24%，公司通过Cloudflare阻止非授权AI爬虫，推动AI公司主动谈判。公司第三季度数字收入增长9%，内容授权成为重要增长动力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Neil-Vogel.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/",
+            "category": "AI"
+        },
+        {
             "title": "Lambda与微软达成数十亿美元AI基础设施协议",
             "time": "2025-11-03",
             "source": "TechCrunch",
@@ -843,6 +870,87 @@
     ],
     "任天堂": [
         {
+            "title": "重磅升级！Switch2版《动物森友会》官宣4项专属功能",
+            "time": "2025-11-05",
+            "source": "游侠网",
+            "summary": "Switch2版《集合啦！动物森友会》官宣将于2026年1月15日上线，并同步推出3.0免费更新。新版本新增四项专属功能：联机人数上限提升至12人、支持实时视频聊天（最多4人）、新增扩音器道具实现语音寻人，以及Joy-Con2鼠标操控提升岛屿DIY精准度。原版玩家可支付25港元直接升级。尽管画质与性能有所增强，但帧率仍维持在30帧，引发玩家对底层优化的讨论。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/05/584_20251105105857321.png",
+            "url": "https://www.ali213.net/news/html/2025-11/975555.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂社长：初代Switch仍将继续销售 目前不会退市",
+            "time": "2025-11-05",
+            "source": "游侠网",
+            "summary": "任天堂社长古川俊太郎在最新财报说明会上确认，尽管Switch 2已于6月推出，初代Switch仍将继续销售，不会退市。只要市场需求存在，该机型将维持供应。初代Switch凭借亲民价格和稳定性能，仍吸引大量新用户与预算有限玩家。截至2025年9月，Switch累计销量达1.5401亿台，Switch 2销量为1036万台。任天堂强调将根据消费者需求与商业环境持续运营两款主机。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/05/584_20251105102343678.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/975549.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂希望与玩家建立长期关系：从孩子到成为祖父母",
+            "time": "2025-11-05",
+            "source": "游侠网",
+            "summary": "在任天堂最新财报说明会上，社长古川俊太郎强调公司核心理念是与消费者建立跨越世代的长期情感联系。任天堂希望玩家在童年、成年为人父母、乃至老年成为祖父母的各个人生阶段，都能通过其游戏产品（如马里奥积木、图画书等）获得共鸣与珍贵回忆。这一战略旨在深化品牌忠诚度，将任天堂IP融入家庭代际传承中，而非仅追求短期消费。同时，公司也致力于通过高质量游戏和服务，扩大IP粉丝群体并建立长期信任。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/05/584_20251105110853335.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/975569.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《马里奥大电影》太成功！任天堂正在筹备多部改编电影",
+            "time": "2025-11-05",
+            "source": "游侠网",
+            "summary": "任天堂在2025/2026财年Q2财报补充材料中透露，继《超级马里奥兄弟大电影》大获成功后，公司正积极筹备多部新的游戏改编电影，包括已公布的《超级马里奥银河》和《塞尔达传说》真人电影。社长古川俊太郎表示，电影的成功不仅在于票房，更在于其跨越代际的情感共鸣，让玩家与家人共同体验经典IP的魅力。任天堂将深度参与未来影片的策划与制作，强化其娱乐品牌的长期影响力。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/05/584_20251105104541515.png",
+            "url": "https://www.ali213.net/news/html/2025-11/975553.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂关于召唤战斗NPC的专利被重新审查",
+            "time": "2025-11-05",
+            "source": "Engadget",
+            "summary": "美国专利商标局（USPTO）已下令重新审查任天堂一项关于“召唤子角色并使其以两种模式之一战斗”的专利，该专利原本用于对《帕尔沃斯》（Palworld）提起诉讼。此次审查由USPTO新任主任亲自下令，极为罕见，且可能受到行业对游戏机制垄断的广泛担忧推动。专利申请仅在去年9月获批，而Konami 2002年的旧专利被列为在先技术，可能削弱任天堂的主张。任天堂有两个月时间回应，期间第三方可提交更多在先证据。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/R1RGszZSBancnMU26qFZ6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ed67aac0-b9a2-11f0-adb7-b48093cb59a6",
+            "url": "https://www.engadget.com/gaming/nintendo/nintendos-patent-on-summoning-fighting-npcs-is-being-reexamined-180949135.html",
+            "category": "游戏"
+        },
+        {
+            "title": "三星推出新款P9 Express microSD卡，专为Switch 2设计",
+            "time": "2025-11-05",
+            "source": "Engadget",
+            "summary": "三星正式发布P9 Express系列microSD Express存储卡，主要面向Nintendo Switch 2主机，提供高达800MB/s的读取速度，并搭载动态温控技术（DTG）以保障高性能运行时的散热。该系列卡容量包括256GB（55美元）和512GB（100美元），虽专为Switch 2优化，但兼容多种设备如平板、相机和无人机，填补了市场对高速存储卡的稀缺需求。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/VgPdCtX0RyQNJxD1aMEGbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4Ng--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/f992e5c0-b9ad-11f0-bb7f-be50b25ebd66",
+            "url": "https://www.engadget.com/gaming/nintendo/samsung-has-a-new-line-of-microsd-express-cards-for-the-switch-2-190933303.html",
+            "category": "游戏"
+        },
+        {
+            "title": "Switch 2在首发四个月内成为任天堂历史上销量最高的平台",
+            "time": "2025-11-05",
+            "source": "GamesIndustry.biz",
+            "summary": "任天堂Switch 2在上市前四个月全球销量达到1036万台，超越原Switch同期表现，成为任天堂历史上销量增长最快的主机。公司总裁藤原武史表示，Switch 2的销售增速创历史新高，84%的用户为原Switch玩家迁移而来。首月主打游戏《马里奥卡丁车世界》销量达957万份，第二款大作《大金刚班扎》售出260万份。任天堂还宣布第三方游戏阵容为新主机史上最强，并上调全年销售预期，预计Switch 2全年销量达1900万台，硬件与软件收入均大幅增长。",
+            "image_url": "https://assetsio.gnwcdn.com/nintendo-switch-2-in-the-dock_ZzEOhBk.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/dispatch-sells-1m-units-in-10-days-news-in-brief",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂上调Switch 2销量预期至1900万台",
+            "time": "2025-11-04",
+            "source": "Engadget",
+            "summary": "任天堂将Switch 2在本财年的销量预期从1500万台大幅提升至1900万台，有望超越初代Switch首年1779万台的销量成绩。截至9月底，Switch 2已售出1036万台，Q3假日季销量预计大幅增长。同时，任天堂上调了游戏软件销售预期，Switch 2游戏销量预测增至4800万份，全平台Switch游戏销量达1.25亿份。公司第二财季营收和利润均超预期，表现强劲。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-04/ca0b0760-20e7-11f0-bdfb-01b20d73cac9",
+            "url": "https://www.engadget.com/gaming/nintendo/nintendo-expects-to-sell-way-more-switch-2s-than-it-thought-130048295.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂上调全年预测，上半年销售额跃升110%至1.1万亿日元",
+            "time": "2025-11-04",
+            "source": "GamesIndustry.biz",
+            "summary": "任天堂发布截至2025年9月30日的上半年财务报告，得益于Switch 2的成功发布，硬件与软件销量大幅增长。Switch 2在首发四个月内销量达1036万台，远超初代Switch同期表现，带动公司上半年净销售额同比增长110%至1.1万亿日元，营业利润增长19.5%。任天堂上调全年预期，预计Switch 2全年销量达1900万台，Switch系列总销量将突破1.54亿台。Mario Kart World成为Switch 2最畅销游戏，销量达957万份。",
+            "image_url": "https://assetsio.gnwcdn.com/pQhbK3w7JSePmh6gEeqJs9.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/nintendo-increases-full-year-forecast-as-h1-sales-jump-110-to-11-trillion",
+            "category": "游戏"
+        },
+        {
             "title": "任天堂胜诉起诉直播主提前直播盗版游戏",
             "time": "2025-11-03",
             "source": "GamesIndustry.biz",
@@ -1597,6 +1705,60 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "AI算力大战打到太空，英伟达前脚H100入轨，谷歌TPU后脚上天，中国玩家笑而不语",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "英伟达与谷歌正竞相将AI算力部署至太空，英伟达H100芯片已随Starcloud-1卫星入轨，用于在轨处理SAR数据并运行Gemma模型；谷歌计划2027年发射TPU卫星，启动“太阳捕手计划”，目标构建吉瓦级太空数据中心。中国之江实验室的“三体计算星座”已率先实现常态化商用，12颗卫星具备P级算力与激光组网能力，领先全球。太空算力优势在于低成本太阳能供电、天然真空散热与减少数据回传压力，但热管理与通信可靠性仍是工程挑战。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_a8c5b7a2e86c4d9c94af9d5b0b5714b4@5091053_oswg484116oswg1080oswg998_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539554418634626/",
+            "category": "AI"
+        },
+        {
+            "title": "AI算力大战打到太空！英伟达前脚H100入轨，谷歌TPU后脚上天，中国玩家笑而不语",
+            "time": "2025-11-05",
+            "source": "量子位",
+            "summary": "英伟达与谷歌正竞相将AI算力部署至太空，英伟达H100芯片已随Starcloud-1卫星入轨，用于在轨处理SAR卫星数据并运行Gemma模型；谷歌计划2027年发射TPU卫星，探索太阳能供能与光通信的天基AI基础设施。中国之江实验室的“三体计算星座”已率先实现常态化商用，12颗卫星在轨算力达5POPS，支持激光高速互联。太空算力具备低成本、高效散热与减少数据回传压力等优势，但热管理与系统可靠性仍是工程挑战。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5b42d8b1a44b063c585dc2514747ea42.png",
+            "url": "https://www.qbitai.com/2025/11/348986.html",
+            "category": "AI"
+        },
+        {
+            "title": "People Inc.与微软达成AI授权协议，谷歌流量下滑",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "美国大型媒体出版商People Inc.（原Dotdash Meredith）与微软达成AI内容授权协议，成为微软出版商内容市场首批合作伙伴，其媒体内容将用于Copilot。该协议采用按使用付费模式，区别于此前与OpenAI的“无限使用”模式。People Inc. CEO指出，谷歌AI摘要导致其搜索流量从两年前的54%降至24%，公司通过Cloudflare阻止非授权AI爬虫，推动AI公司主动谈判。公司第三季度数字收入增长9%，内容授权成为重要增长动力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Neil-Vogel.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌AI模式新增代理功能，可协助预订活动门票和美容预约",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "谷歌宣布在其AI Mode中推出新的代理功能，用户可通过自然语言指令直接预订活动门票和美容、健康预约。例如，用户可要求“帮我找两张Shaboozey演唱会的低价站票”，AI Mode将跨多个网站搜索实时票务信息并提供精选选项，最终跳转至预订页面。该功能目前仅对美国地区使用Search Labs的用户开放，AI Pro和Ultra订阅者享有更高权限。此功能是继餐厅预订后AI Mode的又一重要扩展，旨在提升搜索的实用性和主动性。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌移除AI模型Gemma，因被指捏造参议员性侵指控",
+            "time": "2025-11-04",
+            "source": "Engadget",
+            "summary": "谷歌已从AI Studio平台下架其AI模型Gemma，原因是该模型被指虚构美国参议员马莎·布莱克本（Marsha Blackburn）涉嫌性侵的虚假指控，并提供伪造的新闻链接。布莱克本致信谷歌CEO皮查伊，谴责此为诽谤行为。谷歌回应称，Gemma专为开发者设计，非面向大众问答，此次误用非其本意，下架旨在避免混淆，但API仍对开发者开放。事件再次凸显AI幻觉问题及其潜在法律风险。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/Xt1lUKHWCSTO12FoLTvW9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03ODk-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ab9ca930-b8ce-11f0-af75-be3a9ff5f278",
+            "url": "https://www.engadget.com/ai/google-removes-ai-model-after-it-allegedly-accused-a-senator-of-sexual-assault-170235679.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌翻译现已推出基于Gemini的AI翻译功能",
+            "time": "2025-11-03",
+            "source": "Engadget",
+            "summary": "谷歌正在逐步向iOS用户推送新版翻译应用，新增基于Gemini AI的“高级”翻译模式，可提供更准确、更具语境感的翻译结果，相比默认的“快速”模式显著提升质量。目前该功能仅支持英法、英西双语互译，且尚未登陆Android平台。测试显示，高级模式能正确理解文学文本的隐喻，而快速模式常出现字面误译。尽管Gemini模式更精准，但仍存在AI幻觉风险，建议重要翻译仍需人工校验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/xvnZ33QPKNR048d132HWJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTM2Ng--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/e4a5ca70-b88f-11f0-bfcd-75f20972d1b2",
+            "url": "https://www.engadget.com/ai/google-translate-now-offers-gemini-assisted-translations-151008774.html",
+            "category": "AI"
+        },
         {
             "title": "谷歌将Wear OS时钟应用限制为Pixel手表独占",
             "time": "2025-10-31",
@@ -2409,6 +2571,15 @@
         }
     ],
     "Meta": [
+        {
+            "title": "WhatsApp推出备受期待的Apple Watch应用",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "WhatsApp正式推出Apple Watch配套应用，用户首次可在手表上接收通话通知、阅读完整消息、录制和发送语音消息，并更清晰地查看媒体内容。该应用支持消息回复、表情反应和更完整的聊天历史显示，所有通信仍保持端到端加密。应用要求Apple Watch Series 4或更新型号，运行watchOS 10以上系统。此举是WhatsApp拓展多设备访问战略的一部分，此前已推出iPad应用，紧随Snapchat之后进入智能手表生态。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/English_WhatsApp-apple-watch-2.png?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/",
+            "category": "社交"
+        },
         {
             "title": "Facebook群组现在可以转为公开而不暴露成员的私有帖子",
             "time": "2025-11-03",
@@ -3411,6 +3582,15 @@
     ],
     "YouTube": [
         {
+            "title": "传奈飞洽谈iHeartMedia视频播客独家授权，瞄准YouTube市场",
+            "time": "2025-11-05",
+            "source": "白鲸出海",
+            "summary": "据知情人士透露，奈飞正与iHeartMedia就视频播客的独家授权进行洽谈，旨在直接与YouTube竞争。iHeartMedia旗下拥有《The Breakfast Club》《Jay Shetty Podcast》等热门节目，奈飞希望获得其完整剧集的独家播放权，相关节目或将不再上传至YouTube。同时，奈飞也在关注收购华纳兄弟探索公司影视业务的可能性，但明确表示无意收购有线电视频道，主要计划将资金用于提升内容吸引力的知识产权布局。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251105/1762311646156756.jpeg",
+            "url": "https://www.baijing.cn/article/54639",
+            "category": "社交"
+        },
+        {
             "title": "YouTube因AI重组推出员工自愿离职计划",
             "time": "2025-10-30",
             "source": "Engadget",
@@ -3611,12 +3791,48 @@
     ],
     "OpenAI": [
         {
+            "title": "备受期待，OpenAI视频生成应用Sora将登陆安卓平台",
+            "time": "2025-11-05",
+            "source": "白鲸出海",
+            "summary": "OpenAI宣布其AI视频生成应用Sora即将登陆安卓平台，首批覆盖美国、加拿大和日本等国家，初期仅限受邀用户使用。Sora于9月下旬在iOS上线后迅速成为App Store下载量最高的免费应用之一，支持通过文字提示生成短视频并拼接多片段、复用角色。然而，其生成逼真视频的能力也引发深度伪造、版权侵犯等争议，OpenAI已加强模型防护并优化公众人物形象使用流程。本文内容源自智通财经App，白鲸出海仅作转载分享。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251105/1762311347741521.jpg",
+            "url": "https://www.baijing.cn/article/54638",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI合纵亚马逊，微软连横Anthropic，硅谷只有利益没有盟友",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "OpenAI宣布与亚马逊达成380亿美元云计算战略合作，全面接入AWS的数十万张英伟达GPU及数千万颗CPU，标志着其彻底摆脱微软Azure的独家云依赖。此前微软曾投入130亿美元支持OpenAI，但随着算力需求激增，OpenAI转向多云策略，同时与甲骨文签订3000亿美元合同，并承诺未来投资1.4万亿美元建设算力基础设施。微软则转向投资Anthropic，并在Copilot中集成Claude，形成硅谷巨头间利益至上的复杂博弈格局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_8ff4273bece1483b9299143354c06b9c@5091053_oswg53903oswg1080oswg161_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539549845434240/",
+            "category": "AI"
+        },
+        {
+            "title": "别争了，OpenAI才是云厂商的「最大甲方」",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "OpenAI与亚马逊达成380亿美元基础设施合作协议，将在AWS上部署英伟达GB200/GB300 GPU集群，用于支持ChatGPT等AI产品的推理与训练，并计划在2027年后持续扩展算力。OpenAI已签署多项巨额算力合同，总投入超1.4万亿美元，目标构建3000万千瓦计算资源。尽管其年收入远低于投资规模，但奥特曼表示实际收入高于公开数据，并强调资本正加速推动高级AI普及。此合作凸显OpenAI作为AI算力核心的主导地位，也引发市场对AI泡沫与金融可持续性的担忧。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_6e91eb67bdeb441586617beab46b9424@5091053_oswg149686oswg1080oswg435_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539389793792133/",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI 发布 ChatGPT Atlas：一个能自己上网的浏览器",
             "time": "2025-11-04",
             "source": "Fun AI Everyday",
             "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
             "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRF1a3q9raOX3ErBEhDcwXDbgKmjcqMYicHVd7uic1ibzFub1M0wI26KJPoP51codiaicOzP42MPic4uFvYw/0?wx_fmt=jpeg",
             "url": "https://mp.weixin.qq.com/s/phf9Mn-l73V9_p6Cdotjlg",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克52页PPT怒喷奥特曼，OpenAI里一个好人都没有",
+            "time": "2025-11-04",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXmSDfLQ61JkTFBvnicIfAKFCXb6nQDia8n8huSVKY5ak0Sz9J9Hm3qDkibvCNAibn3dLdn9BuIaTha7vQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/IiMQtb1A8fe3ZOTzoX0XQQ",
             "category": "AI"
         },
         {
@@ -3635,6 +3851,24 @@
             "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
             "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRGoSrqqMYF0DBWiceNGCHtF3QCkLMoUXSAnKRkTjt2Fk1KI5ickpM3rArpDs2gcToquVepuzYJQ7GibA/0?wx_fmt=jpeg",
             "url": "https://mp.weixin.qq.com/s/Hu4v3740oIqxYnPpHvP-aQ",
+            "category": "AI"
+        },
+        {
+            "title": "日本游戏厂商要求OpenAI的Sora 2停止未经许可使用其版权作品",
+            "time": "2025-11-03",
+            "source": "GamesIndustry.biz",
+            "summary": "包括史克威尔艾尼克斯、万代南梦宫和角川在内的多家日本游戏厂商，通过内容海外传播协会（CODA）公开要求OpenAI停止在训练其生成式AI工具Sora 2时未经许可使用其受版权保护的创意内容。CODA指出，Sora 2生成的大量内容与日本作品高度相似，可能构成版权侵权。日本版权法要求事先获得授权，而非事后 opt-out，因此要求OpenAI尊重版权方的授权请求，并对侵权指控作出真诚回应。Nintendo此前已否认游说政府保护IP，而Krafton则转向AI优先战略。",
+            "image_url": "https://assetsio.gnwcdn.com/elden-ring-godrick_wnfRyEq.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/japanese-publishers-demand-openais-sora-2-stops-using-their-copyrighted-creative-works-without-permission",
+            "category": "AI"
+        },
+        {
+            "title": "llya证词太狗血！奥特曼坏，Mira茶，OpenAI差点跟Anthropic合并",
+            "time": "2025-11-03",
+            "source": "量子位",
+            "summary": "本文聚焦OpenAI高层权力斗争，披露了Ilya Sutskever长达52页的证词，揭露Sam Altman被董事会罢免事件背后的宫斗细节，指控其撒谎、挑拨高管关系，并曾推动OpenAI与Anthropic合并。Altman虽否认指控，但承认未持股是错误决定，称出于对AGI的热爱而非金钱。文章分析其零股权实为掌控公司决策权的策略，并指出OpenAI正筹备万亿美元IPO，其非营利结构与商业野心间的矛盾持续引发争议。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/756f93797d9a7f4354d2ba283440416c.png",
+            "url": "https://www.qbitai.com/2025/11/348482.html",
             "category": "AI"
         },
         {
@@ -4864,6 +5098,15 @@
     ],
     "苹果": [
         {
+            "title": "苹果据称正研发搭载 iPhone 芯片的低价版 Mac 笔电",
+            "time": "2025-11-05",
+            "source": "动点科技",
+            "summary": "苹果公司正在研发一款搭载iPhone芯片的低价Mac笔记本电脑，计划于2026年上半年发布，售价将远低于1000美元，目标用户为普通用户、学生和企业用户。该机型将采用全新设计，配备低端LCD显示屏，屏幕尺寸略小于13.6英寸的MacBook Air。据称，iPhone芯片性能优于早期的M1芯片，且可能采用A18 Pro芯片，提供多种配色。同时，搭载M5系列芯片的MacBook Air和Pro也在研发中。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-11-05/apple-mac-laptop-iphone-a-series-chip-macbook-cheaper/",
+            "category": "其他"
+        },
+        {
             "title": "苹果为 Apple TV 推出全新片头动画",
             "time": "2025-11-04",
             "source": "动点科技",
@@ -4889,6 +5132,15 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/apple-app-store-games-page.png?quality=90&strip=all&crop=0%2C0.35460992907802%2C100%2C99.290780141844&w=2400",
             "url": "https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad",
             "category": "其他"
+        },
+        {
+            "title": "WhatsApp推出备受期待的Apple Watch应用",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "WhatsApp正式推出Apple Watch配套应用，用户首次可在手表上接收通话通知、阅读完整消息、录制和发送语音消息，并更清晰地查看媒体内容。该应用支持消息回复、表情反应和更完整的聊天历史显示，所有通信仍保持端到端加密。应用要求Apple Watch Series 4或更新型号，运行watchOS 10以上系统。此举是WhatsApp拓展多设备访问战略的一部分，此前已推出iPad应用，紧随Snapchat之后进入智能手表生态。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/English_WhatsApp-apple-watch-2.png?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/whatsapp-launches-long-awaited-apple-watch-app/",
+            "category": "社交"
         },
         {
             "title": "苹果App Store推出全新网页界面",
@@ -5900,6 +6152,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "阿里味儿的AI山姆，我是一个都不敢点。",
+            "time": "2025-11-05",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkiaYJTfo4YqpVVC2Gf0lZqkV2K6vicpNMkCNrg4HUu9romBIUmlmrqOuibmusU2Wl3NFXwFW84OWfVA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/CmKjPUlrvZOHt2I1gAw_PQ",
+            "category": "AI"
+        },
+        {
             "title": "消息称高德将进军Robotaxi领域，定位战略级业务拓展全球市场",
             "time": "2025-11-04",
             "source": "动点科技",
@@ -6399,6 +6660,33 @@
     ],
     "亚马逊": [
         {
+            "title": "OpenAI合纵亚马逊，微软连横Anthropic，硅谷只有利益没有盟友",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "OpenAI宣布与亚马逊达成380亿美元云计算战略合作，全面接入AWS的数十万张英伟达GPU及数千万颗CPU，标志着其彻底摆脱微软Azure的独家云依赖。此前微软曾投入130亿美元支持OpenAI，但随着算力需求激增，OpenAI转向多云策略，同时与甲骨文签订3000亿美元合同，并承诺未来投资1.4万亿美元建设算力基础设施。微软则转向投资Anthropic，并在Copilot中集成Claude，形成硅谷巨头间利益至上的复杂博弈格局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_8ff4273bece1483b9299143354c06b9c@5091053_oswg53903oswg1080oswg161_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539549845434240/",
+            "category": "AI"
+        },
+        {
+            "title": "亚马逊向Perplexity发出法律威胁，因AI购物助手未经标识访问其网站",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "亚马逊向AI搜索公司Perplexity发出律师函，要求其AI购物助手Comet停止在未经标识身份的情况下访问亚马逊网站。Perplexity认为其AI代理代表用户行为，无需自我识别；而亚马逊则强调所有第三方代理（如外卖或旅行平台）都必须明确身份，否则将被屏蔽。此举被视为电商巨头对AI代理行为设立先例，也引发关于AI代理在互联网中的合规边界争议。Perplexity在博客中批评此举为“欺凌而非创新”。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2181996346.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/",
+            "category": "AI"
+        },
+        {
+            "title": "Alexa+ 登陆亚马逊音乐应用",
+            "time": "2025-11-04",
+            "source": "Engadget",
+            "summary": "亚马逊在其音乐应用中推出了升级版AI助手Alexa+，目前仅限早期访问用户使用。用户可通过点击应用右下角的“A”按钮，以自然语言进行音乐搜索、播放列表创建和音乐知识查询，如根据歌词、时代、情绪或乐器推荐歌曲。Alexa+还具备个性化推荐功能，可回答歌曲灵感、专辑排名及演出信息等专业问题。该功能已逐步部署于Echo Studio、Ring设备及Fire TV等产品中，未来将免费提供给Prime会员，非会员则需每月支付20美元。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/2lIiwfAjXRoUA8Gu4TBzkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/4e9fdb50-b98a-11f0-9df4-88c2c322f3c7",
+            "url": "https://www.engadget.com/entertainment/music/alexa-comes-to-the-amazon-music-app-143234227.html",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI与亚马逊达成380亿美元云计算协议",
             "time": "2025-11-03",
             "source": "TechCrunch",
@@ -6734,6 +7022,15 @@
     ],
     "红杉资本": [
         {
+            "title": "红杉资本任命阿尔弗雷德·林和帕特·格雷迪为新联合管理者，罗埃尔夫·博塔卸任",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "红杉资本宣布，阿尔弗雷德·林和帕特·格雷迪将接替罗埃尔夫·博塔担任公司新任联合管理者。博塔自2022年掌舵以来，带领红杉度过市场低迷、FTX亏损及中国印度业务分拆等挑战。林曾主导对Airbnb、DoorDash等明星企业的投资，格雷迪则长期负责成长期投资，支持OpenAI等公司。尽管博塔强调决策由合伙人集体投票决定，此次交接仍被视为红杉从动荡期迈向新阶段的重要标志。公司近期还宣布了9.5亿美元的新基金。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/",
+            "category": "其他"
+        },
+        {
             "title": "风险投资不是一种资产类别，红杉资本的罗埃尔夫·博塔表示",
             "time": "2025-10-27",
             "source": "TechCrunch",
@@ -6845,6 +7142,15 @@
         }
     ],
     "高盛": [
+        {
+            "title": "高盛加码投资MoEngage 1亿美元，助力全球扩张",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "客户互动平台MoEngage宣布完成1亿美元融资，由高盛替代投资部门领投，印度风投A91 Partners联合领投，融资将用于加速全球扩张并增强AI能力。该公司已累计融资2.5亿美元，服务全球1350多个品牌，包括SoundCloud、Flipkart和JPMorgan Chase等。其Merlin AI套件提供生成式AI与决策AI功能，帮助品牌自动化营销并整合多渠道客户数据。MoEngage计划在未来几年内实现IPO，并保持35%的年复合增长率。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/moengage-ceo_b0228f.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/",
+            "category": "其他"
+        },
         {
             "title": "人均身价过亿，高盛买了",
             "time": "2025-10-22",
@@ -7718,6 +8024,15 @@
             "category": "其他"
         },
         {
+            "title": "马斯克52页PPT怒喷奥特曼，OpenAI里一个好人都没有",
+            "time": "2025-11-04",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXmSDfLQ61JkTFBvnicIfAKFCXb6nQDia8n8huSVKY5ak0Sz9J9Hm3qDkibvCNAibn3dLdn9BuIaTha7vQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/IiMQtb1A8fe3ZOTzoX0XQQ",
+            "category": "AI"
+        },
+        {
             "title": "AI 重写知识库？马斯克 Grokipedia 对上科学界的 SciencePedia，Wikipedia：那我走？",
             "time": "2025-10-29",
             "source": "量子位",
@@ -8079,6 +8394,15 @@
     ],
     "三星": [
         {
+            "title": "三星推出新款P9 Express microSD卡，专为Switch 2设计",
+            "time": "2025-11-05",
+            "source": "Engadget",
+            "summary": "三星正式发布P9 Express系列microSD Express存储卡，主要面向Nintendo Switch 2主机，提供高达800MB/s的读取速度，并搭载动态温控技术（DTG）以保障高性能运行时的散热。该系列卡容量包括256GB（55美元）和512GB（100美元），虽专为Switch 2优化，但兼容多种设备如平板、相机和无人机，填补了市场对高速存储卡的稀缺需求。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/VgPdCtX0RyQNJxD1aMEGbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ4Ng--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/f992e5c0-b9ad-11f0-bb7f-be50b25ebd66",
+            "url": "https://www.engadget.com/gaming/nintendo/samsung-has-a-new-line-of-microsd-express-cards-for-the-switch-2-190933303.html",
+            "category": "游戏"
+        },
+        {
             "title": "三星网页浏览器登陆Windows，瞄准AI未来",
             "time": "2025-10-31",
             "source": "Engadget",
@@ -8170,6 +8494,42 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "AI算力大战打到太空，英伟达前脚H100入轨，谷歌TPU后脚上天，中国玩家笑而不语",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "英伟达与谷歌正竞相将AI算力部署至太空，英伟达H100芯片已随Starcloud-1卫星入轨，用于在轨处理SAR数据并运行Gemma模型；谷歌计划2027年发射TPU卫星，启动“太阳捕手计划”，目标构建吉瓦级太空数据中心。中国之江实验室的“三体计算星座”已率先实现常态化商用，12颗卫星具备P级算力与激光组网能力，领先全球。太空算力优势在于低成本太阳能供电、天然真空散热与减少数据回传压力，但热管理与通信可靠性仍是工程挑战。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_a8c5b7a2e86c4d9c94af9d5b0b5714b4@5091053_oswg484116oswg1080oswg998_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539554418634626/",
+            "category": "AI"
+        },
+        {
+            "title": "AI算力大战打到太空！英伟达前脚H100入轨，谷歌TPU后脚上天，中国玩家笑而不语",
+            "time": "2025-11-05",
+            "source": "量子位",
+            "summary": "英伟达与谷歌正竞相将AI算力部署至太空，英伟达H100芯片已随Starcloud-1卫星入轨，用于在轨处理SAR卫星数据并运行Gemma模型；谷歌计划2027年发射TPU卫星，探索太阳能供能与光通信的天基AI基础设施。中国之江实验室的“三体计算星座”已率先实现常态化商用，12颗卫星在轨算力达5POPS，支持激光高速互联。太空算力具备低成本、高效散热与减少数据回传压力等优势，但热管理与系统可靠性仍是工程挑战。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5b42d8b1a44b063c585dc2514747ea42.png",
+            "url": "https://www.qbitai.com/2025/11/348986.html",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达与德国电信达成10亿欧元合作，在慕尼黑建设AI数据中心",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "英伟达与德国电信达成10亿欧元（约合11.5亿美元）的合作协议，将在慕尼黑共建名为“工业AI云”的AI数据中心，旨在提升德国AI算力50%。该中心将部署超1000台NVIDIA DGX B200系统和上万张Blackwell GPU，服务于德国企业并符合数据主权法规。德电提供基础设施，SAP提供技术平台，Agile Robots和Perplexity等公司为早期合作伙伴。项目预计2026年初运营，独立于欧盟AI巨型工厂计划。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/bi-251104-industrial-ai-cloud-02-en.jpg?w=1008",
+            "url": "https://techcrunch.com/2025/11/04/nvidia-deutsche-telekom-strike-e1b-partnership-for-a-data-center-in-munich/",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达、高通联合美印风投助力印度下一代深度科技初创企业",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "英伟达与高通创投联合七家美国和印度风险投资机构，共同成立印度深度科技联盟（IDTA），旨在支持印度深度科技初创企业发展，涵盖半导体、量子计算、航天、AI等领域。英伟达以技术顾问身份提供AI平台指导，不投入资金；高通创投则投入超8.5亿美元，并提供资源网络支持。该联盟与印度政府1万亿卢比研发计划协同，推动本土科技生态从模仿走向自主创新，被视为印度创业生态向深度科技转型的关键节点。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/india-deep-tech-alliance.jpg",
+            "url": "https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/",
+            "category": "其他"
+        },
         {
             "title": "英伟达 reportedly 投资高达10亿美元于Poolside",
             "time": "2025-10-30",
@@ -8732,6 +9092,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "一单卖2100元，中国卖家做TikTok“盲勺打包”生意发家",
+            "time": "2025-11-05",
+            "source": "白鲸出海",
+            "summary": "中国卖家ReRe Gift通过TikTok发布“幸运盲勺”订单打包视频，随机舀取彩色珠子对应小商品进行包装，满足用户情绪价值与解压需求，单条视频播放超1580万次，粉丝达百万。其独立站最高套餐售价295美元（约2100元），曾30分钟售罄。该模式带动TikTok上#packingorders话题播放量超192亿次，吸引大量跨境卖家入局，但面临竞争加剧、物流成本高、IP侵权等风险。文章指出，情绪经济正成为跨境电商新蓝海。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251105/1762313136707787.jpeg",
+            "url": "https://www.baijing.cn/article/54640",
+            "category": "社交"
+        },
+        {
+            "title": "字节跳动高薪招聘“具身智能”专家，火山引擎团队或进军人形机器人研发",
+            "time": "2025-11-05",
+            "source": "动点科技",
+            "summary": "字节跳动旗下火山引擎团队启动高规格招聘，公开寻求“操作算法资深专家（具身智能）”，月薪高达9.5万至12万元，聚焦人形具身机器人研发。此举标志字节从工业AGV机器人向通用具身智能平台转型。此前字节已与赛力斯集团达成合作，计划合资推进人形机器人量产，显示其在该领域布局逐步成型，加速吸纳算法与硬件结合的顶尖人才。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/bytedance-humanoid-robot-recruitment.jpg",
+            "url": "https://cn.technode.com/post/2025-11-05/bytedance-humanoid-robot-recruitment/",
+            "category": "AI"
+        },
         {
             "title": "大批TikTok卖家遭“二审”，需身份验证",
             "time": "2025-11-04",
@@ -9574,6 +9952,42 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "Anthropic发布“激进增长蓝图”：2028年营收或突破700亿美元",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "人工智能公司Anthropic大幅上调未来三年增长预期，预计2028年营收突破700亿美元，较2025年约50亿美元规模实现跨越式增长。其核心收入来自企业级API销售，2025年API收入有望达OpenAI的两倍，且预计2027年实现正向现金流，快于OpenAI的2030年目标。公司已完成130亿美元融资，估值达1700亿美元，毛利润率有望在2028年提升至77%。Anthropic专注企业市场，Claude Code等产品成为新增长引擎。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_5ecd83206acb4b69bd3416e7ff4cd63c@5091053_oswg445276oswg1000oswg562_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539476160196740/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI合纵亚马逊，微软连横Anthropic，硅谷只有利益没有盟友",
+            "time": "2025-11-05",
+            "source": "36氪",
+            "summary": "OpenAI宣布与亚马逊达成380亿美元云计算战略合作，全面接入AWS的数十万张英伟达GPU及数千万颗CPU，标志着其彻底摆脱微软Azure的独家云依赖。此前微软曾投入130亿美元支持OpenAI，但随着算力需求激增，OpenAI转向多云策略，同时与甲骨文签订3000亿美元合同，并承诺未来投资1.4万亿美元建设算力基础设施。微软则转向投资Anthropic，并在Copilot中集成Claude，形成硅谷巨头间利益至上的复杂博弈格局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_8ff4273bece1483b9299143354c06b9c@5091053_oswg53903oswg1080oswg161_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3539549845434240/",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic预计2028年收入达700亿美元",
+            "time": "2025-11-04",
+            "source": "TechCrunch",
+            "summary": "据The Information报道，AI公司Anthropic预计2028年收入可达700亿美元，现金流达170亿美元，主要得益于企业客户对其AI模型的快速采用。公司已与微软、Salesforce、Deloitte和Cognizant等巨头达成合作，推动Claude模型在办公软件和企业服务中的部署。同时，Anthropic近期发布了更高效的成本优化模型Claude Sonnet 4.5和Haiku 4.5，并计划通过高利润率（2028年预计达77%）实现盈利。其竞争对手OpenAI虽收入更高，但预计长期亏损严重。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/AI-Sessions-Anthropic-Kaplan.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/",
+            "category": "AI"
+        },
+        {
+            "title": "llya证词太狗血！奥特曼坏，Mira茶，OpenAI差点跟Anthropic合并",
+            "time": "2025-11-03",
+            "source": "量子位",
+            "summary": "本文聚焦OpenAI高层权力斗争，披露了Ilya Sutskever长达52页的证词，揭露Sam Altman被董事会罢免事件背后的宫斗细节，指控其撒谎、挑拨高管关系，并曾推动OpenAI与Anthropic合并。Altman虽否认指控，但承认未持股是错误决定，称出于对AGI的热爱而非金钱。文章分析其零股权实为掌控公司决策权的策略，并指出OpenAI正筹备万亿美元IPO，其非营利结构与商业野心间的矛盾持续引发争议。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/756f93797d9a7f4354d2ba283440416c.png",
+            "url": "https://www.qbitai.com/2025/11/348482.html",
+            "category": "AI"
+        },
         {
             "title": "Anthropic推出Claude Code的iOS和网页版",
             "time": "2025-10-21",
