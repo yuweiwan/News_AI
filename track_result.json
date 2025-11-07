@@ -1,6 +1,24 @@
 {
     "微软": [
         {
+            "title": "《天国：拯救2》Steam和Xbox免费试玩开启！限时四天",
+            "time": "2025-11-07",
+            "source": "游侠网",
+            "summary": "《天国：拯救2》已于Steam和Xbox平台开启为期四天的免费试玩，活动将持续至11月11日凌晨2点。同时，游戏正式版在Steam迎来史低折扣，标准版从228元降至136元，黄金版从298元降至178元，优惠截止11月14日。此次试玩恰逢第三款也是最终DLC“塞德莱茨修道院之谜”上线前夕，旨在帮助玩家提前熟悉游戏世界，为DLC发布预热。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/07/584_2025110792207515.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/976231.html",
+            "category": "游戏"
+        },
+        {
+            "title": "微软AI称将打造对人类无害的超级智能",
+            "time": "2025-11-07",
+            "source": "The Verge",
+            "summary": "微软AI负责人穆斯塔法·苏莱曼宣布成立新团队，致力于开发名为“人文主义超级智能”的AI系统，强调其设计宗旨是“仅服务于人类”，而非追求无限制的自主性。该AI将被严格限制，作为人类的辅助工具，应用于个人陪伴、医疗援助和清洁能源科研等领域。尽管微软声称拒绝“AGI竞赛”叙事，但其新协议允许独立开发AGI，引发与OpenAI的竞争担忧。苏莱曼强调，人类必须始终处于AI体系的中心。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence",
+            "category": "AI"
+        },
+        {
             "title": "Xbox Game Pass将于11月新增《使命召唤：黑色行动7》等十一款游戏",
             "time": "2025-11-05",
             "source": "Engadget",
@@ -599,6 +617,15 @@
         }
     ],
     "索尼": [
+        {
+            "title": "国行PS5 Pro百亿补贴！售价4899元 官方优惠价还便宜",
+            "time": "2025-11-05",
+            "source": "游侠网",
+            "summary": "国行PS5 Pro于2025年10月29日正式上市，淘宝百亿补贴现将其售价降至4899元，低于官方建议零售价5599元和首发优惠价5099元。该主机采用AMD RDNA 3.0架构，配备2TB SSD、Wi-Fi 7和升级版液态金属散热系统，支持PSSR人工智能超分辨率与进阶光线追踪，GPU计算单元增加67%，渲染性能提升45%，兼容超8500款PS4游戏及百余款PS5强化游戏。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/05/584_2025110523604883.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/975623.html",
+            "category": "游戏"
+        },
         {
             "title": "万圣节当然要感受惊悚恐怖！外媒评选PS5最佳恐怖游戏",
             "time": "2025-10-31",
@@ -1706,6 +1733,42 @@
     ],
     "谷歌": [
         {
+            "title": "谷歌金融推出Gemini AI工具助力股票交易员",
+            "time": "2025-11-07",
+            "source": "The Verge",
+            "summary": "谷歌宣布为其金融平台Google Finance升级AI功能，推出名为“Deep Search”的新功能，基于Gemini AI模型，可生成详尽且带引用的市场分析报告，并展示推理过程。该功能将率先在美国上线，订阅用户可提前体验。此外，平台还将整合Kalshi和Polymarket等预测市场数据，支持用户查询未来经济事件概率。同时，Google Finance也在印度推出英文与印地语版本，但暂不包含最新AI功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Prediction-markets-Kalshi.png?quality=90&strip=all&crop=8.0265625%2C15.525351978691%2C84.06953125%2C51.183885083714&w=2400",
+            "url": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search",
+            "category": "AI"
+        },
+        {
+            "title": "Wati入选首届Google for Startups Gemini创始人论坛，跻身全球53家先锋企业之列",
+            "time": "2025-11-06",
+            "source": "白鲸出海",
+            "summary": "Wati从全球近1000份申请中脱颖而出，成功入选首届Google for Startups Gemini创始人论坛，成为全球仅有的53家先锋企业之一。该公司依托Google Gemini技术与谷歌云基础设施，开发了AI智能体编排平台Astra，实现对WhatsApp、网页、语音等多渠道的全覆盖，助力企业构建高效对话式AI解决方案。未来，Wati将与Google及DeepMind团队深度合作，探索AI在企业数字化转型中的更多应用场景。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251106/1762428134566504.jpg",
+            "url": "https://www.baijing.cn/article/54664",
+            "category": "AI"
+        },
+        {
+            "title": "苹果计划使用定制版谷歌Gemini为Apple Intelligence提供支持",
+            "time": "2025-11-06",
+            "source": "The Verge",
+            "summary": "据彭博社报道，苹果计划每年支付谷歌约10亿美元，使用其定制版Gemini大模型来增强Siri的AI功能，该模型拥有1.2万亿参数，远超苹果自研模型。Gemini将运行在苹果的私有云服务器上，用于生成摘要和规划任务，但苹果仍将继续开发自有AI技术，未来可能替代Gemini。此合作不同于此前与OpenAI或Anthropic的谈判，标志着苹果在AI领域的重要战略调整。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌即将发布第七代AI芯片Ironwood，单个超极集群可扩展至9216颗芯片",
+            "time": "2025-11-06",
+            "source": "The Verge",
+            "summary": "谷歌即将推出第七代AI芯片Ironwood，其性能较前代Trillium提升四倍，同时具备更高的能效和成本优势，专为大规模AI推理任务设计，如运行AI代理。Anthropic已计划部署一百万颗该芯片以支持Claude模型。谷歌表示Ironwood将在数周内上市。该芯片可将多达9216颗集成在一个“超极集群”中，显著提升AI计算能力，标志着谷歌在AI硬件领域的重要进展。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/google-ironwood-launch.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/815456/google-is-getting-ready-to-launch-its-7th-gen-ai-chip-ironwood-which-can-scale-up-to-9216-chips-in-a-single-superpod",
+            "category": "AI"
+        },
+        {
             "title": "AI算力大战打到太空，英伟达前脚H100入轨，谷歌TPU后脚上天，中国玩家笑而不语",
             "time": "2025-11-05",
             "source": "36氪",
@@ -1721,6 +1784,15 @@
             "summary": "英伟达与谷歌正竞相将AI算力部署至太空，英伟达H100芯片已随Starcloud-1卫星入轨，用于在轨处理SAR卫星数据并运行Gemma模型；谷歌计划2027年发射TPU卫星，探索太阳能供能与光通信的天基AI基础设施。中国之江实验室的“三体计算星座”已率先实现常态化商用，12颗卫星在轨算力达5POPS，支持激光高速互联。太空算力具备低成本、高效散热与减少数据回传压力等优势，但热管理与系统可靠性仍是工程挑战。",
             "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5b42d8b1a44b063c585dc2514747ea42.png",
             "url": "https://www.qbitai.com/2025/11/348986.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌在移动端Chrome中添加AI模式快捷方式",
+            "time": "2025-11-05",
+            "source": "Engadget",
+            "summary": "谷歌正在为移动端Chrome浏览器推出AI模式快捷方式，该功能将出现在新标签页的搜索栏下方，允许用户提出更复杂的多部分问题并进行深度追问。目前该功能已在美国开始推送，未来将扩展至160个国家，并支持印地语、印尼语、日语、韩语和葡萄牙语等多语言。AI模式自2025年3月推出以来，已逐步在全球范围内普及，成为谷歌搜索的重要AI交互入口。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/9.LdEaq46w969pJKL51tRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/628f9ff0-ba5d-11f0-99b3-6f088acafca8",
+            "url": "https://www.engadget.com/ai/google-adds-an-ai-mode-shortcut-to-chrome-on-mobile-170042622.html",
             "category": "AI"
         },
         {
@@ -2571,6 +2643,33 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta将AI生成短视频频道Vibes推向欧洲",
+            "time": "2025-11-06",
+            "source": "TechCrunch",
+            "summary": "Meta宣布其AI生成短视频功能Vibes正式在欧洲上线，该功能类似于TikTok或Instagram Reels，但所有内容均由AI生成。用户可通过文字提示创建视频，或修改他人视频，添加音乐与风格，并可分享至Instagram和Facebook。尽管Meta此前曾呼吁打击低质原创内容，但Vibes上线后其AI媒体生成量已增长十倍以上。该功能于今年9月在美国首发，随后OpenAI也推出竞品Sora，引发行业对AI内容泛滥的担忧。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-06-at-1.03.40PM.png?w=1024",
+            "url": "https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/",
+            "category": "社交"
+        },
+        {
+            "title": "Meta估计其10%的收入来自诈骗广告，报告显示",
+            "time": "2025-11-06",
+            "source": "TechCrunch",
+            "summary": "根据路透社的报道，Meta估计其年度收入的10%（约160亿美元）来自欺诈性广告。这些广告推广非法赌博、投资骗局和被禁医疗产品，旨在欺骗用户付款。尽管Meta拥有检测欺诈广告的系统，但仅在95%确信为诈骗时才封禁账户，否则通过提高可疑广告主的收费来获利。Meta称已删除1.34亿条诈骗广告，并将用户举报量减少了58%，但 Reuters指出其文件显示公司三年来未能有效遏制此类行为。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/06/meta-estimates-that-it-earns-10-of-its-revenue-from-scams-report-says/",
+            "category": "社交"
+        },
+        {
+            "title": "MPA要求Meta停止使用PG-13描述青少年账户",
+            "time": "2025-11-06",
+            "source": "Engadget",
+            "summary": "美国电影协会（MPA）向Meta发出停止函，反对其将Instagram青少年账户的内容限制与电影PG-13分级相类比，称这种说法“完全虚假且极具误导性”。MPA强调其评级体系与Meta依赖人工智能的算法系统不可比，并担忧此举会损害公众对电影评级制度的信任。Meta辩称此举仅为帮助家长理解内容政策，未声称获得MPA官方认证，并承认社交媒体与电影存在本质差异。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/DCU1s8UWu6aAUZWTX_aYPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/19ac01b0-ba6d-11f0-bffa-98f21b5fa54c",
+            "url": "https://www.engadget.com/big-tech/the-mpa-tells-meta-to-stop-using-pg-13-to-describe-teen-accounts-174251843.html",
+            "category": "社交"
+        },
         {
             "title": "WhatsApp推出备受期待的Apple Watch应用",
             "time": "2025-11-04",
@@ -3790,6 +3889,42 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "ChatGPT新增两款应用：可与Peloton和Tripadvisor联动",
+            "time": "2025-11-07",
+            "source": "The Verge",
+            "summary": "OpenAI为ChatGPT推出了两款新应用，用户现在可以直接在聊天界面中通过Peloton规划健身计划，或通过Tripadvisor制定旅行行程。这是自上月ChatGPT应用库上线以来的最新扩展，未来还将接入Uber和DoorDash等服务。该功能旨在提升AI助手的实用性，使其能直接调用第三方平台服务完成具体任务，标志着AI与日常应用深度整合的重要一步。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/peloton-tripadvisor-chatgpt-apps-screenshots.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/815857/chatgpt-just-got-two-new-apps",
+            "category": "AI"
+        },
+        {
+            "title": "史上最快，OpenAI官宣全球企业客户突破100万",
+            "time": "2025-11-06",
+            "source": "动点科技",
+            "summary": "OpenAI于当地时间11月5日宣布，其全球企业客户数量已突破100万，成为史上增长最快的企业级AI平台。该数据涵盖通过ChatGPT for Work和开发者平台付费使用模型的企业用户，覆盖金融、医疗、零售等多个行业。得益于ChatGPT超8亿的周活跃个人用户基础，企业端 adoption加速，ChatGPT for Work总席位突破700万，其中Enterprise席位同比增长9倍。OpenAI近期更新了企业产品线，整合Slack、Google Drive等工具，并推出AgentKit构建AI代理系统，其新一代多模态模型已接入Databricks等数据平台，支持企业私有化部署。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/shiitake-nvidia-uai-1032x580.png",
+            "url": "https://cn.technode.com/post/2025-11-06/openai-enterprise-1m-users/",
+            "category": "AI"
+        },
+        {
+            "title": "萨姆·阿尔特曼称OpenAI年收入达200亿美元，数据中⼼承诺达1.4万亿美元",
+            "time": "2025-11-06",
+            "source": "TechCrunch",
+            "summary": "OpenAI首席执行官萨姆·阿尔特曼在X平台透露，公司预计将在2025年底实现超过200亿美元的年经常性收入（ARR），并计划在未来8年内获得约1.4万亿美元的数据中心投资承诺。他还提及企业服务、消费设备、机器人、科学发现和AI云服务等未来收入增长方向。此前OpenAI已拥有百万级企业客户，并收购了乔尼·艾维的公司推进AI硬件研发。该声明回应了其CFO关于政府救助言论的争议，阿尔特曼强调OpenAI不依赖政府 bailout。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/",
+            "category": "AI"
+        },
+        {
+            "title": "混乱与谎言：根据新证词，萨姆·阿尔特曼为何被OpenAI罢免",
+            "time": "2025-11-06",
+            "source": "The Verge",
+            "summary": "OpenAI联合创始人Ilya Sutskever在Elon Musk诉OpenAI和Sam Altman的法律诉讼中作证，指控Altman长期欺骗董事会、挑拨高管对立、隐瞒关键信息。Sutskever提交了一份52页的备忘录，详述Altman在管理中的操纵行为，并称其不可信任。尽管Altman在被短暂罢免后复职，但多位高管随后离职，Sutskever也已离开创办新公司。OpenAI回应称2023年的事件已由独立审查终结，认定Altman仍是合适领导者。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit",
+            "category": "AI"
+        },
         {
             "title": "备受期待，OpenAI视频生成应用Sora将登陆安卓平台",
             "time": "2025-11-05",
@@ -5098,6 +5233,33 @@
     ],
     "苹果": [
         {
+            "title": "每年10亿美元，苹果请来Gemini外援，Siri体验要刷新了？",
+            "time": "2025-11-07",
+            "source": "36氪",
+            "summary": "苹果拟每年支付10亿美元与谷歌达成合作，将Gemini大模型作为Apple Intelligence的云端底座，全面升级Siri的生成式AI能力。此举旨在弥补苹果自研云端模型进展缓慢的短板，提升复杂任务处理与多模态理解表现，同时通过自建PCC私有云保障用户数据隐私。尽管短期内可显著改善体验，但外界质疑苹果是否将丧失AI自研主导权。该合作尚未在中国落地，国内市场或仍依赖百度、阿里等本土模型。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251106/v2_589ef4af10f34d6c94d8347b0648b487@1547419282_oswg123956oswg740oswg414_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3541583033457028",
+            "category": "AI"
+        },
+        {
+            "title": "苹果计划使用定制版谷歌Gemini为Apple Intelligence提供支持",
+            "time": "2025-11-06",
+            "source": "The Verge",
+            "summary": "据彭博社报道，苹果计划每年支付谷歌约10亿美元，使用其定制版Gemini大模型来增强Siri的AI功能，该模型拥有1.2万亿参数，远超苹果自研模型。Gemini将运行在苹果的私有云服务器上，用于生成摘要和规划任务，但苹果仍将继续开发自有AI技术，未来可能替代Gemini。此合作不同于此前与OpenAI或Anthropic的谈判，标志着苹果在AI领域的重要战略调整。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri",
+            "category": "AI"
+        },
+        {
+            "title": "消息称苹果首款折叠屏iPhone或搭载屏下前摄，Air系列仍在规划",
+            "time": "2025-11-06",
+            "source": "动点科技",
+            "summary": "据摩根士丹利预测，苹果首款折叠屏iPhone（暂定名iPhone Fold）预计于2026年下半年发布，采用内折设计，内屏约7.8英寸，外屏约5.5英寸，配备2400万像素屏下前置摄像头，取消Face ID，搭载A20芯片、12GB内存和最高1TB存储，电池容量达5500mAh，售价约2000美元。同时，苹果仍在规划iPhone Air系列后续机型，并计划在2027年发布的iPhone 20系列中引入LOFIC影像技术，以提升动态范围和画质表现。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-11-06/apple-foldable-iphone/",
+            "category": "其他"
+        },
+        {
             "title": "苹果据称正研发搭载 iPhone 芯片的低价版 Mac 笔电",
             "time": "2025-11-05",
             "source": "动点科技",
@@ -6152,6 +6314,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "饿了么与淘宝闪购品牌融合的这步，标志着即时零售进入新周期",
+            "time": "2025-11-07",
+            "source": "钛媒体",
+            "summary": "饿了么APP更名为“淘宝闪购”，标志着阿里将餐饮外卖、即时零售与本地生活业务全面整合，开启即时零售新周期。专家庄帅分析，此举突破了饿了么品牌心智局限，依托淘宝生态的流量、用户、供给与菜鸟履约能力，构建全场景竞争优势。淘宝闪购上线后非餐饮订单占比超16%，日订单峰值达1.2亿，带动手淘DAU增长20%。同时，行业竞争从价格战转向品质与生态协同，AI技术与全业态协同成为核心驱动力。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/11/0b56a4a8d217c74ad1db03f86534c06d_1762477441.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1922/gravity/center/crop/!1400x1922&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7752704.html",
+            "category": "社交"
+        },
+        {
             "title": "阿里味儿的AI山姆，我是一个都不敢点。",
             "time": "2025-11-05",
             "source": "卡尔的AI沃茨",
@@ -6159,6 +6330,15 @@
             "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkiaYJTfo4YqpVVC2Gf0lZqkV2K6vicpNMkCNrg4HUu9romBIUmlmrqOuibmusU2Wl3NFXwFW84OWfVA/0?wx_fmt=jpeg",
             "url": "https://mp.weixin.qq.com/s/CmKjPUlrvZOHt2I1gAw_PQ",
             "category": "AI"
+        },
+        {
+            "title": "高德与小鹏汽车达成全球生态合作，共建全球最大Robotaxi聚合生态",
+            "time": "2025-11-05",
+            "source": "动点科技",
+            "summary": "高德与小鹏汽车宣布达成全球生态合作，小鹏Robotaxi正式接入高德平台，共同打造行业首个‘出行平台+前装量产Robotaxi’合作模式。双方将以高德的‘空间智能’技术为核心，整合自动驾驶感知、城市级决策与端到端出行体验，推动高德成为全球最大Robotaxi聚合平台。高德已覆盖全球200多个国家和地区，此次合作被视为中国Robotaxi加速规模化与全球化的重要信号，标志着高德从导航平台向AI驱动的智能出行基础设施转型。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/tesla-roadster-25-cars-worth-waiting-for-308-1527124390-uai-1032x580.jpeg",
+            "url": "https://cn.technode.com/post/2025-11-05/amap-xpeng-robotaxi-ecosystem/",
+            "category": "其他"
         },
         {
             "title": "消息称高德将进军Robotaxi领域，定位战略级业务拓展全球市场",
@@ -6660,6 +6840,24 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊推出AI驱动的Kindle翻译服务，助力电子书作者拓展全球市场",
+            "time": "2025-11-06",
+            "source": "TechCrunch",
+            "summary": "亚马逊推出了名为Kindle Translate的AI翻译服务，专为使用Kindle Direct Publishing的作者设计，初期支持英语与西班牙语、德语与英语之间的互译。该服务旨在解决电子书多语言版本稀缺的问题，目前免费提供，作者可在发布前预览翻译内容。尽管AI翻译存在准确性局限，亚马逊称其已自动评估翻译质量。译文将标注为“Kindle Translate”，并可纳入Kindle Unlimited等计划。该服务面临多个AI翻译工具的竞争，业内对AI在文学翻译中缺乏语境把握能力仍存争议。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/amazon-kindle-stock-image-GettyImages-1202535978.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/06/amazon-launches-an-ai-powered-kindle-translate-service-for-ebook-authors/",
+            "category": "AI"
+        },
+        {
+            "title": "亚马逊测试AI工具自动将书籍翻译成其他语言",
+            "time": "2025-11-06",
+            "source": "Engadget",
+            "summary": "亚马逊推出名为Kindle Translate的AI工具，可自动将书籍在英语、西班牙语和德语之间进行翻译，目前仅限部分Kindle Direct Publishing平台的作者试用。该工具将在出版前自动评估翻译准确性，作者可预览内容，但可能无法理解目标语言。专家担忧AI翻译可能遗漏语言 nuances 或产生幻觉内容，影响阅读体验。未来将扩展更多语言支持。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/tE7UEAXYl_L0QoN6YJQ1Rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MjQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/feb93d70-bb3c-11f0-9ddb-bd8765da3f47",
+            "url": "https://www.engadget.com/ai/amazon-is-testing-an-ai-tool-that-automatically-translates-books-into-other-languages-183056809.html",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI合纵亚马逊，微软连横Anthropic，硅谷只有利益没有盟友",
             "time": "2025-11-05",
             "source": "36氪",
@@ -6667,6 +6865,15 @@
             "image_url": "https://img.36krcdn.com/hsossms/20251105/v2_8ff4273bece1483b9299143354c06b9c@5091053_oswg53903oswg1080oswg161_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3539549845434240/",
             "category": "AI"
+        },
+        {
+            "title": "你有钱也没用！亚马逊一直试图搞死Steam 但却失败了",
+            "time": "2025-11-05",
+            "source": "游侠网",
+            "summary": "亚马逊曾长期试图通过Prime Gaming、Twitch整合、Luna云游戏等策略颠覆Steam的市场主导地位，但均以失败告终。前Prime Gaming副总裁伊桑·埃文斯坦言，尽管亚马逊拥有雄厚资源，却始终未能复制Steam所构建的完整生态体系——包括社交网络、游戏库与成就系统等深度用户粘性。Steam虽规模较小，但其综合体验难以被单纯技术或资本投入替代，最终亚马逊承认竞争失败。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/05/584_2025110584728257.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/975465.html",
+            "category": "游戏"
         },
         {
             "title": "亚马逊向Perplexity发出法律威胁，因AI购物助手未经标识访问其网站",
@@ -7172,6 +7379,15 @@
     ],
     "美团": [
         {
+            "title": "DoorDash活成了美团羡慕的样子",
+            "time": "2025-11-07",
+            "source": "钛媒体",
+            "summary": "文章对比了美国外卖平台DoorDash与中国美团的商业模式差异，指出DoorDash凭借聚焦郊区市场、启用以女性为主的灵活配送队伍、高客单价与会员服务等策略，实现了高毛利运营，市值一度超越美团；而美团因国内市场竞争激烈、用户价格敏感、配送时效要求高，被迫承担高昂配送成本并依赖规模效应。二者差异源于中美社会结构、消费习惯与监管环境的根本不同，而非优劣之分。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/11/9f31bc93773f681e6899de3b00875544_1762477718.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x563/gravity/center/crop/!1400x563&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7752686.html",
+            "category": "社交"
+        },
+        {
             "title": "美团新独立APP，点不了菜只能点AI",
             "time": "2025-11-03",
             "source": "量子位",
@@ -7506,6 +7722,60 @@
     ],
     "Rockstar Games": [
         {
+            "title": "《GTA 6》延期至 2026 年 11 月 19 日发售",
+            "time": "2025-11-07",
+            "source": "动点科技",
+            "summary": "Rockstar Games 宣布《GTA 6》发售日期推迟至2026年11月19日，原定于2026年5月26日登陆PS5和Xbox Series平台。公司表示此举旨在确保游戏达到玩家期望的精良水准，完整呈现广袤的莱昂尼达州与现代罪恶都市的沉浸式世界。尽管延期，玩家仍可期待更高质量的游戏体验。该消息引发广泛关注，此前预告片中的细节也持续引发热议。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/截屏2025-11-07-09.07.01.jpg",
+            "url": "https://cn.technode.com/post/2025-11-07/gta-6-delay-again/",
+            "category": "游戏"
+        },
+        {
+            "title": "《GTA6》跳票后甲亢哥崩溃大哭！等它发售孩子都有了",
+            "time": "2025-11-07",
+            "source": "游侠网",
+            "summary": "R星官方宣布《侠盗猎车手6》（GTA6）再次跳票，发售日从2026年5月26日推迟至2026年11月19日。知名YouTube博主“甲亢哥”在直播中情绪崩溃，痛诉等待过程令人绝望，称等游戏发售时自己可能已步入中年、娶妻生子甚至养猫狗，坚信游戏还会继续延期至2027年。该消息引发玩家广泛共鸣，社交媒体上热议R星频繁跳票对玩家情感的长期消耗。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/07/584_2025110794701489.png",
+            "url": "https://www.ali213.net/news/html/2025-11/976239.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《GTA6》再跳票引发母公司Take-Two股价跳水 玩家哀嚎",
+            "time": "2025-11-07",
+            "source": "游侠网",
+            "summary": "R星官方宣布《GTA6》发售日期推迟至2026年11月19日，引发玩家强烈不满，社交媒体评论区一片哀嚎，甚至引来《赛博朋克2077》官方账号的调侃。消息公布后，母公司Take-Two股价应声下跌，玩家呼吁尽快发布第三支预告片以平息众怒。该消息源于R星官方公告，目前尚未有实机玩法展示，游戏热度持续高涨。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/07/584_2025110793737490.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/976235.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《GTA6》或无缘TGA年度游戏！还没发售就要截止评选了",
+            "time": "2025-11-07",
+            "source": "游侠网",
+            "summary": "R星官方宣布《GTA6》发售日期推迟至2026年11月19日，而TGA年度游戏提名评选通常在11月中下旬截止，导致该游戏极有可能错过2026年TGA评选资格。由于Rockstar一贯采取严格的保密政策，若要在发售当天同步完成媒体评测与评委体验版分发，时间窗口极为紧张，几乎没有缓冲余地。尽管存在评选委员会特例处理的可能，但可能性较低，玩家和业界普遍担忧其将被排除在年度游戏候选名单之外。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/07/584_2025110795952240.png",
+            "url": "https://www.ali213.net/news/html/2025-11/976267.html",
+            "category": "游戏"
+        },
+        {
+            "title": "我们真不跳了！T2执行官对《GTA6》新发售日充满信心",
+            "time": "2025-11-07",
+            "source": "游侠网",
+            "summary": "T2首席执行官泽尔尼克在采访中表示，《GTA6》因需进一步打磨游戏质量，将发售日期从2026年5月26日推迟至2026年11月19日。他强调，此举是为了确保游戏达到最高标准，避免仓促发布导致负面后果，并对新日期充满信心。此前R星已确认延期消息，T2方面也重申了对游戏品质的重视，回应了玩家对跳票的担忧。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/07/584_2025110793534788.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/976249.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《侠盗猎车手VI》再次延期",
+            "time": "2025-11-06",
+            "source": "TechCrunch",
+            "summary": "备受期待的电子游戏《侠盗猎车手VI》再度延期，最新发布日期定为2026年11月19日。此前该作原计划于2025年秋季发售，后推迟至2026年5月。Rockstar Games表示，额外的开发时间将确保游戏达到玩家期待的精细品质。该系列前作《GTA V》是历史上最快突破10亿美元销售额的娱乐产品，其预告片在2023年发布时也曾创下YouTube 24小时内最高观看纪录。近期，该公司还因内部信息泄露解雇了30至40名员工。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/12/grand-theft-auto-youtube-record.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/06/grand-theft-auto-vi-is-delayed-again/",
+            "category": "游戏"
+        },
+        {
             "title": "《GTA6》新预告日期再落空？粉丝重新锁定希望！",
             "time": "2025-10-22",
             "source": "游侠网",
@@ -7734,6 +8004,15 @@
         }
     ],
     "卡普空": [
+        {
+            "title": "卡普空更新白金销量榜！《怪猎世界》以2180万份居榜首",
+            "time": "2025-11-07",
+            "source": "游侠网",
+            "summary": "卡普空公布截至2025年9月30日的白金游戏销量数据，《怪物猎人：世界》以2180万份稳居公司历史销量榜首，本季度新增10万份。《生化危机》系列多部作品持续热销，其中《生化危机2 重制版》达1630万份，《生化危机：村庄》达1280万份。《怪物猎人：崛起》和《怪物猎人：荒野》也表现强劲，分别累计1780万份和1070万份。《鬼泣5》销量突破1070万份，《龙之信条2》达390万份，新作《漫威VS卡普空 格斗合集》也成功迈入百万销量行列，彰显卡普空经典IP的持久生命力。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/07/584_2025110794800360.png",
+            "url": "https://www.ali213.net/news/html/2025-11/976237.html",
+            "category": "游戏"
+        },
         {
             "title": "卡普空×万代推出《生化2RE》大型街机游戏 今冬发售",
             "time": "2025-09-28",
@@ -8014,6 +8293,24 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "历史第一人，马斯克锁定万亿薪酬包，但得先完成这些「不可能任务」",
+            "time": "2025-11-07",
+            "source": "36氪",
+            "summary": "特斯拉股东大会以超75%支持率通过马斯克价值约8780亿美元的薪酬方案，需完成包括市值从1.4万亿美元增至8.5万亿美元、交付2000万辆车、100万Optimus机器人等系列高难度目标。薪酬分12阶段解锁，股份归属后还需持有五年方可出售。此举意在强化马斯克对特斯拉的控制权（持股比例将升至25%），同时要求其建立接班机制。尽管遭挪威主权基金、Glass Lewis等机构反对，支持者仍认为马斯克是推动特斯拉转型为AI与机器人巨头的关键人物。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251107/v2_8fff707bd9f14bfe8e1fdaa956347e78@5091053_img_gif?x-oss-process=image/quality,q_80",
+            "url": "https://36kr.com/p/3542296438206339",
+            "category": "其他"
+        },
+        {
+            "title": "马斯克说特斯拉 Roadster 明年愚人节亮相",
+            "time": "2025-11-07",
+            "source": "动点科技",
+            "summary": "马斯克在特斯拉年度股东大会上表示，特斯拉Roadster 2将于2026年4月1日（愚人节）正式亮相，预计发布后12至18个月开始生产。该车搭载四驱系统，轮上扭矩达10000N·m，百公里加速仅2.1秒，最高时速400km/h，并配备200kWh电池，续航里程达1000km。初代Roadster于2012年停产，Roadster 2原计划2020年投产，但多次推迟。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/08/gta-6-kiss-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-11-07/musk-says-tesla-roadster-will-debut-next-april-fools-day/",
+            "category": "其他"
+        },
         {
             "title": "马斯克提出太空遮阳计划 部署卫星反射阳光为地球降温",
             "time": "2025-11-04",
@@ -9092,6 +9389,15 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "钉钉DingTalk A1双11天猫、抖音双榜第一，国产AI硬件走向普惠",
+            "time": "2025-11-06",
+            "source": "量子位",
+            "summary": "钉钉AI硬件DingTalk A1在双11期间销量爆发，登顶天猫和抖音平台录音笔品类销量与好评榜榜首。该产品依托钉钉AI听记与大模型能力，支持语音转写、纪要生成、场景化分析，并与钉钉工作流深度打通，助力办公提效。旗舰版与青春版定价分别为799元和499元，打破千元定价门槛，推动国产AI硬件普惠。发布两个月以来，已服务数万用户，多家企业批量采购用于提升管理与销售效率。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/3bd879b8523608a8e372c0461e476837.jpeg",
+            "url": "https://www.qbitai.com/2025/11/349521.html",
+            "category": "AI"
+        },
         {
             "title": "一单卖2100元，中国卖家做TikTok“盲勺打包”生意发家",
             "time": "2025-11-05",
