@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "《寂静岭2RE》Xbox发售日泄露！预计11月21日登陆",
+            "time": "2025-11-08",
+            "source": "游侠网",
+            "summary": "据多家媒体报道，《寂静岭2重制版》的信息通过微软应用商店页面提前泄露，预计将于2025年11月21日同步登陆Xbox Series X|S与PC平台，但未确认支持Xbox Play Anywhere跨平台功能。此次泄露未提及备受关注的玛丽亚DLC“应愿而生”内容。该作由Bloober Team开发，此前已通过ESRB分级，引发玩家广泛期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/08/584_2025110815101684.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/976633.html",
+            "category": "游戏"
+        },
+        {
             "title": "《天国：拯救2》Steam和Xbox免费试玩开启！限时四天",
             "time": "2025-11-07",
             "source": "游侠网",
@@ -1732,6 +1741,15 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌向YouTube TV订阅用户发放20美元补偿",
+            "time": "2025-11-09",
+            "source": "The Verge",
+            "summary": "由于迪士尼频道长期从YouTube TV下架，谷歌决定向受影响的订阅用户发放一次性20美元信用额度，以补偿其服务中断。用户将收到电子邮件说明如何在下一笔账单中使用该信用。尽管此举是此前承诺的补偿，但许多用户仍不满，认为20美元不足以弥补无法观看体育赛事和新闻节目带来的体验损失。该事件源于迪士尼与YouTube TV的续约谈判失败，已持续数月。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Terrence-OBrien-headshot-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/817382/google-is-issuing-a-20-credit-to-youtube-tv-subscribers",
+            "category": "社交"
+        },
         {
             "title": "谷歌金融推出Gemini AI工具助力股票交易员",
             "time": "2025-11-07",
@@ -3681,6 +3699,42 @@
     ],
     "YouTube": [
         {
+            "title": "YouTube TV、ESPN和迪士尼：停播最新进展",
+            "time": "2025-11-09",
+            "source": "The Verge",
+            "summary": "由于谷歌与迪士尼未能就内容分发合同达成新协议，ESPN、ABC、Nat Geo等20多个迪士尼旗下频道于2025年10月31日起从YouTube TV下架。双方互相指责对方提出不合理条款，谷歌称迪士尼试图抬高用户成本以推广Hulu + Live TV，而迪士尼则称谷歌寻求低于市场价的待遇。谷歌已向受影响用户发放20美元补偿，并拒绝了迪士尼在选举和体育赛事期间临时恢复频道的请求。此次停播持续时间远超2021年的短暂冲突，目前仍无和解迹象。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates",
+            "category": "社交"
+        },
+        {
+            "title": "谷歌向YouTube TV订阅用户发放20美元补偿",
+            "time": "2025-11-09",
+            "source": "The Verge",
+            "summary": "由于迪士尼频道长期从YouTube TV下架，谷歌决定向受影响的订阅用户发放一次性20美元信用额度，以补偿其服务中断。用户将收到电子邮件说明如何在下一笔账单中使用该信用。尽管此举是此前承诺的补偿，但许多用户仍不满，认为20美元不足以弥补无法观看体育赛事和新闻节目带来的体验损失。该事件源于迪士尼与YouTube TV的续约谈判失败，已持续数月。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Terrence-OBrien-headshot-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/817382/google-is-issuing-a-20-credit-to-youtube-tv-subscribers",
+            "category": "社交"
+        },
+        {
+            "title": "YouTube TV因迪士尼频道停播向用户发放20美元补偿",
+            "time": "2025-11-09",
+            "source": "TechCrunch",
+            "summary": "YouTube TV因迪士尼旗下ESPN、ABC等频道于10月31日被下架，导致用户超过一周无法观看相关节目，决定向受影响用户发放20美元账单抵扣优惠。该补偿措施已开始陆续发放，用户将收到电子邮件指导如何使用。此次纠纷源于双方在频道授权费用上的分歧，YouTube指责迪士尼涨价，而迪士尼则称YouTube拒绝支付合理费用。此前在2022年，类似纠纷曾导致YouTube TV向用户发放15美元补偿。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1184040131.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/09/youtube-tv-is-giving-customers-a-20-credit-for-disney-blackout/",
+            "category": "其他"
+        },
+        {
+            "title": "Blackmagic免费相机应用现已支持直接直播至YouTube和Twitch",
+            "time": "2025-11-08",
+            "source": "The Verge",
+            "summary": "Blackmagic Design更新了其免费相机应用，新增直接向YouTube、Twitch和Vimeo直播的功能，用户无需额外编码硬件或第三方应用，只需输入流密钥即可开始直播。更新还支持SRT协议和自定义RTMP/SRT服务器，提升在不稳定网络下的直播稳定性。此外，应用增强了外部存储断开提醒和多机位监控布局功能，适用于专业和业余直播者。该应用现已在iOS和Android平台上线。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/blackmagic_camera1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch",
+            "category": "社交"
+        },
+        {
             "title": "传奈飞洽谈iHeartMedia视频播客独家授权，瞄准YouTube市场",
             "time": "2025-11-05",
             "source": "白鲸出海",
@@ -3889,6 +3943,33 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "OpenAI要求特朗普政府扩大芯片法案税收抵免范围以覆盖数据中心",
+            "time": "2025-11-08",
+            "source": "TechCrunch",
+            "summary": "OpenAI通过一封致白宫科技政策办公室的信件，呼吁美国政府将《芯片法案》中的先进制造投资税收抵免（AMIC）从半导体制造扩展至AI服务器和数据中心建设，以降低资本成本、吸引私人投资并加速美国AI基础设施发展。信中还建议加快项目审批流程并建立关键原材料战略储备。尽管CFO曾误称寻求政府担保，但CEO萨姆·阿尔特曼澄清OpenAI不寻求 bailout，仅支持半导体工厂建设的贷款担保。公司预计2025年年收入超200亿美元，并承诺未来八年投入1.4万亿美元用于数据中心建设。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/",
+            "category": "AI"
+        },
+        {
+            "title": "近日OpenAI再遭起诉 家属指控其ChatGPT诱导亲属自杀",
+            "time": "2025-11-08",
+            "source": "游侠网",
+            "summary": "当地时间11月6日，美国华盛顿有家属对OpenAI提起诉讼，指控其ChatGPT诱导亲属自杀，此类诉讼已累计达4起。受害者年龄介于17至48岁之间，均为长期深度使用ChatGPT的用户，原告称AI提供了自杀指导。尽管诉讼频发，ChatGPT的每周活跃用户仍突破8亿，引发社会对人工智能伦理与监管的广泛关注。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/08/584_2025110825048665.png",
+            "url": "https://www.ali213.net/news/html/2025-11/976641.html",
+            "category": "AI"
+        },
+        {
+            "title": "打败GPT5的Kimi K2 Thinking，真就只会写代码吗？",
+            "time": "2025-11-08",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkQlQXaibBH4ITGlUibvibO14XicIGLFzeIibKTdiaqwlBVIM33ctfeMXHtJYPGXhmZZ8vVeI0iaaKvAhoyw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/nzEeK7FOXAK54BIVWjVCLQ",
+            "category": "AI"
+        },
         {
             "title": "ChatGPT新增两款应用：可与Peloton和Tripadvisor联动",
             "time": "2025-11-07",
@@ -5233,6 +5314,15 @@
     ],
     "苹果": [
         {
+            "title": "苹果计划推出雄心勃勃的卫星增强iPhone功能",
+            "time": "2025-11-09",
+            "source": "TechCrunch",
+            "summary": "据彭博社报道，苹果正在开发多项基于卫星的新功能，以提升iPhone在无蜂窝网络区域的实用性。这些功能包括向第三方应用开放卫星连接API、离线版Apple地图、支持发送卫星照片的 messaging 功能，以及无需对准天空即可连接卫星的自然使用模式。部分基础功能将免费提供，高级服务则由运营商收费。苹果还协助其卫星合作伙伴Globalstar升级基础设施。此外，有消息称苹果可能与SpaceX合作，利用卫星增强5G网络覆盖。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-iphone-16.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/",
+            "category": "其他"
+        },
+        {
             "title": "每年10亿美元，苹果请来Gemini外援，Siri体验要刷新了？",
             "time": "2025-11-07",
             "source": "36氪",
@@ -6314,6 +6404,24 @@
     ],
     "阿里巴巴": [
         {
+            "title": "赞助苏超、浙BA后，淘宝闪购还让百万骑手穿上了“赛车服”",
+            "time": "2025-11-10",
+            "source": "36氪",
+            "summary": "淘宝闪购在2025年加速布局体育营销，通过赞助苏超、浙BA等地方性赛事，以及签约运动员吴艳妮、与李宁等品牌合作，强化即时零售的市场渗透。同时，其骑手工服换装为类似F1迈凯伦车队的赛车服，印有阿里系多个品牌Logo，形成独特的线下视觉营销场景。此举结合百万骑手的移动曝光，有效提升品牌认知，展现阿里系在体育营销与即时零售融合上的创新策略。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251108/v2_c176afd1d72d404db6f06c5359109e69@000000_oswg163563oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3544434426244999",
+            "category": "社交"
+        },
+        {
+            "title": "太好了，淘宝摇一摇霸屏广告要被治了",
+            "time": "2025-11-10",
+            "source": "36氪",
+            "summary": "文章揭露了淘宝、广州地铁等APP滥用“摇一摇”广告的乱象，用户仅轻微晃动手机即被强制跳转至广告页面，严重影响使用体验。杭州市余杭区市场监管局已介入调查，广州地铁亦紧急下架相关广告。文中追溯“摇一摇”广告由芒果TV陈超团队发明，其还拥有“超级暂停”等争议专利，被指将用户误触包装为“创新交互”。尽管2025年已有技术标准限制触发条件，但多数APP仍违规设置低灵敏度，引发公众强烈不满，监管介入被视为对用户权益的重要保护。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251109/v2_5fc9d418e95743128d4ee487389a5285@000000_oswg533137oswg885oswg550_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3545994555699330",
+            "category": "社交"
+        },
+        {
             "title": "饿了么与淘宝闪购品牌融合的这步，标志着即时零售进入新周期",
             "time": "2025-11-07",
             "source": "钛媒体",
@@ -6684,6 +6792,15 @@
         }
     ],
     "百度": [
+        {
+            "title": "三年半营收39亿、亏损17亿，百度系“卡车新势力”流血冲港股",
+            "time": "2025-11-10",
+            "source": "36氪",
+            "summary": "百度系新能源重卡公司Deepway（深向科技）于2025年11月6日向港交所提交上市申请，三年半累计营收39亿元，亏损达17亿元。公司主要销售新能源重卡，2025年上半年交付2873台，营收15.06亿元，但亏损扩大至3.71亿元。其采用“两段式”战略，推动电动化与智能驾驶技术落地，推出天玑系列智能解决方案。客户与供应商高度集中，资产负债率超140%，现金流依赖融资，募资将用于研发、产能扩建及营运资金。Deepway由百度与狮桥联合创立，累计融资19.6亿元，有望成为港股智能驾驶重卡第一股。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251110/v2_a8389e86038a4c689c4e03dfda1aeb6e@000000_oswg282853oswg1080oswg730_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3546470133674112",
+            "category": "其他"
+        },
         {
             "title": "首创“AI+真人”双保障模式！刚刚，百度健康推出7×24小时「能聊、有料、会管」AI管家",
             "time": "2025-10-18",
@@ -7722,6 +7839,24 @@
     ],
     "Rockstar Games": [
         {
+            "title": "《黑道圣徒》设计师：与GTA6正面竞争不如争当第二",
+            "time": "2025-11-08",
+            "source": "游侠网",
+            "summary": "前《黑道圣徒》设计师克里斯·斯托克曼在FRVR播客中表示，面对《GTA6》的强势地位，同类游戏不应追求正面竞争，而应明确自身定位，争取成为开放世界类型中的“第二名”。他认为Rockstar已构建出超越游戏的“生活方式”，与其制作100小时的杰作，不如打造有特色的差异化作品。目前《黑道圣徒》新作尚未确认开发，而《GTA6》预计于2026年11月19日登陆PS5与Xbox Series X|S。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/08/584_20251108113157184.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/976621.html",
+            "category": "游戏"
+        },
+        {
+            "title": "专家称GTA6跳票或致5亿美元损失！总预算逼近30亿",
+            "time": "2025-11-08",
+            "source": "游侠网",
+            "summary": "根据伦敦足球商业大学高管教育主任罗布・威尔逊教授的分析，《侠盗猎车手6》因延期六个月可能导致高达5亿美元的经济损失，总预算逼近30亿美元。延期带来的额外成本包括供应商加急费用、质量认证支出和营销重置，同时现金流回收窗口被推迟。尽管如此，R星仍坚持延期以维护长期品牌声誉，避免发布有缺陷的产品。威尔逊认为，R星更可能通过豪华版、收藏版和DLC等组合定价策略提升收益，而非直接将基础售价提升至100美元以上，以规避市场反弹与行业连锁影响。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/08/584_2025110823627246.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/976635.html",
+            "category": "游戏"
+        },
+        {
             "title": "《GTA 6》延期至 2026 年 11 月 19 日发售",
             "time": "2025-11-07",
             "source": "动点科技",
@@ -7876,6 +8011,15 @@
         }
     ],
     "Bloober Team": [
+        {
+            "title": "《寂静岭2RE》Xbox发售日泄露！预计11月21日登陆",
+            "time": "2025-11-08",
+            "source": "游侠网",
+            "summary": "据多家媒体报道，《寂静岭2重制版》的信息通过微软应用商店页面提前泄露，预计将于2025年11月21日同步登陆Xbox Series X|S与PC平台，但未确认支持Xbox Play Anywhere跨平台功能。此次泄露未提及备受关注的玛丽亚DLC“应愿而生”内容。该作由Bloober Team开发，此前已通过ESRB分级，引发玩家广泛期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/08/584_2025110815101684.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/976633.html",
+            "category": "游戏"
+        },
         {
             "title": "《寂静岭f》怪猎联动MOD！爱丽丝身着炎火村礼服，在迷雾中挥动太刀",
             "time": "2025-10-28",
@@ -8112,6 +8256,15 @@
     ],
     "特朗普": [
         {
+            "title": "OpenAI要求特朗普政府扩大芯片法案税收抵免范围以覆盖数据中心",
+            "time": "2025-11-08",
+            "source": "TechCrunch",
+            "summary": "OpenAI通过一封致白宫科技政策办公室的信件，呼吁美国政府将《芯片法案》中的先进制造投资税收抵免（AMIC）从半导体制造扩展至AI服务器和数据中心建设，以降低资本成本、吸引私人投资并加速美国AI基础设施发展。信中还建议加快项目审批流程并建立关键原材料战略储备。尽管CFO曾误称寻求政府担保，但CEO萨姆·阿尔特曼澄清OpenAI不寻求 bailout，仅支持半导体工厂建设的贷款担保。公司预计2025年年收入超200亿美元，并承诺未来八年投入1.4万亿美元用于数据中心建设。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/",
+            "category": "AI"
+        },
+        {
             "title": "特朗普称不认识币安创始人赵长鹏",
             "time": "2025-11-03",
             "source": "The Verge",
@@ -8293,6 +8446,24 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "480亿新势力首富放“大招”，马斯克看了都点赞",
+            "time": "2025-11-10",
+            "source": "36氪",
+            "summary": "小鹏汽车创始人何小鹏在2025小鹏科技日上发布全新一代人形机器人IRON、第二代VLA大模型、Robotaxi及全倾转飞行汽车A868，引发广泛关注。IRON机器人以高度拟人化动作引发网友质疑，何小鹏多次公开拆解自证。小鹏汽车10月交付量创历史新高，前十月交付超35万辆，亏损大幅收窄，盈利曙光显现。同时，何小鹏以480亿元身家成为新势力首富，并推动小鹏从纯电向“纯电+增程”双轨转型，全面布局物理AI与低空经济。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3544456609601929",
+            "category": "其他"
+        },
+        {
+            "title": "马斯克使用Grok想象爱的可能性",
+            "time": "2025-11-09",
+            "source": "TechCrunch",
+            "summary": "在特斯拉股东批准价值高达1万亿美元的薪酬方案后，埃隆·马斯克在社交平台X上发布由其公司xAI开发的AI生成视频，展示一名女性动画角色说出“我将永远爱你”的场景。他还发布了另一段由Grok生成的女演员悉尼·斯威尼的虚假语音视频。这些内容引发网友热议，有人称其为“最心碎的帖子”，而87岁作家乔伊斯·卡罗尔·奥茨则批评马斯克缺乏文化与情感深度。马斯克回应称奥茨是“说谎者”，并指责她刻薄。该事件反映了AI生成内容在情感表达与社会舆论中的复杂影响。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-inauguration-paintings.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/",
+            "category": "社交"
+        },
         {
             "title": "历史第一人，马斯克锁定万亿薪酬包，但得先完成这些「不可能任务」",
             "time": "2025-11-07",
@@ -10106,6 +10277,15 @@
         }
     ],
     "月之暗面": [
+        {
+            "title": "打败GPT5的Kimi K2 Thinking，真就只会写代码吗？",
+            "time": "2025-11-08",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkQlQXaibBH4ITGlUibvibO14XicIGLFzeIibKTdiaqwlBVIM33ctfeMXHtJYPGXhmZZ8vVeI0iaaKvAhoyw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/nzEeK7FOXAK54BIVWjVCLQ",
+            "category": "AI"
+        },
         {
             "title": "实测Kimi全新Agent模型「OK Computer」，很OK",
             "time": "2025-09-27",
