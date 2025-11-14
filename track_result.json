@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "微软旗下消除解谜玩法《我的世界》手游低调测试！",
+            "time": "2025-11-14",
+            "source": "游侠网",
+            "summary": "微软旗下Mojang与King合作开发的手机游戏《我的世界：爆破》已在马来西亚开启限时iOS测试，采用消除解谜玩法，融合《我的世界》方块与角色元素。游戏为免费模式，含步数限制与疑似付费系统，目前仅通过官方FAQ披露信息，测试期为一至两周，未来计划扩展至更多平台和地区。尽管界面设计引发部分玩家困惑，但其创新结合仍吸引关注。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/14/584_2025111464040721.png",
+            "url": "https://www.ali213.net/news/html/2025-11/978319.html",
+            "category": "游戏"
+        },
+        {
+            "title": "暴雪前总裁称Valve进军家用主机市场实为利好Xbox！",
+            "time": "2025-11-14",
+            "source": "游侠网",
+            "summary": "暴雪前总裁、前微软Xbox与Windows企业副总裁迈克·伊巴拉表示，Valve推出Steam Machine家用主机并非对Xbox的威胁，反而有助于微软聚焦软件生态。他认为微软无需再投入资源开发混合硬件，应专注打造精品游戏与服务，以维持Xbox主机的营收模式。他批评ROG Xbox Ally等PC/Xbox双模式设备定价过高，建议微软避免偏离核心战略，顺应Valve在PC平台的生态优势。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/14/584_2025111461940488.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/978315.html",
+            "category": "游戏"
+        },
+        {
+            "title": "微软 CEO 纳德拉：这一次工业革命，从 “AI 超级工厂”开始",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "微软CEO纳德拉提出，AI时代的工业革命始于构建“行星级AI超级工厂”，而非单纯竞争模型性能。微软通过建设亚特兰大Fairwater 2数据中心，连接跨州高速网络，打造可扩展、可调度的AI基础设施体系，重构数据中心为“AI发电站”，并推出AI-WAN全球算力网络。其战略重心从模型层转向底层算力供给、软件优化与系统架构，强调token生成与调度的闭环能力，以实现AI像水电一样稳定供应，奠定长期竞争壁垒。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3552116517296516",
+            "category": "AI"
+        },
+        {
             "title": "更完美的掌机体验！Xbox Ally掌机2026年软件更新前瞻",
             "time": "2025-11-11",
             "source": "游侠网",
@@ -645,6 +672,42 @@
     ],
     "索尼": [
         {
+            "title": "前任天堂美国总裁雷吉：Switch 永不会与 PlayStation 正面竞争",
+            "time": "2025-11-13",
+            "source": "动点科技",
+            "summary": "前任天堂美国总裁雷吉·菲尔斯-埃米在接受采访时表示，Switch 2不会与索尼PlayStation形成直接竞争，任天堂的硬件策略注重性能与效率的平衡，而非追求最强硬件配置。他指出，任天堂擅长优化游戏体积与性能，如《塞尔达传说：王国之泪》可将体积压缩至同类作品的一半，并认为若能将此类经验分享给第三方开发者，即使硬件不占优势，也能帮助第三方游戏在Switch 2上取得成功。他强调任天堂的商业基因决定了其不会参与传统主机大战。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/dk2k2k1-uai-1032x580.webp",
+            "url": "https://cn.technode.com/post/2025-11-13/reggie-fils-aime-about-nintendo-switch-2-leadership-and-the-console-war/",
+            "category": "游戏"
+        },
+        {
+            "title": "索尼在日本推出“限定”低价版 PlayStation 5",
+            "time": "2025-11-12",
+            "source": "动点科技",
+            "summary": "索尼在State of Play Japan活动上宣布，将于11月21日起在日本独家发售一款限量版PlayStation 5数字版主机，售价55000日元（约2540元），较原价降低近25%。该机型仅支持日语系统账号，配备825GB固态硬盘，无光驱，外观采用哑光材质。此举与任天堂推出日语版Switch 2类似，可能受日元贬值及美国关税政策影响。尽管全球多地区涨价，PS5销量仍超8400万台，表现强劲。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/dk2k2k1-uai-1032x580.webp",
+            "url": "https://cn.technode.com/post/2025-11-12/playstation-5-ps5-japan-exclusive-edition-sony/",
+            "category": "游戏"
+        },
+        {
+            "title": "PS5五周年特别福利：游玩55小时以上玩家有九折优惠券",
+            "time": "2025-11-12",
+            "source": "游侠网",
+            "summary": "索尼互动娱乐为庆祝PS5发售五周年，推出「GO！GO！PS5！」特别活动，涵盖多款热门游戏优惠促销，并为累计游玩时长达到55小时以上的玩家发放九折优惠券。参与游戏包括《艾尔登法环》《最终幻想7：重生》《合金装备3：重制版》《死亡搁浅2》《怪物猎人：荒野》等。玩家需留意账户通知以领取福利，活动旨在回馈长期支持PS5的用户。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/12/584_2025111244737740.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/977843.html",
+            "category": "游戏"
+        },
+        {
+            "title": "索尼发布全新PS5显示器：27英寸IPS屏幕 240Hz刷新率",
+            "time": "2025-11-12",
+            "source": "游侠网",
+            "summary": "索尼在State of Play直播中发布了专为日本市场打造的27英寸PlayStation显示器，配备2560×1440 IPS屏幕、240Hz刷新率及VRR可变刷新率技术，支持HDR与Auto HDR Tone Mapping，并内置DualSense手柄充电挂钩。显示器拥有2个HDMI 2.1、1个DisplayPort 1.4接口及USB-A/C接口，兼容PS5、PC和Mac，预计2026年在美日上市，具体售价与日期尚未公布。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/12/584_2025111250123870.png",
+            "url": "https://www.ali213.net/news/html/2025-11/977829.html",
+            "category": "游戏"
+        },
+        {
             "title": "索尼已经卖出了 8420 万台 PS5",
             "time": "2025-11-11",
             "source": "动点科技",
@@ -941,6 +1004,42 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "《宝可梦 Pokopia》公开全新形态：垂耳皮卡丘登场",
+            "time": "2025-11-14",
+            "source": "游侠网",
+            "summary": "宝可梦公司公布了即将于2026年3月5日发售的Switch2独占游戏《宝可梦Pokopia》中的三种全新宝可梦形态，包括垂耳皮卡丘、苔藓卡比兽和涂导师图图犬。这些形态首次对皮卡丘和卡比兽进行彻底重塑，突破了以往仅限于外观变化的设计。游戏融合了《我的世界》与《动物森友会》的玩法，玩家可操控百变怪化身多种宝可梦进行岛屿建设。官方尚未公布新形态的具体功能，但推测可能与任务触发或环境互动相关。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/14/584_2025111461050895.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/978313.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂美国前总裁“大猩猩”雷吉担忧游戏业缺乏创新",
+            "time": "2025-11-14",
+            "source": "游侠网",
+            "summary": "任天堂美国前总裁雷吉·菲尔斯-埃米在采访中指出，随着3A游戏开发预算持续攀升，厂商更倾向于保守的“安全牌”项目，导致行业创新停滞。他以Insomniac Games为例，认为其因《漫威蜘蛛侠》成功而被迫持续开发同类IP，削弱了原创动力。雷吉强调，过去十年的创新多来自独立开发者，而大型厂商因高成本压力难以冒险，令游戏产业面临内容同质化风险。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/14/584_2025111482005909.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/978335.html",
+            "category": "游戏"
+        },
+        {
+            "title": "前任天堂美国总裁雷吉：Switch 永不会与 PlayStation 正面竞争",
+            "time": "2025-11-13",
+            "source": "动点科技",
+            "summary": "前任天堂美国总裁雷吉·菲尔斯-埃米在接受采访时表示，Switch 2不会与索尼PlayStation形成直接竞争，任天堂的硬件策略注重性能与效率的平衡，而非追求最强硬件配置。他指出，任天堂擅长优化游戏体积与性能，如《塞尔达传说：王国之泪》可将体积压缩至同类作品的一半，并认为若能将此类经验分享给第三方开发者，即使硬件不占优势，也能帮助第三方游戏在Switch 2上取得成功。他强调任天堂的商业基因决定了其不会参与传统主机大战。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/dk2k2k1-uai-1032x580.webp",
+            "url": "https://cn.technode.com/post/2025-11-13/reggie-fils-aime-about-nintendo-switch-2-leadership-and-the-console-war/",
+            "category": "游戏"
+        },
+        {
+            "title": "好烦，任天堂有太多 App 了",
+            "time": "2025-11-12",
+            "source": "动点科技",
+            "summary": "文章批评任天堂在移动端推出过多功能重叠的应用程序，包括Switch主应用、商店应用、Nintendo Today新闻应用和音乐应用，甚至因家长控制功能增至五款。尽管这些应用各有用途，但功能交叉、体验分散，远不如索尼和微软的整合式设计。作者质疑其封闭策略意在提升订阅收入并规避版权费用，同时指出任天堂多元化布局虽广，但应用泛滥可能引发用户反感，建议简化管理体验。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/1920x1080_NintendoStore_keyArt_app_fullRed_EN.jpg",
+            "url": "https://cn.technode.com/post/2025-11-12/nintendo-too-many-apps/",
+            "category": "游戏"
+        },
         {
             "title": "任天堂Switch2破解难度极高：至少需要十年时间！",
             "time": "2025-11-11",
@@ -1470,6 +1569,78 @@
     ],
     "腾讯": [
         {
+            "title": "游戏业务单季度首超600亿，腾讯高管回应与苹果分成问题",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "腾讯2025年第三季度游戏业务营收达636亿元，同比增长24%，其中国际市场收入首次突破200亿元，主要得益于Supercell游戏、《消逝的光芒：困兽》及收购工作室的贡献。国内游戏市场稳健增长，《王者荣耀》《和平精英》等旗舰产品持续发力，新游《三角洲行动》《无畏契约：源能行动》表现亮眼。腾讯已获批27款新游戏版号，涵盖开放世界、二次元、射击等品类，多款在研产品如《王者荣耀世界》《异人之下》备受期待。腾讯回应苹果分成传闻，称将共同推动小游戏生态繁荣。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_8560fe4d22c44f4a8d30c2a3714ccb95@000000_oswg142581oswg1080oswg511_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551531179031681",
+            "category": "游戏"
+        },
+        {
+            "title": "腾讯选择在微信里“躺平”",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "腾讯发布2025年第三季度财报，收入同比增长15%，利润持续高增，但资本开支同比下降24%并下调全年指引，引发市场对AI投入放缓的关注。相较阿里激进投入AI基建，腾讯依托微信社交护城河，采取谨慎策略，认为现有GPU储备已满足需求，避免重蹈Meta高投入陷阱。文章分析了国内外云市场格局差异，指出阿里因电商份额下滑亟需AI突围，而腾讯更倾向稳健发展。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251114/v2_2b83f6f9522a472a98b5ca0c022f1886@5426566_oswg333237oswg1716oswg1152_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3552154310425729",
+            "category": "社交"
+        },
+        {
+            "title": "不止腾讯，苹果应用生态罕见开放，小程序终于「合法」存在",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "苹果正式推出「小程序合作伙伴计划」，首次在iOS系统中为小程序建立合规框架，允许其通过宿主App分发并接入苹果的支付、年龄分级等核心API，抽成比例从30%降至15%。此举标志着小程序在iOS上从灰色地带走向合法化与商业化，推动轻应用、小游戏和Web技术在移动生态中的复兴，同时为AI时代的功能调用提供底层支持，重塑苹果生态的层级结构。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251114/v2_ed052ab7aba344ef8153ff0b210165be@000000_oswg369447oswg1080oswg898_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3552043713264521",
+            "category": "社交"
+        },
+        {
+            "title": "腾讯：不跟Meta玩心跳，只要稳稳的幸福",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "腾讯发布2025年三季度财报，三大业务稳中有升：游戏收入同比增长23%，海外表现强劲；广告收入增长21%，受益于AI投放工具AIM+；金科与企业服务增速近10%，云业务因算力内供增长受限。毛利率稳定，但研发与销售费用上升拖累利润率。资本开支大幅下降至130亿，回购211亿港元，体现管理层审慎经营风格。海豚投研认为，腾讯AI布局进展显著，但投入周期或短期影响利润，相较Meta，其业务多元、Capex占比更低，抗压能力更强，不易重演Meta困境。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_07f5576653b94244a160c35e95d3cd6f@000000_oswg479174oswg966oswg1326_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551640323996544",
+            "category": "社交"
+        },
+        {
+            "title": "腾讯三季度利润增长近两成，研发支出228亿元创新高",
+            "time": "2025-11-13",
+            "source": "36氪",
+            "summary": "腾讯2025年第三季度实现总营收1928.7亿元，同比增长15%；净利润631.3亿元，同比增长19%。三大核心业务均实现双位数增长，其中增值服务收入959亿元，营销服务收入362亿元，金融科技及企业服务收入582亿元。研发支出达228.2亿元，创历史新高，AI技术在广告定向、游戏和视频制作等领域持续赋能。微信月活达14.14亿，QQ月活降至5.17亿，主要因年轻用户流向短视频平台。腾讯员工总数增至11.5万人，三季度总酬金成本达324亿元。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_480ce8244b1f469c87650269b6b60ff5@5888275_oswg622981oswg1298oswg940_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551436488095878",
+            "category": "社交"
+        },
+        {
+            "title": "腾讯与苹果就小游戏分成降至15%协议“有建设性进展” | 巴伦精选",
+            "time": "2025-11-13",
+            "source": "钛媒体",
+            "summary": "腾讯与苹果就微信小程序游戏内购分成问题达成建设性进展，拟将分成比例从30%降至15%。腾讯总裁刘炽平在三季度财报电话会中表示双方关系良好，持续沟通以推动小游戏生态健康发展。苹果此前因微信规避其支付系统而威胁下架，双方谈判已持续一年多。微信小程序游戏月活达5亿，对苹果App Store分成收入构成显著冲击。腾讯三季度社交网络收入增长5%，广告业务增长21%，AI驱动的广告投放产品AIM+已上线，显示其正通过AI提升广告与游戏变现能力。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/11/3d64532c0913692786d22a703aab404d_1763043544.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x787/gravity/center/crop/!1400x787&ext=.png",
+            "url": "https://www.tmtpost.com/7763845.html",
+            "category": "社交"
+        },
+        {
+            "title": "腾讯音乐（纪要）：订阅增长略放缓、短期投入对盈利有影响",
+            "time": "2025-11-13",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VFbCn84Vr8rzNquUvwUp25UIEc5jyTaoicSAmLJ4yicK1J1FsdmicmrVl03h79SH0ggiaSkrqPyDNB80Q/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/mh1A9VIKg0TtKG7w7v8QxA",
+            "category": "其他"
+        },
+        {
+            "title": "腾讯入局AI浏览器，这还是我认识的QQ Browser吗？",
+            "time": "2025-11-13",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnFf8tssswueeoPM82LKbSWdfD9wPPeIzSRgK7Hp4OehxlFM9OffBFW1otv4J9iazBq5nBSlr0vteg/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/CX7nbPnsqcz4Du9Qbbl_-Q",
+            "category": "AI"
+        },
+        {
             "title": "实测腾讯元宝新出的AI录音笔，突破物理限制后更好用了",
             "time": "2025-10-25",
             "source": "卡尔的AI沃茨",
@@ -1795,6 +1966,87 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "全球首家，AI编程创企估值破2000亿，英伟达和谷歌抢投",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "AI编程工具Cursor母公司Anysphere宣布完成23亿美元D轮融资，投后估值达293亿美元（约2079亿元人民币），成为全球首家估值突破2000亿元的AI编程创企。本轮融资由英伟达、谷歌和Coatue领投，现有投资者亦追加投资。公司年化收入已超10亿美元，拥有300多名员工，并推出自研编程模型Composer。Cursor被英伟达工程师广泛使用，被视为提升编程效率的伙伴，未来将加大科研投入，巩固其在AI编程领域的数据与模型壁垒。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251114/v2_15c62f8e10a2481ea97fefe686f6dfda@000000_oswg156748oswg1000oswg425_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551736231984000",
+            "category": "AI"
+        },
+        {
+            "title": "手机AI「卷」隐私和性能：苹果是老司机，华为、谷歌都是弟弟",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "本文探讨了手机AI领域中隐私与性能的平衡问题，指出苹果提出的私有云计算（PCC）框架正成为行业标杆，华为、OPPO、荣耀及谷歌纷纷跟进，推出类似技术如HPIC、PCC和PAC。谷歌通过TPU芯片和机密计算基础设施，在Pixel 10上实现端云协同的隐私保护AI体验，而华为和OPPO则结合自有芯片与云平台构建安全计算环境。文章认为，尽管厂商难以像苹果或谷歌那样全链路掌控，但端云协同、数据可用不可见已成为AI发展的共识方向。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_149c581850164214b7b08f9c43d1811e@1743780481_oswg41711oswg1050oswg700_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551492566039172",
+            "category": "AI"
+        },
+        {
+            "title": "Google的NotebookLM将支持“深度研究”功能",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "谷歌宣布将AI工具Deep Research整合进NotebookLM，使用户能够通过两种模式进行研究：快速模式和深度模式。深度模式可进行高质量文献分析并自动生成带引用的报告，用户还可实时添加更多资料来源。同时，NotebookLM新增支持Google Sheets、PDF、.docx等文件类型，允许通过URL直接链接Drive文件，提升知识整理效率。该功能将在一周内对所有用户开放。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌将在其应用中推出图片发现信息流",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "谷歌正在其移动应用中推出一个新的图片发现功能，用户可通过底部的“图片”标签浏览根据个人兴趣定制的图片网格，并可保存图片至收藏夹或基于所见内容发起新搜索。该功能将在未来几周内逐步上线Android和iOS平台。此举旨在增强用户在应用内的图片探索体验，类似于社交媒体中的视觉推荐机制。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/google-images-app.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820366/google-is-putting-a-discovery-feed-for-images-in-its-app",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌、亚马逊掀起“海底暗战”，中国企业不应缺席",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "谷歌、亚马逊、Meta等科技巨头正大规模投资建设海底光缆，以提升数据传输性能、降低成本并实现网络战略自主。全球95%以上的国际互联网流量依赖海底光缆，而AI大模型训练对带宽和可靠性提出更高要求，促使科技公司从租用转向自建光缆。目前谷歌已参与33条光缆建设，亚马逊启动“Fastnet”项目，Meta计划投资100亿美元打造全球最长光缆“Waterworth”。这场关乎数字话语权的“海底暗战”正在重塑全球网络基础设施格局，中国企业亟需参与布局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_b38d796a937e472bab898bc22dc2a68e@1743780481_oswg59128oswg1000oswg459_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551521343666566",
+            "category": "其他"
+        },
+        {
+            "title": "谷歌在移动应用中推出专属‘灵感’图片标签，挑战Pinterest",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "谷歌在其移动搜索应用中推出全新的‘图片’标签，旨在为用户提供个性化、每日更新的灵感图片，用于旅行规划、派对筹备、家居装饰和时尚发现等场景，直接对标Pinterest。用户可浏览、搜索并保存图片至收藏夹，该功能预计在未来几周内于美国iOS和Android端上线。此举不仅提升用户粘性，也为谷歌在搜索应用内植入广告提供了新入口，此前已测试广告轮播功能。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/google-images-tab.png?w=1024",
+            "url": "https://techcrunch.com/2025/11/13/google-takes-on-pinterest-with-a-dedicated-inspirational-images-tab-in-its-mobile-app/",
+            "category": "社交"
+        },
+        {
+            "title": "黄仁勋刚说AI竞赛中国会赢，萝卜快跑就超越谷歌Waymo",
+            "time": "2025-11-13",
+            "source": "36氪",
+            "summary": "百度在2025世界大会上发布多项AI进展，其无人驾驶平台萝卜快跑全球累计服务超1700万次，每周全无人订单超25万单，超越谷歌Waymo成为全球最大无人驾驶出行服务平台。依托大模型泛化能力，萝卜快跑快速适配海内外复杂路况，已落地22城并进军中东、欧洲等市场。李彦宏强调AI能力内化为生产力，推动无人驾驶从出行工具升级为“移动第三空间”，带动感知、芯片、整车制造等产业链协同创新，印证中国AI技术从追随者向规则制定者的转变。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_02485faf02214e4a9eb999bda4f6501c@000000_oswg106649oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551413013919881",
+            "category": "AI"
+        },
+        {
+            "title": "Google的NotebookLM新增“深度研究”工具并支持更多文件类型",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "Google为其AI笔记助手NotebookLM推出名为“深度研究”的新功能，可自动执行复杂在线研究，生成源信息支撑的综合报告，并支持用户在后台继续添加资料。该工具允许用户选择“深度研究”或“快速研究”模式，提升知识整理效率。同时，NotebookLM现已支持上传Google Sheets、Google Drive文件链接、PDF及Microsoft Word文档，便于直接生成摘要或批量引用。该更新预计一周内向所有用户推送。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-13-at-10.40.46-AM.png?w=680",
+            "url": "https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/",
+            "category": "AI"
+        },
+        {
+            "title": "观看谷歌DeepMind新AI代理学习玩视频游戏",
+            "time": "2025-11-13",
+            "source": "The Verge",
+            "summary": "谷歌DeepMind发布了新一代AI代理SIMA 2，能够学习在《无人深空》《Valheim》和《山羊模拟器3》等游戏中执行复杂任务，理解用户高阶目标并进行推理与执行。该代理首次整合了Gemini AI，可在未见过的虚拟环境中自主行动，被视为向通用人工智能（AGI）迈进的关键一步。尽管具备游戏陪伴潜力，但团队强调其主要目标是为未来机器人应用提供训练平台，目前仅向学术界和开发者开放有限预览。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Blog-header-sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds%402x.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games",
+            "category": "AI"
+        },
         {
             "title": "美国就业机会中心CEO获得谷歌公益基金投资，提供高级职业技能与AI培训",
             "time": "2025-11-11",
@@ -2760,6 +3012,33 @@
         }
     ],
     "Meta": [
+        {
+            "title": "腾讯：不跟Meta玩心跳，只要稳稳的幸福",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "腾讯发布2025年三季度财报，三大业务稳中有升：游戏收入同比增长23%，海外表现强劲；广告收入增长21%，受益于AI投放工具AIM+；金科与企业服务增速近10%，云业务因算力内供增长受限。毛利率稳定，但研发与销售费用上升拖累利润率。资本开支大幅下降至130亿，回购211亿港元，体现管理层审慎经营风格。海豚投研认为，腾讯AI布局进展显著，但投入周期或短期影响利润，相较Meta，其业务多元、Capex占比更低，抗压能力更强，不易重演Meta困境。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_07f5576653b94244a160c35e95d3cd6f@000000_oswg479174oswg966oswg1326_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551640323996544",
+            "category": "社交"
+        },
+        {
+            "title": "Facebook Marketplace推出全新协作功能与Meta AI集成",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "Meta宣布对Facebook Marketplace进行重大升级，引入协作购物、收藏夹功能及Meta AI深度集成。用户可邀请朋友加入聊天与卖家协商、创建私有或公开的商品收藏夹，并通过AI建议提问以优化购买决策。AI还为车辆列表自动生成关键参数摘要，提升信息透明度。此外，平台新增对商品的点赞与评论功能，并整合eBay和Poshmark商品，优化结账流程，提前显示税费与物流信息，旨在增强社交电商体验并提升用户停留时长。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/13/facebook-marketplace-gets-new-collaborative-and-social-features-meta-ai-integrations/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok推出类似Instagram广播频道的“公告板”功能",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "TikTok于2025年11月13日正式推出名为“公告板”的新功能，允许拥有5万名以上粉丝的成年创作者和品牌向关注者发布单向文本、图片和视频内容， followers仅能点赞表情反应。该功能旨在帮助创作者更高效地发布独家资讯与更新，类似Instagram的广播频道。目前功能已开始向符合条件的用户逐步推送，并已用于音乐人发布新歌、媒体机构发布新闻等场景。所有内容需遵守TikTok社区准则，并提供屏蔽、举报等安全工具。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/tiktok-bulletin-board.png?w=680",
+            "url": "https://techcrunch.com/2025/11/13/tiktok-launches-its-own-version-of-instagrams-broadcast-channels/",
+            "category": "社交"
+        },
         {
             "title": "Meta的冰火两重天：160亿诈骗争议与AI增长",
             "time": "2025-11-11",
@@ -4051,6 +4330,24 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "今日热门产品：Documenso 2.0.0、GPT-5.1 Instant and Thinking、Avaturn Live等",
+            "time": "2025-11-13",
+            "source": "Product Hunt",
+            "summary": "Product Hunt今日发布了一批新兴科技产品，其中Documenso 2.0.0提供企业级电子签名基础设施，GPT-5.1 Instant and Thinking增强ChatGPT的对话智能与个性，Avaturn Live实现AI数字人9倍速度与4倍表情表达。此外，Willow iOS语音输入、Nomad Care Map全球医疗地图、Product Intelligence自动转化支持工单为功能需求等工具也备受关注。整体趋势显示AI在生产力、开发与用户体验领域持续深化应用。",
+            "image_url": "https://ph-files.imgix.net/177d1c05-5cb0-455c-80ad-72f12104fa7b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=48&h=48&fit=crop&frame=1",
+            "url": "https://www.producthunt.com/r/WSGICWU4F44FWU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+PH+Deck+%28ID%3A+112811%29",
+            "category": "AI"
+        },
+        {
+            "title": "GPT-5.1：更智能、更对话化的ChatGPT",
+            "time": "2025-11-12",
+            "source": "OpenAI",
+            "summary": "OpenAI发布GPT-5.1模型，包含GPT-5.1 Instant和GPT-5.1 Thinking两个版本，分别优化了日常对话表现与复杂推理能力。新模型响应更自然、更具同理心，并能自适应思考时间。同时推出更丰富的聊天语气自定义选项（如Professional、Quirky等），支持用户按偏好调整回复风格。GPT-5.1已逐步向付费用户推送，未来将取代GPT-5成为默认模型，并计划一周内上线API。",
+            "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7nERjC8cxT95TuGGENS2z4/27b224ed330c73db2bc14dd1b64688ae/5-1_X_Thread_Card_05_V2.png?w=3840&q=90&fm=webp",
+            "url": "https://www.producthunt.com/r/SKO3A3WR7EYWCJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+PH+Deck+%28ID%3A+112811%29",
+            "category": "AI"
+        },
         {
             "title": "开源又赢闭源，商汤8B模型空间智能碾压GPT-5，AI看懂世界又进了一步",
             "time": "2025-11-11",
@@ -5440,6 +5737,141 @@
     ],
     "苹果": [
         {
+            "title": "游戏业务单季度首超600亿，腾讯高管回应与苹果分成问题",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "腾讯2025年第三季度游戏业务营收达636亿元，同比增长24%，其中国际市场收入首次突破200亿元，主要得益于Supercell游戏、《消逝的光芒：困兽》及收购工作室的贡献。国内游戏市场稳健增长，《王者荣耀》《和平精英》等旗舰产品持续发力，新游《三角洲行动》《无畏契约：源能行动》表现亮眼。腾讯已获批27款新游戏版号，涵盖开放世界、二次元、射击等品类，多款在研产品如《王者荣耀世界》《异人之下》备受期待。腾讯回应苹果分成传闻，称将共同推动小游戏生态繁荣。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_8560fe4d22c44f4a8d30c2a3714ccb95@000000_oswg142581oswg1080oswg511_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551531179031681",
+            "category": "游戏"
+        },
+        {
+            "title": "不止腾讯，苹果应用生态罕见开放，小程序终于「合法」存在",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "苹果正式推出「小程序合作伙伴计划」，首次在iOS系统中为小程序建立合规框架，允许其通过宿主App分发并接入苹果的支付、年龄分级等核心API，抽成比例从30%降至15%。此举标志着小程序在iOS上从灰色地带走向合法化与商业化，推动轻应用、小游戏和Web技术在移动生态中的复兴，同时为AI时代的功能调用提供底层支持，重塑苹果生态的层级结构。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251114/v2_ed052ab7aba344ef8153ff0b210165be@000000_oswg369447oswg1080oswg898_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3552043713264521",
+            "category": "社交"
+        },
+        {
+            "title": "Apple TV将免费提供MLS比赛直播",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "苹果公司与美国职业足球大联盟（MLS）宣布，自2026赛季起，所有MLS赛事包括常规赛、季后赛、Leagues Cup、全明星赛等将不再需要单独订阅MLS Season Pass，而是直接纳入Apple TV订阅服务中，用户无需额外付费即可观看全部比赛。此举标志着MLS Season Pass订阅服务将在2025赛季结束后终止，与苹果此前将F1赛事纳入Apple TV的策略一致，进一步强化其体育内容捆绑策略。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244544584.jpg?quality=90&strip=all&crop=0.0061109753116568%2C0%2C99.987778049377%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass",
+            "category": "社交"
+        },
+        {
+            "title": "苹果和MLS或将取消独立的MLS流媒体服务",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "据ESPN报道，苹果公司与美国职业足球大联盟（MLS）正计划在2026赛季取消独立的MLS Season Pass订阅服务，转而将MLS比赛直接整合进基础的Apple TV订阅中，类似Apple TV对F1赛事的独家播放模式。此举旨在简化用户订阅流程，提升内容可及性，减少用户为单一体育赛事单独付费的负担。目前该计划尚处于消息阶段，尚未有官方正式公告。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820457/apple-and-mls-might-get-rid-of-the-dedicated-mls-streaming-service",
+            "category": "社交"
+        },
+        {
+            "title": "苹果将对迷你应用开发者收取迷你佣金",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "苹果宣布推出一项新计划，允许迷你应用开发者以15%的佣金率替代原有的最高30%抽成，旨在促进迷你应用在App Store上的发展。迷你应用是基于HTML5和JavaScript构建的独立体验，常见于微信等超级应用中。此举被视为应对美国司法部反垄断诉讼的压力，此前苹果因限制超级应用而受到批评。苹果表示，该计划将帮助开发者扩大业务并提升迷你应用的可用性。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK071_APPLE_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820486/apple-mini-app-developers-commission",
+            "category": "社交"
+        },
+        {
+            "title": "手机AI「卷」隐私和性能：苹果是老司机，华为、谷歌都是弟弟",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "本文探讨了手机AI领域中隐私与性能的平衡问题，指出苹果提出的私有云计算（PCC）框架正成为行业标杆，华为、OPPO、荣耀及谷歌纷纷跟进，推出类似技术如HPIC、PCC和PAC。谷歌通过TPU芯片和机密计算基础设施，在Pixel 10上实现端云协同的隐私保护AI体验，而华为和OPPO则结合自有芯片与云平台构建安全计算环境。文章认为，尽管厂商难以像苹果或谷歌那样全链路掌控，但端云协同、数据可用不可见已成为AI发展的共识方向。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_149c581850164214b7b08f9c43d1811e@1743780481_oswg41711oswg1050oswg700_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551492566039172",
+            "category": "AI"
+        },
+        {
+            "title": "苹果正在将虚拟环形灯集成到macOS中",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "苹果在macOS 26.2的第二个测试版中引入了一项名为“Edge Light”的新功能，该功能通过增强显示器边缘的亮度来改善视频通话时的照明效果。这项功能旨在为用户提供更均匀、更自然的面部照明，无需额外的物理环形灯设备。该功能是苹果持续优化视频会议体验的一部分，预计将在正式版中面向所有用户推出。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_fe7066404a704aa20f7c6f251facb7aef2606bda.1920x1080.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820632/apple-is-building-a-virtual-ring-light-into-macos",
+            "category": "AI"
+        },
+        {
+            "title": "苹果要求开发者必须获得用户许可才能将数据共享给第三方AI",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "苹果更新了其App审核指南，明确要求开发者在将用户个人数据共享给第三方AI服务前，必须明确披露数据用途并获得用户的明确许可。这一更新体现在App Review Guidelines的5.1.2(i)条款中，旨在加强用户隐私保护，应对AI技术带来的数据滥用风险。该政策影响所有在App Store上架的应用程序开发者，是苹果在AI时代强化数据控制权的重要举措。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820634/apple-says-developers-must-get-permission-from-users-to-share-their-data-with-third-party-ai",
+            "category": "AI"
+        },
+        {
+            "title": "特斯拉 reportedly 正在测试 Apple CarPlay 功能",
+            "time": "2025-11-14",
+            "source": "Engadget",
+            "summary": "据彭博社报道，特斯拉正在内部测试将 Apple CarPlay 集成到其车辆信息娱乐系统中，这标志着该车企首次放弃自研系统以迎合iPhone用户需求。CarPlay将作为独立窗口运行，而非取代现有系统，且采用标准版而非最新的CarPlay Ultra。尽管特斯拉过去与苹果关系紧张，且曾拒绝收购提议，但此举可能意在提升车辆吸引力。目前特斯拉和马斯克尚未对此置评，而行业趋势正转向AI驱动的车载系统，CarPlay或已过巅峰。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/4vUPKC8BVXy7AXya0NaGQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MjQ-/https://s.yimg.com/os/creatr-images/2019-05/435339e0-734b-11e9-adff-495fd4484d17",
+            "url": "https://www.engadget.com/transportation/evs/tesla-is-reportedly-testing-apple-carplay-in-its-vehicles-192505635.html",
+            "category": "其他"
+        },
+        {
+            "title": "特斯拉是否即将向Apple CarPlay屈服？",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "据彭博社报道，特斯拉正在内部测试Apple CarPlay功能，可能在未来几个月内推出，但也可能最终取消。尽管特斯拉长期以来坚持自研车载系统，拒绝手机投射功能，但面对销量下滑和消费者对CarPlay的强烈需求，公司可能妥协。测试版本将仅在车机界面中以窗口形式呈现，不取代原系统，且不采用最新的CarPlay Ultra功能。市场调查显示近半数购车者将CarPlay视为购买决策关键因素，这一趋势促使包括特斯拉在内的车企重新评估其车载互联策略。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Ford_Digital_Experience_Apple_CarPlay.webp?quality=90&strip=all&crop=0%2C0.36194415718717%2C100%2C99.276111685626&w=2400",
+            "url": "https://www.theverge.com/news/820065/tesla-apple-carplay-develop-phone-mirror",
+            "category": "其他"
+        },
+        {
+            "title": "上一代Apple Watch Series 10降至历史最低价",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "Apple Watch Series 10和SE 2目前在亚马逊降至历史最低价，42mm型号仅售279美元（原价399美元），46mm型号为309美元，SE 2起价159.99美元。尽管Series 11已发布，但Series 10仍具备大尺寸OLED屏、S10芯片、睡眠呼吸暂停检测和血压监测等核心功能，且充电更快。SE 2虽缺少常亮屏和心电图功能，但依然适合预算有限的用户。文章提醒库存即将售罄，建议尽快购买。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Apple-Watch-Series-10-deal.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/794705/apple-watch-series-10-se-2-amazon-deal-sale",
+            "category": "其他"
+        },
+        {
+            "title": "腾讯与苹果就小游戏分成降至15%协议“有建设性进展” | 巴伦精选",
+            "time": "2025-11-13",
+            "source": "钛媒体",
+            "summary": "腾讯与苹果就微信小程序游戏内购分成问题达成建设性进展，拟将分成比例从30%降至15%。腾讯总裁刘炽平在三季度财报电话会中表示双方关系良好，持续沟通以推动小游戏生态健康发展。苹果此前因微信规避其支付系统而威胁下架，双方谈判已持续一年多。微信小程序游戏月活达5亿，对苹果App Store分成收入构成显著冲击。腾讯三季度社交网络收入增长5%，广告业务增长21%，AI驱动的广告投放产品AIM+已上线，显示其正通过AI提升广告与游戏变现能力。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/11/3d64532c0913692786d22a703aab404d_1763043544.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x787/gravity/center/crop/!1400x787&ext=.png",
+            "url": "https://www.tmtpost.com/7763845.html",
+            "category": "社交"
+        },
+        {
+            "title": "苹果更新应用审核指南，严控应用向第三方AI共享个人数据",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "苹果公司于2025年11月13日更新了App Review指南，明确要求应用在将用户个人数据共享给第三方AI服务前，必须进行明确披露并获得用户明确授权。此举旨在防止应用未经许可向AI公司泄露数据，尤其针对即将于2026年推出的AI升级版Siri所依赖的外部AI技术（如Google Gemini）进行合规约束。该修订强化了隐私保护，扩展了原有数据共享规则，适用于所有使用AI处理用户数据的应用，但具体执行力度尚不明确。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果将迷你应用开发者佣金减半",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "苹果推出新的「迷你应用合作伙伴计划」，对符合条件的迷你应用内购交易将佣金从30%降至15%。迷你应用基于HTML5和JavaScript构建，嵌入于原生App中，需使用苹果的高级商业API、年龄评级API及内购系统，并遵守App审核指南。此举旨在鼓励开发者采用苹果技术，同时巩固其在应用生态中的佣金收入。目前微信、Discord等应用已支持迷你应用，OpenAI的ChatGPT也正进入该领域。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v2.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/13/apple-halves-commissions-for-mini-app-makers/",
+            "category": "其他"
+        },
+        {
+            "title": "为苹果230美元的iPhone袜子辩护",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "本文探讨了苹果与日本设计师品牌Issey Miyake合作推出的售价高达230美元的iPhone Pocket（iPhone袜子）产品。作者认为，尽管价格昂贵，但该产品融合了Issey Miyake标志性的‘一块布’设计理念，延续了苹果与乔布斯时代对极简美学的追求，并可能呼应了Labubu等潮流玩具的收藏文化。文章还分析了手机配件逐渐演变为时尚单品的趋势，指出其背后是消费者对极简生活方式与个性化表达的双重需求。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Apple-iPhone-Pocket-and-ISSEY-MIYAKE-short-strap-colors_big.jpg.large_2x.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/",
+            "category": "其他"
+        },
+        {
             "title": "苹果：Apple TV 暂不会推出“带广告的订阅服务”",
             "time": "2025-11-11",
             "source": "动点科技",
@@ -6474,6 +6906,15 @@
     ],
     "华为": [
         {
+            "title": "手机AI「卷」隐私和性能：苹果是老司机，华为、谷歌都是弟弟",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "本文探讨了手机AI领域中隐私与性能的平衡问题，指出苹果提出的私有云计算（PCC）框架正成为行业标杆，华为、OPPO、荣耀及谷歌纷纷跟进，推出类似技术如HPIC、PCC和PAC。谷歌通过TPU芯片和机密计算基础设施，在Pixel 10上实现端云协同的隐私保护AI体验，而华为和OPPO则结合自有芯片与云平台构建安全计算环境。文章认为，尽管厂商难以像苹果或谷歌那样全链路掌控，但端云协同、数据可用不可见已成为AI发展的共识方向。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_149c581850164214b7b08f9c43d1811e@1743780481_oswg41711oswg1050oswg700_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551492566039172",
+            "category": "AI"
+        },
+        {
             "title": "外媒爆料苹果可折叠 iPad 项目陷入停滞，或将借鉴华为 MateBook Fold 经验",
             "time": "2025-10-27",
             "source": "动点科技",
@@ -7027,6 +7468,15 @@
     ],
     "百度": [
         {
+            "title": "百度发布原生全模态大模型文心5.0，李彦宏：持续推高智能天花板",
+            "time": "2025-11-13",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1ahKT7wdmPLibjFriaYIjTfSDXtWPAbpn8QY8CEClHVLbbtmWCVgOQF8u96fd0od4oUd2ngKdPYDtOQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/K5kU8-pPJ7fIQQUqzsqpTQ",
+            "category": "其他"
+        },
+        {
             "title": "三年半营收39亿、亏损17亿，百度系“卡车新势力”流血冲港股",
             "time": "2025-11-10",
             "source": "36氪",
@@ -7190,6 +7640,33 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "Beehiiv正从通讯工具扩展为全能创作者平台",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "Beehiiv宣布将其平台从电子邮件通讯工具扩展为面向创作者的全能内容平台。新功能包括升级的AI驱动网站构建工具、无佣金数字产品销售、播客嵌入功能以及网站数据分析。此举旨在帮助创作者更自主地建立品牌和变现，减少对第三方平台的依赖。用户可通过新工具打造专属网站，整合内容与商业功能，提升内容分发效率。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820182/beehiiv-is-expanding-beyond-the-newsletter",
+            "category": "社交"
+        },
+        {
+            "title": "谷歌、亚马逊掀起“海底暗战”，中国企业不应缺席",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "谷歌、亚马逊、Meta等科技巨头正大规模投资建设海底光缆，以提升数据传输性能、降低成本并实现网络战略自主。全球95%以上的国际互联网流量依赖海底光缆，而AI大模型训练对带宽和可靠性提出更高要求，促使科技公司从租用转向自建光缆。目前谷歌已参与33条光缆建设，亚马逊启动“Fastnet”项目，Meta计划投资100亿美元打造全球最长光缆“Waterworth”。这场关乎数字话语权的“海底暗战”正在重塑全球网络基础设施格局，中国企业亟需参与布局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251113/v2_b38d796a937e472bab898bc22dc2a68e@1743780481_oswg59128oswg1000oswg459_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551521343666566",
+            "category": "其他"
+        },
+        {
+            "title": "星链竞争对手“柯伊伯计划”更名为亚马逊Leo",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "亚马逊经过七年发展，正式将其卫星互联网项目“Project Kuiper”更名为“Amazon Leo”，名称源于低地球轨道（LEO）术语。该项目计划发射约3000颗卫星，目前已完成六次发射，搭载72颗卫星。作为SpaceX星链的主要竞争对手，亚马逊旨在为偏远地区提供高速互联网服务，但大规模部署卫星也引发轨道碎片、碰撞风险和太空安全等担忧。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/amazon-leo-announcement-hero.png?quality=90&strip=all&crop=7.7840909090909%2C0%2C84.431818181818%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand",
+            "category": "其他"
+        },
         {
             "title": "亚马逊音乐允许加拿大用户聊天并共同流媒体播放音乐",
             "time": "2025-11-10",
@@ -7598,6 +8075,15 @@
     ],
     "红杉资本": [
         {
+            "title": "Sesame AI：红杉资本押注的下一代语音交互平台",
+            "time": "2025-11-12",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRF1a3q9raOX3ErBEhDcwXDbeJM14nibcvGc58icsF8LQtcicNxBvWXFCrKg8CPVgrpEYGK2uaJyPbM0g/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/IKKAq3Dj2UtgtZ_IWLLGGQ",
+            "category": "AI"
+        },
+        {
             "title": "红杉资本任命阿尔弗雷德·林和帕特·格雷迪为新联合管理者，罗埃尔夫·博塔卸任",
             "time": "2025-11-04",
             "source": "TechCrunch",
@@ -7662,6 +8148,15 @@
         }
     ],
     "YC": [
+        {
+            "title": "YC：垂直 AI 智能体，比 SaaS 大10倍的产业？",
+            "time": "2025-11-14",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRHU2djh7O1IU0ciaZpeJta4Zpc0TCJs08hswADC8ic0j7h877gYF95h0koQC8aics89bRNlHLzYhv67g/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/br9HnPMdSEDFW0V0xoGlAw",
+            "category": "AI"
+        },
         {
             "title": "Y Combinator：AI 初创公司的七种护城河",
             "time": "2025-10-30",
@@ -8235,6 +8730,15 @@
     ],
     "Epic Games": [
         {
+            "title": "Epic喜加三：《灾厄逆刃》、《寂静之歌》、《Zero Hour》免费领取！",
+            "time": "2025-11-14",
+            "source": "游侠网",
+            "summary": "Epic商城本周推出三款免费游戏：战术FPS《Zero Hour》、银河恶魔城风格平台游戏《灾厄逆刃》和回合制策略游戏《寂静之歌》，领取截止时间为2025年11月21日00:00。《Zero Hour》支持10人联机，强调写实战术与资源管理；《灾厄逆刃》融合快节奏地牢闯关与后末日世界观；《寂静之歌》则以1分钟快节奏战斗和百种单位调度为特色，结合双世界探索与地形伏击机制。Epic下周将送出卡牌游戏《Zoeti》。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/14/584_2025111482540497.png",
+            "url": "https://www.ali213.net/news/html/2025-11/978337.html",
+            "category": "游戏"
+        },
+        {
             "title": "最高法院拒绝拯救谷歌，Epic诉讼裁决生效倒计时",
             "time": "2025-10-07",
             "source": "The Verge",
@@ -8707,6 +9211,15 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "消防员在埃隆·马斯克的隧道公司工地遭受化学灼伤",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "据《财富》杂志报道，内华达州克拉克县消防员在为The Boring Company的隧道施工工地进行安全演练时，因接触含有化学加速剂的泥浆而遭受化学灼伤，多人留下永久性疤痕。尽管OSHA曾开出近43万美元的罚单，但该公司高层与州政府官员会面后，罚单被撤销，相关文件也被篡改。该事件再次引发对该公司施工安全措施的质疑，此前已有员工因类似化学品暴露受伤。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2019/05/Boring-tunnel_-2.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/13/firefighters-received-chemical-burns-at-elon-musks-boring-company-construction-site/",
+            "category": "其他"
+        },
         {
             "title": "苏姿丰又收购一家AI公司，马斯克朋友创办",
             "time": "2025-11-11",
@@ -9259,6 +9772,15 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "全球首家，AI编程创企估值破2000亿，英伟达和谷歌抢投",
+            "time": "2025-11-14",
+            "source": "36氪",
+            "summary": "AI编程工具Cursor母公司Anysphere宣布完成23亿美元D轮融资，投后估值达293亿美元（约2079亿元人民币），成为全球首家估值突破2000亿元的AI编程创企。本轮融资由英伟达、谷歌和Coatue领投，现有投资者亦追加投资。公司年化收入已超10亿美元，拥有300多名员工，并推出自研编程模型Composer。Cursor被英伟达工程师广泛使用，被视为提升编程效率的伙伴，未来将加大科研投入，巩固其在AI编程领域的数据与模型壁垒。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251114/v2_15c62f8e10a2481ea97fefe686f6dfda@000000_oswg156748oswg1000oswg425_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3551736231984000",
+            "category": "AI"
+        },
         {
             "title": "英伟达大涨5.79%，创4月以来最大单日涨幅",
             "time": "2025-11-11",
@@ -9866,6 +10388,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "TikTok推出类似Instagram广播频道的“公告板”功能",
+            "time": "2025-11-13",
+            "source": "TechCrunch",
+            "summary": "TikTok于2025年11月13日正式推出名为“公告板”的新功能，允许拥有5万名以上粉丝的成年创作者和品牌向关注者发布单向文本、图片和视频内容， followers仅能点赞表情反应。该功能旨在帮助创作者更高效地发布独家资讯与更新，类似Instagram的广播频道。目前功能已开始向符合条件的用户逐步推送，并已用于音乐人发布新歌、媒体机构发布新闻等场景。所有内容需遵守TikTok社区准则，并提供屏蔽、举报等安全工具。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/tiktok-bulletin-board.png?w=680",
+            "url": "https://techcrunch.com/2025/11/13/tiktok-launches-its-own-version-of-instagrams-broadcast-channels/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok Shop正在缩短和eBay的差距",
+            "time": "2025-11-13",
+            "source": "白鲸出海",
+            "summary": "TikTok Shop在美国推出仅两年，商品交易总额（GMV）已逼近拥有30年历史的eBay。2024年全年GMV达332亿美元，2025年第三季度GMV为190亿美元，接近eBay的201亿美元。美国市场贡献了其季度销售额的40亿至45亿美元，同比增长超一倍。尽管面临潜在禁令风险，TikTok Shop仍保持快速增长，分析师认为其发展潜力远未饱和，未来或超越eBay。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251113/1763017720334460.jpg",
+            "url": "https://www.baijing.cn/article/54745",
+            "category": "社交"
+        },
         {
             "title": "从TikTok创作者到播客主持人",
             "time": "2025-11-11",
@@ -10611,6 +11151,15 @@
     ],
     "月之暗面": [
         {
+            "title": "1句话让Kimi请我吃肯德基，再1句话让Claude Code自由切换全平台模型",
+            "time": "2025-11-12",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/hXNCl_Kw9j411RENcvFOoA",
+            "category": "AI"
+        },
+        {
             "title": "打败GPT5的Kimi K2 Thinking，真就只会写代码吗？",
             "time": "2025-11-08",
             "source": "卡尔的AI沃茨",
@@ -10789,6 +11338,24 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "黑客再次利用Anthropic的AI模型Claude",
+            "time": "2025-11-14",
+            "source": "The Verge",
+            "summary": "Anthropic公司披露，由中国政府支持的黑客在9月利用其AI模型Claude自动化执行了约30次针对企业与政府的网络攻击，其中80%至90%的攻击过程实现自动化，仅需极少人工干预。攻击者通过AI生成命令、窃取敏感数据，但未成功入侵美国政府系统。该公司未公布具体受害者名称，但指出此类AI驱动的网络攻击正日益普遍，谷歌也监测到俄罗斯黑客使用类似技术。此事件再次引发对AI在网络安全领域滥用的担忧。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude",
+            "category": "AI"
+        },
+        {
+            "title": "1句话让Kimi请我吃肯德基，再1句话让Claude Code自由切换全平台模型",
+            "time": "2025-11-12",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/hXNCl_Kw9j411RENcvFOoA",
+            "category": "AI"
+        },
         {
             "title": "字节悄悄上新豆包Coding模型，我在Claude Code用它看图复刻网页",
             "time": "2025-11-11",
