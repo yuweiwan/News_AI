@@ -1005,6 +1005,24 @@
     ],
     "任天堂": [
         {
+            "title": "结束独占！《小小火箭实验室》12月10日登陆Switch",
+            "time": "2025-11-17",
+            "source": "游侠网",
+            "summary": "加拿大开发团队Teenage Astronauts的独立游戏《小小火箭实验室》将于12月10日登陆任天堂Switch平台，结束此前两个月的Xbox主机独占期。该游戏融合角色扮演与工厂自动化元素，玩家将扮演工程师摩根重建童年故居并打造火箭工厂，探索资源、规划供应链，并与温馨小镇的NPC互动。游戏定价19.99美元，与PC和Xbox平台一致，完整通关约需33小时。这是发行商No More Robots在Switch平台的第15部作品，未来或有PS版本移植可能。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/17/584_202511171403869.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/978929.html",
+            "category": "游戏"
+        },
+        {
+            "title": "传第十代宝可梦《风/浪》将回归回合制并登陆Switch2",
+            "time": "2025-11-17",
+            "source": "游侠网",
+            "summary": "据网络泄露消息，第十代宝可梦正统作品《风/浪》或将回归回合制战斗系统，战斗机制以天气技能为核心，并采用程序生成岛屿设定，背景基于东南亚地区。游戏有望成为Switch2独占作品，预计2026年底发售。内容创作者Light称其为《宝可梦传说：阿尔宙斯》的流畅优化版，保留范围攻击等特色但摒弃即时战斗。官方消息预计将在2026年2月27日宝可梦日公布，同期还将推出衍生作《宝可梦Pokopia》。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/17/584_2025111762339710.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/978937.html",
+            "category": "游戏"
+        },
+        {
             "title": "《宝可梦 Pokopia》公开全新形态：垂耳皮卡丘登场",
             "time": "2025-11-14",
             "source": "游侠网",
@@ -1966,6 +1984,24 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌计划投资400亿美元在德克萨斯州建设数据中心",
+            "time": "2025-11-17",
+            "source": "Engadget",
+            "summary": "谷歌宣布将在未来两年内投资400亿美元，在德克萨斯州建设三个新的数据中心，分别位于阿姆斯特朗县和哈斯克尔县。这是谷歌在美国单州的最大投资，此前其在德州的总投资已达27亿美元。此举旨在加强其云服务和人工智能基础设施，同时推动当地经济发展。此外，英伟达和Meta等科技巨头也正加大在美国的AI基础设施布局。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/QRiDp1E2OY0yal.6na.Muw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDg-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/505cb2e0-c314-11f0-b5af-b5f50f2c5fd2",
+            "url": "https://www.engadget.com/big-tech/google-plans-to-invest-40-billion-towards-building-data-centers-in-texas-183056066.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌因反竞争行为被德国法院判罚6.65亿美元",
+            "time": "2025-11-16",
+            "source": "Engadget",
+            "summary": "德国柏林法院裁定，谷歌因在搜索结果中优先展示自家购物平台Google Shopping，滥用市场主导地位，需向两家德国价格比较平台Idealo和Producto支付总计约6.65亿美元（5.72亿欧元）的赔偿金。Idealo曾索赔超38亿美元，称谷歌的自我偏好行为严重损害其业务。谷歌辩称2017年已作出调整，但原告认为赔偿金额仅为实际损失的一小部分。此案是谷歌在欧洲面临的又一反垄断诉讼，此前其已因广告技术违规被欧盟罚款30亿欧元。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/i0BdcgzKcFWoj7ZN.ylsTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/3b1e1430-c24e-11f0-bf9e-6a6362aa0839",
+            "url": "https://www.engadget.com/big-tech/google-ordered-to-pay-665-million-for-anticompetitive-practices-in-germany-184505191.html",
+            "category": "其他"
+        },
         {
             "title": "全球首家，AI编程创企估值破2000亿，英伟达和谷歌抢投",
             "time": "2025-11-14",
@@ -4086,6 +4122,15 @@
     ],
     "YouTube": [
         {
+            "title": "迪士尼与YouTube TV达成协议结束内容停播",
+            "time": "2025-11-15",
+            "source": "TechCrunch",
+            "summary": "经过两周的内容停播，YouTube TV与迪士尼达成协议，恢复ABC、ESPN、FX等迪士尼旗下频道的播出，并将ESPN新推出的直接面向消费者的服务免费接入YouTube TV。双方协议还允许YouTube TV打包销售迪士尼+/Hulu组合套餐。迪士尼方面称该协议认可了其内容价值并为用户提供更多选择，YouTube TV则向受影响用户发放了20美元补偿。此次停播曾导致约24%的用户考虑取消订阅，但YouTube称实际流失率可控。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1184040131.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/15/disney-and-youtube-tv-reach-deal-to-end-blackout/",
+            "category": "社交"
+        },
+        {
             "title": "YouTube TV、ESPN和迪士尼：停播最新进展",
             "time": "2025-11-09",
             "source": "The Verge",
@@ -4330,6 +4375,15 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "ChatGPT爱用破折号是病，奥特曼刚宣布已经治好了",
+            "time": "2025-11-16",
+            "source": "量子位",
+            "summary": "OpenAI首席执行官萨姆·奥特曼宣布ChatGPT已修复滥用破折号的问题，此前该标点符号因高频出现被用户视为AI生成内容的“数字水印”。研究发现，这一习惯可能源于GPT-4训练阶段引入的19世纪末至20世纪初英文出版物数据，其中破折号使用频率极高。尽管用户多次尝试通过提示词纠正，效果甚微，此次更新被视为对AI写作风格去标签化的重要进展。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/008ca054a041a9ddf9384e6d3a1d5f42.png",
+            "url": "https://www.qbitai.com/2025/11/353144.html",
+            "category": "AI"
+        },
         {
             "title": "今日热门产品：Documenso 2.0.0、GPT-5.1 Instant and Thinking、Avaturn Live等",
             "time": "2025-11-13",
@@ -5736,6 +5790,105 @@
         }
     ],
     "苹果": [
+        {
+            "title": "AI「逼宫」库克？苹果秘密计划曝光，接班人竟是M芯片之父",
+            "time": "2025-11-17",
+            "source": "36氪",
+            "summary": "苹果董事会正秘密规划CEO库克于2026年交棒，呼声最高的继任者是硬件工程高级副总裁John Ternus，他是M系列芯片的核心设计者，主导了iPhone、Mac等多代产品硬件研发。当前苹果在生成式AI领域落后于微软与谷歌，Siri表现疲软，内部架构调整频繁，引发外界对其创新力的担忧。尽管库克任内将苹果市值推至4万亿美元，但面对AI浪潮，公司亟需一位更具产品创新力的领导者。接班人预计将从内部产生，苹果已制定详细继任计划。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251117/v2_5350c3b711fc427ab496db9ece7ca4ce@5091053_oswg525913oswg1080oswg1350_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3556265561144194",
+            "category": "AI"
+        },
+        {
+            "title": "苹果推出大折叠，影像集体上大底，2026 将是手机的「大」年",
+            "time": "2025-11-17",
+            "source": "36氪",
+            "summary": "文章预测2026年将成为高端手机的「大」年，主要体现在屏幕更大、影像更强、电池更巨。苹果、三星、华为将相继推出折叠屏新品，三星或首发三折叠手机，苹果首款折叠iPhone有望采用7.8英寸内屏。影像方面，索尼LYT-910传感器将搭载2亿像素与LOFIC技术，大幅提升动态范围；电池容量或突破10000mAh，缓解续航焦虑。但伴随硬件堆料，手机价格普遍上涨，厂商竞争将从参数转向体验与生态。本文由爱范儿授权发布。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251116/v2_42beef83d84d4f33b137cbb98fb2fa76@000000_oswg55773oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3555113485237124",
+            "category": "其他"
+        },
+        {
+            "title": "Mac Pro或成苹果产品冷宫最新成员",
+            "time": "2025-11-17",
+            "source": "Engadget",
+            "summary": "据Bloomberg记者Mark Gurman在Power On通讯中透露，苹果已放弃为Mac Pro推出M4 Ultra芯片的计划，转而将M5 Ultra芯片聚焦于Mac Studio，使其成为专业级桌面产品的核心。尽管Mac Pro曾受创意工作者青睐，但近年来因设计激进和更新缓慢逐渐边缘化，当前M2 Ultra版本也未能重振其市场地位。苹果内部正逐步将资源倾斜至Mac Studio，Mac Pro的未来前景不明，2026年几乎不会迎来更新。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/fEg9sRdBf7B4rXMAkpiC9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/a992a4c0-c308-11f0-99ff-8083a5ee1f67",
+            "url": "https://www.engadget.com/computing/the-mac-pro-could-be-the-latest-addition-to-apples-product-purgatory-165609102.html",
+            "category": "其他"
+        },
+        {
+            "title": "库克被曝最早明年让位CEO，“苹果AI已落后同行2年”",
+            "time": "2025-11-16",
+            "source": "量子位",
+            "summary": "据金融时报爆料，苹果CEO蒂姆·库克可能最早于2026年退休，接班人最有可能是硬件工程高级副总裁John Ternus。Ternus主导了iPhone、iPad、Mac等核心产品及自研芯片的开发，以稳健、协作和亲力亲为的风格深受内部信赖。与此同时，苹果在AI领域被指落后行业领先者两年以上，Apple Intelligence与Vision Pro市场表现不佳，iPhone Air销售惨淡，促使公司加速高层换届。外界认为，苹果亟需一位技术背景更强的领导者推动AI转型。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/8391cdd981cb6fd6631191ff18c5a610.jpeg",
+            "url": "https://www.qbitai.com/2025/11/353022.html",
+            "category": "AI"
+        },
+        {
+            "title": "库克或明年卸任苹果 CEO",
+            "time": "2025-11-16",
+            "source": "动点科技",
+            "summary": "据《金融时报》报道，苹果首席执行官蒂姆·库克可能在明年卸任，董事会已开始制定继任计划。硬件工程高级副总裁约翰·特纳斯被视为热门人选。库克现年65岁，任职CEO已14年，主导了苹果的全球扩张与生产外包战略。近期首席运营官杰夫·威廉姆斯退休后，公司高管职责已调整，但接任者预计将来自内部，符合库克此前强调的‘详细继任计划’。苹果倾向于内部提拔，外界候选人可能性极低。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/1MdhqBSc-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-11-16/tim-cook-step-down-apple-ceo-next-year/",
+            "category": "其他"
+        },
+        {
+            "title": "我们是否正接近苹果蒂姆·库克时代的尾声？",
+            "time": "2025-11-16",
+            "source": "TechCrunch",
+            "summary": "根据《金融时报》最新报道，苹果公司董事会和高管正在认真筹备继任计划，可能在明年年初蒂姆·库克卸任CEO后交接权力，以便新领导团队在6月全球开发者大会前平稳过渡。现年65岁的库克自2011年接替乔布斯以来，已担任CEO逾14年，带领苹果市值从3500亿美元飙升至4万亿美元，但公司在AI领域进展缓慢。目前，硬件工程高级副总裁约翰·特努斯被视为最可能的接班人，但最终人选和时间尚未确定。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198049873.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/16/are-we-nearing-the-end-of-apples-tim-cook-era/",
+            "category": "其他"
+        },
+        {
+            "title": "苹果 reportedly 正准备在明年尽早更换蒂姆·库克的CEO职位",
+            "time": "2025-11-16",
+            "source": "Engadget",
+            "summary": "据《金融时报》报道，苹果公司董事会和高管层正为蒂姆·库克的离职做准备，可能在明年尽早任命新CEO。库克自2011年接任以来，带领苹果市值突破4万亿美元，并推出Apple Watch、AirPods和Vision Pro等重要产品。据信，负责硬件工程的高级副总裁约翰·特努斯最有可能接任，他自2001年加入苹果，深度参与了苹果芯片的转型。新CEO人选预计将在1月财报前公布，以确保领导层平稳过渡。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/QdM7X0lrwbQuGQiqfKI4GQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/6a100430-c242-11f0-b677-30b1b3d88c85",
+            "url": "https://www.engadget.com/big-tech/apple-is-reportedly-getting-ready-to-replace-tim-cook-as-early-as-next-year-171407974.html",
+            "category": "其他"
+        },
+        {
+            "title": "联邦陪审团裁定苹果因侵犯智能手表专利需支付6.34亿美元",
+            "time": "2025-11-16",
+            "source": "Engadget",
+            "summary": "美国联邦陪审团裁定苹果公司侵犯了医疗科技公司Masimo的血氧监测专利，需支付6.34亿美元赔偿。该专利涉及Apple Watch的心率与运动应用中的血氧检测技术。苹果方面反驳称该专利已于2022年到期，且针对的是过时的医疗设备技术，并计划上诉。此前苹果曾因专利纠纷暂停销售Series 9和Ultra 2智能手表，后通过重新设计血氧功能恢复销售，但Masimo已就此提起新诉讼，指控美国海关越权批准该设计。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/gglIOmKxP84NuaJ5ArST1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/a5a6d7c0-c25c-11f0-b7fd-e1b6f0acf481",
+            "url": "https://www.engadget.com/wearables/a-federal-jury-ruled-that-apple-has-to-pay-634-million-for-infringing-smartwatch-patents-202846266.html",
+            "category": "其他"
+        },
+        {
+            "title": "库克可能明年卸任苹果CEO",
+            "time": "2025-11-16",
+            "source": "The Verge",
+            "summary": "据《金融时报》报道，苹果CEO蒂姆·库克可能在明年卸任，公司已开始制定继任计划。现年65岁的库克已担任CEO十四年，领导苹果实现巨大增长，但也经历诸多争议。硬件工程高级副总裁约翰·特努斯被视为最可能的接班人。此前，苹果COO杰夫·威廉姆斯刚退休，管理层随之调整。库克一贯倾向内部提拔，公司拥有详尽的继任规划。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/cook_wwdc_24.jpg?quality=90&strip=all&crop=0.17045454545455%2C0%2C99.659090909091%2C100&w=2400",
+            "url": "https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year",
+            "category": "其他"
+        },
+        {
+            "title": "陪审团裁定苹果因专利侵权需向Masimo支付6.34亿美元",
+            "time": "2025-11-15",
+            "source": "TechCrunch",
+            "summary": "加利福尼亚州一家联邦陪审团裁定，苹果公司因在Apple Watch中使用血氧监测技术侵犯了医疗设备公司Masimo的专利，需支付6.34亿美元赔偿。该专利涉及脉搏血氧测定技术，此前曾导致苹果被禁止进口相关型号手表。苹果称该专利已过期且与消费者产品无关，计划上诉。Masimo则强调此举是保护创新的重要胜利。苹果随后推出新方案，将血氧计算转移至配对iPhone以规避禁令，但Masimo已就此起诉美国海关。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/CMC_7953.jpg?w=801",
+            "url": "https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/",
+            "category": "其他"
+        },
+        {
+            "title": "如何将他人添加到苹果家庭账户",
+            "time": "2025-11-15",
+            "source": "Engadget",
+            "summary": "本文详细介绍了如何使用苹果的Family Sharing功能将家人添加到家庭账户，以共享订阅服务、iCloud存储和购买内容。文章说明了设置流程、成员权限、家长控制、儿童账户创建及常见问题解决方法，强调在不牺牲个人隐私的前提下，通过统一管理简化家庭数字生活。适用于iPhone、iPad和Mac用户，帮助家庭成员高效共享资源。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/7rrYpTCO4brzQzic1nRjvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03NDU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c7a30ff0-bbe6-11f0-bf5c-345b8c10e1d7",
+            "url": "https://www.engadget.com/mobile/how-to-add-someone-to-an-apple-family-account-130033896.html",
+            "category": "其他"
+        },
         {
             "title": "游戏业务单季度首超600亿，腾讯高管回应与苹果分成问题",
             "time": "2025-11-14",
@@ -7641,6 +7794,15 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊卫星网络更名并放弃 affordability 宣传策略",
+            "time": "2025-11-16",
+            "source": "TechCrunch",
+            "summary": "亚马逊将其卫星互联网项目从‘Project Kuiper’更名为‘Leo’，并悄然调整了市场定位，不再强调服务偏远和欠发达地区的 affordability 主张。此前该项目以提供低成本宽带为宣传核心，但随着与空客、捷蓝航空等商业客户达成合作，其官网和宣传材料已转向突出企业级服务、4K流媒体和家庭网络等商用场景。尽管官方视频仍宣称‘新名称，相同使命’，但FAQ页面已删除所有关于价格和 affordability 的内容，显示其战略重心正从普惠接入转向高端商业市场。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-leo.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/16/amazon-satellite-network-gets-a-rebrand-and-drops-its-affordability-pitch/",
+            "category": "其他"
+        },
+        {
             "title": "Beehiiv正从通讯工具扩展为全能创作者平台",
             "time": "2025-11-14",
             "source": "The Verge",
@@ -8243,6 +8405,15 @@
     ],
     "美团": [
         {
+            "title": "“京东点评”也和美团对上线了",
+            "time": "2025-11-17",
+            "source": "36氪",
+            "summary": "京东App低调上线‘京东点评’功能，涵盖美食、酒店、好物、旅游和家政五大类，以UGC图文视频内容与多维度榜单为核心，旨在提升用户粘性与本地生活服务信任体系。该功能不直接商业化，处于测试阶段，意在通过内容生态补足京东在高频消费场景的短板，构建‘内容—信任—交易—履约’闭环，与美团、抖音等平台竞争本地生活流量。作者认为其本质是为京东自营供应链服务，通过评价体系放大供给优势，而非再造一个大众点评。",
+            "image_url": "https://img.36krcdn.com/20221026/v2_56a1e8468b7545b992ef7aa47ff4f318_img_000",
+            "url": "https://36kr.com/p/3555911637719431",
+            "category": "社交"
+        },
+        {
             "title": "DoorDash活成了美团羡慕的样子",
             "time": "2025-11-07",
             "source": "钛媒体",
@@ -8425,6 +8596,15 @@
     ],
     "京东": [
         {
+            "title": "“京东点评”也和美团对上线了",
+            "time": "2025-11-17",
+            "source": "36氪",
+            "summary": "京东App低调上线‘京东点评’功能，涵盖美食、酒店、好物、旅游和家政五大类，以UGC图文视频内容与多维度榜单为核心，旨在提升用户粘性与本地生活服务信任体系。该功能不直接商业化，处于测试阶段，意在通过内容生态补足京东在高频消费场景的短板，构建‘内容—信任—交易—履约’闭环，与美团、抖音等平台竞争本地生活流量。作者认为其本质是为京东自营供应链服务，通过评价体系放大供给优势，而非再造一个大众点评。",
+            "image_url": "https://img.36krcdn.com/20221026/v2_56a1e8468b7545b992ef7aa47ff4f318_img_000",
+            "url": "https://36kr.com/p/3555911637719431",
+            "category": "社交"
+        },
+        {
             "title": "阿里美团京东，从外卖缠斗至社区超市",
             "time": "2025-10-31",
             "source": "36氪",
@@ -8585,6 +8765,24 @@
         }
     ],
     "Rockstar Games": [
+        {
+            "title": "《GTA在线模式》12月更新豪宅！完成任务获200万折扣",
+            "time": "2025-11-17",
+            "source": "游侠网",
+            "summary": "《GTA在线模式》将于12月推出豪宅更新，玩家可通过完成三场新任务（驱逐占屋者、搜集建材、监督承包商）获得200万游戏币购房折扣。文章讽刺性地指出，游戏内经济体系模仿现实富豪行为，玩家在长期积累财富后终于能购置象征身份的巨宅，呼应了虚拟世界中对奢靡生活的荒诞追求。此前游戏内房产多为标准化公寓，此次更新填补了高端地产空白。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/17/584_2025111773146405.png",
+            "url": "https://www.ali213.net/news/html/2025-11/978949.html",
+            "category": "游戏"
+        },
+        {
+            "title": "分析师强调一定要避开《GTA6》：撞车无异于自杀！",
+            "time": "2025-11-15",
+            "source": "游侠网",
+            "summary": "行业分析师Mat Piscatella警告各大游戏开发商应避开《GTA6》的发售窗口，称与其正面竞争无异于自杀。咨询公司Kantan Games CEO Dr. Serkan Toto也认为，即使《GTA6》推迟至2026年底，其市场影响力仍足以碾压其他大作。但因《GTA6》已多次跳票，若再次延期至2027年，厂商将面临错过黄金档期的风险，行业普遍陷入两难境地。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/15/584_2025111531458465.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/978717.html",
+            "category": "游戏"
+        },
         {
             "title": "《黑道圣徒》设计师：与GTA6正面竞争不如争当第二",
             "time": "2025-11-08",
@@ -8905,6 +9103,15 @@
     ],
     "卡普空": [
         {
+            "title": "卡普空金发小萝莉游戏《虚实万象》通过韩国评级12+",
+            "time": "2025-11-17",
+            "source": "游侠网",
+            "summary": "卡普空旗下动作冒险游戏《虚实万象》近日通过韩国游戏评级委员会评级，因含轻度暴力内容被定为12+级别。该游戏原定2022年发售，后延期至2026年，讲述宇航员“休”与神秘机器人少女“戴安娜”在月球设施中合作求生的故事。同期通过评级的还有《罗密欧已死》，因其极端暴力内容被列为未成年人禁止。游戏自2020年首次亮相以来备受关注，角色设定与玩法多次引发玩家热议。",
+            "image_url": "https://images.ali213.net/picfile/pic/2025/11/17/584_2025111775031265.png",
+            "url": "https://www.ali213.net/news/html/2025-11/978953.html",
+            "category": "游戏"
+        },
+        {
             "title": "卡普空更新白金销量榜！《怪猎世界》以2180万份居榜首",
             "time": "2025-11-07",
             "source": "游侠网",
@@ -9020,6 +9227,15 @@
         }
     ],
     "特朗普": [
+        {
+            "title": "为什么我们会继续谈论特朗普手机",
+            "time": "2025-11-15",
+            "source": "The Verge",
+            "summary": "本文作者Dominic Preston解释了为何《The Verge》持续关注所谓‘特朗普手机’（Trump Phone）的传闻。尽管该手机从未实际发布，也无任何实物证据，但其背后涉及虚假承诺、资金欺诈与监管漏洞，具有典型的技术骗局特征。文章指出，这一事件不仅关乎消费科技，更折射出政治人物利用技术噱头进行商业收割的现象，因此值得持续追踪报道，而非简单忽视。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/820887/why-we-keep-writing-about-trump-phone-t1",
+            "category": "其他"
+        },
         {
             "title": "OpenAI要求特朗普政府扩大芯片法案税收抵免范围以覆盖数据中心",
             "time": "2025-11-08",
@@ -9211,6 +9427,15 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "马斯克最新专访：明年Q1发Grok 5，亲自主抓A15芯片，考虑自建晶圆厂",
+            "time": "2025-11-17",
+            "source": "36氪",
+            "summary": "马斯克在巴伦资本专访中透露，xAI将于2026年第一季度发布Grok 5，参数规模达6万亿，有10%概率实现通用人工智能；特斯拉将推出自研AI5芯片，性能超英伟达2-3倍、成本仅1/10，并计划自建巨型晶圆厂，目标三年内生产100-200亿颗AI芯片。Neuralink与Optimus融合可使瘫痪患者以6万美元成本实现超人奔跑能力，Optimus规模化生产后成本可降至2-3万美元。马斯克强调连接物理与数字世界是xAI的核心优势，并呼吁通过技术扩展人类意识，探索宇宙。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3556363860671360",
+            "category": "AI"
+        },
         {
             "title": "消防员在埃隆·马斯克的隧道公司工地遭受化学灼伤",
             "time": "2025-11-13",
@@ -9614,6 +9839,15 @@
     ],
     "Momenta": [
         {
+            "title": "奇瑞发布「安徽版享界S9」，世界模型加持，携手Momenta挑战云南山路68弯",
+            "time": "2025-11-16",
+            "source": "量子位",
+            "summary": "奇瑞联合Momenta推出搭载猎鹰700智驾系统的风云A9L光辉版，主打C级行政轿车市场，其智驾系统基于Momenta R6世界模型，采用强化学习范式，有望超越人类老司机。车辆配备27个传感器、4000P基础算力及2000万高价值数据 Clips，实测在云南68弯山路和重庆复杂城市道路中表现丝滑。新车提供后驱与四驱版本，顶配四座版售价22.69万元，兼具高性能动力（470kW，零百4秒级）与后排行政配置，如隐藏冰箱、电动尾翼、零重力座椅等，意图打造20万级混动轿车卷王。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/88af2bdb4e4d233b15cc16543ee50598.png",
+            "url": "https://www.qbitai.com/2025/11/353316.html",
+            "category": "AI"
+        },
+        {
             "title": "融资丨Momenta、兴杭创投、辰韬资本联合领投，零一汽车宣布完成5亿元融资",
             "time": "2023-07-23",
             "source": "创业邦",
@@ -9772,6 +10006,15 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "英伟达曾引领了人工智能板块的上涨潮，而其财报有望再次点燃这一热潮",
+            "time": "2025-11-16",
+            "source": "钛媒体",
+            "summary": "英伟达作为人工智能芯片领域的领军企业，曾在2023年春季推动AI产业迎来爆发式增长。如今市场期待其即将发布的财报能再次点燃AI板块的投资热情。文章指出，英伟达的业绩表现对整个科技板块具有重要风向标意义，其最新财报可能影响AI算力、芯片及相关产业链的资本流向。尽管全文需付费解锁，但核心观点聚焦于英伟达在AI浪潮中的关键作用及其未来业绩预期。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/09/20250915115636476.jpg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/160x214/gravity/center/crop/!160x214&ext=.jpg",
+            "url": "https://www.tmtpost.com/7766953.html",
+            "category": "AI"
+        },
         {
             "title": "全球首家，AI编程创企估值破2000亿，英伟达和谷歌抢投",
             "time": "2025-11-14",
@@ -10179,6 +10422,15 @@
         }
     ],
     "deepseek": [
+        {
+            "title": "梁文锋代表DeepSeek，他代表梁文锋",
+            "time": "2025-11-15",
+            "source": "量子位",
+            "summary": "在2025年世界互联网大会乌镇峰会上，DeepSeek由研究员陈德里代表出席，而非创始人梁文锋。陈德里在发言中表达了对AI短期乐观、长期担忧的观点，认为AI可能在未来十年取代多数工作，并对社会结构造成冲击，呼吁科技公司承担‘守护者’角色。他参与了DeepSeek V2、V3、R1等核心模型研发，提出‘价值观对齐解耦化’理念，曾任职腾讯微信AI与幻方量化，本科毕业于北京大学，谷歌学术引用超1.3万次。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d35d801a1670843aa904ad913aa3805f.png",
+            "url": "https://www.qbitai.com/2025/11/353004.html",
+            "category": "AI"
+        },
         {
             "title": "DeepSeek大反转，Qwen成为最赚钱AI，GPT5亏麻了",
             "time": "2025-10-23",
@@ -11206,6 +11458,15 @@
         }
     ],
     "商汤科技": [
+        {
+            "title": "「商汤医疗」再获数亿元战略融资，A轮投后估值超30亿元 | 36氪独家",
+            "time": "2025-11-17",
+            "source": "36氪",
+            "summary": "商汤医疗近日完成数亿元Pre-A+轮战略融资，投资方包括联想创投、联创资本等，A轮投后估值超30亿元。公司依托AI技术，打造以「大医」大语言模型和多模态医学图像基础模型为核心的技术引擎，覆盖智能自诊、临床决策等场景，并构建智能体开发与模型应用双中台体系，推动医院智慧化升级。CEO张少霆强调，技术需结合产品矩阵与产业生态构建长期壁垒，已与澳门镜湖医院等多家机构达成深度合作，正加速构建AI医疗生态。",
+            "image_url": "https://staticx.36krcdn.com/36kr-web/static/new_qr_img.72d61993.png",
+            "url": "https://36kr.com/p/3552301218249600",
+            "category": "AI"
+        },
         {
             "title": "开源又赢闭源，商汤8B模型空间智能碾压GPT-5，AI看懂世界又进了一步",
             "time": "2025-11-11",
