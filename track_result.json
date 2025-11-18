@@ -1,6 +1,24 @@
 {
     "微软": [
         {
+            "title": "Xbox总裁在专访中透露：硬件仍是Xbox的“绝对核心”",
+            "time": "2025-11-18",
+            "source": "游侠网",
+            "summary": "微软Xbox总裁莎拉・邦德在接受《财富》杂志专访时表示，硬件仍是Xbox战略的“绝对核心”，强调核心玩家对硬件体验的情感依赖，并透露下一代Xbox主机将强化跨设备游戏库携带能力，实现主机、PC与云端的无缝体验。尽管有传闻称下一代主机或将接入Steam与Epic商城，但目前尚未获得官方证实，微软对硬件研发的投入态度坚定。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/18/584_2025111852948983.jpg",
+            "url": "https://www.ali213.net/news/html/2025-11/979525.html",
+            "category": "游戏"
+        },
+        {
+            "title": "微软与Anthropic达成战略合作，Claude AI模型入驻Azure",
+            "time": "2025-11-18",
+            "source": "The Verge",
+            "summary": "微软宣布与AI公司Anthropic达成战略合作，将Claude系列前沿模型（包括Claude Sonnet 4.5、Opus 4.1和Haiku 4.5）引入Microsoft Foundry平台，并承诺采购高达300亿美元的Azure算力。Nvidia亦参与合作，投资100亿美元支持Anthropic，并优化其模型在Blackwell和Vera Rubin架构上的性能。微软同时投资50亿美元。此举标志着微软在AI模型多元化布局上的重要一步，此前其主要依赖OpenAI，如今已放宽独家合作限制，积极引入Anthropic模型至Copilot等产品中。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/microsoftanthropicdeal.jpg?quality=90&strip=all&crop=0%2C0.048030739673386%2C100%2C99.903938520653&w=2400",
+            "url": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia",
+            "category": "AI"
+        },
+        {
             "title": "微软旗下消除解谜玩法《我的世界》手游低调测试！",
             "time": "2025-11-14",
             "source": "游侠网",
@@ -1985,6 +2003,15 @@
     ],
     "谷歌": [
         {
+            "title": "32个随机数字，1分钟推演地球未来15天丨谷歌DeepMind",
+            "time": "2025-11-18",
+            "source": "量子位",
+            "summary": "谷歌DeepMind发布新一代天气预报模型WeatherNext 2，采用全新FGN（功能生成网络）架构，仅需32个随机数字和1分钟时间，即可在单个TPU上生成全球未来15天的高分辨率天气演化情景。该模型不依赖传统物理模拟，而是通过内部随机扰动让模型自发学习大气系统结构，预测精度超越前代GenCast模型，极端天气预警提前24小时，且计算效率提升8倍，为能源、交通、农业等领域提供实时决策支持。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d6153e8ed673f197608013007e9ce7b5.png",
+            "url": "https://www.qbitai.com/2025/11/353719.html",
+            "category": "AI"
+        },
+        {
             "title": "谷歌计划投资400亿美元在德克萨斯州建设数据中心",
             "time": "2025-11-17",
             "source": "Engadget",
@@ -3048,6 +3075,33 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta推出新工具保护Reels创作者内容不被盗用",
+            "time": "2025-11-17",
+            "source": "TechCrunch",
+            "summary": "Meta于2025年11月17日推出名为“Facebook内容保护”的新移动工具，帮助创作者检测其在Facebook和Instagram上发布的原创Reels是否被他人未经授权使用。创作者可选择屏蔽盗用内容、添加归属链接、允许特定账户使用，或仅追踪视频表现。该工具基于Meta现有的Rights Manager技术，自动向参与内容变现计划且符合原创标准的创作者开放，目前仅限移动端，未来或将扩展至桌面端。Meta强调系统旨在遏制抄袭，同时防止滥用。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/1-onboarding.png?w=318",
+            "url": "https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/",
+            "category": "社交"
+        },
+        {
+            "title": "这些大神在Meta的论文看一篇少一篇了",
+            "time": "2025-11-17",
+            "source": "量子位",
+            "summary": "Meta前团队成员田渊栋等人发表论文，揭示强化学习训练（RLVR）虽显著提升模型能力，却仅更新极少数参数的反直觉现象。研究提出“三门理论”：KL锚定限制策略偏移，模型几何偏好低曲率参数，bfloat16精度过滤掩盖微小更新。实验证明RL更新避开主成分权重，倾向低幅度区域，与监督微调（SFT）机制截然不同。该发现对参数高效微调（如LoRA、PiSSA）设计具有重要启示，指出当前方法在RL场景中易失效。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/2d64bfb64ef15deeab7c7ff304ab2174.png",
+            "url": "https://www.qbitai.com/2025/11/353414.html",
+            "category": "AI"
+        },
+        {
+            "title": "小扎再出奇招：Meta员工绩效，AI来评判",
+            "time": "2025-11-17",
+            "source": "量子位",
+            "summary": "Meta宣布从2026年起将AI使用情况纳入员工绩效考核，评估员工如何利用AI提升工作效率与生产力，并推出内部AI工具Metamate辅助撰写绩效报告。员工需报告AI如何提升工作成果，使用AI已成为激励与评级的重要依据。此举引发热议，支持者认为能激发创造力，反对者担忧加剧员工压力。Meta并非孤例，微软、谷歌等科技巨头也在探索AI与绩效挂钩的管理模式。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/9e27969ac7b314428c0db20b4419732f.png",
+            "url": "https://www.qbitai.com/2025/11/353657.html",
+            "category": "AI"
+        },
         {
             "title": "腾讯：不跟Meta玩心跳，只要稳稳的幸福",
             "time": "2025-11-14",
@@ -4122,6 +4176,15 @@
     ],
     "YouTube": [
         {
+            "title": "Agentio获得4000万美元融资，拓展创作者营销平台至YouTube之外",
+            "time": "2025-11-18",
+            "source": "TechCrunch",
+            "summary": "AI驱动的创作者营销平台Agentio完成4000万美元B轮融资，由Forerunner领投，现有投资者参与，公司估值达3.4亿美元。该平台连接品牌与创作者，帮助品牌在YouTube等平台实现更高广告回报率，并已支付数千万美元给创作者。近期上线AI内容审核功能，缩短品牌合作周期，并正测试Meta平台如Reels，未来计划扩展至TikTok和Snap。创始人称AI自动化使匹配效率大幅提升，创作者首单响应时间从数周缩短至一天内。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Arthur-Jonathan-Agentio-Co-Founders-1.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/",
+            "category": "其他"
+        },
+        {
             "title": "迪士尼与YouTube TV达成协议结束内容停播",
             "time": "2025-11-15",
             "source": "TechCrunch",
@@ -4375,6 +4438,24 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "Intuit与OpenAI签署超1亿美元合作协议，将其应用接入ChatGPT",
+            "time": "2025-11-18",
+            "source": "TechCrunch",
+            "summary": "Intuit与OpenAI签署了一项价值超1亿美元的多年合作协议，将旗下TurboTax、Credit Karma、QuickBooks和Mailchimp等财务与税务应用集成至ChatGPT中，允许用户通过自然语言询问完成报税估算、信用评估和财务管理等任务。该合作依托Intuit多年积累的金融数据和AI验证机制，以降低AI幻觉风险。同时，Intuit还将扩大对OpenAI模型的内部使用，并部署ChatGPT Enterprise提升员工工作效率。此举标志着金融科技公司深度整合生成式AI的重要一步。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/intuit-openai.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt",
+            "category": "AI"
+        },
+        {
+            "title": "GPT-5败下阵，这款中国AI拿下全球第一，众多医生已在用它做诊断",
+            "time": "2025-11-17",
+            "source": "量子位",
+            "summary": "本文报道了中国医疗AI产品‘未来医生AI工作室’凭借其核心模型MedGPT，在多模型临床实战测评中击败GPT-5、Claude-3.7、Gemini-2.5等国际主流大模型，夺得安全与有效性全球第一。该AI系统专为基层医疗设计，通过‘临床决策助手’和‘患者随访助手’两大功能，实现诊中风险预警与诊后慢病管理，强调安全、可追溯、人机协同，获得多位三甲医院专家认可，被视为‘AI+基层医疗’的最佳实践。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/59ae4b08d494edf17648d056194ccdab.png",
+            "url": "https://www.qbitai.com/2025/11/353600.html",
+            "category": "AI"
+        },
         {
             "title": "ChatGPT爱用破折号是病，奥特曼刚宣布已经治好了",
             "time": "2025-11-16",
@@ -7059,6 +7140,15 @@
     ],
     "华为": [
         {
+            "title": "直营大退潮，腾势、鸿蒙智行、极氪等品牌三四线门店转为加盟",
+            "time": "2025-11-18",
+            "source": "36氪",
+            "summary": "随着新能源汽车市场竞争加剧和价格战持续，腾势、鸿蒙智行、极氪等品牌纷纷关闭三四线城市直营门店，转为加盟模式以降低运营成本。直营模式月均成本高达40万元，且销量低迷，而经销商模式可为厂商带来保证金和库存资金回笼。尽管如此，一线城市的直营店仍被保留，因其承担品牌展示、用户反馈和高利润售后等关键功能。特斯拉等企业通过直营售后实现盈利，凸显直营在核心城市不可替代的价值。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251118/v2_77ec3266e10b43909c91614b94589b77@46958_oswg184206oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3558458211875970",
+            "category": "其他"
+        },
+        {
             "title": "手机AI「卷」隐私和性能：苹果是老司机，华为、谷歌都是弟弟",
             "time": "2025-11-14",
             "source": "36氪",
@@ -7222,6 +7312,33 @@
         }
     ],
     "阿里巴巴": [
+        {
+            "title": "淘宝“合体”VS 京东“分家”，你看好谁？",
+            "time": "2025-11-18",
+            "source": "36氪",
+            "summary": "本文分析了京东与阿里巴巴在即时零售领域的战略分野：京东独立上线外卖APP并推出“京东真榜”，主打真实评价与非商业化信任体系；阿里则将饿了么更名为“淘宝闪购”，推动流量整合与生态协同。京东借阿里整合期切入市场，试图以“真实”差异化竞争，突破美团主导的外卖格局，探索信任驱动的本地生活新路径。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251118/v2_614dfdca9b0f479ab28af8226e81267b@000000_oswg484675oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3558403795647617",
+            "category": "社交"
+        },
+        {
+            "title": "阿里正式上线千问，Qwen大模型这两年的努力都搬到这里了",
+            "time": "2025-11-17",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXntrXiaIshwc88IGyV5fz4XNaDD47oZmcYCxfVibyc5Qxliaa70ffouRdmLmCx18k37CNDwCUu7YB01A/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/gzWncrNpBv74xHY6dR95Ew",
+            "category": "AI"
+        },
+        {
+            "title": "AI出海，阿里先给老外来了点猛的",
+            "time": "2025-11-16",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXntrXiaIshwc88IGyV5fz4XNYwtGOvaxDmqycueiaRemS12pSG77ve23lEXicicXfsE37LStBzbY5wSnA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/jhVa-D3f0tDku7rHaYaVNA",
+            "category": "AI"
+        },
         {
             "title": "阿里AI眼镜供应商拿下OPPO、小米融资，订单量已创纪录｜潜伏独角兽",
             "time": "2025-11-11",
@@ -7621,6 +7738,24 @@
     ],
     "百度": [
         {
+            "title": "百度三季度AI业务收入同比增50%超预期，2023年以来已向AI投入超1000亿元",
+            "time": "2025-11-18",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1Z0LHHibpm9ytgfhesUmLYT4k2IGUFMzfHicFxoKj9icWFHmxOl1OEYPGvGiaUA55PYiaXcKFLEVfxF8sA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/qdS4mZpfpbZyVumdDoIriA",
+            "category": "其他"
+        },
+        {
+            "title": "拒绝“概念”要“实效”：百度智能云详解Agent Infra如何让智能体成为真正生产力",
+            "time": "2025-11-17",
+            "source": "量子位",
+            "summary": "百度智能云在百度世界2025大会上发布千帆Agent Infra基础设施，通过自研昆仑芯、百舸AI平台及文心大模型5.0，构建涵盖模型、工具、数据与开发服务的完整智能体支撑体系。结合智能体工作坊、“百度伐谋”超级智能体和无代码平台“秒哒”，推动智能体从概念走向产业落地，已在应急管理、能源、制造等领域实现降本增效，并吸引超千家企业申请测试。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/9d5c65804bb65c1d766a590c00e4c234.png",
+            "url": "https://www.qbitai.com/2025/11/353510.html",
+            "category": "AI"
+        },
+        {
             "title": "百度发布原生全模态大模型文心5.0，李彦宏：持续推高智能天花板",
             "time": "2025-11-13",
             "source": "IPO早知道",
@@ -7793,6 +7928,24 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "Cloudflare宕机导致X等平台中断，距马斯克嘲讽AWS仅一个月",
+            "time": "2025-11-18",
+            "source": "TechCrunch",
+            "summary": "2025年11月18日，云基础设施服务商Cloudflare发生大规模宕机，导致ChatGPT、Claude、Spotify和X等主流平台无法访问。此次事件颇具讽刺意味，因一个月前马斯克曾公开嘲笑AWS用户依赖其服务，称X因无AWS依赖而更安全。Signal总裁Meredith Whittaker借此呼吁减少对少数云服务商的过度依赖。Cloudflare已在状态页面确认问题并修复中，但部分服务尚未完全恢复。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/bomb-explosion.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/18/cloudflare-outage-takes-down-x-one-month-after-musk-mocked-aws-customers/",
+            "category": "社交"
+        },
+        {
+            "title": "福特联手亚马逊助力二手车销售",
+            "time": "2025-11-17",
+            "source": "TechCrunch",
+            "summary": "福特宣布与亚马逊合作，通过Amazon Autos平台销售认证二手车，客户可在线浏览、融资、签署文件，并在本地经销商处提车。该合作延续了亚马逊去年与现代合作的新车销售模式，此次拓展至二手车市场，提供14天或1000英里内的无理由退货保障。初期仅在洛杉矶、西雅图和达拉斯等地区上线，福特仍保留经销商作为关键销售环节。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1988747725.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/",
+            "category": "其他"
+        },
         {
             "title": "亚马逊卫星网络更名并放弃 affordability 宣传策略",
             "time": "2025-11-16",
@@ -8376,6 +8529,15 @@
     ],
     "高盛": [
         {
+            "title": "高盛2026年投资展望：AI领域驱动私募股权结构分化，关注行业领先公司折价机会",
+            "time": "2025-11-18",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1Z0LHHibpm9ytgfhesUmLYT48EtIjEWJ3ky4aNSePYxsmLiajAXfrvKWsuwrYAZPZgicWpuAOiatB4h2A/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/yNqr57MUibwQkcgkadcsIw",
+            "category": "其他"
+        },
+        {
             "title": "高盛加码投资MoEngage 1亿美元，助力全球扩张",
             "time": "2025-11-04",
             "source": "TechCrunch",
@@ -8411,6 +8573,15 @@
             "summary": "京东App低调上线‘京东点评’功能，涵盖美食、酒店、好物、旅游和家政五大类，以UGC图文视频内容与多维度榜单为核心，旨在提升用户粘性与本地生活服务信任体系。该功能不直接商业化，处于测试阶段，意在通过内容生态补足京东在高频消费场景的短板，构建‘内容—信任—交易—履约’闭环，与美团、抖音等平台竞争本地生活流量。作者认为其本质是为京东自营供应链服务，通过评价体系放大供给优势，而非再造一个大众点评。",
             "image_url": "https://img.36krcdn.com/20221026/v2_56a1e8468b7545b992ef7aa47ff4f318_img_000",
             "url": "https://36kr.com/p/3555911637719431",
+            "category": "社交"
+        },
+        {
+            "title": "美团真的会进印度吗？从业务逻辑看几乎不可能",
+            "time": "2025-11-17",
+            "source": "白鲸出海",
+            "summary": "本文分析美团进入印度市场的可能性，认为从业务逻辑上看几乎不可能。作者指出，尽管美团曾调研印度市场，但印度即时零售模式高度重资产、履约密度低、供应链不稳定，与美团在中国依赖的高密度配送和成熟基础设施差异巨大。印度市场已被Zomato、Swiggy等本土企业主导，竞争格局固化，投入产出比不合理，政策风险高，因此不构成美团海外拓展的优先级市场。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251117/1763371043130650.jpg",
+            "url": "https://www.baijing.cn/article/54786",
             "category": "社交"
         },
         {
@@ -8596,6 +8767,15 @@
     ],
     "京东": [
         {
+            "title": "淘宝“合体”VS 京东“分家”，你看好谁？",
+            "time": "2025-11-18",
+            "source": "36氪",
+            "summary": "本文分析了京东与阿里巴巴在即时零售领域的战略分野：京东独立上线外卖APP并推出“京东真榜”，主打真实评价与非商业化信任体系；阿里则将饿了么更名为“淘宝闪购”，推动流量整合与生态协同。京东借阿里整合期切入市场，试图以“真实”差异化竞争，突破美团主导的外卖格局，探索信任驱动的本地生活新路径。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251118/v2_614dfdca9b0f479ab28af8226e81267b@000000_oswg484675oswg1080oswg719_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3558403795647617",
+            "category": "社交"
+        },
+        {
             "title": "“京东点评”也和美团对上线了",
             "time": "2025-11-17",
             "source": "36氪",
@@ -8766,12 +8946,39 @@
     ],
     "Rockstar Games": [
         {
+            "title": "《GTA6》同一场景昼夜画面对比：夜间氛围别具一格",
+            "time": "2025-11-18",
+            "source": "游侠网",
+            "summary": "近日，国外网友分享了一张《侠盗猎车手6（GTA6）》在同一场景下昼夜对比的图片，展现了夜晚罪城独特的光影氛围与星空效果，视觉体验显著提升。此前，R星宣布游戏从原定2026年5月延期至2026年11月19日发售，旨在确保游戏稳定性和品质，避免重蹈《赛博朋克2077》的覆辙。开发团队目前专注于优化与BUG修复，力求达成完美发布状态。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/18/584_202511184595954.png",
+            "url": "https://www.ali213.net/news/html/2025-11/979511.html",
+            "category": "游戏"
+        },
+        {
             "title": "《GTA在线模式》12月更新豪宅！完成任务获200万折扣",
             "time": "2025-11-17",
             "source": "游侠网",
             "summary": "《GTA在线模式》将于12月推出豪宅更新，玩家可通过完成三场新任务（驱逐占屋者、搜集建材、监督承包商）获得200万游戏币购房折扣。文章讽刺性地指出，游戏内经济体系模仿现实富豪行为，玩家在长期积累财富后终于能购置象征身份的巨宅，呼应了虚拟世界中对奢靡生活的荒诞追求。此前游戏内房产多为标准化公寓，此次更新填补了高端地产空白。",
             "image_url": "https://images.ali213.net/picfile/pic/2025/11/17/584_2025111773146405.png",
             "url": "https://www.ali213.net/news/html/2025-11/978949.html",
+            "category": "游戏"
+        },
+        {
+            "title": "M站年度最烂游戏出炉：《GTA》制作人\"跌落神坛\"！",
+            "time": "2025-11-17",
+            "source": "游侠网",
+            "summary": "Metacritic公布2025年度评分最低游戏榜单，由《GTA》系列前制作人莱斯利・本齐斯领衔的Build a Rocket Boy工作室开发的《心之眼》以37分垫底，成为年度最差游戏。该作自开发阶段起便饱受争议，员工多次爆料内部管理混乱、意见被忽视，甚至遭嘲笑。榜单中还包括《欢迎光临！拓麻歌子开心镇》《救护车生活》等多款低分作品，引发玩家和业界对游戏品质与开发管理的广泛讨论。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/17/584_20251117104000490.png",
+            "url": "https://www.ali213.net/news/html/2025-11/979005.html",
+            "category": "游戏"
+        },
+        {
+            "title": "业内人士谈《GTA6》野心：有件事未来20年无人超越！",
+            "time": "2025-11-17",
+            "source": "游侠网",
+            "summary": "《GTA 6》宣布延期至2026年11月发售，以确保游戏品质。消息人士Reece Reilly透露，R星在本作中实现的技术突破具有空前野心，未来15至20年难以被超越。据透露，游戏将引入超大规模破坏效果、AI程序化生成建筑内部结构，以及更真实的NPC行为系统，大幅提升开放世界交互真实性。相关专利与招聘信息也佐证了这些技术方向，引发玩家与业界高度期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/11/17/584_20251117103721964.png",
+            "url": "https://www.ali213.net/news/html/2025-11/979035.html",
             "category": "游戏"
         },
         {
@@ -9427,6 +9634,24 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "Cloudflare宕机导致X等平台中断，距马斯克嘲讽AWS仅一个月",
+            "time": "2025-11-18",
+            "source": "TechCrunch",
+            "summary": "2025年11月18日，云基础设施服务商Cloudflare发生大规模宕机，导致ChatGPT、Claude、Spotify和X等主流平台无法访问。此次事件颇具讽刺意味，因一个月前马斯克曾公开嘲笑AWS用户依赖其服务，称X因无AWS依赖而更安全。Signal总裁Meredith Whittaker借此呼吁减少对少数云服务商的过度依赖。Cloudflare已在状态页面确认问题并修复中，但部分服务尚未完全恢复。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/bomb-explosion.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/18/cloudflare-outage-takes-down-x-one-month-after-musk-mocked-aws-customers/",
+            "category": "社交"
+        },
+        {
+            "title": "马斯克悄然发布Grok 4.1，霸榜大模型竞技场所有排行榜",
+            "time": "2025-11-18",
+            "source": "量子位",
+            "summary": "马斯克旗下xAI团队悄然发布Grok 4.1大模型，在大模型竞技场中以1483分的Elo分数登顶榜首，其非思考模式也以1465分位列第二，超越所有公开模型的完整推理模式。该模型在专家榜、职业榜中多数领域夺冠，仅在数学和文学榜上稍逊于Gemini 2.5和Claude 4.5。Grok 4.1通过强化学习大幅优化了情感响应、创意写作和对话连贯性，并显著降低幻觉率。模型已向全平台用户开放，默认采用自动模式，响应速度更快，输出更精简。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/abf4ec293c81936ec552848f19f27467.jpeg",
+            "url": "https://www.qbitai.com/2025/11/353733.html",
+            "category": "AI"
+        },
         {
             "title": "马斯克最新专访：明年Q1发Grok 5，亲自主抓A15芯片，考虑自建晶圆厂",
             "time": "2025-11-17",
@@ -10423,6 +10648,15 @@
     ],
     "deepseek": [
         {
+            "title": "啊？微博7800美元训的大模型，数学能力超了DeepSeek-R1",
+            "time": "2025-11-18",
+            "source": "量子位",
+            "summary": "微博AI发布自研开源大模型VibeThinker，仅15亿参数，在AIME24、AIME25、HMMT25等高难度数学测试中超越参数量超其400倍的DeepSeek-R1（6710亿参数），并在编程测试中媲美主流大模型。其后训练成本仅7800美元，成本效益达30-60倍，打破AI行业参数崇拜，推动效率革命。模型聚焦数学与代码场景，暂不优化日常对话，未来将赋能微博智搜、评论罗伯特等AI产品，深化社交场景智能服务。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/ce6a93c0b08a351385b768b9796d837b.png",
+            "url": "https://www.qbitai.com/2025/11/353826.html",
+            "category": "AI"
+        },
+        {
             "title": "梁文锋代表DeepSeek，他代表梁文锋",
             "time": "2025-11-15",
             "source": "量子位",
@@ -10640,6 +10874,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "就连推动TikTok禁令的议员也不清楚发生了什么",
+            "time": "2025-11-18",
+            "source": "The Verge",
+            "summary": "尽管美国国会于2024年通过法案要求TikTok母公司ByteDance出售其美国业务，否则将强制下架该应用，但至今TikTok仍在美国广泛使用。特朗普政府提出一项由Oracle、Silver Lake等美国企业主导的140亿美元收购计划，但该方案被质疑未能切断与中国算法的关联，且违反了国会立法精神。多数推动禁令的议员对此保持沉默，缺乏公开监督，凸显了立法机构在面对行政权力时的无力与妥协。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332833/STK051_TIKTOKBAN_CVirginia_A.jpg?quality=90&strip=all&crop=17.303921568627%2C0%2C65.392156862745%2C100&w=2400",
+            "url": "https://www.theverge.com/policy/822164/tiktok-deal-trump-china",
+            "category": "社交"
+        },
+        {
+            "title": "谢赛宁盛赞字节Seed新研究！单Transformer搞定任意视图3D重建",
+            "time": "2025-11-18",
+            "source": "量子位",
+            "summary": "字节Seed团队推出全新3D重建模型Depth Anything 3（DA3），仅用单个视觉Transformer即可实现从单图、多视角照片或视频中精准估计深度与相机姿态，重建3D场景并生成未拍摄视角图像。该模型在自建视觉几何基准上全面超越现有方法，相机定位精度提升35.7%，几何重建准确率提高23.6%。其极简架构通过深度与光线双任务头预测，结合师生蒸馏训练，显著降低对标注数据的依赖。项目由95后科学家康炳易带队，论文已发布于arXiv。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/a0c7813ce213ef9011083013f9a755de.png",
+            "url": "https://www.qbitai.com/2025/11/353701.html",
+            "category": "AI"
+        },
         {
             "title": "TikTok推出类似Instagram广播频道的“公告板”功能",
             "time": "2025-11-13",
@@ -11459,6 +11711,15 @@
     ],
     "商汤科技": [
         {
+            "title": "首个数字人国家标准，商汤牵头定义，正式发布！",
+            "time": "2025-11-18",
+            "source": "量子位",
+            "summary": "商汤科技牵头制定我国首个客服型虚拟数字人国家标准《信息技术 客服型虚拟数字人通用技术要求》（GB/T 46483-2025），明确了数字人在形象生成、语音交互、情感交互等方面的技术规范。该标准历时两年完成，联合三十余家产学研单位共同制定，推动金融、通信、教育、电商等行业标准化应用。商汤如影数字人平台已全面符合标准，并实现真人、动漫、3D形象驱动的高质量视频生成，同时推出老子、钱学森等文化数字人，拓展AI在文化传播与公益领域的应用。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/916f71ac4467e9a517c2d960504ead3f.jpeg",
+            "url": "https://www.qbitai.com/2025/11/354033.html",
+            "category": "AI"
+        },
+        {
             "title": "「商汤医疗」再获数亿元战略融资，A轮投后估值超30亿元 | 36氪独家",
             "time": "2025-11-17",
             "source": "36氪",
@@ -11599,6 +11860,15 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "微软与Anthropic达成战略合作，Claude AI模型入驻Azure",
+            "time": "2025-11-18",
+            "source": "The Verge",
+            "summary": "微软宣布与AI公司Anthropic达成战略合作，将Claude系列前沿模型（包括Claude Sonnet 4.5、Opus 4.1和Haiku 4.5）引入Microsoft Foundry平台，并承诺采购高达300亿美元的Azure算力。Nvidia亦参与合作，投资100亿美元支持Anthropic，并优化其模型在Blackwell和Vera Rubin架构上的性能。微软同时投资50亿美元。此举标志着微软在AI模型多元化布局上的重要一步，此前其主要依赖OpenAI，如今已放宽独家合作限制，积极引入Anthropic模型至Copilot等产品中。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/microsoftanthropicdeal.jpg?quality=90&strip=all&crop=0%2C0.048030739673386%2C100%2C99.903938520653&w=2400",
+            "url": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia",
+            "category": "AI"
+        },
         {
             "title": "黑客再次利用Anthropic的AI模型Claude",
             "time": "2025-11-14",
