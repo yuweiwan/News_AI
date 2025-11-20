@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "黑曜石品牌力全面爆发：《天外世界2》上市仅12天玩家突破110万，进一步稳固了Xbox生态的内容优势与吸引力",
+            "time": "2025-11-19",
+            "source": "白鲸出海",
+            "summary": "黑曜石娱乐开发的RPG游戏《天外世界2》上市12天全球玩家突破110万，远超前作表现，显著强化了Xbox生态的内容吸引力。数据显示，77%玩家来自Xbox平台，平均游戏时长13.8小时，用户黏性高。游戏成功带动黑曜石旗下IP联动，美国、中国、英国为主要市场，玩家评分3.5/5，反馈积极，未来增长潜力巨大。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251119/1763543165316352.jpg",
+            "url": "https://www.baijing.cn/article/54815",
+            "category": "游戏"
+        },
+        {
+            "title": "当前最佳Xbox手柄推荐：从入门到专业全指南",
+            "time": "2025-11-19",
+            "source": "The Verge",
+            "summary": "本文详细评测了多款Xbox系列手柄，推荐微软官方Xbox无线手柄为最平衡的入门选择，8BitDo有线手柄为高性价比预算款，Xbox Elite Series 2为功能全面的高端旗舰，Razer Wolverine V3 Pro则以霍尔效应摇杆和可定制性成为Elite的有力替代。文章还介绍了GameSir G7 Pro、Hyperkin Competitor等特色型号，涵盖连接方式、按键手感、软件定制与价格对比，帮助玩家根据需求选购。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Best-Xbox-Controller.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s",
+            "category": "游戏"
+        },
+        {
+            "title": "这是微软下一代Cobalt CPU",
+            "time": "2025-11-19",
+            "source": "The Verge",
+            "summary": "微软在Ignite大会上预览了其新一代Azure Cobalt 200云芯片，该芯片基于台积电3nm工艺制造，相较于上一代Cobalt 100，性能提升最高达50%，同时显著降低云应用的能耗。Cobalt系列芯片是微软自研云基础设施的重要组成部分，旨在优化Azure云服务的效率与成本。此次发布标志着微软在定制化芯片领域持续投入，以增强其在云计算市场的竞争力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/822802/microsoft-azure-cobalt-200-cpu",
+            "category": "AI"
+        },
+        {
             "title": "Xbox总裁在专访中透露：硬件仍是Xbox的“绝对核心”",
             "time": "2025-11-18",
             "source": "游侠网",
@@ -16,6 +43,15 @@
             "summary": "微软宣布与AI公司Anthropic达成战略合作，将Claude系列前沿模型（包括Claude Sonnet 4.5、Opus 4.1和Haiku 4.5）引入Microsoft Foundry平台，并承诺采购高达300亿美元的Azure算力。Nvidia亦参与合作，投资100亿美元支持Anthropic，并优化其模型在Blackwell和Vera Rubin架构上的性能。微软同时投资50亿美元。此举标志着微软在AI模型多元化布局上的重要一步，此前其主要依赖OpenAI，如今已放宽独家合作限制，积极引入Anthropic模型至Copilot等产品中。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/microsoftanthropicdeal.jpg?quality=90&strip=all&crop=0%2C0.048030739673386%2C100%2C99.903938520653&w=2400",
             "url": "https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia",
+            "category": "AI"
+        },
+        {
+            "title": "与Windows的Copilot AI对话让人感觉电脑很无能",
+            "time": "2025-11-18",
+            "source": "The Verge",
+            "summary": "本文作者体验了Windows 11中Copilot AI助手的功能，发现其在识别屏幕内容、回答问题和执行任务时表现糟糕，频繁出错、编造信息，甚至无法正确识别显而易见的物体。尽管微软宣传AI能实现自然交互和自动化操作，但实际使用中Copilot反应迟缓、语无伦次，连基本的文件识别和应用控制都无法完成，远未达到广告中的理想状态，暴露了当前AI技术与宣传之间的巨大落差。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258094_I_tried_talking_to_my_Windows_PC_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions",
             "category": "AI"
         },
         {
@@ -1023,6 +1059,24 @@
     ],
     "任天堂": [
         {
+            "title": "现在购买的最佳任天堂Switch控制器",
+            "time": "2025-11-19",
+            "source": "The Verge",
+            "summary": "本文介绍了当前最适合任天堂Switch和Switch 2的多款无线控制器，包括官方Switch Pro控制器、Hori Split Pad Compact（适合手持模式）、GuliKit KingKong 3（Xbox风格）、8BitDo Ultimate 2和Pro 3（支持多平台）等。文章详细对比了各控制器的舒适度、功能、自定义选项和价格，并指出第三方控制器可能缺少HD震动和Amiibo支持，但部分高端型号已弥补这些不足。还推荐了8BitDo USB适配器，可让现有蓝牙手柄兼容Switch。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25490155/247143_Buying_Guide_Switch_Controllers_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad",
+            "category": "游戏"
+        },
+        {
+            "title": "真人版《塞尔达传说》电影开拍，首组片场照曝光",
+            "time": "2025-11-18",
+            "source": "GamesIndustry.biz",
+            "summary": "由韦斯·鲍尔执导的真人版《塞尔达传说》电影已正式开拍，预计于2027年上映。影片中，博·布拉加森和本杰明·埃文·艾因斯沃斯分别饰演林克和塞尔达公主。官方首次发布了片场照片，展示了角色造型与部分场景设计，引发玩家广泛关注。该电影由索尼影业与任天堂联合制作，是近年来最受期待的电子游戏改编影视项目之一。新闻链接指向任天堂官方X账号获取更多细节。",
+            "image_url": "https://assetsio.gnwcdn.com/zelda_ERU4SJV.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/filming-underway-for-live-action-legend-of-zelda-adaptation-first-set-photos-revealed-news-in-brief",
+            "category": "游戏"
+        },
+        {
             "title": "结束独占！《小小火箭实验室》12月10日登陆Switch",
             "time": "2025-11-17",
             "source": "游侠网",
@@ -2003,12 +2057,93 @@
     ],
     "谷歌": [
         {
+            "title": "谷歌地图将使用AI预测电动汽车充电桩可用性",
+            "time": "2025-11-20",
+            "source": "Engadget",
+            "summary": "谷歌正在更新Maps应用，引入AI功能以预测用户到达时电动汽车充电桩的可用数量，帮助避免排队等候。该功能将通过Android Auto和内置Google系统的汽车率先推出。同时，Explore标签页经过重构，便于发现本地推荐的餐厅和活动，并整合了Gemini AI助手提供“出行前提示”。此外，用户现在可自定义评论显示名称，但仍关联其Google账户。该更新还将扩展至Garmin智能手表，并为Polestar 4提供实时车道引导。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/ytdVt602PV71lcyVqid6XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk3Mg--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c719f580-c578-11f0-be2b-22278d9511f3",
+            "url": "https://www.engadget.com/apps/google-maps-will-use-ai-to-predict-if-ev-chargers-will-be-available-on-arrival-191808879.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌推出新学术搜索工具Scholar Labs，利用AI寻找相关研究",
+            "time": "2025-11-20",
+            "source": "The Verge",
+            "summary": "谷歌推出名为Scholar Labs的AI驱动学术搜索工具，旨在通过分析文本语义关系而非传统引用次数来识别高质量科研论文。该工具目前仅对部分登录用户开放，演示中成功定位了一篇关于脑机接口的2024年综述论文，并提供匹配理由。但批评指出其缺乏引用量、发表时间等传统学术评价指标，引发科学界对AI能否准确判断研究质量的担忧。文章由AI记者Elissa Welle撰写，探讨了AI在学术检索中的潜力与局限。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌发布Gemini 3，显著提升多模态理解与推理能力",
+            "time": "2025-11-19",
+            "source": "动点科技",
+            "summary": "谷歌正式发布Gemini 3系列AI模型，率先上线Gemini 3 Pro预览版，显著提升多模态理解、推理与代码生成能力。在LMArena、Humanity’s Last Exam、MMMU-Pro等基准测试中表现领先，并引入Deep Think模式增强复杂问题求解。该模型已通过多项安全评估，防范提示注入与滥用风险，面向Gemini应用用户、Google AI Pro/Ultra订阅用户及开发者开放，可通过API、Google AI Studio、Vertex AI等平台调用。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/gemini-3-uai-1032x580.webp",
+            "url": "https://cn.technode.com/post/2025-11-19/google-gemini3-launch/",
+            "category": "AI"
+        },
+        {
+            "title": "Google Maps新增Gemini驱动的提示板块、充电桩可用性预测等功能",
+            "time": "2025-11-19",
+            "source": "TechCrunch",
+            "summary": "Google Maps推出多项新功能，包括基于Gemini AI的“出行前知晓”提示板块，为用户显示餐厅、酒店等地点的实用信息如预订方式、隐藏菜单和最佳停车位置；更新的Explore标签页可更便捷地发现附近热门地点和 curated 内容；新增EV充电桩可用性预测功能，通过AI分析历史与实时数据预判到达时的空闲充电桩数量；同时支持用户使用昵称发布评论以防止刷评行为。这些功能正在逐步向全球Android和iOS用户推送。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Insider-tips.png?w=325",
+            "url": "https://techcrunch.com/2025/11/19/google-maps-adds-gemini-powered-tips-section-ev-charger-availability-predictions-and-more/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌推出新一代Gemini 3模型，支持AI模式和智能代理功能",
+            "time": "2025-11-19",
+            "source": "Engadget",
+            "summary": "谷歌正式发布新一代AI模型Gemini 3 Pro，宣称其在推理能力、编码性能和多模态理解方面达到新高度。该模型已上线Gemini应用、AI Mode搜索功能及企业平台，支持自动执行任务的“Gemini Agent”功能，可协助管理邮件、生成交互式工具如房贷计算器。开发者可通过Gemini API和AI Studio调用，同时推出新编程工具Antigravity。Gemini 3 Deep Think增强推理模式将逐步向安全测试员和AI Ultra订阅者开放。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/g.0uP8_wzoI_gkAd1jjqgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-11/84b1e810-c48d-11f0-afb7-ee586354bf66",
+            "url": "https://www.engadget.com/ai/googles-new-gemini-3-model-arrives-in-ai-mode-and-the-gemini-app-160054273.html",
+            "category": "AI"
+        },
+        {
+            "title": "Gemini 3打服奥特曼马斯克，谷歌CEO却在担心AI泡沫",
+            "time": "2025-11-19",
+            "source": "量子位",
+            "summary": "谷歌CEO皮猜在BBC采访中警告当前AI领域存在非理性投资泡沫， likening it to the 2000年互联网泡沫，指出万亿美元投资中存在过度热情，可能导致无人幸免。尽管Meta、微软、Alphabet等巨头持续加码AI投入，OpenAI单季亏损高达115亿美元，凸显泡沫风险。皮猜同时提醒公众不要盲目相信AI生成内容，强调应结合搜索等工具验证信息，主张AI发展需‘大胆而负责’。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/7d9cc1f8579dc1970ab63cb6342aacb3.jpeg",
+            "url": "https://www.qbitai.com/2025/11/354110.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了",
+            "time": "2025-11-19",
+            "source": "量子位",
+            "summary": "谷歌发布Gemini 3 Pro模型，在多项基准测试中超越GPT-5.1和Claude 4.5，包括ARC-AGI-2、AIME 2025数学竞赛和LiveCodeBench Pro编程测试。该模型具备强大的多模态理解、智能体规划与编程能力，可一键生成可运行的乐高编辑器和小游戏，并在模拟自动售货机管理中实现最高收益。谷歌同步推出智能体开发平台Antigravity，支持多模型接入，开启AI编程新战场。Gemini系列从多模态、推理到Agent能力实现深度融合，显著提升对自然语言指令的理解与响应效率。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/67330a3795ca800d494fa32f84bd7f4d.png",
+            "url": "https://www.qbitai.com/2025/11/354072.html",
+            "category": "AI"
+        },
+        {
             "title": "32个随机数字，1分钟推演地球未来15天丨谷歌DeepMind",
             "time": "2025-11-18",
             "source": "量子位",
             "summary": "谷歌DeepMind发布新一代天气预报模型WeatherNext 2，采用全新FGN（功能生成网络）架构，仅需32个随机数字和1分钟时间，即可在单个TPU上生成全球未来15天的高分辨率天气演化情景。该模型不依赖传统物理模拟，而是通过内部随机扰动让模型自发学习大气系统结构，预测精度超越前代GenCast模型，极端天气预警提前24小时，且计算效率提升8倍，为能源、交通、农业等领域提供实时决策支持。",
             "image_url": "https://www.qbitai.com/wp-content/uploads/replace/d6153e8ed673f197608013007e9ce7b5.png",
             "url": "https://www.qbitai.com/2025/11/353719.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌扩展AI模式的航班和活动预订功能",
+            "time": "2025-11-18",
+            "source": "Engadget",
+            "summary": "谷歌在其AI Mode中推出了多项新功能，包括全球扩展Flight Deals航班比价工具，支持通过自然语言搜索最优航班价格。同时，AI Mode的智能代理功能现已向更多美国用户开放，可用于预订餐厅、演出门票及美容护理服务。此外，新增的Canvas功能为用户提供了一个整合式规划空间，可协助制定旅行计划，包括推荐目的地、酒店和预订选项。此前谷歌还上线了AI驱动的购物结账功能，允许AI在价格达标时自动下单。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/cP1m2hiMwx31.eFRQw2Vbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/d91486c0-a934-11f0-b79f-75cdf358ab46",
+            "url": "https://www.engadget.com/ai/google-expands-ai-modes-flight-and-event-booking-features-170017656.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌日历现已支持安排任务时间块",
+            "time": "2025-11-18",
+            "source": "Engadget",
+            "summary": "谷歌日前在Google Calendar中新增了任务时间块功能，允许用户为特定任务安排专注时段，可设置描述、勿扰模式及可见性选项，提升个人生产力。该功能自11月起在快速发布域中上线，标准发布域将于12月1日起逐步推送，适用于所有Google账户，包括个人和Workspace用户。此举旨在替代以往“为自己安排会议”的低效做法，优化时间管理体验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/OZthDJYY0mz9GSMhOsmBeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYxOA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/time-blocking-for-tasks-on-google-calendar.gif",
+            "url": "https://www.engadget.com/apps/google-calendar-now-lets-you-schedule-tasks-231026000.html",
             "category": "AI"
         },
         {
@@ -3075,6 +3210,24 @@
         }
     ],
     "Meta": [
+        {
+            "title": "杨立昆官宣离职，感谢一圈Meta领导，只字不提亚历山大·王",
+            "time": "2025-11-20",
+            "source": "36氪",
+            "summary": "图灵奖得主、Meta AI首席科学家杨立昆宣布将于年底离职，创办专注于先进机器智能（AMI）的初创公司，目标是构建能理解物理世界、具备持久记忆与推理能力的AI系统。他感谢了扎克伯格等Meta高层，但未提及新任超级智能团队负责人汪滔。此举被视为其与Meta在AI技术路线上的分歧所致——Meta转向快速发布模型，而杨立昆坚持长期研究世界模型。Meta近期裁员并高薪挖角，加剧了内部变革。杨立昆的新公司或将与Meta保持合作关系。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251120/v2_149770b8e09448029070d1c2bb3e5a24@000000_oswg331392oswg816oswg1262_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3560752045014149",
+            "category": "AI"
+        },
+        {
+            "title": "Meta首席AI科学家杨立昆离职",
+            "time": "2025-11-20",
+            "source": "The Verge",
+            "summary": "Meta首席AI科学家杨立昆正式离职，他此前创建了FAIR研究团队并长期坚持认为大型语言模型是“死胡同”。他的离职发生在Meta对FAIR部门进行大规模裁员之后。杨立昆表示，创建FAIR是他最自豪的非技术成就，并计划创立一家初创公司继续推进高级机器智能研究，Meta将成为其合作伙伴。与此同时，Meta将加大在Scale AI上的140亿美元投资，以追求通用人工智能（AGI）。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/824734/meta-chief-ai-scientist-yann-lecun-is-leaving",
+            "category": "AI"
+        },
         {
             "title": "Meta推出新工具保护Reels创作者内容不被盗用",
             "time": "2025-11-17",
@@ -4439,12 +4592,39 @@
     ],
     "OpenAI": [
         {
+            "title": "“日本版OpenAI”创下估值新高！Transformer八子之一创办，老黄也投了",
+            "time": "2025-11-19",
+            "source": "量子位",
+            "summary": "日本AI初创公司Sakana AI完成B轮融资，估值达26.35亿美元，创日本非上市AI企业新高。公司由Transformer论文八作者之一Llion Jones与谷歌前科学家David Ha联合创立，致力于开发基于自然启发的AI模型，摒弃传统Transformer架构，借鉴鱼类群体智能与进化机制降低计算成本。其推出的“AI科学家”系统可自主完成科研全流程，已生成多篇被顶会接收的论文，并在模型合并、教学推理等领域持续产出突破性成果，引发全球关注。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/e4b9a16d6af88162664b9b60ab9555bf.png",
+            "url": "https://www.qbitai.com/2025/11/354229.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了",
+            "time": "2025-11-19",
+            "source": "量子位",
+            "summary": "谷歌发布Gemini 3 Pro模型，在多项基准测试中超越GPT-5.1和Claude 4.5，包括ARC-AGI-2、AIME 2025数学竞赛和LiveCodeBench Pro编程测试。该模型具备强大的多模态理解、智能体规划与编程能力，可一键生成可运行的乐高编辑器和小游戏，并在模拟自动售货机管理中实现最高收益。谷歌同步推出智能体开发平台Antigravity，支持多模型接入，开启AI编程新战场。Gemini系列从多模态、推理到Agent能力实现深度融合，显著提升对自然语言指令的理解与响应效率。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/67330a3795ca800d494fa32f84bd7f4d.png",
+            "url": "https://www.qbitai.com/2025/11/354072.html",
+            "category": "AI"
+        },
+        {
             "title": "Intuit与OpenAI签署超1亿美元合作协议，将其应用接入ChatGPT",
             "time": "2025-11-18",
             "source": "TechCrunch",
             "summary": "Intuit与OpenAI签署了一项价值超1亿美元的多年合作协议，将旗下TurboTax、Credit Karma、QuickBooks和Mailchimp等财务与税务应用集成至ChatGPT中，允许用户通过自然语言询问完成报税估算、信用评估和财务管理等任务。该合作依托Intuit多年积累的金融数据和AI验证机制，以降低AI幻觉风险。同时，Intuit还将扩大对OpenAI模型的内部使用，并部署ChatGPT Enterprise提升员工工作效率。此举标志着金融科技公司深度整合生成式AI的重要一步。",
             "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/intuit-openai.jpg?w=1024",
             "url": "https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt",
+            "category": "AI"
+        },
+        {
+            "title": "Intuit将旗下税务和会计产品与ChatGPT集成",
+            "time": "2025-11-18",
+            "source": "Engadget",
+            "summary": "金融软件公司Intuit与OpenAI达成数亿美元合作，将其旗下TurboTax、Credit Karma、QuickBooks和MailChimp等产品深度整合进ChatGPT，用户可通过聊天机器人获取个性化财务建议，如查询信用卡、估算退税、安排AI税务专家咨询等。企业用户也可利用AI分析营收、生成营销活动和自动发送账单提醒。此次合作基于每周数亿用户向ChatGPT提出的财务问题，旨在通过生成式AI提升金融服务的自然语言交互体验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/RLPo9AAXupT.odYup0BabQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/6f941e20-c493-11f0-beff-2f25827e293d",
+            "url": "https://www.engadget.com/ai/intuit-is-integrating-its-tax-and-accounting-products-with-chatgpt-153809280.html",
             "category": "AI"
         },
         {
@@ -7313,6 +7493,24 @@
     ],
     "阿里巴巴": [
         {
+            "title": "抖音支付硬刚支付宝，张一鸣为何要死磕移动支付？",
+            "time": "2025-11-20",
+            "source": "36氪",
+            "summary": "本文分析抖音支付如何通过收购支付牌照、布局线下收单、推出消费信贷产品（如放心借、抖音月付）等方式，挑战微信支付与支付宝的双头垄断格局。字节跳动自2020年起布局支付生态，逐步实现电商交易闭环，并借助TikTok拓展跨境支付。尽管抖音支付在流量和场景上具备优势，但受限于用户习惯与线下渗透率不足，短期内仍难撼动两大巨头的主导地位。文章指出，张一鸣正以支付宝为样板，构建金融生态，但三足鼎立之路仍漫长。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230316/v2_8be5f626f79042f1b1068f2bbe57b5df_oswg26071oswg200oswg200_img_000",
+            "url": "https://36kr.com/p/3559648343660680",
+            "category": "社交"
+        },
+        {
+            "title": "支付宝「独家」强推「碰一下」，瞄准的是移动支付的未来入口？",
+            "time": "2025-11-20",
+            "source": "36氪",
+            "summary": "支付宝推出基于NFC技术的「碰一下」支付方式，通过红包激励、NFC贴纸低成本推广、拓展身份验证场景、联合OPPO等生态伙伴及「你敢碰我敢赔」安全保障等五大策略，加速市场普及。该方式操作更简单，已覆盖千万商户，用户数在四个月内从1亿增长至2亿，尤其受老年人、视障人群和入境游客欢迎。支付宝试图以「碰一下」替代「扫一扫」，重塑线下支付体验，推动NFC技术成为未来移动支付主流入口。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230316/v2_8be5f626f79042f1b1068f2bbe57b5df_oswg26071oswg200oswg200_img_000",
+            "url": "https://36kr.com/p/3559445543229576",
+            "category": "其他"
+        },
+        {
             "title": "淘宝“合体”VS 京东“分家”，你看好谁？",
             "time": "2025-11-18",
             "source": "36氪",
@@ -7929,6 +8127,15 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊Prime Video将为部分电视剧推出AI生成视频回顾",
+            "time": "2025-11-19",
+            "source": "TechCrunch",
+            "summary": "亚马逊Prime Video宣布推出AI生成的视频回顾功能，利用生成式AI为《黑镜》《杰克·莱恩》和《上传》等原创剧集制作包含同步旁白、对白和音乐的影院级季播回顾视频。该功能已开始在部分剧集中进行测试，旨在帮助观众在季与季之间快速回顾剧情。此前Prime Video已推出文字版AI回顾功能“X-Ray Recaps”，而竞争对手如YouTube TV和Netflix也在探索AI在内容制作与观看体验中的应用。此举引发对AI在影视行业伦理与创作者权益方面的广泛讨论。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/image002.png?w=680",
+            "url": "https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/",
+            "category": "AI"
+        },
+        {
             "title": "Cloudflare宕机导致X等平台中断，距马斯克嘲讽AWS仅一个月",
             "time": "2025-11-18",
             "source": "TechCrunch",
@@ -8464,6 +8671,15 @@
     ],
     "YC": [
         {
+            "title": "YC支持的Poly重启为云托管文件存储服务并集成AI搜索",
+            "time": "2025-11-19",
+            "source": "TechCrunch",
+            "summary": "YC支持的初创公司Poly重启其产品，推出一款云托管文件存储服务，内置AI搜索功能，支持文本、PDF、图像、音频和视频等多种文件类型的自然语言查询与摘要生成。用户可免费获得100GB存储空间，远超同类服务。创始人Abhay Agarwal表示，产品旨在解决个人文件管理混乱的痛点，替代传统文件系统，并计划未来增加Web搜索、AI代理分析和自定义元数据等功能，目标用户为知识工作者和AI原生创作者。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/Poly-feat.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/",
+            "category": "AI"
+        },
+        {
             "title": "YC：垂直 AI 智能体，比 SaaS 大10倍的产业？",
             "time": "2025-11-14",
             "source": "Fun AI Everyday",
@@ -8566,6 +8782,15 @@
         }
     ],
     "美团": [
+        {
+            "title": "美团滴滴，打到巴西",
+            "time": "2025-11-20",
+            "source": "钛媒体",
+            "summary": "滴滴与美团相继重返巴西外卖市场，与本土巨头iFood展开激烈竞争。滴滴依托此前收购的99 Taxi基础，重启99 Food并注资20亿雷亚尔；美团则推出Keeta品牌，计划五年投资10亿美元建设配送网络。巴西外卖市场渗透率低、增长空间大，但面临本土化、高人力成本等挑战。双方凭借中国成熟的数字化运营与补贴策略，试图在用户体验、支付便捷性等方面实现降维打击，重塑市场格局。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/11/72a31349f7ae88c8c4db14846f924e87_1763563559.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x934/gravity/center/crop/!1400x934&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7772578.html",
+            "category": "社交"
+        },
         {
             "title": "“京东点评”也和美团对上线了",
             "time": "2025-11-17",
@@ -8766,6 +8991,15 @@
         }
     ],
     "京东": [
+        {
+            "title": "2026拥抱Agent正当时，首届 Agentic AI 峰会聚集京东、蚂蚁、记忆张量、快手等企业实践话题",
+            "time": "2025-11-19",
+            "source": "动点科技",
+            "summary": "首届Agentic AI峰会将于2026年1月在北京举办，聚焦Agent技术在生产环境中的落地实践，邀请京东、蚂蚁、快手、记忆张量等企业技术负责人分享多工具组合、数据平台架构、记忆机制设计、能力评估体系等核心议题。峰会强调硬核工程方案，涵盖模型底座、开发工具、数据工程、可信治理与应用实战，助力企业突破Agent从Demo到上线的关键瓶颈，构建系统化技术认知框架。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/18541763547983_.pic_.jpg",
+            "url": "https://cn.technode.com/post/partner/agentic-ai/",
+            "category": "AI"
+        },
         {
             "title": "淘宝“合体”VS 京东“分家”，你看好谁？",
             "time": "2025-11-18",
@@ -9134,6 +9368,15 @@
         }
     ],
     "Epic Games": [
+        {
+            "title": "Epic宣布与Unity合作将Unity游戏引入《堡垒之夜》",
+            "time": "2025-11-19",
+            "source": "GamesIndustry.biz",
+            "summary": "Epic Games与Unity宣布达成战略合作，允许开发者将使用Unity引擎开发的游戏发布至《堡垒之夜》平台，同时Unity也将为旗下平台增加对Unreal Engine的支持。双方旨在推动开放元宇宙的建设，促进游戏生态的互操作性与公平性。开发者将于明年初开始使用Unreal Engine管理定价、促销和运营，具体细节将在2026年公布。Epic CEO蒂姆·斯威尼强调，未来系统将趋向开放，类似网页浏览，仅托管内容需审核。",
+            "image_url": "https://assetsio.gnwcdn.com/Unity-x-Epic-Games.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/epic-announces-partnership-to-bring-unity-games-into-fortnite",
+            "category": "游戏"
+        },
         {
             "title": "Epic喜加三：《灾厄逆刃》、《寂静之歌》、《Zero Hour》免费领取！",
             "time": "2025-11-14",
@@ -9635,6 +9878,24 @@
     ],
     "马斯克": [
         {
+            "title": "Gemini 3打服奥特曼马斯克，谷歌CEO却在担心AI泡沫",
+            "time": "2025-11-19",
+            "source": "量子位",
+            "summary": "谷歌CEO皮猜在BBC采访中警告当前AI领域存在非理性投资泡沫， likening it to the 2000年互联网泡沫，指出万亿美元投资中存在过度热情，可能导致无人幸免。尽管Meta、微软、Alphabet等巨头持续加码AI投入，OpenAI单季亏损高达115亿美元，凸显泡沫风险。皮猜同时提醒公众不要盲目相信AI生成内容，强调应结合搜索等工具验证信息，主张AI发展需‘大胆而负责’。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/7d9cc1f8579dc1970ab63cb6342aacb3.jpeg",
+            "url": "https://www.qbitai.com/2025/11/354110.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌Gemini 3把GPT-5.1打成计量单位！马斯克奥特曼都服了",
+            "time": "2025-11-19",
+            "source": "量子位",
+            "summary": "谷歌发布Gemini 3 Pro模型，在多项基准测试中超越GPT-5.1和Claude 4.5，包括ARC-AGI-2、AIME 2025数学竞赛和LiveCodeBench Pro编程测试。该模型具备强大的多模态理解、智能体规划与编程能力，可一键生成可运行的乐高编辑器和小游戏，并在模拟自动售货机管理中实现最高收益。谷歌同步推出智能体开发平台Antigravity，支持多模型接入，开启AI编程新战场。Gemini系列从多模态、推理到Agent能力实现深度融合，显著提升对自然语言指令的理解与响应效率。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/67330a3795ca800d494fa32f84bd7f4d.png",
+            "url": "https://www.qbitai.com/2025/11/354072.html",
+            "category": "AI"
+        },
+        {
             "title": "Cloudflare宕机导致X等平台中断，距马斯克嘲讽AWS仅一个月",
             "time": "2025-11-18",
             "source": "TechCrunch",
@@ -10104,6 +10365,15 @@
     ],
     "三星": [
         {
+            "title": "三星新款无线键盘更轻巧，支持三设备蓝牙切换",
+            "time": "2025-11-19",
+            "source": "The Verge",
+            "summary": "三星推出一款新型轻量级无线键盘，重量仅为218克，比Logitech MX Keys Mini轻逾288克。该键盘采用CR2032纽扣电池供电，支持同时连接并切换三个蓝牙设备，并配备三个可自定义功能键，可一键唤醒Bixby、Gemini或Copilot等AI助手。尽管未公布续航时间，但其紧凑设计和AI集成功能使其成为移动办公用户的潜在优选。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung_keyboard_1.jpg?quality=90&strip=all",
+            "url": "https://www.theverge.com/news/823933/samsung-smart-keyboard-wireless-bluetooth-dex-bixby-copilot-gemini",
+            "category": "AI"
+        },
+        {
             "title": "三星Galaxy S26 Plus重现渲染图，配备全新摄像头模组",
             "time": "2025-11-11",
             "source": "The Verge",
@@ -10231,6 +10501,33 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "英伟达称部分AI显卡已售罄，三个季度数据中业务增长100亿美元",
+            "time": "2025-11-20",
+            "source": "The Verge",
+            "summary": "英伟达在2026财年第三季度财报中披露，其数据中心业务收入创下512亿美元的历史新高，较去年同期增长66%，单季度增长达100亿美元。公司CEO黄仁勋表示，Blackwell系列AI芯片需求旺盛，云GPU供不应求，但澄清仍有充足库存。同时，游戏业务收入同比增长30%，显示RTX 50系列显卡市场逐步回暖。英伟达预计第四季度数据中心收入将达650亿美元，展现出AI算力需求的持续强劲。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue",
+            "category": "AI"
+        },
+        {
+            "title": "比非农还重要！英伟达能再次撑起美股脊梁骨吗？",
+            "time": "2025-11-20",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHjlicOLyNToicMjSprR4GBJn7NyhUn5ECmTKQJxC0fzRy5KJq4H7iahORX2737dpOUGobs080HMCbtQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/_EmmE1S6Xlycy6uwBq0LcA",
+            "category": "其他"
+        },
+        {
+            "title": "英伟达创纪录的570亿美元营收和乐观预测平息AI泡沫论调",
+            "time": "2025-11-19",
+            "source": "TechCrunch",
+            "summary": "英伟达公布第三季度营收达570亿美元，同比增长62%，净利润320亿美元，远超市场预期。其数据中心业务贡献了512亿美元收入，主要得益于Blackwell系列GPU的强劲需求，公司宣布已部署500万颗GPU用于AI工厂建设。CEO黄仁勋称AI进入良性循环，需求持续加速，反驳了AI泡沫说法。尽管H20芯片因地缘政治原因未能向中国出货，公司仍预测第四季度营收将达650亿美元，推动股价盘后上涨超4%。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/",
+            "category": "AI"
+        },
         {
             "title": "英伟达曾引领了人工智能板块的上涨潮，而其财报有望再次点燃这一热潮",
             "time": "2025-11-16",
@@ -10874,6 +11171,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "抖音支付硬刚支付宝，张一鸣为何要死磕移动支付？",
+            "time": "2025-11-20",
+            "source": "36氪",
+            "summary": "本文分析抖音支付如何通过收购支付牌照、布局线下收单、推出消费信贷产品（如放心借、抖音月付）等方式，挑战微信支付与支付宝的双头垄断格局。字节跳动自2020年起布局支付生态，逐步实现电商交易闭环，并借助TikTok拓展跨境支付。尽管抖音支付在流量和场景上具备优势，但受限于用户习惯与线下渗透率不足，短期内仍难撼动两大巨头的主导地位。文章指出，张一鸣正以支付宝为样板，构建金融生态，但三足鼎立之路仍漫长。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230316/v2_8be5f626f79042f1b1068f2bbe57b5df_oswg26071oswg200oswg200_img_000",
+            "url": "https://36kr.com/p/3559648343660680",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok允许用户控制AI生成内容的显示量",
+            "time": "2025-11-19",
+            "source": "The Verge",
+            "summary": "TikTok正在测试一项新功能，允许用户通过“管理主题”中的滑块调节其信息流中AI生成内容的显示比例，支持增加或减少AI内容的推送。为提升识别准确性，TikTok还将为使用AI Editor Pro等工具生成的内容添加不可见水印，并支持C2PA内容认证标准。该功能目前仅限测试，预计在未来几周内逐步推出，旨在增强用户对AI内容的掌控权。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/tiktok-ai-controls-manage-topics.jpg?quality=90&strip=all&crop=0.018825301204821%2C0%2C99.96234939759%2C100&w=2400",
+            "url": "https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics",
+            "category": "社交"
+        },
         {
             "title": "就连推动TikTok禁令的议员也不清楚发生了什么",
             "time": "2025-11-18",
@@ -11822,6 +12137,15 @@
         }
     ],
     "快手": [
+        {
+            "title": "2026拥抱Agent正当时，首届 Agentic AI 峰会聚集京东、蚂蚁、记忆张量、快手等企业实践话题",
+            "time": "2025-11-19",
+            "source": "动点科技",
+            "summary": "首届Agentic AI峰会将于2026年1月在北京举办，聚焦Agent技术在生产环境中的落地实践，邀请京东、蚂蚁、快手、记忆张量等企业技术负责人分享多工具组合、数据平台架构、记忆机制设计、能力评估体系等核心议题。峰会强调硬核工程方案，涵盖模型底座、开发工具、数据工程、可信治理与应用实战，助力企业突破Agent从Demo到上线的关键瓶颈，构建系统化技术认知框架。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/18541763547983_.pic_.jpg",
+            "url": "https://cn.technode.com/post/partner/agentic-ai/",
+            "category": "AI"
+        },
         {
             "title": "快手逃离“死亡螺旋”",
             "time": "2025-10-01",
