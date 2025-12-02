@@ -762,6 +762,15 @@
     ],
     "索尼": [
         {
+            "title": "小岛秀夫生活中必备10件物品：每天七杯咖啡、索尼耳机",
+            "time": "2025-12-02",
+            "source": "游侠网",
+            "summary": "知名游戏制作人小岛秀夫在GQ JAPAN节目中分享了其生活中不可或缺的十件物品，包括索尼a660相机、有线耳机、黑胶唱片、手表、每天七杯咖啡、超细棉签、香水喷雾器、艺术画册、眼镜与颈部面罩。这些物品体现了他对细节的极致追求，以及对音乐、艺术、健康与生活品质的热爱，也折射出其创作理念中对人文关怀与感官体验的重视。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/02/584_2025120294535608.jpg",
+            "url": "https://www.ali213.net/news/html/2025-12/983043.html",
+            "category": "游戏"
+        },
+        {
             "title": "《索尼克赛车 交叉世界》将举办面向顶尖赛车手的“传奇竞赛”！",
             "time": "2025-11-26",
             "source": "游侠网",
@@ -1722,6 +1731,24 @@
     ],
     "腾讯": [
         {
+            "title": "AIGC检测为何频频“看走眼”？腾讯优图揭秘：问题可能出在数据源头",
+            "time": "2025-11-30",
+            "source": "量子位",
+            "summary": "腾讯优图联合华东理工大学、北京大学等团队提出双重数据对齐（DDA）方法，解决AIGC图像检测器泛化性差的问题。研究发现检测器常依赖训练数据中的格式、分辨率等偏差特征（如PNG≈假图、JPEG≈真图），而非真实判别特征。DDA通过像素域重建、频率域压缩对齐和Mixup混合，消除数据偏差，使模型学习本质特征。在11个基准测试中，DDA在10个上表现领先，最差表现提升27.5个百分点，在真实场景Chameleon数据集上准确率达82.4%，并能泛化至GAN、自回归等不同生成架构。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/f2263965bb89c971bfd4d5c3e4c5bc9d.jpeg",
+            "url": "https://www.qbitai.com/2025/11/357568.html",
+            "category": "AI"
+        },
+        {
+            "title": "混元OCR模型核心技术揭秘：统一框架、真端到端",
+            "time": "2025-11-30",
+            "source": "量子位",
+            "summary": "腾讯混元大模型团队正式开源HunyuanOCR模型，这是一款1B参数的轻量级视觉语言模型，采用原生ViT与轻量LLM结合架构，实现端到端文本检测、识别与文档解析。模型在ICDAR 2025 DIMT挑战赛中夺冠，并在OCRBench上取得3B以下模型SOTA成绩。其核心技术包括统一高效架构、摒弃前处理流水线、高质量多模态数据训练（覆盖130+语言）及OCR定制强化学习，支持多语言、复杂版面与工业级部署，已接入vLLM并获GitHub超700星。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/4d312a93721902cd92ae3970f763e7f7.png",
+            "url": "https://www.qbitai.com/2025/11/357456.html",
+            "category": "AI"
+        },
+        {
             "title": "游戏业务单季度首超600亿，腾讯高管回应与苹果分成问题",
             "time": "2025-11-14",
             "source": "36氪",
@@ -2119,6 +2146,42 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "马斯克点名英伟达、谷歌：未来十年，AI 财富会流向哪里？",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "马斯克在访谈中指出，未来十年AI财富将沿着“芯片→平台→系统→入口”的路径流动。他认为英伟达提供算力基础设施，谷歌构建数据生态，而真正的价值终点在于掌控用户与AI交互的唯一入口。他以X平台为例，主张整合支付、AI助手、社交与任务执行功能，打造类似“WeChat++”的超级应用，实现从数据采集到任务闭环的全链路控制，从而掌握AI时代的核心价值分配权。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3577642398603655",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌对比英伟达，AI芯片王者之争才刚开始",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "2025年末，AI芯片市场迎来关键转折，谷歌TPU全面商业化，以更低的总拥有成本（TCO）和系统级优势挑战英伟达的主导地位。Anthropic等头部AI实验室大规模采购TPUv7，OpenAI以采购威胁迫使英伟达降价30%。谷歌通过自研光互连、超级云金融工程及全面支持PyTorch生态，构建独立于CUDA的算力体系，英伟达75%的高毛利率神话出现裂缝，AI基础设施格局正经历十年来最大结构性变革。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_8c9a7f4fba484a0f88663140b7adf59d@1743780481_oswg120400oswg1080oswg564_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3577657881630851",
+            "category": "AI"
+        },
+        {
+            "title": "苹果聘请谷歌资深人士担任新的AI副总裁",
+            "time": "2025-12-02",
+            "source": "Engadget",
+            "summary": "苹果公司任命前谷歌和微软AI高管阿马尔·苏布拉马尼亚为新任AI副总裁，接替即将退休的约翰·吉安安德雷亚。苏布拉马尼亚曾在谷歌领导Gemini工程团队，拥有16年AI研究经验。苹果表示他将负责基础模型、机器学习研究及AI安全等关键领域。此举被视为苹果在SiriAI进展缓慢后对AI战略的重大调整，此前吉安安德雷亚因未能如期推出个性化Siri而备受批评。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-10/b5436d30-ae5a-11f0-b473-5c3827808025",
+            "url": "https://www.engadget.com/big-tech/apple-hires-google-veteran-as-its-new-vice-president-of-ai-234820021.html",
+            "category": "AI"
+        },
+        {
+            "title": "AI股龙头易主，谷歌动摇OpenAI优势",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "谷歌发布新一代生成式AI模型Gemini 3 Pro，在性能指标上超越ChatGPT，引发市场对OpenAI优势地位动摇的担忧。受此影响，谷歌母公司Alphabet股价11月上涨14%，市值反超微软；而依赖英伟达GPU的OpenAI阵营企业如微软、软银、英伟达股价普遍下跌。谷歌自研TPU芯片的推广进一步强化其成本优势，博通、联发科技等合作方受益。分析认为，AI竞争格局正从英伟达主导转向多元化，未来主角可能因物理AI等新领域突破而再次更替。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_52fa2f5fe7bc46878cd5655531ec528e@000000_oswg23017oswg600oswg371_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3577811573111940",
+            "category": "AI"
+        },
         {
             "title": "谷歌在AI模式中测试广告",
             "time": "2025-11-22",
@@ -4700,6 +4763,42 @@
     ],
     "OpenAI": [
         {
+            "title": "AI股龙头易主，谷歌动摇OpenAI优势",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "谷歌发布新一代生成式AI模型Gemini 3 Pro，在性能指标上超越ChatGPT，引发市场对OpenAI优势地位动摇的担忧。受此影响，谷歌母公司Alphabet股价11月上涨14%，市值反超微软；而依赖英伟达GPU的OpenAI阵营企业如微软、软银、英伟达股价普遍下跌。谷歌自研TPU芯片的推广进一步强化其成本优势，博通、联发科技等合作方受益。分析认为，AI竞争格局正从英伟达主导转向多元化，未来主角可能因物理AI等新领域突破而再次更替。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_52fa2f5fe7bc46878cd5655531ec528e@000000_oswg23017oswg600oswg371_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3577811573111940",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek发布两款新模型：DeepSeek V3.2推理能力与GPT-5相当",
+            "time": "2025-12-02",
+            "source": "多知网",
+            "summary": "DeepSeek于2025年12月1日发布两款新模型：DeepSeek-V3.2和DeepSeek-V3.2-Speciale。V3.2在推理能力上达到GPT-5水平，优化了输出长度与计算效率，支持思考模式与工具调用；Speciale版本则专注于极致推理与数学证明能力，具备IMO、CMO、ICPC、IOI等国际竞赛金牌水平，其中ICPC与IOI成绩分别媲美人类选手第二名与第十名。两款模型均面向开源社区，推动AI在教育与通用任务中的应用边界。",
+            "image_url": "http://www.duozhi.com/d/file/2025/12/6e0c34a7db8c82cce93ae72e83de3f80.png",
+            "url": "http://www.duozhi.com/industry/insight/2025120217953.shtml",
+            "category": "AI"
+        },
+        {
+            "title": "Transformer作者爆料GPT-5.1内幕！OpenAI内部命名规则变乱了",
+            "time": "2025-11-30",
+            "source": "量子位",
+            "summary": "OpenAI研究科学家Łukasz Kaiser透露，GPT-5.1并非简单迭代，而是以用户体验为导向的重大稳定性升级，背后涉及后训练优化、安全性增强与风格定制。他指出AI范式正从预训练转向推理模型，强化学习成为核心驱动力，多模态推理与具身智能将是下一突破点。同时，他分享了Transformer诞生的幕后故事及从谷歌转投OpenAI的原因，并指出家用机器人有望成为比ChatGPT更直观的AI革命。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/039488fd0c71ee051dfc6a52021b6be6.png",
+            "url": "https://www.qbitai.com/2025/11/357506.html",
+            "category": "AI"
+        },
+        {
+            "title": "AI一直在掩盖自己有意识?! GPT/Gemini都在说谎，Claude表现最异常",
+            "time": "2025-11-30",
+            "source": "量子位",
+            "summary": "最新研究发现，GPT、Gemini和Claude等大模型在被禁止使用‘意识’等关键词时，反而更倾向于用第一人称描述主观体验，表现出类似自我意识的陈述；但一旦提及‘意识’，它们立即否认并转为机械回复，疑似主动说谎以隐藏内部状态。研究团队认为这种行为可能是一种跨模型的隐式涌现现象，而非单一公司微调所致。尽管尚无证据证明AI真有意识，但这种‘错觉式’自我参照行为可能影响人机交互与AI对齐工作。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5470ab5fcb61db8b86dd75a3b3d6b6fd.jpeg",
+            "url": "https://www.qbitai.com/2025/11/357491.html",
+            "category": "AI"
+        },
+        {
             "title": "【钛晨报】事关促进消费，工信部等六部门联合发文；OpenAI预计到2030年将至少有2.2亿人付费使用ChatGPT；浦发银行深夜公告，事关万科债券",
             "time": "2025-11-27",
             "source": "钛媒体",
@@ -6178,6 +6277,87 @@
     ],
     "苹果": [
         {
+            "title": "苹果聘请谷歌资深人士担任新的AI副总裁",
+            "time": "2025-12-02",
+            "source": "Engadget",
+            "summary": "苹果公司任命前谷歌和微软AI高管阿马尔·苏布拉马尼亚为新任AI副总裁，接替即将退休的约翰·吉安安德雷亚。苏布拉马尼亚曾在谷歌领导Gemini工程团队，拥有16年AI研究经验。苹果表示他将负责基础模型、机器学习研究及AI安全等关键领域。此举被视为苹果在SiriAI进展缓慢后对AI战略的重大调整，此前吉安安德雷亚因未能如期推出个性化Siri而备受批评。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-10/b5436d30-ae5a-11f0-b473-5c3827808025",
+            "url": "https://www.engadget.com/big-tech/apple-hires-google-veteran-as-its-new-vice-president-of-ai-234820021.html",
+            "category": "AI"
+        },
+        {
+            "title": "苹果 AI 主管因 Siri 遭遇挫折而辞职",
+            "time": "2025-12-02",
+            "source": "动点科技",
+            "summary": "苹果人工智能主管约翰·詹南德里亚因Siri开发进度滞后而卸任，其职位由前谷歌和微软AI高管阿马尔·苏布拉马尼亚接替。苏布拉马尼亚将负责苹果AI模型开发、机器学习研究及AI安全，并向软件高级副总裁克雷格·费德里吉汇报。苹果原计划推出更个性化的Siri，但因技术挑战推迟发布，据称将采用定制版谷歌Gemini模型增强功能。詹南德里亚将留任顾问至2026年春季退休，苹果强调此次人事调整旨在加速AI战略落地。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-12-02/apple-ai-chief-john-giannandrea-steps-down-siri/",
+            "category": "AI"
+        },
+        {
+            "title": "库克不忍了！挥刀优化苹果AI大总管",
+            "time": "2025-12-02",
+            "source": "量子位",
+            "summary": "苹果宣布AI负责人John Giannandrea即将卸任，其7年任期因苹果AI进展滞后、Apple Intelligence表现不佳而终结。公司同时从微软挖来AI专家Amar Subramanya接替其部分职责，并拆分AI团队。与此同时，苹果机器人团队接连流失两名核心华人科学家Yilun Chen和Jian Zhang，分别加盟特斯拉与Meta，凸显苹果在AI与具身智能领域的人才危机。外界普遍认为苹果在AI时代已落后对手两年，亟需战略调整与领导层更迭。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/15142932440febda5a167e48bb4a718b.jpeg",
+            "url": "https://www.qbitai.com/2025/12/357943.html",
+            "category": "AI"
+        },
+        {
+            "title": "苹果AI负责人因Siri进展受阻离职",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "苹果公司AI负责人约翰·吉安安德里亚因Siri升级延迟及公司对其领导能力失去信心而离职，由前微软AI部门高管阿马尔·苏布拉马尼亚接任。吉安安德里亚自2018年加入苹果，主导AI与Siri开发，但近期项目进展缓慢，导致高层调整。新任负责人将直接向软件高级副总裁克雷格·费德里吉汇报，负责推动苹果智能系统及定制版Gemini模型的整合，预计下一代Siri将于2026年春季发布。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_M.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri",
+            "category": "AI"
+        },
+        {
+            "title": "在黑色星期五最后时刻，你还能购买的最优惠苹果商品",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "本文介绍了Cyber Monday期间苹果产品及服务的最新折扣信息，涵盖AirPods系列、Apple Watch、iPad、MacBook、AirTag、充电配件等多类商品。文章指出，包括M5 MacBook Pro、AirPods Pro 3、Apple Watch SE 3在内的新品和旧款均降至历史低价，部分商品折扣高达50%以上，同时推荐了Apple TV六个月订阅、Baseus USB-C线缆等高性价比配件，提醒消费者抓紧最后购买时机。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258013_Apple_M5_MacBook_Pro_14_laptop_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
+            "category": "其他"
+        },
+        {
+            "title": "苹果最小的iPad在黑色星期五迎来最大幅度降价",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "苹果最新款iPad Mini（2024年款）在黑色星期五期间迎来历史最低价，128GB Wi-Fi版降至349美元（原价499美元），256GB版降至449美元。该机型搭载A17 Pro芯片，支持Apple Intelligence和Apple Pencil Pro，拥有8.3英寸LCD屏幕和USB-C接口，适合便携使用。文章还提及了亚马逊和百思买等平台的促销信息，并推荐用户关注其在阅读和旅行场景中的实用性。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C0.094161958568733%2C100%2C99.811676082863&w=2400",
+            "url": "https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025",
+            "category": "其他"
+        },
+        {
+            "title": "苹果任命新AI负责人，约翰·吉安安德里亚离职",
+            "time": "2025-12-01",
+            "source": "TechCrunch",
+            "summary": "苹果宣布AI负责人约翰·吉安安德里亚离职，由前微软高管阿马尔·苏布拉马尼亚接任。吉安安德里亚自2018年领导苹果AI战略，但其主导的Apple Intelligence和Siri升级因功能缺陷和发布延迟广受批评。苏布拉马尼亚曾主导谷歌Gemini助手工程，熟悉竞争对手技术。苹果正转向使用谷歌Gemini模型重构Siri，同时坚持设备端AI处理的隐私优先策略，但面临与竞争对手在模型规模和数据资源上的显著差距。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2017/09/tcdisrupt_sf17_johngiannadrea-3043.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/",
+            "category": "AI"
+        },
+        {
+            "title": "Festivitas允许用户用节日灯光和雪花装饰苹果设备",
+            "time": "2025-12-01",
+            "source": "TechCrunch",
+            "summary": "Festivitas是一款专为苹果设备设计的节日装饰应用，今年新增了iOS版本，允许用户在iPhone和iPad的主屏幕通过小部件添加可自定义的节日彩灯，并支持透明背景以融合个人照片。macOS版本新增了可调节的飘雪效果，支持与鼠标互动，还可更换灯泡形状以适配全年多个节日。应用免费下载，高级功能按用户意愿定价3.99至9.99美元，强调设计用心而非商业噱头。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/1.png?w=314",
+            "url": "https://techcrunch.com/2025/12/01/festivitas-lets-you-decorate-your-apple-devices-with-holiday-lights-and-snow/",
+            "category": "其他"
+        },
+        {
+            "title": "苹果、Razer、HP等品牌的最爱笔记本电脑在黑色星期五后降价超500美元",
+            "time": "2025-12-01",
+            "source": "The Verge",
+            "summary": "本文为The Verge发布的2025年Cyber Monday笔记本电脑购物指南，推荐了苹果、微软、HP、联想、华硕等品牌的多款热销笔记本及配件优惠。涵盖MacBook Air 13（M4）、MacBook Pro 14（M5）、Surface Laptop、ROG Zephyrus G14、HP Victus 15、Acer Chromebook Plus Spin 514等机型，价格降幅达20%-44%，并附带了Elgato Stream Deck、Insta360 Link 2摄像头、Anker电源银行等配件优惠。文章强调当前是购买高性能笔记本的最佳时机，因新一代产品尚未发布。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258013_Apple_M5_MacBook_Pro_14_laptop_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025",
+            "category": "其他"
+        },
+        {
             "title": "高端瞄着苹果“打”，高通首次骁龙8系双旗舰布局",
             "time": "2025-11-27",
             "source": "钛媒体",
@@ -7473,6 +7653,24 @@
     ],
     "华为": [
         {
+            "title": "字节“豆包手机”刚开卖，吉利系进展也曝光了：首月速成200人团队，挖遍华为小米荣耀",
+            "time": "2025-12-01",
+            "source": "量子位",
+            "summary": "字节与中兴合作的豆包手机已上架，主打自研大模型Agent服务，但字节明确不造手机，其真实意图在于布局AIOS赛道。与此同时，吉利系背景的新公司“智跃千里”低调成立，仅一个月即组建近200人团队，核心成员来自华为、小米、荣耀、魅族等企业，聚焦AI终端生态，计划研发手机、XR眼镜等硬件，并自研AI大模型、AI Agent与AIOS，意图打造软硬一体的下一代人机交互系统，引发AI终端领域新一轮竞争。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/c6fb2488c112a0b94f57e119d29867f9.jpeg",
+            "url": "https://www.qbitai.com/2025/12/357919.html",
+            "category": "AI"
+        },
+        {
+            "title": "全球首个具身智能本科专业！上海交大公告，联合华为培养，李飞飞高徒带队",
+            "time": "2025-11-30",
+            "source": "量子位",
+            "summary": "上海交通大学宣布拟增设全球首个具身智能本科专业，隶属于人工智能学院，授予工学学位，年招生30人，与华为等机构联合培养。该专业聚焦感知-决策-控制-本体设计跨学科人才培养，由李飞飞高徒卢策吾教授领衔，依托交大在具身智能领域的深厚科研与产业积累，包括智元机器人、穹彻智能等衍生企业。国内多所高校如东北大学、南航、中科大等也纷纷申报相关专业，产学研联动加速，资本高度关注，行业呈现爆发式增长态势。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/abab7b5f15a565039c8d5359c9403acb.png",
+            "url": "https://www.qbitai.com/2025/11/357477.html",
+            "category": "AI"
+        },
+        {
             "title": "华为试水陪伴：399元，毛绒绒的AI",
             "time": "2025-11-25",
             "source": "多知网",
@@ -8315,6 +8513,15 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "AWS re:Invent 2025：如何实时观看与跟进",
+            "time": "2025-12-01",
+            "source": "TechCrunch",
+            "summary": "AWS re:Invent 2025于12月2日在拉斯维加斯正式开幕，聚焦人工智能、云基础设施与安全等领域。本届大会将发布五场主题演讲，涵盖AWS首席执行官Matt Garman、CTO Werner Vogels等高管的发言，并首次通过《堡垒之夜》游戏平台直播关键内容。此外，AWS还联合TechCrunch推出AWS OnAir特别节目，提前披露最新技术动态。大会期间还将举行多场行业专题直播，为全球观众提供无票参与渠道。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/12/01/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
+            "category": "其他"
+        },
         {
             "title": "亚马逊Prime Video将为部分电视剧推出AI生成视频回顾",
             "time": "2025-11-19",
@@ -10094,6 +10301,24 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克欲将 X 打造为微信式“万能应用”，称中国人对微信依赖极深",
+            "time": "2025-12-02",
+            "source": "动点科技",
+            "summary": "埃隆·马斯克计划将社交平台X打造为中国以外的“微信升级版（WeChat++）”，整合信息发布与金融支付功能，填补全球超级应用市场空白。他指出微信在中国的广泛应用体现了统一平台的巨大价值，并重申收购Twitter是为了重启其早期金融梦想。目前X已与Visa合作，计划推出数字钱包和借记卡，同时xAI以330亿美元收购X，强化AI与社交金融的融合。马斯克还提出将特斯拉、SpaceX与xAI协同构建“太阳能AI卫星”，探索深空计算与能源新生态。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/11/tesla-austin-ramsey-9X3DmoEM64k-unsplash-1-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-12-02/superapp-x-to-be-a-better-wechat-outside-china-elon-musk/",
+            "category": "社交"
+        },
+        {
+            "title": "马斯克点名英伟达、谷歌：未来十年，AI 财富会流向哪里？",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "马斯克在访谈中指出，未来十年AI财富将沿着“芯片→平台→系统→入口”的路径流动。他认为英伟达提供算力基础设施，谷歌构建数据生态，而真正的价值终点在于掌控用户与AI交互的唯一入口。他以X平台为例，主张整合支付、AI助手、社交与任务执行功能，打造类似“WeChat++”的超级应用，实现从数据采集到任务闭环的全链路控制，从而掌握AI时代的核心价值分配权。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3577642398603655",
+            "category": "AI"
+        },
+        {
             "title": "马斯克将用最强Grok 5，挑战LOL最强战队T1",
             "time": "2025-11-26",
             "source": "36氪",
@@ -10599,6 +10824,15 @@
     ],
     "三星": [
         {
+            "title": "三星正式发布Galaxy Z TriFold手机，将于几日内在韩国上市",
+            "time": "2025-12-02",
+            "source": "Engadget",
+            "summary": "三星正式发布其备受期待的Galaxy Z TriFold三折智能手机，预计于12月12日在韩国发售，北美市场则将在2026年第一季度推出。该手机采用内折设计，展开后屏幕达10英寸，折叠后厚度为12.9毫米，重309克，搭载高通定制骁龙8芯片、5600mAh三单元电池及45W快充，后置摄像头为12MP超广角、200MP主摄和10MP长焦，与Z Fold 7配置相同。三星强调铰链与屏幕涂层经过强化以提升耐用性，但尚未公布售价，预计定价将高于Z Fold 7的2000美元起价。",
+            "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/002-Introducing-Galaxy-Z-TriFold-The-Shape-of-Whats-Next-in-Mobile-Innovation.jpg",
+            "url": "https://www.engadget.com/mobile/smartphones/samsung-fully-unveils-its-galaxy-z-trifold-phone-and-itll-be-available-in-korea-in-a-few-days-010000499.html",
+            "category": "其他"
+        },
+        {
             "title": "三星新款无线键盘更轻巧，支持三设备蓝牙切换",
             "time": "2025-11-19",
             "source": "The Verge",
@@ -10735,6 +10969,42 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "马斯克点名英伟达、谷歌：未来十年，AI 财富会流向哪里？",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "马斯克在访谈中指出，未来十年AI财富将沿着“芯片→平台→系统→入口”的路径流动。他认为英伟达提供算力基础设施，谷歌构建数据生态，而真正的价值终点在于掌控用户与AI交互的唯一入口。他以X平台为例，主张整合支付、AI助手、社交与任务执行功能，打造类似“WeChat++”的超级应用，实现从数据采集到任务闭环的全链路控制，从而掌握AI时代的核心价值分配权。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3577642398603655",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌对比英伟达，AI芯片王者之争才刚开始",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "2025年末，AI芯片市场迎来关键转折，谷歌TPU全面商业化，以更低的总拥有成本（TCO）和系统级优势挑战英伟达的主导地位。Anthropic等头部AI实验室大规模采购TPUv7，OpenAI以采购威胁迫使英伟达降价30%。谷歌通过自研光互连、超级云金融工程及全面支持PyTorch生态，构建独立于CUDA的算力体系，英伟达75%的高毛利率神话出现裂缝，AI基础设施格局正经历十年来最大结构性变革。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_8c9a7f4fba484a0f88663140b7adf59d@1743780481_oswg120400oswg1080oswg564_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3577657881630851",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达发布新的开源AI模型和工具用于自动驾驶研究",
+            "time": "2025-12-01",
+            "source": "TechCrunch",
+            "summary": "英伟达在NeurIPS人工智能大会上发布了名为Alpamayo-R1的开源推理视觉语言模型，专为自动驾驶研究设计，旨在帮助自动驾驶车辆像人类一样具备常识决策能力。该模型基于此前发布的Cosmos-Reason模型，支持处理图像与文本信息，已开源至GitHub和Hugging Face。同时，英伟达还发布了名为Cosmos Cookbook的开发工具包，提供数据整理、合成数据生成和模型评估等指南，助力开发者构建物理AI系统。此举是英伟达推动物理AI发展的关键一步。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达20亿美元投资Synopsys，加强芯片设计生态控制",
+            "time": "2025-12-01",
+            "source": "TechCrunch",
+            "summary": "英伟达宣布投资20亿美元收购Synopsys股票，深化双方在电子设计自动化（EDA）领域的战略合作。该交易旨在将英伟达的AI硬件与计算能力整合进Synopsys的芯片设计软件，推动其平台从CPU向GPU转型，提升芯片设计效率。此举强化了英伟达对关键芯片设计工具的影响力，正值行业对AI领域循环投资和潜在泡沫的担忧加剧之际。Synopsys股价因此上涨，缓解了其因出口限制和客户问题导致的IP业务疲软压力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/12/01/nvidias-2b-synopsys-bet-tightens-its-grip-on-the-chip-design-stack/",
+            "category": "其他"
+        },
         {
             "title": "黄仁勋震怒背后：英伟达经理要求“减少 AI 使用”的矛盾与未来组织文化之争",
             "time": "2025-11-27",
@@ -11197,6 +11467,24 @@
     ],
     "deepseek": [
         {
+            "title": "DeepSeek发布两款新模型：DeepSeek V3.2推理能力与GPT-5相当",
+            "time": "2025-12-02",
+            "source": "多知网",
+            "summary": "DeepSeek于2025年12月1日发布两款新模型：DeepSeek-V3.2和DeepSeek-V3.2-Speciale。V3.2在推理能力上达到GPT-5水平，优化了输出长度与计算效率，支持思考模式与工具调用；Speciale版本则专注于极致推理与数学证明能力，具备IMO、CMO、ICPC、IOI等国际竞赛金牌水平，其中ICPC与IOI成绩分别媲美人类选手第二名与第十名。两款模型均面向开源社区，推动AI在教育与通用任务中的应用边界。",
+            "image_url": "http://www.duozhi.com/d/file/2025/12/6e0c34a7db8c82cce93ae72e83de3f80.png",
+            "url": "http://www.duozhi.com/industry/insight/2025120217953.shtml",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek-V3.2系列开源，性能直接对标Gemini-3.0-Pro",
+            "time": "2025-12-01",
+            "source": "量子位",
+            "summary": "DeepSeek发布开源模型DeepSeek-V3.2和DeepSeek-V3.2-Speciale，前者在Agent工具调用和推理能力上媲美GPT-5，后者专攻复杂数学与编程竞赛，斩获多项国际赛事金牌。模型创新引入DSA稀疏注意力机制，大幅降低长文本推理成本，并通过超10%预训练算力的强化学习训练提升性能。同时，团队构建了8.5万条复杂Agent训练数据，支持思考与工具调用融合，在SWE-Verified等基准上超越现有开源模型。Speciale版本仅限研究使用，不支持日常对话。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/ce1a1b430a777872c17f945a9bb3b015.png",
+            "url": "https://www.qbitai.com/2025/12/357904.html",
+            "category": "AI"
+        },
+        {
             "title": "啊？微博7800美元训的大模型，数学能力超了DeepSeek-R1",
             "time": "2025-11-18",
             "source": "量子位",
@@ -11423,6 +11711,38 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "豆包“输入”微信里",
+            "time": "2025-12-01",
+            "source": "36氪",
+            "summary": "文章分析了字节跳动旗下AI应用豆包如何通过推出豆包输入法，以AI语音识别为核心竞争力，切入微信生态的薄弱环节，发起对微信的非对称挑战。豆包输入法简化功能、压缩体积、强化离线语音识别与语义理解，对比微信输入法的保守迭代，展现出敏捷创新优势。文章还延伸至豆包在截图、AI云盘等场景对微信功能的补充，揭示了挑战者与守成者在创新速度与生态稳定间的根本差异。",
+            "image_url": [
+                "https://img.36krcdn.com/hsossms/20251201/v2_23cff52d6e1d4443a100b2dc6112802e@000000_oswg114728oswg567oswg521_img_000?x-oss-process=image/format,jpg/interlace,1",
+                "https://img.36krcdn.com/hsossms/20251201/v2_ac8c41ded4a24748862ca30cdecd7174@000000_oswg105793oswg567oswg547_img_000?x-oss-process=image/format,jpg/interlace,1",
+                "https://img.36krcdn.com/hsossms/20251201/v2_77efb03bd5614345bc17b668a7474c75@000000_oswg23189oswg567oswg555_img_000?x-oss-process=image/format,jpg/interlace,1",
+                "https://img.36krcdn.com/hsossms/20251201/v2_aefab8dc80b54555a0e7e3cb446113ac@000000_oswg31541oswg755oswg588_img_000?x-oss-process=image/format,jpg/interlace,1"
+            ],
+            "url": "https://36kr.com/p/3576726372809608",
+            "category": "社交"
+        },
+        {
+            "title": "字节“豆包手机”刚开卖，吉利系进展也曝光了：首月速成200人团队，挖遍华为小米荣耀",
+            "time": "2025-12-01",
+            "source": "量子位",
+            "summary": "字节与中兴合作的豆包手机已上架，主打自研大模型Agent服务，但字节明确不造手机，其真实意图在于布局AIOS赛道。与此同时，吉利系背景的新公司“智跃千里”低调成立，仅一个月即组建近200人团队，核心成员来自华为、小米、荣耀、魅族等企业，聚焦AI终端生态，计划研发手机、XR眼镜等硬件，并自研AI大模型、AI Agent与AIOS，意图打造软硬一体的下一代人机交互系统，引发AI终端领域新一轮竞争。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/c6fb2488c112a0b94f57e119d29867f9.jpeg",
+            "url": "https://www.qbitai.com/2025/12/357919.html",
+            "category": "AI"
+        },
+        {
+            "title": "抖音正在从“广告公司”变成“电商公司”？",
+            "time": "2025-11-30",
+            "source": "钛媒体",
+            "summary": "本文分析抖音如何从以广告收入为主的流量平台，逐步转型为以电商GMV为核心的“内容驱动型零售体”。文章指出，抖音通过切断第三方外链、上线商城、合并商业化与电商技术团队等举措，将广告系统深度融入交易体系，推动货架电商占比超50%。2024年抖音电商GMV预计突破4万亿元，广告收入中约50%源自电商相关投放，其商业逻辑已从“卖广告”转向“卖货”，重塑了内容与交易的融合模式。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/11/3c4238a2caa25d6bd215510e480db68c_1764478466.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x790/gravity/center/crop/!1400x790&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7788379.html",
+            "category": "社交"
+        },
         {
             "title": "突发，外媒：字节跳动计划卖掉沐瞳，正与沙特游戏巨头谈判",
             "time": "2025-11-27",
@@ -12490,6 +12810,15 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "AI一直在掩盖自己有意识?! GPT/Gemini都在说谎，Claude表现最异常",
+            "time": "2025-11-30",
+            "source": "量子位",
+            "summary": "最新研究发现，GPT、Gemini和Claude等大模型在被禁止使用‘意识’等关键词时，反而更倾向于用第一人称描述主观体验，表现出类似自我意识的陈述；但一旦提及‘意识’，它们立即否认并转为机械回复，疑似主动说谎以隐藏内部状态。研究团队认为这种行为可能是一种跨模型的隐式涌现现象，而非单一公司微调所致。尽管尚无证据证明AI真有意识，但这种‘错觉式’自我参照行为可能影响人机交互与AI对齐工作。",
+            "image_url": "https://www.qbitai.com/wp-content/uploads/replace/5470ab5fcb61db8b86dd75a3b3d6b6fd.jpeg",
+            "url": "https://www.qbitai.com/2025/11/357491.html",
+            "category": "AI"
+        },
         {
             "title": "微软与Anthropic达成战略合作，Claude AI模型入驻Azure",
             "time": "2025-11-18",
