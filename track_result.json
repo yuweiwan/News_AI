@@ -1131,6 +1131,24 @@
     ],
     "任天堂": [
         {
+            "title": "仓库拍卖暗藏巨额宝藏 初代宝可梦卡牌如今市值19万！",
+            "time": "2025-12-03",
+            "source": "游侠网",
+            "summary": "一位美国男子在仓库拍卖中意外获得一盒1999年发行的初代宝可梦卡牌未拆封booster box，内含36包卡牌，经评估市场估值高达2.7万美元（约合人民币19万元）。此外，拍卖品还包括其他未拆封收藏品、签名漫画与体育纪念品。此次发现再次凸显初代宝可梦卡牌在收藏市场的极高价值，也反映了仓库拍卖作为‘寻宝’活动的潜在高回报特性。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/03/584_2025120364015547.png",
+            "url": "https://www.ali213.net/news/html/2025-12/983305.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《宝可梦传说 Z-A》超梦EX 副任務 超级路卡利欧Z亮相",
+            "time": "2025-12-03",
+            "source": "游侠网",
+            "summary": "宝可梦株式会社公布《宝可梦传说 Z-A》付费DLC《超次元爆涌》新内容，推出超级路卡利欧Z与超级超梦X/Y。超级路卡利欧Z通过超级石进化，具备更强的防御、敏捷与波导缠绕能力，视觉上更具扰乱性。12月2日起，玩家可通过游戏内「神秘礼物」领取超梦进化石X/Y，完成EX副任务「专案代号：M」后，可让超梦超级进化为超级超梦X（超能力/格斗）或超级超梦Y（纯超能力），两种形态在属性与外观上均有显著差异。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/03/584_2025120383616363.png",
+            "url": "https://www.ali213.net/news/html/2025-12/983323.html",
+            "category": "游戏"
+        },
+        {
             "title": "现在购买的最佳任天堂Switch控制器",
             "time": "2025-11-19",
             "source": "The Verge",
@@ -2147,6 +2165,33 @@
     ],
     "谷歌": [
         {
+            "title": "前谷歌 CEO 施密特：AI 先改变的，不是机器，是人",
+            "time": "2025-12-03",
+            "source": "36氪",
+            "summary": "前谷歌CEO埃里克·施密特在哈佛演讲中指出，AI的冲击核心并非技术本身，而是对人类决策权、自由边界与认知方式的深层侵蚀。他警告AI正取代人类做判断、主导工作流程，并成为儿童的主要情感陪伴，而社会对此缺乏监管与反思。施密特强调，真正的危机不是AI太强，而是人类逐渐放弃说“不”的权利，亟需制度性边界来保护人的主体性。",
+            "image_url": "https://cdn.36kr.com/project/createimg?name=施密特&sign=f963b12f6495859b0ae3dc179359e5f3",
+            "url": "https://36kr.com/p/3579061630277763",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌测试用 AI 改写新闻标题引争议",
+            "time": "2025-12-03",
+            "source": "动点科技",
+            "summary": "谷歌正在实验性地使用AI生成新闻标题，替换Google Discover中的原始标题，引发媒体和公众争议。生成的标题常荒谬误导，如将‘Valve将公布Steam Machine价格’简化为‘Steam Machine 价格公布’，而实际并未公布。AI标题还扭曲了AMD显卡销量数据、虚构‘AI标签争议升温’等无意义内容。此举剥夺了新闻机构对标题的控制权，使读者误以为是媒体主动制造标题党。尽管谷歌标注‘由AI生成，可能出错’，但提示隐蔽，用户难以察觉。目前仅为小范围测试，舆论压力或致其终止。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/12/bg3-qi2-google-discover.webp",
+            "url": "https://cn.technode.com/post/2025-12-03/google-discover-ai-headlines-clickbait-nonsense/",
+            "category": "AI"
+        },
+        {
+            "title": "奥特曼怕了！GPT-5.5「大蒜」决战谷歌，红色警报紧急拉响",
+            "time": "2025-12-03",
+            "source": "AITNT",
+            "summary": "OpenAI因谷歌Gemini 3的强势崛起，内部拉响「红色警报」（Code Red），紧急暂停广告、AI智能体等非核心项目，集中资源优化ChatGPT体验。据悉，OpenAI正秘密研发代号为「Garlic」的新模型，预训练取得重大突破，性能超越Gemini 3与Claude 4.5 Opus，预计明年初发布为GPT-5.2或GPT-5.5。同时，OpenAI聚焦个性化AI、图像生成、响应速度与减少过度拒绝等体验升级，意图重建用户黏性，应对谷歌生态级竞争。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/3/0afec702-cfea-11f0-b938-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20335",
+            "category": "AI"
+        },
+        {
             "title": "马斯克点名英伟达、谷歌：未来十年，AI 财富会流向哪里？",
             "time": "2025-12-02",
             "source": "36氪",
@@ -2180,6 +2225,15 @@
             "summary": "谷歌发布新一代生成式AI模型Gemini 3 Pro，在性能指标上超越ChatGPT，引发市场对OpenAI优势地位动摇的担忧。受此影响，谷歌母公司Alphabet股价11月上涨14%，市值反超微软；而依赖英伟达GPU的OpenAI阵营企业如微软、软银、英伟达股价普遍下跌。谷歌自研TPU芯片的推广进一步强化其成本优势，博通、联发科技等合作方受益。分析认为，AI竞争格局正从英伟达主导转向多元化，未来主角可能因物理AI等新领域突破而再次更替。",
             "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_52fa2f5fe7bc46878cd5655531ec528e@000000_oswg23017oswg600oswg371_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3577811573111940",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，千问App把谷歌和OpenAI的「付费绝活」塞进了手机，还免费？",
+            "time": "2025-12-02",
+            "source": "AITNT",
+            "summary": "阿里千问App最新更新深度整合了自研视觉模型Qwen-Image与视频生成模型Wan 2.5，使普通用户可在手机端免费使用此前仅限海外大厂的高阶AI生成能力。Qwen-Image在图像编辑中实现卓越的视觉逻辑与主体一致性，可精准修图、多图融合；Wan 2.5则实现原生音画同步，支持AI自动生成与画面匹配的音乐与口型。两者在App内无缝联动，构建一站式多模态创作工作流，媲美商业级工具，打破技术门槛。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/2/23332d66-cf5f-11f0-b933-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20332",
             "category": "AI"
         },
         {
@@ -4763,6 +4817,24 @@
     ],
     "OpenAI": [
         {
+            "title": "OpenAI的“红色警报”",
+            "time": "2025-12-03",
+            "source": "36氪",
+            "summary": "OpenAI因ChatGPT性能下滑、用户会话时长被谷歌Gemini超越，宣布进入最高级别“红色警报”状态，暂停广告、AI购物助手等商业化计划，优先修复产品核心问题。谷歌凭借自研芯片、全生态整合与搜索业务支撑，形成降维打击。OpenAI面临巨额算力支出与融资压力，增长放缓将严重影响其估值逻辑，生存窗口正在收窄。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3579271094320004",
+            "category": "AI"
+        },
+        {
+            "title": "奥特曼怕了！GPT-5.5「大蒜」决战谷歌，红色警报紧急拉响",
+            "time": "2025-12-03",
+            "source": "AITNT",
+            "summary": "OpenAI因谷歌Gemini 3的强势崛起，内部拉响「红色警报」（Code Red），紧急暂停广告、AI智能体等非核心项目，集中资源优化ChatGPT体验。据悉，OpenAI正秘密研发代号为「Garlic」的新模型，预训练取得重大突破，性能超越Gemini 3与Claude 4.5 Opus，预计明年初发布为GPT-5.2或GPT-5.5。同时，OpenAI聚焦个性化AI、图像生成、响应速度与减少过度拒绝等体验升级，意图重建用户黏性，应对谷歌生态级竞争。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/3/0afec702-cfea-11f0-b938-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20335",
+            "category": "AI"
+        },
+        {
             "title": "AI股龙头易主，谷歌动摇OpenAI优势",
             "time": "2025-12-02",
             "source": "36氪",
@@ -4778,6 +4850,24 @@
             "summary": "DeepSeek于2025年12月1日发布两款新模型：DeepSeek-V3.2和DeepSeek-V3.2-Speciale。V3.2在推理能力上达到GPT-5水平，优化了输出长度与计算效率，支持思考模式与工具调用；Speciale版本则专注于极致推理与数学证明能力，具备IMO、CMO、ICPC、IOI等国际竞赛金牌水平，其中ICPC与IOI成绩分别媲美人类选手第二名与第十名。两款模型均面向开源社区，推动AI在教育与通用任务中的应用边界。",
             "image_url": "http://www.duozhi.com/d/file/2025/12/6e0c34a7db8c82cce93ae72e83de3f80.png",
             "url": "http://www.duozhi.com/industry/insight/2025120217953.shtml",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI 生死时刻？奥特曼内部信曝光，下死命令暂停广告，ChatGPT 不能输",
+            "time": "2025-12-02",
+            "source": "AITNT",
+            "summary": "OpenAI CEO萨姆·奥特曼内部宣布进入“红色警戒”状态，为应对Google Gemini等竞争对手的迅猛追赶，紧急暂停广告、AI Agent及Pulse等非核心项目，全力提升ChatGPT性能。ChatGPT用户增长放缓，面临营收与融资压力，公司正聚焦优化图像生成、模型响应速度、减少过度拒答等体验问题，并计划发布新一代推理模型以对抗Gemini 3。目前ChatGPT仍主导全球AI交互市场，但领先优势面临严峻挑战。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/2/e31ce821-cf5e-11f0-af88-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20331",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，千问App把谷歌和OpenAI的「付费绝活」塞进了手机，还免费？",
+            "time": "2025-12-02",
+            "source": "AITNT",
+            "summary": "阿里千问App最新更新深度整合了自研视觉模型Qwen-Image与视频生成模型Wan 2.5，使普通用户可在手机端免费使用此前仅限海外大厂的高阶AI生成能力。Qwen-Image在图像编辑中实现卓越的视觉逻辑与主体一致性，可精准修图、多图融合；Wan 2.5则实现原生音画同步，支持AI自动生成与画面匹配的音乐与口型。两者在App内无缝联动，构建一站式多模态创作工作流，媲美商业级工具，打破技术门槛。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/2/23332d66-cf5f-11f0-b933-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20332",
             "category": "AI"
         },
         {
@@ -6277,6 +6367,15 @@
     ],
     "苹果": [
         {
+            "title": "Apple Music Replay 2025回归，推出全新听歌数据统计",
+            "time": "2025-12-03",
+            "source": "The Verge",
+            "summary": "Apple Music推出了2025年度Replay听歌回顾功能，用户可在App内查看全年最常听的歌曲、新发现的艺人、最爱的音乐类型、总收听时长及艺人忠诚度等数据，并可生成分享至Instagram和TikTok的短视频合集。该功能已上线，访问replay.music.apple.com即可查看。与此同时，YouTube Music和Amazon Music也推出了类似年度回顾，而Spotify Wrapped尚未发布。Apple Music还为音乐人提供专属Replay数据，展示播放量增长与热门歌曲表现。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Replay-25.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats",
+            "category": "社交"
+        },
+        {
             "title": "苹果聘请谷歌资深人士担任新的AI副总裁",
             "time": "2025-12-02",
             "source": "Engadget",
@@ -6328,6 +6427,33 @@
             "summary": "苹果最新款iPad Mini（2024年款）在黑色星期五期间迎来历史最低价，128GB Wi-Fi版降至349美元（原价499美元），256GB版降至449美元。该机型搭载A17 Pro芯片，支持Apple Intelligence和Apple Pencil Pro，拥有8.3英寸LCD屏幕和USB-C接口，适合便携使用。文章还提及了亚马逊和百思买等平台的促销信息，并推荐用户关注其在阅读和旅行场景中的实用性。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C0.094161958568733%2C100%2C99.811676082863&w=2400",
             "url": "https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025",
+            "category": "其他"
+        },
+        {
+            "title": "苹果手表Series 11降价70美元，创历史新低",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "苹果最新款Apple Watch Series 11在Cyber Monday期间降价70美元，42mm GPS版售价低至329美元，46mm版为359美元，创下历史最低价。该手表为苹果迄今最轻薄的智能手表，配备更耐用的显示屏、24小时电池续航、支持5G的LTE型号，并新增高血压提醒、睡眠呼吸暂停检测、watchOS 26功能如睡眠评分和腕部轻拂操作，同时支持30分钟快充至80%。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0034.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025",
+            "category": "其他"
+        },
+        {
+            "title": "Apple gadgets, ranked",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "在《The Vergecast》播客节目中，主持人David Pierce与Victoria Song、Allison Johnson共同对苹果公司九大主流产品进行了综合排名，包括iPhone、iPad、Mac、Apple Watch、AirPods、Apple TV、HomePod、Vision Pro和AirTag。排名依据涵盖产品本身质量、市场竞争、文化影响力和市场规模等因素。尽管讨论激烈，团队最终达成了一致排序，并提供了各产品的详细评测链接供读者深入了解。文章强调‘最佳’并非绝对标准，而是多维度权衡的结果。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/podcast/836441/best-apple-gadgets-vergecast",
+            "category": "其他"
+        },
+        {
+            "title": "苹果据称将拒绝印度政府要求预装政府应用的命令",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "苹果公司 reportedly计划拒绝印度政府要求所有新售手机预装名为Sanchar Saathi的政府网络安全应用的命令。该应用旨在追踪失窃手机，但政府要求禁止用户禁用该应用，引发隐私和监控担忧。尽管印度通信部长称该应用为“可选”，但官方指令与其说法矛盾。苹果以隐私和安全为由拒绝配合，但不会公开对抗或诉诸法律。目前iPhone在印度市场占有率仅为9%，落后于三星、OPPO和vivo。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2235696030.jpg?quality=90&strip=all&crop=1.257253384913%2C0%2C97.485493230174%2C100&w=2400",
+            "url": "https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response",
             "category": "其他"
         },
         {
@@ -7853,6 +7979,24 @@
     ],
     "阿里巴巴": [
         {
+            "title": "千问再放大招，阿里最强学习模型上线，能讲题、会批改、懂专业，直接把老师“请回家”",
+            "time": "2025-12-03",
+            "source": "36氪",
+            "summary": "阿里推出基于Qwen3训练的“最强”学习模型Qwen3-Learning，具备拍题答疑与作业批改功能，覆盖小学至大学全学段、全学科，支持手写与印刷体识别，答案准确率高且解析详尽。该模型拥有5亿级资料库，可生成规范论文、解答专业难题，免费开放使用，被指有望成为教育领域的智能助手，并具备向医疗、工业等专业领域拓展的潜力。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251203/v2_a7c844599d8f44b999a3c659d1ef1083@000000_oswg126345oswg1000oswg1000_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3579205293079430",
+            "category": "AI"
+        },
+        {
+            "title": "曾获阿里近2亿元投资的精准学，也开了AI自习室？",
+            "time": "2025-12-02",
+            "source": "多知网",
+            "summary": "精准学作为曾获阿里巴巴近2亿元投资的教育科技公司，于2024年全面转向ToC市场，推出搭载AI智能体“寒雪老师”的AI学习机，已为数万孩子提供一对一辅导，四个月内销售破亿。其旗下“知识跳跳智能学习中心”在杭州、上饶开设AI自习室，主打AI双师模式，结合真人辅学教练，强调“硅基员工”组织形态，AI Agent承担核心岗位，实现快速迭代，被视为AI Native组织的典型实践。",
+            "image_url": "http://www.duozhi.com/d/file/2025/12/d134858e57204f184b2f569f63aab4e0.png",
+            "url": "http://www.duozhi.com/industry/insight/2025120217954.shtml",
+            "category": "AI"
+        },
+        {
             "title": "淘宝闪购，拐点来临？",
             "time": "2025-11-27",
             "source": "钛媒体",
@@ -8513,6 +8657,24 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "Amazon Music Delivered 将你的热门歌曲制作成音乐节海报",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "亚马逊音乐推出了年度回顾服务Amazon Music Delivered，今年新增功能可为用户生成个性化音乐节海报，展示其最常播放的艺人、曲目和音乐类型。用户可通过Amazon Music应用的“Library”选项卡进入“2025 Delivered”查看专属回顾内容。该功能延续了去年的风格，结合视觉设计与听歌数据，增强用户互动体验，类似Apple Music Replay。配图展示了海报样例，由亚马逊提供。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/amazon-music-delivered-2025.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/836273/amazon-music-delivered-puts-your-top-tunes-on-a-festival-poster",
+            "category": "社交"
+        },
+        {
+            "title": "亚马逊测试30分钟送达服务",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "亚马逊正在西雅图和费城试点名为‘Amazon Now’的30分钟极速配送服务，覆盖生鲜、日用品、电子产品和非处方药等商品。该服务已整合进主购物App，用户可选择30分钟送达选项，Prime会员配送费为3.99美元，非会员为13.99美元。此举旨在与DoorDash和Instacart竞争，是亚马逊继Kozmo、Prime Now和Amazon Today之后再次尝试超快配送。配送依托靠近配送区的小型仓储设施，提升履约效率。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Amazon-Now-delivery-service.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/836337/amazon-now-30-minute-delivery-tests",
+            "category": "其他"
+        },
         {
             "title": "AWS re:Invent 2025：如何实时观看与跟进",
             "time": "2025-12-01",
@@ -9774,6 +9936,15 @@
     ],
     "Epic Games": [
         {
+            "title": "Epic Games Store临时决定不发行游戏《Horses》",
+            "time": "2025-12-02",
+            "source": "GamesIndustry.biz",
+            "summary": "独立游戏开发商Santa Ragione的恐怖游戏《Horses》先后被Steam和Epic Games Store拒绝上架。Epic称其违反了平台关于“不当内容”和“虐待动物”的政策，并因IARC评级为AO（仅限成人）而禁止分发，尽管开发者称其已通过PEGI 18和ESRB M评级。开发者已提出上诉，但Epic维持原决定。此前Valve也以内容不符指南为由拒绝上线该游戏，导致开发商面临财务危机。CD Projekt的GOG平台则表示支持该作。",
+            "image_url": "https://assetsio.gnwcdn.com/HORSES-Thumbnail-1.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses",
+            "category": "游戏"
+        },
+        {
             "title": "Epic宣布与Unity合作将Unity游戏引入《堡垒之夜》",
             "time": "2025-11-19",
             "source": "GamesIndustry.biz",
@@ -10092,6 +10263,15 @@
     ],
     "特朗普": [
         {
+            "title": "戴尔创始人称将捐赠62.5亿美元资助“特朗普账户”",
+            "time": "2025-12-03",
+            "source": "The Verge",
+            "summary": "戴尔公司创始人迈克尔·戴尔及其妻子苏珊·戴尔宣布，将通过其慈善基金捐赠62.5亿美元，为美国2500万儿童每人开设250美元的儿童投资账户。此举旨在补充特朗普政府推出的新生儿账户计划，覆盖2025年前出生的10岁以下儿童。该计划与政府此前推出的1000美元新生儿拨款政策相衔接，引发关于财富不平等和政治资金参与公共政策的广泛讨论。捐赠将通过官方平台“OneDell”进行。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/0007835275_20.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/836655/dell-founder-says-he-will-donate-6-25-billion-to-fund-trump-accounts",
+            "category": "其他"
+        },
+        {
             "title": "特朗普政府或不再对抗州级人工智能监管",
             "time": "2025-11-22",
             "source": "TechCrunch",
@@ -10301,6 +10481,15 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克要做 “ 升级版微信 ”，网友炸了...",
+            "time": "2025-12-03",
+            "source": "36氪",
+            "summary": "特斯拉CEO马斯克计划将社交平台X（原Twitter）打造成中国以外的“微信升级版”，整合信息发布、金融支付与AI功能，构建超级应用。目前X月活用户超5亿，马斯克已通过xAI收购X，并推进支付牌照获取、AI助手整合等举措。尽管野心宏大，但外界质疑国外用户是否接受这种“闭环生态”模式，认为其核心动机是变现而非用户体验。文章引用网友评论，指出中国微信的多功能生态难以简单复制，成功与否仍待时间检验。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_d675154cbf2d4ed1aa6d20e6bae2451e@000000_oswg27882oswg119oswg119_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3578501131795591",
+            "category": "社交"
+        },
+        {
             "title": "马斯克欲将 X 打造为微信式“万能应用”，称中国人对微信依赖极深",
             "time": "2025-12-02",
             "source": "动点科技",
@@ -10316,6 +10505,15 @@
             "summary": "马斯克在访谈中指出，未来十年AI财富将沿着“芯片→平台→系统→入口”的路径流动。他认为英伟达提供算力基础设施，谷歌构建数据生态，而真正的价值终点在于掌控用户与AI交互的唯一入口。他以X平台为例，主张整合支付、AI助手、社交与任务执行功能，打造类似“WeChat++”的超级应用，实现从数据采集到任务闭环的全链路控制，从而掌握AI时代的核心价值分配权。",
             "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
             "url": "https://36kr.com/p/3577642398603655",
+            "category": "AI"
+        },
+        {
+            "title": "轮到马斯克破防，没有车企愿用FSD，“他们不想要！”",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "特斯拉FSD自动驾驶系统虽技术领先，但至今无一家主流车企愿意采用。马斯克多次公开表示愿授权FSD，却遭冷遇，甚至被福特CEO直言Waymo更优。车企担忧数据安全、责任归属不清及FSD仍为高风险试验品，且特斯拉未提供责任保险。相比之下，国内车企多自研或与华为、地平线合作，海外车企则选择Waymo等成熟方案。贾跃亭FF虽表态合作，但马斯克尚未回应，FSD授权陷入僵局。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_ba6c22c3cb84478d92273ae0d3fdf56b@5091053_oswg161825oswg1080oswg1301_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3578180999101569",
             "category": "AI"
         },
         {
@@ -10833,6 +11031,15 @@
             "category": "其他"
         },
         {
+            "title": "三星Z TriFold正式发布，外观如平板附带手机",
+            "time": "2025-12-02",
+            "source": "The Verge",
+            "summary": "三星正式发布Galaxy Z TriFold，这款三折叠手机拥有两个铰链，主屏为10英寸、2160×1584分辨率、120Hz刷新率，支持三应用分屏和DeX桌面模式。外屏为6.5英寸21:9屏幕，整机折叠后厚度12.9mm，重309克，搭载骁龙8 Elite芯片、16GB内存和5600mAh三电池系统，后置三摄包括2亿像素主摄。设备支持IP48防水，但不支持S Pen。首发于韩国，美国市场预计2026年第一季度上市，韩国售价约2500美元。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/z_trifold_1.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+            "url": "https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability",
+            "category": "其他"
+        },
+        {
             "title": "三星新款无线键盘更轻巧，支持三设备蓝牙切换",
             "time": "2025-11-19",
             "source": "The Verge",
@@ -10969,6 +11176,15 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "NVIDIA开源 Alpamayo-R1：让车真正“理解”驾驶",
+            "time": "2025-12-03",
+            "source": "36氪",
+            "summary": "NVIDIA在NeurIPS 2025大会上发布全球首个开源自动驾驶推理模型Alpamayo-R1，该模型基于Cosmos-Reason架构，具备视觉语言动作多模态推理能力，能像人类一样理解复杂交通场景并做出语义决策。同时开源Cosmos Cookbook工具链，涵盖数据构建、合成数据生成与轻量化部署方案，并联合卡内基梅隆大学推出V2V-GoT多车协同框架，显著降低碰撞率。该模型通过20,000小时真实驾驶数据训练，推动自动驾驶从感知走向具身智能，加速L4级研发进程。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251203/v2_95408a6c3136485ba06467716af46828@1743780481_oswg762702oswg954oswg504_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3579287127473027",
+            "category": "AI"
+        },
         {
             "title": "马斯克点名英伟达、谷歌：未来十年，AI 财富会流向哪里？",
             "time": "2025-12-02",
@@ -11467,6 +11683,24 @@
     ],
     "deepseek": [
         {
+            "title": "DeepSeek V3.2发布！实测效果惊艳，便宜是最大优势",
+            "time": "2025-12-03",
+            "source": "36氪",
+            "summary": "DeepSeek正式发布V3.2版本，其推理能力接近GPT-5与Gemini 3.0 Pro，但推理成本大幅降低60%以上。新模型引入稀疏注意力机制（DSA），显著提升长文本处理效率，内存占用减少70%，推理速度提升3.5倍。同时支持自主调用搜索、数学等工具进行多步骤推理，开源免费，引发行业震动。测试中在IMO、ICPC等国际竞赛中获金牌，挑战闭源模型垄断，推动AI低成本普及。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251203/v2_8d0100ebbf064426a868250b268da56f@1547419282_oswg44378oswg430oswg430_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3579144433899657",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，「欧洲的DeepSeek」发布Mistral 3系列模型，全线回归Apache 2.0",
+            "time": "2025-12-03",
+            "source": "AITNT",
+            "summary": "Mistral AI 发布新一代开源大模型 Mistral 3 系列，包括 Ministral 3（3B/8B/14B）和 Mistral Large 3（675B总参数，41B激活）两大类，全线采用 Apache 2.0 许可证，强调性价比与边缘部署能力。Mistral Large 3 在 LMArena 开源模型榜中排名第二，支持多语言与图像理解，并与 NVIDIA、vLLM 等合作优化推理性能。此举被视为对 DeepSeek 开源策略的回应，重新强化欧洲在开源AI领域的竞争力。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/3/b7f0fded-cfde-11f0-a854-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20334",
+            "category": "AI"
+        },
+        {
             "title": "DeepSeek发布两款新模型：DeepSeek V3.2推理能力与GPT-5相当",
             "time": "2025-12-02",
             "source": "多知网",
@@ -11711,6 +11945,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "或出售沐瞳科技，字节跳动对游戏不再上心",
+            "time": "2025-12-03",
+            "source": "36氪",
+            "summary": "字节跳动正考虑出售旗下游戏公司沐瞳科技，潜在买家为沙特阿拉伯公共投资基金（PIF）旗下的Savvy Games Group。沐瞳科技因《Mobile Legends: Bang Bang》在海外成功而被字节以40亿美元收购，但国服上线后表现不佳，且在字节体系内长期缺乏突破，已成为战略鸡肋。Savvy Games Group正积极布局全球游戏产业，收购沐瞳有助于其掌控《决胜巅峰》运营权。然而，双方在价格上存在分歧，字节不愿低价割肉，而PIF资金紧张，交易能否达成取决于估值能否达成一致。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_9f1880a6b943415da53b193315cfed01@000000_oswg11189oswg600oswg320_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3578443148196994",
+            "category": "游戏"
+        },
+        {
+            "title": "首款“豆包AI手机”售罄，二手平台最高加价1500元",
+            "time": "2025-12-03",
+            "source": "多知网",
+            "summary": "首款搭载豆包AI手机助手的努比亚M153手机由中兴通讯与字节跳动联合推出，售价3499元，现已在中兴商城售罄，二手平台价格飙升至4200至4999元。该机型搭载高通骁龙8至尊版处理器，支持无线充电与NFC，内置豆包助手可实现跨应用自动化操作。豆包方面明确表示不自研手机，仅以生态合作方式与多家厂商洽谈整合方案，目前为工程样机，软件将每两周更新一次至2026年第一季度。",
+            "image_url": "http://www.duozhi.com/d/file/2025/12/507f952c34403941099e2c6e88400f04.jpeg",
+            "url": "http://www.duozhi.com/industry/insight/2025120317955.shtml",
+            "category": "AI"
+        },
         {
             "title": "豆包“输入”微信里",
             "time": "2025-12-01",
@@ -12764,6 +13016,24 @@
     ],
     "快手": [
         {
+            "title": "统一多模态创作工具可灵O1上线 解锁无限创意可能",
+            "time": "2025-12-02",
+            "source": "36氪",
+            "summary": "全球首个大一统多模态视频与图片创作工具「可灵O1」正式上线，融合文生视频、图像参考、视频编辑、风格重绘等多重功能于单一引擎，支持自然语言指令实现像素级语义重构。该工具打破传统模型割裂，实现角色与场景一致性，适用于影视、自媒体、广告电商等场景，显著降低创作门槛与成本。同步推出的可灵图像O1模型支持多图融合与高精度细节编辑，实现「所想即所得」的创作体验。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251202/v2_728b0b3ab5734b478c7b3d46b8ed657f@5679941_oswg1444244oswg1472oswg693_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3578261085961093",
+            "category": "AI"
+        },
+        {
+            "title": "实测可灵O1，AI视频界的Banana也来了。",
+            "time": "2025-12-02",
+            "source": "AITNT",
+            "summary": "本文深度测评了AI视频大模型可灵O1，该模型首次将文生视频、参考生视频、视频编辑、风格重绘、镜头延展等多模态能力统一于一个模型中。作者通过多个实测案例展示其强大功能，包括视频内容增删、物体替换、绿幕抠像、动作迁移与风格转换等，显著降低视频后期制作成本。尽管仍有细节瑕疵，但可灵O1被视为AI视频领域迈向大一统模型的重要里程碑，标志着“用语言直接修改视频”成为可能。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/2/f136be74-cf5d-11f0-8332-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20328",
+            "category": "AI"
+        },
+        {
             "title": "2026拥抱Agent正当时，首届 Agentic AI 峰会聚集京东、蚂蚁、记忆张量、快手等企业实践话题",
             "time": "2025-11-19",
             "source": "动点科技",
@@ -13136,6 +13406,15 @@
         }
     ],
     "Mistral": [
+        {
+            "title": "刚刚，「欧洲的DeepSeek」发布Mistral 3系列模型，全线回归Apache 2.0",
+            "time": "2025-12-03",
+            "source": "AITNT",
+            "summary": "Mistral AI 发布新一代开源大模型 Mistral 3 系列，包括 Ministral 3（3B/8B/14B）和 Mistral Large 3（675B总参数，41B激活）两大类，全线采用 Apache 2.0 许可证，强调性价比与边缘部署能力。Mistral Large 3 在 LMArena 开源模型榜中排名第二，支持多语言与图像理解，并与 NVIDIA、vLLM 等合作优化推理性能。此举被视为对 DeepSeek 开源策略的回应，重新强化欧洲在开源AI领域的竞争力。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/3/b7f0fded-cfde-11f0-a854-fa163e47d677.jpeg",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=20334",
+            "category": "AI"
+        },
         {
             "title": "Mistral：从0到百亿美金，欧洲 AI 独角兽的崛起",
             "time": "2025-09-24",
