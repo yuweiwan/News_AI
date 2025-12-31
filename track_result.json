@@ -1,6 +1,34 @@
 {
-    "微软": [],
+    "微软": [
+        {
+            "title": "从自贸区001号到十年续约：百视通携手微软共拓家庭娱乐市场",
+            "time": "2025-12-30",
+            "source": "游侠网",
+            "summary": "百视通与微软合资企业百家合完成十年续约，标志着双方将深化在中国家庭娱乐市场的合作。自2013年成立为上海自贸区001号企业以来，双方推动电视游戏成为重要市场分支。未来十年将聚焦游戏发行、用户增长与会员权益落地，通过捆绑套餐、IP衍生品销售、电竞运营等方式拓展生态，加速海外精品游戏引入与国产游戏出海，依托百视通1.8亿家庭用户资源构建完整闭环。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/30/584_20251230105534790.png",
+            "url": "https://www.ali213.net/news/html/2025-12/990213.html",
+            "category": "游戏"
+        }
+    ],
     "索尼": [
+        {
+            "title": "第一令人意外！外媒评选2025年PS5平台最好的动作游戏",
+            "time": "2025-12-30",
+            "source": "游侠网",
+            "summary": "外媒Pushsquare评选出2025年PS5平台最佳动作游戏榜单，其中《忍者龙剑传4》荣获铂金奖，以其极致血腥与凌厉的战斗体验获得最高赞誉；《怪物猎人：荒野》凭借史诗级狩猎对决与深度更新成为最具成就感之作；《羊蹄山之魂》在《对马岛之魂》基础上实现战斗系统进化，获银奖；《艾尔登法环：黑夜君临》则以快节奏多人联机体验夺得铜奖。文章强调动作游戏的核心在于流畅操作与战斗爽感，而非叙事或关卡设计。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/30/584_20251230104548895.webp",
+            "url": "https://www.ali213.net/news/html/2025-12/990207.html",
+            "category": "游戏"
+        },
+        {
+            "title": "如何观看索尼Afeela CES 2026新闻发布会",
+            "time": "2025-12-29",
+            "source": "Engadget",
+            "summary": "索尼本田 Mobility将在CES 2026新闻发布会上展示Afeela 1电动汽车的最新版本及一款全新概念车型。发布会将于2026年1月5日美国东部时间晚上8点通过Afeela官方YouTube频道直播。Afeela 1自2020年以Vision-S之名亮相以来，虽已公布89900美元起售价，但媒体评价普遍认为其设计落后、缺乏创新。此次发布会还计划展示多辆预生产车型及不同配色版本，外界期待其能带来显著改进与新科技亮点。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/8RHgIbuCjCOZxU9cNayJZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3f099890-d9ef-11f0-a3f3-bb8a02df8254",
+            "url": "https://www.engadget.com/transportation/evs/how-to-watch-the-sony-afeela-ces-2026-press-conference-130048921.html",
+            "category": "其他"
+        },
         {
             "title": "索尼新专利曝光：PS6可原生兼容PS1-PS5全世代游戏！",
             "time": "2025-12-27",
@@ -12,6 +40,15 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "上NS2版？《怪物荒野》获解包实锤移植计划已蓄势待发",
+            "time": "2025-12-30",
+            "source": "游侠网",
+            "summary": "尽管卡普空尚未官方证实，但《怪物猎人：荒野》1.040版本补丁中被发现包含指向任天堂Switch 2的代码，如“NSW2.user”和“nsw2UpgradeEdition”，暗示或将推出专为新掌机优化的升级版。代码还提及未来更新内容“历战巨戟龙”。玩家对移植持分歧态度，支持者认为便携性优先，反对者担忧画质妥协与小屏体验。卡普空社长曾提及任天堂掌机在日本市场成功，或为移植提供商业动因，目前仍待官方回应。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/29/584_2025122910844199.jpg",
+            "url": "https://www.ali213.net/news/html/2025-12/990159.html",
+            "category": "游戏"
+        },
         {
             "title": "《星露谷物语》Switch 2玩家可免费升级，新增多人模式与鼠标控制",
             "time": "2025-12-28",
@@ -31,8 +68,27 @@
             "category": "其他"
         }
     ],
-    "腾讯": [],
+    "腾讯": [
+        {
+            "title": "腾讯持股，“大模型Data Agent第一股”上市了，市值140亿",
+            "time": "2025-12-30",
+            "source": "36氪",
+            "summary": "迅策科技于2025年12月30日在港交所上市，成为“大模型Data Agent第一股”，发售价48港元，市值约139亿元人民币。公司专注于实时数据基础设施与分析解决方案，核心客户为资产管理行业，市占率第一，并拓展至城市管理、制造等领域。虽营收增长显著，2025年前九个月收入同比增长40%，但持续亏损，研发投入高，毛利率承压。股东包括腾讯、云锋基金等，创始人刘志坚为清华系背景，公司已完成三次递表上市。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251230/v2_1aefca00e3644957853c155c502603ff@000000_oswg151123oswg1080oswg1806_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3617414593168649",
+            "category": "AI"
+        }
+    ],
     "谷歌": [
+        {
+            "title": "三星计划将谷歌照片集成到其电视中",
+            "time": "2025-12-29",
+            "source": "Engadget",
+            "summary": "三星宣布计划成为首家将谷歌照片原生集成到智能电视中的公司，旨在通过Vision AI Companion提升用户观影体验。该功能将提供三大新体验：Memories（基于人物、地点和重要时刻的精选故事，2026年3月上线）、Create with AI（利用谷歌DeepMind的AI模型生成和编辑照片，2026年下半年上线）以及Personalized Results（根据图像内容生成主题幻灯片）。初期将 exclusivity 为三星电视独占六个月。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/GxWHHLqdYtir3LpS3wXC9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/322f9cc0-4d57-11f0-b6af-becf5173d211",
+            "url": "https://www.engadget.com/home/samsung-plans-to-integrate-google-photos-into-its-tvs-132739713.html",
+            "category": "社交"
+        },
         {
             "title": "Google 今年狂更 60+ AI 工具，我用它们直接省出一台 iPhone 17 | 附产品清单",
             "time": "2025-12-28",
@@ -52,6 +108,15 @@
             "category": "其他"
         },
         {
+            "title": "老黄200亿「钞能力」回应谷歌：联手Groq，补上推理短板",
+            "time": "2025-12-28",
+            "source": "量子位",
+            "summary": "英伟达斥资200亿美元收购Groq，旨在弥补其在AI推理领域的短板。Groq的LPU芯片采用片上SRAM架构，推理速度远超GPU和TPU，可实现每秒300-500个token的低延迟响应，但内存容量小，需多颗芯片协同，成本高昂。文章分析指出，随着AI竞争从训练转向应用，推理速度成为用户体验关键，英伟达此举意在抵御谷歌TPU等新兴芯片的威胁，布局高增长的推理市场。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/replace/2025/12/91b56a2ca40f59fe6acbabd7049a36cb.png",
+            "url": "https://www.qbitai.com/2025/12/366084.html",
+            "category": "AI"
+        },
+        {
             "title": "比 Gemini 更严谨，比 GPT 更靠谱：谷歌这个隐藏功能，太强了！",
             "time": "2025-12-27",
             "source": "AITNT",
@@ -62,6 +127,60 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta拟数十亿美元收购Manus，创历史第三大并购案",
+            "time": "2025-12-30",
+            "source": "动点科技",
+            "summary": "Meta拟以数十亿美元收购AI应用Manus的母公司“蝴蝶效应”，成为其成立以来金额第三大的并购案，仅次于WhatsApp和Scale AI。Manus是2025年3月推出的通用智能体产品，具备调度多工具解决复杂任务的能力，2025年12月ARR突破1亿美元。收购谈判仅十余天完成，创始人肖弘将出任Meta副总裁，公司保持独立运营。投资方包括红杉中国、腾讯等，交易细节尚未官方公布。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/12/Gemini_Generated_Image_d5s27cd5s27cd5s2-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-12-30/meta-acquires-manus-billions/",
+            "category": "AI"
+        },
+        {
+            "title": "Manus被Meta并购，金额或超50亿美金，背后逻辑在于「补齐执行力」",
+            "time": "2025-12-30",
+            "source": "36氪",
+            "summary": "AI Agent公司Manus宣布被Meta收购，交易金额或达40亿至50亿美元，旨在补齐Meta在AI执行能力上的短板。Manus此前已处理超147万亿tokens并创建8000万台虚拟计算机，其技术可使Meta AI在WhatsApp、Instagram等平台实现从信息检索到自主执行任务的闭环，如自动订票、生成行程。此次收购将助力Manus依托Meta的算力与Llama模型加速产品迭代，同时保持独立运作机制，强化其在通用AI Agent领域的领先地位。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251230/v2_291e2ae809c44a04ab34594c30177acc@000000_oswg154545oswg1080oswg517_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3617324352193538",
+            "category": "AI"
+        },
+        {
+            "title": "官宣，小扎数十亿美元买下Manus，93年创始人成Meta副总裁",
+            "time": "2025-12-30",
+            "source": "36氪",
+            "summary": "Meta宣布收购通用AI Agent公司Manus的母公司蝴蝶效应，交易规模达数十亿美元，为Meta成立以来第三大收购。Manus团队约100名成员已加入Meta超级智能实验室，创始人肖弘将出任Meta副总裁。Manus自2024年3月推出以来，已处理超147万亿token，创建超8000万台虚拟机，并在8个月内实现从0到1亿美元ARR的快速增长。此次收购印证了通用AI Agent赛道的爆发潜力。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251230/v2_0686033270fd44058490c0dbbafb45cd@000000_oswg207264oswg1000oswg923_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3617299017303301",
+            "category": "AI"
+        },
+        {
+            "title": "官宣：Meta收购Manus",
+            "time": "2025-12-30",
+            "source": "多知网",
+            "summary": "Meta官宣收购AI Agent公司Manus，交易金额未披露，据称达数十亿美元。Manus自2025年3月上线以来，已为全球数百万用户提供服务，处理超147万亿token，创建超8000万台虚拟计算机。其团队专注于通用AI Agent研发，不依赖模型训练，强调产品工程与用户理解能力。Manus将保留独立运营，继续通过App和网站提供服务，并融入Meta生态。公司成立不足一年即获Meta收购，此前已完成四轮融资，投资方包括真格基金、红杉中国、腾讯等。此次收购被视为中国年轻创业者在AI时代崛起的标志性事件。",
+            "image_url": "http://www.duozhi.com/d/file/2025/12/102750610317041042a5bd4cecfaf53c.png",
+            "url": "http://www.duozhi.com/industry/insight/2025123018038.shtml",
+            "category": "AI"
+        },
+        {
+            "title": "Manus卖给了Meta！年初火爆年底数十亿美元被收购",
+            "time": "2025-12-30",
+            "source": "量子位",
+            "summary": "Meta以数十亿美元收购AI通用智能体公司Manus，成为其史上第三大收购案，仅次于WhatsApp和Scale AI。Manus团队由华中科大背景的肖弘等人创立，曾以“第一款通用Agent”爆火，产品支持自动任务拆解与执行，3月发布后迅速获得千万用户并实现商业化。收购后Manus将保留新加坡运营团队，创始人肖弘出任Meta副总裁。此次收购旨在强化Meta在AI代理领域的布局，加速其AI战略落地。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/replace/2025/12/b6b3983af687f901c93abfa437f88d9b.webp",
+            "url": "https://www.qbitai.com/2025/12/366226.html",
+            "category": "AI"
+        },
+        {
+            "title": "Meta收购以AI任务自动化代理闻名的初创公司Manus",
+            "time": "2025-12-30",
+            "source": "Engadget",
+            "summary": "Meta以超过20亿美元收购了中国AI初创公司Manus，该公司专注于开发可自主执行市场调研、编码、销售分析及网站创建等复杂任务的AI代理。Manus于2025年3月上线，依托Anthropic和阿里巴巴Qwen等第三方模型，八个月内已服务数百万用户，年收入超1亿美元。公司此前从北京迁至新加坡以拓展全球业务，被收购后将保持独立运营。此次收购被视为亚洲AI生态系统的重大里程碑。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/zUCHgHF3A..DBYV_OpHoZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MTU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/94dc2420-e568-11f0-be57-bb6bde45057e",
+            "url": "https://www.engadget.com/ai/meta-buys-startup-known-for-its-ai-task-automation-agents-140045275.html",
+            "category": "AI"
+        },
         {
             "title": "华人一作，Meta等复刻AlphaZero神话，AI甩开人类自修成神",
             "time": "2025-12-29",
@@ -88,10 +207,28 @@
             "image_url": "https://www.aitntnews.com/pictures/2025/12/29/92a88572-e452-11f0-b705-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=21073",
             "category": "AI"
+        },
+        {
+            "title": "Meta收购AI初创公司Manus，斥资20亿美元",
+            "time": "2025-12-29",
+            "source": "TechCrunch",
+            "summary": "Meta以20亿美元收购新加坡AI初创公司Manus，该公司因推出能完成求职筛选、旅行规划和股票分析的AI代理而广受关注，且已实现超1亿美元年经常性收入。Meta计划保持Manus独立运营，并将其技术整合至Facebook、Instagram和WhatsApp的Meta AI中。Manus原由中国创始人创立，但收购后将切断与中国投资者和业务的联系，以应对美国政界对中资背景的担忧。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+            "category": "AI"
         }
     ],
     "YouTube": [],
     "OpenAI": [
+        {
+            "title": "有300亿美元也未必“再造GPT-4”？NUS尤洋最新长文：拆穿AI增长瓶颈的真相",
+            "time": "2025-12-31",
+            "source": "量子位",
+            "summary": "新加坡国立大学尤洋教授在长文中指出，当前AI发展的核心瓶颈并非算力不足，而是现有技术范式（如Transformer+Next-Token Prediction）对算力的转化效率已达极限。他提出智能本质是“能源转化为预测能力”，并质疑Mamba等新架构能否在百亿级算力投入下带来等比例智能提升。文章强调，未来突破需回归高精度计算、高阶优化器与可扩展架构，而非单纯追求吞吐量或参数规模。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/replace/2025/12/d2cdaa888d72ead6a3991c55a5b6207d.webp",
+            "url": "https://www.qbitai.com/2025/12/366295.html",
+            "category": "AI"
+        },
         {
             "title": "苹果和 OpenAI 都要给耳机加摄像头，这家中国公司先做了出来",
             "time": "2025-12-29",
@@ -99,6 +236,42 @@
             "summary": "中国创业公司光帆科技发布全球首款搭载摄像头的AI智能耳机套装Lightwear，每只耳机内置200万像素摄像头，可独立于手机工作，通过eSIM和GPS实现全场景AI感知。该产品旨在让AI通过视觉上下文理解真实世界，支持餐厅识别、差旅规划、视觉购物等场景，采用“阅后即焚”机制保护隐私。其设计被视作对苹果、OpenAI等巨头未来AI硬件方向的提前验证，虽存在社交接受度与隐私争议，但代表了模型驱动硬件设计的新趋势。",
             "image_url": "https://www.aitntnews.com/pictures/2025/12/29/9866ea38-e456-11f0-9f2f-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=21076",
+            "category": "AI"
+        },
+        {
+            "title": "如何使用新的ChatGPT应用集成，包括DoorDash、Spotify、Uber等",
+            "time": "2025-12-29",
+            "source": "TechCrunch",
+            "summary": "OpenAI推出了ChatGPT与多个第三方应用的深度集成，用户可通过语音指令直接在聊天界面中使用DoorDash点餐、Spotify创建歌单、Canva设计图形、Booking.com订酒店等。集成需授权账户权限，支持在设置中管理连接与断开。目前功能仅限美国和加拿大用户，未来将扩展至Walmart、PayPal等平台。文章详细介绍了各应用的具体使用方式与隐私注意事项。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+            "category": "AI"
+        },
+        {
+            "title": "389万寻找翁荔继任者！OpenAI紧急开招安全防范负责人",
+            "time": "2025-12-29",
+            "source": "量子位",
+            "summary": "OpenAI因多起AI安全事件压力剧增，紧急以55.5万美元加股权招聘安全防范负责人，负责评估高能力AI模型的安全风险并制定应对框架。此前因ChatGPT被指间接导致青少年自杀，且每周有百万用户分享自杀意图，引发公众对AI安全的广泛关注。OpenAI安全团队屡换负责人，包括Ilya和翁荔等核心人物相继离职，凸显其内部对安全重视不足。此次招聘被视为应对危机的应激之举。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/replace/2025/12/c6271abf14565e5661a4e709d157c8c1.webp",
+            "url": "https://www.qbitai.com/2025/12/366199.html",
+            "category": "AI"
+        },
+        {
+            "title": "美国《连线》杂志：再见，GPT-5；你好，千问！",
+            "time": "2025-12-29",
+            "source": "量子位",
+            "summary": "美国《连线》杂志发表头条文章，指出GPT-5未能引发市场热情，而阿里开源大模型千问凭借优异性能、灵活部署和透明技术细节，成为全球AI应用首选。千问已广泛应用于比亚迪、Airbnb、英伟达等企业，并在HuggingFace下载量和OpenRouter调用量上超越美国模型，位居全球前列。《连线》认为，千问正成为AI创新的第一策源地，2026年或将属于千问。",
+            "image_url": "https://p3-sign.toutiaoimg.com/tos-cn-i-6w9my0ksvp/1152f711ec5240f9a0c55e5fc30af37d~tplv-tt-shrink:640:0.image?lk3s=06827d14&traceid=20251229142432A72C1E4C785C79B12F86&x-expires=2147483647&x-signature=P96dtbdeVOJyGpg4XnJbcxLustI%3D",
+            "url": "https://www.qbitai.com/2025/12/366176.html",
+            "category": "AI"
+        },
+        {
+            "title": "如何使用新版ChatGPT应用集成，包括DoorDash、Spotify、Uber等",
+            "time": "2025-12-29",
+            "source": "TechCrunch",
+            "summary": "OpenAI推出了ChatGPT与多个第三方应用的深度集成，允许用户直接在聊天界面中通过自然语言指令使用DoorDash点餐、Spotify创建歌单、Canva设计图形、Booking.com订酒店等。用户只需在提示中提及应用名称，即可连接账户并完成操作，提升效率。目前该功能仅限美国和加拿大用户，涉及应用包括Expedia、Figma、Target、Uber Eats和Zillow等，未来还将接入PayPal和Walmart。文章还提醒用户注意数据隐私风险，建议审慎授权访问权限。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+            "url": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
             "category": "AI"
         },
         {
@@ -117,6 +290,15 @@
             "summary": "2025年，OpenAI经历大规模人才流失，其11人创始团队中仅剩CEO奥特曼与总裁Brockman留任。多位核心研究人员如Shengjia Zhao、Jason Wei、Liam Fedus等相继加入Meta或创立新公司，推动Meta成立「超级智能实验室」，并加速AGI研发。同时，OpenAI从非营利研究机构转型为高度商业化组织，引发理想主义与商业利益的深层冲突。人才外流使OpenAI成为AI领域的「黄埔军校」，其技术DNA正被竞争对手继承与超越。",
             "image_url": "https://www.aitntnews.com/pictures/2025/12/28/34020ba2-e390-11f0-840e-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=21062",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI招聘新任准备负责人以预测和缓解AI潜在危害",
+            "time": "2025-12-28",
+            "source": "Engadget",
+            "summary": "OpenAI正在招聘一位新任准备负责人，旨在预测其AI模型可能带来的危害并制定安全策略。该职位由CEO萨姆·阿尔特曼在X平台上公布，指出模型在2025年已对用户心理健康造成实际影响，并伴随多起涉及ChatGPT的不当死亡诉讼。候选人将主导OpenAI的“准备框架”技术执行，年薪55.5万美元加股权。此前该职位人员频繁更替，继Aleksander Madry和Lilian Weng离职后，Joaquin Quinonero Candela也已转任招聘主管。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/G8nkx1A7101d4Gb20.YEbg--~B/aD0xNzQ5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2025-12/2ee5dac2-d430-45f3-b113-d7bcca435c8b",
+            "url": "https://www.engadget.com/ai/openai-is-hiring-a-new-head-of-preparedness-to-try-to-predict-and-mitigate-ais-harms-220330486.html",
             "category": "AI"
         },
         {
@@ -176,8 +358,37 @@
             "category": "其他"
         }
     ],
-    "华为": [],
-    "阿里巴巴": [],
+    "华为": [
+        {
+            "title": "华为云CEO周跃峰：要避免AI成为“泡沫” 必须要提升行业生产力",
+            "time": "2025-12-30",
+            "source": "量子位",
+            "summary": "华为云CEO周跃峰在2025华为开发者大会上指出，当前AI热潮存在泡沫风险，强调AI必须聚焦提升行业生产力而非仅提供情绪价值。他提出“行业AI梦工厂”计划，开放具身智能、医疗、自动驾驶等垂直领域工具链与社区，推动AI深度融入医疗、农业、科研等场景。他以瑞金医院AI病理诊断为例，强调每个AI决策都应产生真实社会价值，并宣布华为云将深耕全栈自主基础设施、开放ModelArts平台和行业智能体平台，倡导开发者关注能解决实际问题的AI应用。",
+            "image_url": "https://mp.toutiao.com/mp/agw/article_material/open_image/get?code=NmQ4MjlmM2FlZDJiOTc3NGViZTkzYzdlODM5OTc1YjAsMTc2NzA4NjY4ODMxNA==",
+            "url": "https://www.qbitai.com/2025/12/366277.html",
+            "category": "AI"
+        },
+        {
+            "title": "鸿蒙押注新未来：用AI重写数字世界交互逻辑",
+            "time": "2025-12-28",
+            "source": "量子位",
+            "summary": "文章探讨华为鸿蒙系统如何通过AI重构操作系统底层，推动终端智能化从L1/L2辅助工具向L3自主智能体跃迁。作者指出当前AI应用普遍存在悬浮式、割据式和拼盘式三大路径依赖，而鸿蒙凭借HMAF智能体框架和A2A协议，打破应用壁垒，实现意图驱动的跨应用协同服务，重塑流量分发逻辑，为开发者提供全场景智能分发新入口，开启AI时代操作系统的新范式。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/replace/2025/12/f795b7688fccffff5d50a200ff3a26f0.webp",
+            "url": "https://www.qbitai.com/2025/12/366075.html",
+            "category": "AI"
+        }
+    ],
+    "阿里巴巴": [
+        {
+            "title": "【数智周报】中国下半年新上线AI应用共205个；2025年云厂商大模型中标金额突破21亿元；阿里开源全新图像模型Qwen-Image-Layered；2025年第三季度全球云基础设施服务支出达到1026亿美元",
+            "time": "2025-12-28",
+            "source": "钛媒体",
+            "summary": "本周聚焦AI与云计算领域重大进展：中国下半年新上线AI应用205个，AI图像处理与专业顾问成热门赛道；阿里开源Qwen-Image-Layered模型，实现PS级图层精准编辑；字节推出数学推理模型Seed Prover 1.5，IMO评分达金牌线；国家算力互联网服务平台跨域体系正式上线；全球云基础设施支出达1026亿美元；英伟达计划春节前向中国交付H200芯片；多家企业如面壁智能、云深处科技获巨额融资；AI在医疗、旅行、机器人等领域加速落地。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2025/12/04357ab07a8128619b807a2cb8f81715_1766824217.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x800&ext=.png",
+            "url": "https://www.tmtpost.com/7822224.html",
+            "category": "AI"
+        }
+    ],
     "百度": [
         {
             "title": "又一个百度“良心产品”倒下了",
@@ -207,7 +418,17 @@
     "京东": [],
     "莉莉丝": [],
     "NEXON": [],
-    "CD Projekt RED": [],
+    "CD Projekt RED": [
+        {
+            "title": "CD Projekt RED以2500万美元将GOG平台出售给联合创始人",
+            "time": "2025-12-30",
+            "source": "GamesIndustry.biz",
+            "summary": "CD Projekt RED已将旗下的GOG数字游戏平台以2500万美元（约9070万波兰兹罗提）出售给其联合创始人Michał Kiciński。交易后，GOG将继续保持独立运营，维持其无DRM、保存经典游戏的使命，并承诺继续发布《巫师》和《赛博朋克2077》等作品。平台目前拥有超过1.1万款游戏，用户权益不受影响。Kiciński表示将亲自参与开发具有复古精神的新游戏，预计2026年登陆GOG。此举有助于CDPR聚焦核心游戏开发，因GOG此前仅贡献微薄利润。",
+            "image_url": "https://assetsio.gnwcdn.com/gogcom-1080p.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/cd-projekt-red-sells-gog-platform-to-co-founder-for-25-million",
+            "category": "游戏"
+        }
+    ],
     "Rockstar Games": [
         {
             "title": "《GTA6》视角之争：第一人称能否满足玩家的期待？",
@@ -261,6 +482,15 @@
     ],
     "卡普空": [
         {
+            "title": "更多新作在路上！卡普空正筹备《洛克人》40周年活动",
+            "time": "2025-12-30",
+            "source": "游侠网",
+            "summary": "卡普空正在筹备《洛克人》系列40周年纪念活动，预计于2027年正式启动，2026年将陆续公布相关计划。系列制作人泉晶吾表示，将为粉丝带来好消息，并期待玩家持续支持。继2018年《洛克人11》和今年公布的《洛克人：双重超载》后，玩家有望迎来更多新作或经典作品重制，引发粉丝热烈期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/30/584_20251230102240400.jpg",
+            "url": "https://www.ali213.net/news/html/2025-12/990203.html",
+            "category": "游戏"
+        },
+        {
             "title": "Fami通最期待游戏榜：卡普空《虚实万象》人气超高！",
             "time": "2025-12-27",
             "source": "游侠网",
@@ -298,8 +528,64 @@
     "GameStop": [],
     "Momenta": [],
     "台积电": [],
-    "三星": [],
-    "英伟达": [],
+    "三星": [
+        {
+            "title": "三星发布新款200美元Galaxy A17 5G手机，将于1月上市",
+            "time": "2025-12-31",
+            "source": "Engadget",
+            "summary": "三星将于明年1月在美国市场推出两款低价新品：Galaxy A17 5G手机和Galaxy Tab A11+平板。手机售价199美元，配备6.7英寸Super AMOLED屏幕、Exynos 1330芯片、5000mAh电池及快充功能，摄像头配置与前代相同。平板售价250美元，搭载11英寸LCD屏，支持最高8GB RAM和256GB存储，同样支持microSD扩展和快充。两款产品定位入门级市场，延续三星性价比路线，有望入选2026年最佳预算安卓设备。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/YvYeL.XW8464ys0KBE.4pA--~B/aD05MDA7dz0xNjAxO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Samsung_Galaxy_A17_5G_and_Galaxy_Tab_A11%20.jpg",
+            "url": "https://www.engadget.com/mobile/smartphones/samsung-unveils-its-new-200-galaxy-a17-5g-smartphone-arriving-in-january-184846560.html",
+            "category": "其他"
+        },
+        {
+            "title": "三星Galaxy A17 5G将于下月在美国以199美元起售",
+            "time": "2025-12-30",
+            "source": "The Verge",
+            "summary": "三星将于明年1月7日在美国推出预算型智能手机Galaxy A17 5G，起售价为199美元。该机型比前代产品更轻薄，配备6.7英寸、最高90Hz刷新率的显示屏，搭载4GB内存，并支持最高2TB的存储扩展。同时，三星还将在1月8日推出Galaxy Tab A11+平板电脑，起售价249.99美元。该新闻由The Verge科技记者Emma Roth报道，聚焦于三星在入门级市场的最新产品布局。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/samsung-a17.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/851185/the-samsung-galaxy-a17-5g-will-start-at-199-when-it-launches-in-the-us-next-month",
+            "category": "其他"
+        },
+        {
+            "title": "三星计划将谷歌照片集成到其电视中",
+            "time": "2025-12-29",
+            "source": "Engadget",
+            "summary": "三星宣布计划成为首家将谷歌照片原生集成到智能电视中的公司，旨在通过Vision AI Companion提升用户观影体验。该功能将提供三大新体验：Memories（基于人物、地点和重要时刻的精选故事，2026年3月上线）、Create with AI（利用谷歌DeepMind的AI模型生成和编辑照片，2026年下半年上线）以及Personalized Results（根据图像内容生成主题幻灯片）。初期将 exclusivity 为三星电视独占六个月。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/GxWHHLqdYtir3LpS3wXC9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/322f9cc0-4d57-11f0-b6af-becf5173d211",
+            "url": "https://www.engadget.com/home/samsung-plans-to-integrate-google-photos-into-its-tvs-132739713.html",
+            "category": "社交"
+        }
+    ],
+    "英伟达": [
+        {
+            "title": "如何在线观看NVIDIA CES 2026发布会",
+            "time": "2025-12-30",
+            "source": "Engadget",
+            "summary": "NVIDIA将于2026年1月5日美国东部时间下午4点举行CES 2026主题演讲，CEO黄仁勋将介绍AI、机器人、模拟、游戏和内容创作等领域的最新技术，现场将提供20多项演示。发布会将通过NVIDIA官网及可能的YouTube平台直播。尽管具体新品细节尚未公布，但市场普遍期待其对Blackwell芯片后继产品的披露以及AI在机器人领域的实际应用进展。此次发布对科技界和金融界均具重要意义。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/cAVkxUgQufObCAYniSST6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/b0333b00-dcee-11f0-a993-97c527ebca4b",
+            "url": "https://www.engadget.com/computing/how-to-watch-the-nvidia-ces-2026-presentation-live-130028065.html",
+            "category": "AI"
+        },
+        {
+            "title": "CES 2026前瞻：AI设备爆发、英特尔与英伟达重磅发布",
+            "time": "2025-12-30",
+            "source": "Engadget",
+            "summary": "CES 2026即将开幕，科技巨头纷纷预热发布。英特尔将推出基于2nm工艺的Panther Lake芯片，性能或提升50%；英伟达与AMD预计分别展示AI技术与Ryzen 9000系列新品。LG与三星将推出Micro RGB电视，索尼或推出True RGB显示技术。此外，三星发布Music Studio系列静音音箱，小米推出17 Ultra Leica版手机，配备手动变焦环与2亿像素长焦镜头。谷歌被曝或将允许用户更改Gmail地址。本文为《The Morning After》专栏对CES前瞻的综合报道。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/3nhUltahO4j.OGEcERT1Lg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/g8cxOWBwT1INIyUWO8MRkA--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2025-12/e8dccbc3-be88-4b87-a625-47af0b588c1a",
+            "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-121511445.html",
+            "category": "其他"
+        },
+        {
+            "title": "GPU四小龙忙上市：“中国英伟达”的较量，才刚刚开始",
+            "time": "2025-12-29",
+            "source": "36氪",
+            "summary": "文章聚焦国产GPU四小龙——摩尔线程、沐曦、壁仞科技与天数智芯集体上市的资本热潮，分析四家企业在架构设计、技术路线、生态布局上的差异化竞争策略。摩尔强调生态兼容，沐曦专注务实交付，壁仞追求极致算力，天数率先量产。尽管融资超百亿、客户落地初见成效，但研发成本高企、盈利尚未实现，软件生态与供应链自主仍是关键挑战。文章指出，上市仅为起点，真正的较量在于能否从‘替代想象’走向‘扎实未来’。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251229/v2_f38069386a5b418f83f0f000469a9d32@5091053_oswg63552oswg1080oswg533_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3616419135915017",
+            "category": "AI"
+        }
+    ],
     "deepseek": [
         {
             "title": "硅谷豪赌2万亿，DeepSeek登顶Nature，Meta却成2025最大输家？",
@@ -312,6 +598,42 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "TikTok 成为美青年新闻首选，内容信任度再成焦点",
+            "time": "2025-12-30",
+            "source": "动点科技",
+            "summary": "根据皮尤研究中心2025年调查，TikTok已超越YouTube和Instagram，成为美国18至29岁年轻人获取新闻的首选平台，43%的受访者定期通过该应用获取新闻。年轻人不仅关注官方媒体内容，也信赖独立新闻创作者发布的实拍视频与评论。TikTok正通过添加文章链接和“脚注”事实核查工具提升内容可信度，并与全球130多个事实核查机构合作。社交媒体在年轻群体中的新闻渗透率高达76%，其真实、接地气的表达方式正重塑新闻传播模式。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/12/Gemini_Generated_Image_np29n3np29n3np29-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-12-30/tiktok-now-top-social-app-for-news-among-young-people-2025/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok超越油管、ins成美国年轻人新闻首选平台",
+            "time": "2025-12-30",
+            "source": "游侠网",
+            "summary": "根据皮尤研究中心2025年调查，TikTok以43%的占比超越YouTube和Instagram，成为美国18至29岁年轻人获取新闻的首选社交平台。社交媒体整体使用率高达76%，半数受访者对其新闻内容持信任态度。TikTok上的新闻内容不仅来自传统媒体，还包括网红评论与用户原创时事视频，推动独立新闻创作者崛起。为应对趋势，TikTok已推出链接文章和事实核查“脚注”功能，并与全球130多个事实核查机构合作提升内容可信度。",
+            "image_url": "https://img2.ali213.net/picfile/News/2025/12/30/584_2025123095041905.png",
+            "url": "https://www.ali213.net/news/html/2025-12/990175.html",
+            "category": "社交"
+        },
+        {
+            "title": "关于美国TikTok交易你应该知道的事项",
+            "time": "2025-12-30",
+            "source": "TechCrunch",
+            "summary": "TikTok已与美国投资者集团达成协议，将其美国业务部分剥离，由Oracle、Silver Lake和MGX共同持有45%股份，字节跳动保留约20%股权。新成立的“TikTok USDS联合合资企业”将负责数据安全、算法审查和内容审核，Oracle将作为可信安全合作伙伴确保合规。交易定于2026年1月22日完成，字节跳动将不再接触美国用户数据或影响算法。尽管此前有传言称原应用将被取代，但具体新平台细节仍不明确。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/tiktok-ban-2025-v2.jpg?w=680",
+            "url": "https://techcrunch.com/2025/12/30/heres-whats-you-should-know-about-the-us-tiktok-deal/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok 上架了 10+短剧小程序，但头部还在观望",
+            "time": "2025-12-29",
+            "source": "白鲸出海",
+            "summary": "TikTok上线了名为Minis的小程序板块，包含十余个短剧应用，旨在通过站内轻量体验降低用户转化门槛，延续TikTok Shop的流量-转化-变现闭环。头部平台如ReelShort和DramaBox暂未入驻，因担忧失去变现控制权；中小平台则更愿接受分成以获取流量。TikTok同时推广告分成模式，以1万美元授权费+广告收入吸引内容方，但制作方普遍认为成本难覆盖。此举或重塑全球短剧行业格局，引发好莱坞关注，行业正面临权力结构重构的转折点。",
+            "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20251229/1767004048688525.png",
+            "url": "https://www.baijing.cn/article/54926",
+            "category": "社交"
+        },
         {
             "title": "警察指控一名在TikTok直播时撞死行人的司机",
             "time": "2025-12-28",
