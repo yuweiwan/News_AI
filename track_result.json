@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "微软纳德拉呼吁停止将AI视为‘垃圾’",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "微软CEO萨提亚·纳德拉在个人博客中呼吁公众停止将人工智能视为生成低质内容的‘垃圾’（slop），而应将其看作‘思维的自行车’，即增强人类潜能的辅助工具。他强调AI应作为人类认知的支架，而非替代者。尽管行业普遍存在AI将取代大量岗位的担忧，但Vanguard 2026年报告指出，最受AI影响的岗位反而实现了就业增长和工资上升。文章还指出，AI的实际影响更取决于人类如何使用它，而非技术本身，微软自身裁员潮更多源于战略调整而非AI效率提升。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
+            "category": "AI"
+        },
+        {
             "title": "从自贸区001号到十年续约：百视通携手微软共拓家庭娱乐市场",
             "time": "2025-12-30",
             "source": "游侠网",
@@ -11,6 +20,33 @@
         }
     ],
     "索尼": [
+        {
+            "title": "可用于破解PS5！《星球大战:极速复仇》实体盘遭抢购",
+            "time": "2026-01-04",
+            "source": "游侠网",
+            "summary": "索尼PS5 ROM密钥泄露事件引发玩家关注，开发者Gezine指出可利用PS4版《星球大战：极速复仇》（CUSA-03474）实体光盘中的罕见漏洞向PS5注入代码，实现系统越狱。该光盘为限量发行约8500份，目前主流渠道已断货，eBay二手价格飙升至230-399.99美元，远超原价59.99美元。目前破解社区尚未发布工具，Gezine仍在完善代码，BD-JB蓝光越狱短期内不会出现。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/04/584_2026010483528823.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/990975.html",
+            "category": "游戏"
+        },
+        {
+            "title": "前索尼高管：游戏业应走向硬件大一统",
+            "time": "2025-12-31",
+            "source": "动点科技",
+            "summary": "前索尼互动娱乐全球工作室主席肖恩·雷登提议游戏行业建立类似DVD/蓝光的统一硬件格式联盟，打破当前主机平台封闭生态。他认为，通过制定跨品牌兼容的软件标准，允许不同厂商生产可运行所有游戏的设备，可突破现有2.5亿装机量瓶颈，吸引非核心玩家。该构想与微软“无处不玩游戏”战略契合，索尼已逐步向PC移植游戏，唯独任天堂仍坚守封闭系统。尽管短期内实现困难，但为行业未来提供了重要思考方向。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/12/TCL-Note-A1-NXTPAPER-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2025-12-31/former-sony-executive-the-gaming-industry-should-move-towards-hardware-unification/",
+            "category": "游戏"
+        },
+        {
+            "title": "如何观看索尼本田Afeela CES 2026新闻发布会",
+            "time": "2025-12-31",
+            "source": "Engadget",
+            "summary": "索尼本田 Mobility 将于2026年1月5日举行CES新闻发布会，重点展示Afeela 1电动汽车的最新版本及一款全新概念车型。发布会将通过Afeela官方YouTube频道直播。尽管Afeela 1自2020年首次亮相以来备受关注，但此前评价普遍不佳，被指技术过时、设计缺乏亮点。本次发布会还将展出多辆预生产车型及不同配色版本，外界期待其在性能与设计上的实质性改进。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/8RHgIbuCjCOZxU9cNayJZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3f099890-d9ef-11f0-a3f3-bb8a02df8254",
+            "url": "https://www.engadget.com/transportation/evs/how-to-watch-the-sony-honda-afeela-ces-2026-press-conference-130048622.html",
+            "category": "其他"
+        },
         {
             "title": "第一令人意外！外媒评选2025年PS5平台最好的动作游戏",
             "time": "2025-12-30",
@@ -41,6 +77,24 @@
     ],
     "任天堂": [
         {
+            "title": "贝尔金推出新款 Switch 2 充电保护盒，涨价至 100 美元",
+            "time": "2026-01-05",
+            "source": "动点科技",
+            "summary": "在CES 2026上，贝尔金发布了Switch 2充电保护盒Pro版，延续10000mAh电池容量，但设计全面升级：新增外部USB-C接口与电量显示屏，支持无需拆卸的直接充电；集成可调节支架实现“即插即用”体验，并配备游戏卡槽、网状收纳袋及隐藏式追踪器隔层。产品售价由69.99美元上调至99.99美元（约700元），现已上市。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/belkin_switch2pro_case1.jpg.webp",
+            "url": "https://cn.technode.com/post/2026-01-05/belkin-charging-case-pro-nintendo-switch-2/",
+            "category": "游戏"
+        },
+        {
+            "title": "SwitchBot 在 CES 上带来家用人形机器人 OneRo H1",
+            "time": "2026-01-05",
+            "source": "动点科技",
+            "summary": "SwitchBot 在 CES 2026 上发布了家用人形机器人 OneRo H1，该机器人采用滚轮底座移动，具备22个自由度和触觉反馈，搭载OmniSense VLA大模型，可完成折叠衣物、整理桌面、开关门窗及协助备餐等复杂家务，并能与SwitchBot生态设备联动。目前官网即将开启预售，但售价尚未公布。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/onero-H1-3-1.png.webp",
+            "url": "https://cn.technode.com/post/2026-01-05/switchbot-onero-h1-humanoid-household/",
+            "category": "AI"
+        },
+        {
             "title": "上NS2版？《怪物荒野》获解包实锤移植计划已蓄势待发",
             "time": "2025-12-30",
             "source": "游侠网",
@@ -70,6 +124,24 @@
     ],
     "腾讯": [
         {
+            "title": "年入25亿，腾讯投的安徽85后，要IPO",
+            "time": "2026-01-05",
+            "source": "36氪",
+            "summary": "安徽85后创业者王建军创立的家用激光雕刻机品牌xTool向港交所递交上市申请，2024年营收达24.76亿元，占据全球近半市场份额，产品主要销往欧美。王建军曾创办创客工场，后转型聚焦消费级激光设备，以高性价比、工业级用料和品牌化运营突围。腾讯领投其2亿美元Pre-IPO融资。xTool的成功得益于深圳完善的硬件供应链与精准的欧美市场定位，通过设备+生态（素材库、社区）模式构建长期价值。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260105/v2_235088fb21234cdebaec30d26defb166@000000_oswg463060oswg1080oswg730_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3626449937368071",
+            "category": "其他"
+        },
+        {
+            "title": "36氪首发 | 消费科技品牌「xTool」递表港交所，腾讯领投 2 亿美元 Pre-IPO 融资",
+            "time": "2026-01-01",
+            "source": "36氪",
+            "summary": "消费科技品牌xTool于2026年1月1日正式向港交所递交招股书，拟主板上市，腾讯领投2亿美元Pre-IPO轮融资，参与方包括Granite Asia、凯辉基金等。公司2024年营收达24.8亿元，97%收入来自海外，欧美市场占比85%。xTool在全球激光类个人创意工具市场占有率达37%，核心产品平均售价从2023年的1.2万元升至2025年的2.1万元，并推出首款服饰打印机，DTP市场全球第三。公司研发人员占比56%，依托AI引擎AIMake打造统一软件平台xTool Studio。",
+            "image_url": "https://staticx.36krcdn.com/36kr-web/static/new_qr_img.72d61993.png?x-oss-process=image/resize,p_5/blur,r_3,s_2",
+            "url": "https://36kr.com/p/3620865484637190",
+            "category": "其他"
+        },
+        {
             "title": "腾讯持股，“大模型Data Agent第一股”上市了，市值140亿",
             "time": "2025-12-30",
             "source": "36氪",
@@ -80,6 +152,42 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "波士顿动力下一代人形机器人将搭载谷歌DeepMind技术",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "波士顿动力与谷歌DeepMind达成战略合作，将后者先进的AI基础模型整合至新一代人形机器人Atlas中，旨在使其更自然地与人类互动。该合作于CES 2026期间宣布，Atlas已进入生产阶段，并将部署于现代汽车工厂。谷歌DeepMind高级总监Carolina Parada表示，目标是打造全球最先进的机器人基础模型，实现真正通用的人类需求服务。Atlas原型已在现场展示行走能力，但团队强调，要成为实用产品，机器人必须超越运动能力，具备自然的人机交互能力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/atlas-announcement.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌在CES 2026预览Gemini新功能，赋能Google TV",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "谷歌在CES 2026上展示了其Gemini AI在Google TV上的多项新功能，包括通过自然语言交互推荐影视内容、回顾剧集剧情、搜索并“重塑”个人照片与视频、生成电影级幻灯片，以及语音控制电视设置（如调亮度、音量等）。这些功能将首先登陆部分TCL电视，后续扩展至其他设备，需Android TV OS 14以上系统、互联网连接和Google账户。Gemini还将提供深度学习体验，以图文视频结合方式解答用户问题，提升电视的娱乐与教育价值。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/google-tv.webp?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌Cloud AI负责人曝21条教训：只要规模够大，连你的bug也会有用户！最好的代码是你根本不用写的代码，创新也需要偿还",
+            "time": "2026-01-05",
+            "source": "AITNT",
+            "summary": "谷歌Cloud AI总监Addy Osmani分享了其14年谷歌工作生涯总结的21条非技术性经验教训，强调工程实践中的人与组织因素。他指出，规模越大，bug也可能成为用户依赖；最好的代码是无需编写的代码；创新需付出代价，应谨慎使用；清晰比聪明更重要，团队对齐比个人技术能力更关键；并提醒工程师关注影响力、关系网络与时间价值。这些洞见源于真实项目经验，颠覆了传统技术至上的思维，引发广泛共鸣。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/5/33d6aa8b-ea00-11f0-b230-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21298",
+            "category": "AI"
+        },
+        {
+            "title": "2025年AI十大事件：DeepSeek开源炸场，谷歌绝地反击，独角兽扎堆IPO",
+            "time": "2025-12-31",
+            "source": "36氪",
+            "summary": "2025年AI领域迎来重大变革：DeepSeek开源模型引发全球关注，打破美国技术垄断；谷歌凭借Gemini 3.0强势回归，代码能力突破引发OpenAI警觉；Meta因Llama 4表现不佳和巨额投资未见效而失宠；超25家AI创企实现年化营收超1亿美元，OpenAI、Anthropic、智谱、MiniMax等独角兽纷纷筹备IPO。同时，强化学习广泛应用，AI机器人进展缓慢，持续学习能力成AGI关键瓶颈。前特斯拉AI总监卡帕西对AI编程工具态度逆转，称效率或提升十倍。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3619357330703367",
+            "category": "AI"
+        },
         {
             "title": "三星计划将谷歌照片集成到其电视中",
             "time": "2025-12-29",
@@ -127,6 +235,15 @@
         }
     ],
     "Meta": [
+        {
+            "title": "你不能再相信眼睛了，Instagram负责人这样说",
+            "time": "2026-01-01",
+            "source": "The Verge",
+            "summary": "Instagram负责人亚当·莫斯里指出，随着AI生成图像和视频日益逼真，人们已无法再默认相信所见内容为真实。他强调，未来 authenticity 将成为稀缺资源，原始、不完美的影像反而成为真实性的信号。他呼吁平台应加强AI内容标注、验证真实媒体，并通过摄像头加密签名建立可信链，同时提升创作者的可信度信号。相机厂商盲目追求专业级美化影像的方向已过时，真正的趋势是raw、真实的生活化内容。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330613/STK419_DEEPFAKE_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
+            "category": "社交"
+        },
         {
             "title": "Meta拟数十亿美元收购Manus，创历史第三大并购案",
             "time": "2025-12-30",
@@ -221,6 +338,33 @@
     "YouTube": [],
     "OpenAI": [
         {
+            "title": "OpenAI首款硬件定型为笔！网友：就叫oPen吧",
+            "time": "2026-01-05",
+            "source": "AITNT",
+            "summary": "OpenAI首款硬件产品确定为一款无屏AI智能笔，由前苹果首席设计官Jony Ive参与设计，旨在实现低干扰、随身可用的AI交互体验。该笔可本地运行定制模型，将手写内容转为文本并同步至ChatGPT进行双向交流，兼具轻便性与智能性。此举被视为OpenAI从软件向硬件生态延伸的关键一步，意在打造类似“湖畔小屋”般安静、克制的AI接口，同时探索硬件+订阅的新型变现模式。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/5/dbee8231-e9d6-11f0-8584-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21282",
+            "category": "AI"
+        },
+        {
+            "title": "人均1个亿！黄仁勋拟砸下30亿美元，「买断」OpenAI昔日劲敌",
+            "time": "2026-01-01",
+            "source": "AITNT",
+            "summary": "英伟达拟以20亿至30亿美元收购AI21 Labs，旨在获取其顶尖AI人才与Jamba混合推理架构，而非单纯并购模型。AI21曾为OpenAI有力竞争者，但因ChatGPT爆发后被边缘化，虽年营收5000万美元，却难抵研发成本。此次收购被视为英伟达在推理端的战略布局，通过整合以色列AI团队，提前锁定下一代AI系统主动权。创始人Amnon Shashua已转向新创公司AAI，标志大模型创业进入“被巨头收编”的终局阶段。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/1/c5e84a8e-e6b7-11f0-93ce-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21192",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI押注音频，硅谷宣告对屏幕开战",
+            "time": "2026-01-01",
+            "source": "TechCrunch",
+            "summary": "OpenAI近期整合多个团队，全力开发新一代音频AI模型，计划于2026年推出无屏音频设备，旨在将语音交互作为未来主要人机界面。此举呼应了硅谷整体趋势：智能音箱、AI眼镜、智能戒指等设备正取代屏幕，让家、车甚至面部成为交互入口。谷歌、Meta、特斯拉等巨头已布局语音助手，尽管Humane AI Pin等产品失败，但新兴创业公司仍在探索音频形态。OpenAI还吸纳前苹果设计主管乔尼·艾维，致力于减少设备成瘾，打造更自然的对话式AI体验。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197091379.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+            "category": "AI"
+        },
+        {
             "title": "有300亿美元也未必“再造GPT-4”？NUS尤洋最新长文：拆穿AI增长瓶颈的真相",
             "time": "2025-12-31",
             "source": "量子位",
@@ -313,6 +457,24 @@
     ],
     "苹果": [
         {
+            "title": "选择合适的苹果手表：SE 3 是否物有所值？",
+            "time": "2026-01-01",
+            "source": "TechCrunch",
+            "summary": "本文对比了苹果最新发布的Apple Watch SE 3与Series 11两款智能手表，指出尽管SE 3价格更低，但已升级至S10芯片、支持常亮显示屏、快充和新增腕部温度传感等健康功能，与高端型号的差距显著缩小。对于普通用户和首次购买者而言，SE 3在核心功能上已足够优秀，而Series 11则在电池续航、高级健康监测（如血压、ECG）和屏幕亮度等方面更具优势。文章建议消费者根据实际需求选择，SE 3可能是性价比最高的选项。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Apple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/01/is-the-apple-watch-se-3-a-good-deal/",
+            "category": "其他"
+        },
+        {
+            "title": "Dreame X40 Ultra扫地机器人降价近700美元，同时推荐Baseus车载充电器和苹果肩带",
+            "time": "2025-12-31",
+            "source": "The Verge",
+            "summary": "The Verge报道了Dreame X40 Ultra扫地机器人目前在亚马逊售价503美元，较原价1200美元优惠697美元，接近其历史最低价。该设备具备12000Pa吸力、自动集尘、智能清洁和双振荡拖地功能，虽不及新款X50 Ultra，但性价比极高。同时推荐了Baseus 163W可伸缩车载充电器（现价28.49美元）和苹果交叉肩带（现价41.99美元），均为历史最低价。文章还提及了Polaroid Now Plus即时相机的促销信息，适合年末购物参考。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/dreamex40ultra.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale",
+            "category": "其他"
+        },
+        {
             "title": "奥特曼摊牌：别再比模型跑分了，苹果才是真宿敌",
             "time": "2025-12-29",
             "source": "36氪",
@@ -360,6 +522,33 @@
     ],
     "华为": [
         {
+            "title": "华为开源7B多模态模型，视觉定位和OCR能力出色，你的昇腾端侧“新甜点”来了",
+            "time": "2026-01-05",
+            "source": "AITNT",
+            "summary": "华为开源了7B参数量级的多模态模型openPangu-VL-7B，专为昇腾端侧部署优化，具备出色的视觉定位与OCR能力。该模型在720P图像推理中实现160毫秒时延与5FPS实时处理，训练MFU达42.5%，并在通用视觉问答、文档理解等任务中超越同量级模型。其核心技术包括适配昇腾的视觉编码器、加权损失设计及千分位定位格式，显著提升精度与效率，为开发者提供高性能轻量级多模态解决方案。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/5/02f955c7-ea00-11f0-ab15-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21297",
+            "category": "AI"
+        },
+        {
+            "title": "独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向",
+            "time": "2026-01-05",
+            "source": "AITNT",
+            "summary": "前华为天才少年李元庆加盟乐享科技，聚焦家庭场景具身智能产品落地。他指出，2025年机器人在稳定性、操作成功率上实现突破，技术正从演示走向产品化。他认为制约行业发展的核心是成本高、场景定义模糊与数据闭环未建立，主张通过“把家庭当工厂”构建信息化体系，并提出“多机异构”是未来方向，而非单一通用智能体。他坚信中国凭借制造与落地优势，将诞生全球首款规模化具身智能产品。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/5/6d0519c7-e9d9-11f0-bd27-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21287",
+            "category": "AI"
+        },
+        {
+            "title": "7B扩散语言模型单样例1000+ tokens/s！上交大联合华为推出LoPA",
+            "time": "2026-01-01",
+            "source": "AITNT",
+            "summary": "上海交通大学DENG Lab联合华为提出无需训练的前瞻并行解码算法LoPA，显著提升扩散语言模型（dLLMs）的推理并行度。该算法通过多分支探索与置信度验证机制，将单步生成Token数从3.1提升至10.1，并配套开发LoPA-Dist分布式推理系统，在华为Ascend 910C平台实现单样本1073.9 tokens/s的吞吐量，突破传统自回归模型效率瓶颈，且无需模型重训，具有即插即用优势。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/1/54dd9546-e6c4-11f0-b7be-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21187",
+            "category": "AI"
+        },
+        {
             "title": "华为云CEO周跃峰：要避免AI成为“泡沫” 必须要提升行业生产力",
             "time": "2025-12-30",
             "source": "量子位",
@@ -379,6 +568,15 @@
         }
     ],
     "阿里巴巴": [
+        {
+            "title": "阿里开源AI手机的“灵魂”，GUI智能体2B到235B四个版本全，端云协同成功率暴涨33%",
+            "time": "2025-12-31",
+            "source": "AITNT",
+            "summary": "阿里通义实验室开源MAI-UI GUI智能体，发布2B至235B四个版本模型，覆盖端侧与云端全场景部署。该系统具备主动追问用户意图、调用外部API（如高德地图、GitHub）绕过繁琐界面操作、端云协同执行等能力，隐私敏感任务本地处理，复杂任务交由云端，成功率提升33%，云端调用减少40%以上。在多项GUI任务基准测试中表现超越Gemini、UI-Venus等模型，最小2B模型性能也显著领先。论文与代码已公开，推动AI手机智能体落地。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/31/2d7c9eef-e613-11f0-84c7-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21176",
+            "category": "AI"
+        },
         {
             "title": "【数智周报】中国下半年新上线AI应用共205个；2025年云厂商大模型中标金额突破21亿元；阿里开源全新图像模型Qwen-Image-Layered；2025年第三季度全球云基础设施服务支出达到1026亿美元",
             "time": "2025-12-28",
@@ -400,7 +598,26 @@
             "category": "社交"
         }
     ],
-    "亚马逊": [],
+    "亚马逊": [
+        {
+            "title": "亚马逊AI助手Alexa.com上线，拓展至网页和新版App",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "亚马逊在CES 2026上正式推出Alexa.com网站和更新版Alexa手机App，将AI助手Alexa+扩展至网页端，使其成为类似ChatGPT的对话式智能代理。新平台聚焦家庭场景，支持日程管理、购物清单、食谱推荐、智能家居控制等功能，并鼓励用户授权访问邮件与日历数据以提升个性化服务。目前仅对早期体验用户开放，但已实现数千万用户使用，交互频次显著高于旧版Alexa。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Alexa.com_.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
+            "category": "AI"
+        },
+        {
+            "title": "亚马逊更新Fire TV并推出带框架的‘Artline’电视",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "亚马逊在CES 2026上推出Fire TV界面重大更新，简化导航结构，增加应用快捷入口至20个，并优化内容推荐与搜索体验。同时发布全新Amazon Ember Artline电视系列，配备可更换艺术边框，支持4K QLED、Dolby Vision及Alexa+语音助手，用户可通过语音命令展示个人照片或艺术作品。新系统提升操作速度20%-30%，将于2月起逐步推送至多款设备。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/New-Fire-TV-UI-on-Amazon-Fire-TV-Omni-QLED-Series.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/",
+            "category": "AI"
+        }
+    ],
     "红杉资本": [],
     "YC": [
         {
@@ -413,8 +630,28 @@
             "category": "AI"
         }
     ],
-    "高盛": [],
-    "美团": [],
+    "高盛": [
+        {
+            "title": "高盛、摩根大通领跑FY25并购排名，规模成为关键",
+            "time": "2026-01-05",
+            "source": "ION Analytics",
+            "summary": "2025财年全球并购市场规模达5.1万亿美元，规模成为核心主题。高盛以1.66万亿美元交易额居首，完成40笔超100亿美元的大型交易，包括电子艺界566亿美元的杠杆收购案；摩根大通以1.44万亿美元位居第二，摩根士丹利以1.17万亿美元位列第三。三大投行在欧美及亚太市场全面领先，私人股本退出交易中高盛以2453亿美元居首，Houlihan Lokey在交易数量上表现突出。尽管交易总额上升，但全球并购数量同比下降3.3%，反映市场对AI与关税不确定性的谨慎态度。",
+            "image_url": "https://cdn.mmgcache.net/editorial-content/live/document-repository/document/tiqnC5N53J",
+            "url": "https://ionanalytics.com/insights/mergermarket/goldman-sachs-jpmorgan-top-fy25-ma-rankings-in-a-year-where-size-mattered/",
+            "category": "其他"
+        }
+    ],
+    "美团": [
+        {
+            "title": "独家｜蚂蚁、美团入局 AI 硬件， Looki 完成超 2000 万美元 A 轮融资",
+            "time": "2026-01-05",
+            "source": "AITNT",
+            "summary": "AI硬件创业公司Looki完成超2000万美元A轮融资，由蚂蚁集团领投，美团龙珠、华登等跟投。公司由CMU校友创立，团队背景深厚，主打全球首款可穿戴多模态AI硬件Looki L1，可记录生活碎片并生成情绪价值内容，如每日Vlog与连载漫画。用户平均使用时长超7小时，验证其“以人为中心”产品理念。即将在CES发布主动式AI功能，能主动提醒用户行为与提供建议，标志着AI硬件从被动响应走向前瞻服务。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/5/a1a9e0e2-e9d6-11f0-964d-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21280",
+            "category": "AI"
+        }
+    ],
     "京东": [],
     "莉莉丝": [],
     "NEXON": [],
@@ -431,6 +668,24 @@
     ],
     "Rockstar Games": [
         {
+            "title": "《GTA6》规模超大 地图边缘的内容或许更值得探索！",
+            "time": "2026-01-05",
+            "source": "游侠网",
+            "summary": "游戏媒体vidaextra指出，《GTA6》的地图边缘区域如安布罗西亚和莱昂尼达群岛可能成为玩家探索的重点，预计将包含陨石、恐怖小屋、秘密仪式等隐藏内容。R星擅长在偏远角落埋藏细节，结合交通工具升级，探索效率将大幅提升，游戏规模有望达到传奇级别，即使游玩50小时也难以完全探索完毕，激发玩家社区大量猜测与理论。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/05/584_2026010541651548.png",
+            "url": "https://www.ali213.net/news/html/2026-1/991387.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《GTA6》物理抖动解析：每秒进行数万次物理运算！",
+            "time": "2026-01-04",
+            "source": "游侠网",
+            "summary": "前Rockstar动画师Mike York解析了《GTA6》中“抖动物理”的实现技术，指出游戏通过双重骨骼系统——基础动画骨骼与实时物理驱动骨骼——模拟角色软组织动态，每秒进行数万次物理运算，实现逼真身体反应。同时，游戏采用预计算布料模拟以保证如露西亚裙摆等细节的流畅性，形成“预计算+实时物理”混合方案，兼顾电影级表现与玩家交互的沉浸感，并解释了为何主机版以30帧为目标以应对高负载。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/04/584_2026010411381593.png",
+            "url": "https://www.ali213.net/news/html/2026-1/991035.html",
+            "category": "游戏"
+        },
+        {
             "title": "《GTA6》视角之争：第一人称能否满足玩家的期待？",
             "time": "2025-12-29",
             "source": "游侠网",
@@ -441,6 +696,15 @@
         }
     ],
     "Epic Games": [
+        {
+            "title": "滑跪送游戏的Epic Games，为什么是玩家们的“赛博E父”？",
+            "time": "2026-01-01",
+            "source": "36氪",
+            "summary": "本文探讨了Epic Games通过长期免费赠送高质量游戏（如《霍格沃兹之遗》《极乐迪斯科》《死亡搁浅》等）赢得玩家好感的运营策略。自2018年起，Epic以“喜加一”模式持续送游戏，甚至在TGA上高调宣布免费发放《霍格沃兹之遗》，引发全网热议。其低姿态公关、主动道歉、与玩家打成一片的风格，使其从“E宝”蜕变为玩家口中的“赛博E父”。文章还回顾了2023至2025年Epic送出的多款经典大作，分析其以免费换用户忠诚、推动平台生态的商业逻辑。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251231/v2_bbdfa0a6c774422cac8eeb658ffd1233@6255070_oswg11560oswg694oswg176_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3619579802485766",
+            "category": "游戏"
+        },
         {
             "title": "Epic喜加一第十弹！双人冒险《我们一起在这里》免费送",
             "time": "2025-12-27",
@@ -502,7 +766,17 @@
     ],
     "知乎": [],
     "Patreon": [],
-    "Reddit": [],
+    "Reddit": [
+        {
+            "title": "Reddit用户追忆PSP掌机黄金时代 引发网友集体回忆杀",
+            "time": "2026-01-05",
+            "source": "游侠网",
+            "summary": "Reddit用户@JampyL发帖追忆索尼PSP掌机的黄金时代，引发海外玩家广泛共鸣。帖主称赞PSP便携性极佳，体积小巧可轻松放入口袋，兼具媒体播放功能，成为当年不可或缺的电子伴侣。众多网友回应称，尽管PSP尺寸略大于同期手机，但其综合体验令人怀念，被视为经典掌机。帖子反映了玩家对PSP情感价值的深切认同，并表达了对索尼未来推出类似产品的期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/05/584_2026010542455545.png",
+            "url": "https://www.ali213.net/news/html/2026-1/991385.html",
+            "category": "游戏"
+        }
+    ],
     "特朗普": [
         {
             "title": "日本车，都在“哄”特朗普开心",
@@ -523,12 +797,40 @@
             "category": "社交"
         }
     ],
-    "马斯克": [],
+    "马斯克": [
+        {
+            "title": "马斯克买了新厂房上GPU，2GW供电规模，“巨硬”更更硬了",
+            "time": "2025-12-31",
+            "source": "AITNT",
+            "summary": "马斯克旗下xAI公司启动“巨硬”（Macrohard）计划，第三座超级计算厂房MACROHARD RR已在密西西比州落成，规划供电规模达2GW，可支持约110万台英伟达GB200 GPU。此前已建成的Colossus I和II分别部署约20万颗和超11万颗GPU，总算力持续扩张。为保障电力供应，xAI联合Solaris公司建设燃气发电厂，并部署168个特斯拉Megapack储能系统，缓解电网压力。项目选址邻近居民区，引发噪音与污染投诉，xAI已修建隔音墙并迁移部分设施。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/31/febe8d52-e617-11f0-a3e3-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21181",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克的新身份：万亿航天帝国外的“创业教父”",
+            "time": "2025-12-31",
+            "source": "36氪",
+            "summary": "本文报道了从SpaceX离职的员工组成的“SpaceX黑帮”群体，已创立18家创业公司，累计融资超30亿美元，涵盖AI芯片、自动驾驶、卫星制造、太空物流、微重力制药等多个前沿领域。这些创业者将SpaceX的极致工程文化与系统思维带入各行业，推动技术落地，其中多家公司估值突破十亿美元，部分已启动IPO计划，彰显了SpaceX作为“创业摇篮”的强大辐射力。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251231/v2_537903fba6804d87890e00d15b83d4ad@000000_oswg17711oswg451oswg300_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3619357437723649",
+            "category": "其他"
+        }
+    ],
     "零一万物": [],
     "GameStop": [],
     "Momenta": [],
     "台积电": [],
     "三星": [
+        {
+            "title": "三星最新Freestyle便携投影仪更亮更智能",
+            "time": "2026-01-02",
+            "source": "Engadget",
+            "summary": "三星在CES 2026前夕发布了新一代便携投影仪Freestyle+，亮度提升至430 ISO流明，为前代产品的两倍，并搭载AI OptiScreen智能优化技术，支持3D自动梯形校正、实时对焦、自动屏幕适配及墙面校准功能，还可与三星音响系统协同工作。该产品支持180度旋转和360度音频，兼容Vision AI Companion，预计于2026年上半年全球分阶段发售，具体价格和详细规格尚未公布。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/JSwz4XIWfotf_e_Y9rl3jg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/freestyleplus.jpg",
+            "url": "https://www.engadget.com/home/home-theater/samsungs-latest-freestyle-portable-projector-is-brighter-and-smarter-014026804.html",
+            "category": "其他"
+        },
         {
             "title": "三星发布新款200美元Galaxy A17 5G手机，将于1月上市",
             "time": "2025-12-31",
@@ -536,6 +838,15 @@
             "summary": "三星将于明年1月在美国市场推出两款低价新品：Galaxy A17 5G手机和Galaxy Tab A11+平板。手机售价199美元，配备6.7英寸Super AMOLED屏幕、Exynos 1330芯片、5000mAh电池及快充功能，摄像头配置与前代相同。平板售价250美元，搭载11英寸LCD屏，支持最高8GB RAM和256GB存储，同样支持microSD扩展和快充。两款产品定位入门级市场，延续三星性价比路线，有望入选2026年最佳预算安卓设备。",
             "image_url": "https://s.yimg.com/uu/api/res/1.2/YvYeL.XW8464ys0KBE.4pA--~B/aD05MDA7dz0xNjAxO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Samsung_Galaxy_A17_5G_and_Galaxy_Tab_A11%20.jpg",
             "url": "https://www.engadget.com/mobile/smartphones/samsung-unveils-its-new-200-galaxy-a17-5g-smartphone-arriving-in-january-184846560.html",
+            "category": "其他"
+        },
+        {
+            "title": "如何观看三星CES 2026“首次亮相”发布会",
+            "time": "2025-12-31",
+            "source": "Engadget",
+            "summary": "三星将在CES 2026开幕前的1月4日晚10点（ET）于拉斯维加斯温德姆酒店举行名为“The First Look”的主题发布会，打破以往周一中午的惯例。发布会将由三星设备体验部门CEO TM Roh主持，重点展示AI驱动的创新产品，包括扩展的Micro RGB电视系列（55至115英寸）和搭载Bespoke AI的智能家居设备。外界尤为关注传闻已久的Ballie机器人是否正式发布。观众可通过三星官网、YouTube官方频道或Samsung TV Plus观看直播。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/BApXpIvUhvtKTa5EML.26w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03NTU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/54afdb10-dd18-11f0-b2f7-d2b3086683ec",
+            "url": "https://www.engadget.com/mobile/how-to-watch-samsungs-first-look-ces-2026-presentation-190027604.html",
             "category": "其他"
         },
         {
@@ -558,6 +869,51 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "英伟达重注Groq背后，中美疯抢同一个未来",
+            "time": "2026-01-06",
+            "source": "36氪",
+            "summary": "文章聚焦AI芯片领域技术变革，指出英伟达以200亿美元收购可重构计算芯片公司Groq，意图应对谷歌TPU等非GPU架构的挑战。同时，中国芯片企业清微智能凭借同源的RPU技术完成超20亿元C轮融资，其产品已落地多个智算中心，实现性能与能效的突破。中美两国资本同步押注‘可重构数据流架构’，预示AI芯片将进入GPU、ASIC与可重构三派争雄的新阶段，中国技术正从跟跑到并跑，甚至有望实现超越。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260105/v2_297f0716fa6f45ad934286eb874e5759@000000_oswg164019oswg1080oswg599_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3626480600499205",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达发布Alpamayo开源AI模型，让自动驾驶汽车像人类一样思考",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "英伟达在CES 2026上发布了名为Alpamayo的开源AI模型系列，包括一个100亿参数的视觉-语言-动作（VLA）模型，使自动驾驶汽车能够像人类一样进行链式推理，应对复杂驾驶场景，如交通灯故障。该模型可解释决策过程，并提供可微调的代码与仿真工具AlpaSim及1700小时真实驾驶数据集，供开发者训练和测试自动驾驶系统。英伟达CEO黄仁勋称其为“物理AI的ChatGPT时刻”。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Alpamayo-Image.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达发布强大的新型Rubin芯片架构",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "英伟达CEO黄仁勋在CES 2026上正式发布新型Rubin计算架构，旨在应对AI计算需求激增的挑战。该架构由六个芯片组成，中心为Rubin GPU，并改进了Bluefield存储和NVLink互联技术，还包含专为智能体推理设计的Vera CPU。相比前代Blackwell架构，Rubin在模型训练上快3.5倍，推理上快5倍，算力最高达50 petaflops，能效提升显著。已获Anthropic、OpenAI、AWS及多个超级计算机项目采用。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达欲成为通用机器人领域的Android",
+            "time": "2026-01-05",
+            "source": "TechCrunch",
+            "summary": "英伟达在CES 2026上发布了一整套通用机器人生态系统，包括开源基础模型（如Cosmos Reason、GR00T N1.6）、仿真工具Isaac Lab-Arena和边缘计算硬件Jetson T4000，旨在成为机器人开发的默认平台。该生态整合了AI推理、仿真测试与硬件算力，通过与Hugging Face合作降低开发门槛，推动机器人从专用任务向通用智能演进。目前已有波士顿动力、Caterpillar等企业采用其技术，机器人相关模型在Hugging Face下载量居首。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-05-at-5.03.42-PM.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+            "category": "AI"
+        },
+        {
+            "title": "体验英伟达 AI 个人超算「核弹」DGX Spark，能微调出 DeepSeek R2 吗",
+            "time": "2025-12-31",
+            "source": "AITNT",
+            "summary": "本文体验了英伟达推出的个人AI超算DGX Spark，这台仅Mac Mini大小的设备搭载GB10芯片与128GB统一内存，支持本地运行高达2000亿参数的大模型，可进行生图、生视频及模型微调。作者通过Ollama、Open WebUI和LLaMa Factory等工具部署并微调了Llama 3等模型，验证了其在离线AI开发中的强大能力，但指出其不适合普通用户，主要面向AI研究员、开发者和极客，用于复现论文、搭建AI工作流，而非日常办公或游戏。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/31/e3dfb885-e618-11f0-a8a7-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21184",
+            "category": "AI"
+        },
         {
             "title": "如何在线观看NVIDIA CES 2026发布会",
             "time": "2025-12-30",
@@ -588,6 +944,42 @@
     ],
     "deepseek": [
         {
+            "title": "结构化预处理让DeepSeek准确率提升51%，现已开源丨清华&深言",
+            "time": "2026-01-05",
+            "source": "AITNT",
+            "summary": "清华大学与深言科技提出名为LingoEDU的结构化预处理技术，通过将文本切分为具有唯一索引的基本语义单元（EDU），构建语义树结构，使大模型生成内容可精准溯源，有效根治幻觉问题。该方法零成本适配主流大模型，在HLE测评中使DeepSeek-R1准确率提升51%，并在多文档问答、摘要等任务中显著提升性能。技术已开源，支持可解释、可控制的AI生成，推动AI从黑盒走向白盒工程。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/5/b91c7af7-e9ff-11f0-b423-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21295",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek改造何恺明残差连接！梁文峰亲自署名，十年首次重大升级",
+            "time": "2026-01-01",
+            "source": "AITNT",
+            "summary": "DeepSeek团队在论文中对何恺明提出的残差连接进行重大革新，提出名为mHC的改进方案，通过引入双随机矩阵约束，解决传统扩展残差结构中信号放大导致的训练不稳定问题。该方法在保持恒等映射性质的同时，有效抑制梯度爆炸，提升模型训练稳定性。实验表明，在27B参数MoE模型上，mHC较基线降低损失0.021，并在BBH和DROP等任务上提升超2%，仅增加6.7%计算开销。论文由梁文峰署名，共同一作为Zhenda Xie等，已发布于arXiv。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/1/1eefdbc8-e722-11f0-881a-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21199",
+            "category": "AI"
+        },
+        {
+            "title": "2025年AI十大事件：DeepSeek开源炸场，谷歌绝地反击，独角兽扎堆IPO",
+            "time": "2025-12-31",
+            "source": "36氪",
+            "summary": "2025年AI领域迎来重大变革：DeepSeek开源模型引发全球关注，打破美国技术垄断；谷歌凭借Gemini 3.0强势回归，代码能力突破引发OpenAI警觉；Meta因Llama 4表现不佳和巨额投资未见效而失宠；超25家AI创企实现年化营收超1亿美元，OpenAI、Anthropic、智谱、MiniMax等独角兽纷纷筹备IPO。同时，强化学习广泛应用，AI机器人进展缓慢，持续学习能力成AGI关键瓶颈。前特斯拉AI总监卡帕西对AI编程工具态度逆转，称效率或提升十倍。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3619357330703367",
+            "category": "AI"
+        },
+        {
+            "title": "体验英伟达 AI 个人超算「核弹」DGX Spark，能微调出 DeepSeek R2 吗",
+            "time": "2025-12-31",
+            "source": "AITNT",
+            "summary": "本文体验了英伟达推出的个人AI超算DGX Spark，这台仅Mac Mini大小的设备搭载GB10芯片与128GB统一内存，支持本地运行高达2000亿参数的大模型，可进行生图、生视频及模型微调。作者通过Ollama、Open WebUI和LLaMa Factory等工具部署并微调了Llama 3等模型，验证了其在离线AI开发中的强大能力，但指出其不适合普通用户，主要面向AI研究员、开发者和极客，用于复现论文、搭建AI工作流，而非日常办公或游戏。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/31/e3dfb885-e618-11f0-a8a7-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21184",
+            "category": "AI"
+        },
+        {
             "title": "硅谷豪赌2万亿，DeepSeek登顶Nature，Meta却成2025最大输家？",
             "time": "2025-12-29",
             "source": "36氪",
@@ -598,6 +990,15 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "告别“剪映模式”：一位前字节负责人对 AI 视频产品的终极思考",
+            "time": "2026-01-05",
+            "source": "AITNT",
+            "summary": "前字节跳动智能创作负责人黄严创办的ArtArch发布AI视频产品Skira，提出“所想即所得”的AI原生创作范式，通过构建Image DSL与多Agent系统（编剧、导演、演员Agent），将复杂视频创作封装为可调用的“玩法”，降低创作门槛。区别于传统剪辑工具与通用视频模型，Skira强调语境理解与表现力合成，构建P层（制作人）与C层（创作者）共生的创作社区，实现创意流转与收益共享，致力于成为连接人类想象力与AI能力的工程化桥梁。",
+            "image_url": "https://www.aitntnews.com/static/image/icon/x-lg.svg?v=039da4020a466048509740509d74befa351ee81c6ccc1a3c2d88d98580f3a996a4d9b841bf1ff8d88e44fc9718c3e5fe9d903b8c6d86fa1599397c8c68c2d49c",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21302",
+            "category": "AI"
+        },
         {
             "title": "TikTok 成为美青年新闻首选，内容信任度再成焦点",
             "time": "2025-12-30",
@@ -646,7 +1047,44 @@
     ],
     "智谱": [],
     "百川智能": [],
-    "月之暗面": [],
+    "月之暗面": [
+        {
+            "title": "摆脱“投流噩梦”，月之暗面的100亿元与杨植麟的信心",
+            "time": "2026-01-01",
+            "source": "36氪",
+            "summary": "月之暗面在2025年停止大规模投流，转向All in大模型与Agent产品研发，完成5亿美元C轮融资，投后估值达43亿美元，现金储备超100亿元。公司开源K2模型，在编程与Agent能力达SOTA，海外API收入9-11月增长4倍，C端用户月均增长超170%。创始人杨植麟表示短期不考虑上市，聚焦模型领先与海外商业化，摆脱与大厂的烧钱竞争，探索独立发展路径。",
+            "image_url": "https://cdn.36kr.com/project/createimg?name=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2&sign=ccf977c950c9f1a68f1ebc3dc34baacd",
+            "url": "https://36kr.com/p/3620347860862209",
+            "category": "AI"
+        },
+        {
+            "title": "月之暗面完成5亿美元C轮融资，现金储备超百亿",
+            "time": "2025-12-31",
+            "source": "动点科技",
+            "summary": "通用人工智能公司月之暗面（Kimi）近期完成5亿美元C轮融资，投后估值达43亿美元，由IDG领投1.5亿美元，阿里、腾讯及王慧文等老股东超额认购。公司现金储备已超100亿元人民币，足以支撑其暂缓IPO计划。创始人杨植麟透露，K2 Thinking模型与新Agent功能OK Computer推动海外API收入增长4倍，全球付费用户月增速达170%。未来将聚焦K3模型研发，目标在2026年追平世界前沿预训练水平，并实现营收数量级增长。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2025-12-31/moonshot-ai-series-c-funding/",
+            "category": "AI"
+        },
+        {
+            "title": "2025最后一天，Kimi杨植麟发内部信：我们手里还有100亿现金",
+            "time": "2025-12-31",
+            "source": "36氪",
+            "summary": "月之暗面（Kimi）创始人杨植麟在2025年最后一天发布内部信，宣布公司现金储备超100亿元，不急于上市，并透露近期完成5亿美元C轮融资，投后估值43亿美元。2025年Kimi推出K2及K2 Thinking模型，付费用户月增速达170%，API收入增长4倍。公司计划2026年大幅提高激励额度，聚焦AGI研发，目标超越Anthropic成为世界领先AI公司，同时加速K3模型训练与产品创新。",
+            "image_url": "https://img.36krcdn.com/hsossms/20251231/v2_d96164a5dcc74a55974bd3697891fa5c@5091053_oswg29308oswg1024oswg663_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3619310039647237",
+            "category": "AI"
+        },
+        {
+            "title": "独家丨Kimi 完成 5 亿美元新融资，杨植麟：账上有超百亿元人民币",
+            "time": "2025-12-31",
+            "source": "晚点LatePost",
+            "summary": "月之暗面（Kimi）完成5亿美元C轮融资，由IDG领投，阿里、腾讯、王慧文等老股东超额认购，投后估值达43亿美元。创始人杨植麟透露公司现金储备超100亿元人民币，足以支撑其不急于IPO。资金将用于加速K3大模型研发、扩增算力、提升员工激励及期权回购。公司聚焦Agent与生产力工具，已启动会员收费模式，海外API收入月增4倍，付费用户月增速达170%。团队强调专注大模型与逻辑层，避开娱乐与多模态竞争。",
+            "image_url": "https://www.aitntnews.com/pictures/2025/12/31/a106e868-e628-11f0-b6de-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21186",
+            "category": "AI"
+        }
+    ],
     "商汤科技": [],
     "MiniMax": [],
     "快手": [],
