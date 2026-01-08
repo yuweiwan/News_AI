@@ -198,15 +198,6 @@
     "category": "游戏"
   },
   {
-    "title": "蓉通全球 出海向新—游戏、应用增长私享会暨鲸宴·鲸英会第34期（2026-01-13）",
-    "time": "2026-01-13",
-    "source": "白鲸出海",
-    "summary": "本次活动由白鲸出海主办，聚焦游戏与应用出海领域的增长策略，深入拆解2026年区域市场增长逻辑，探讨创新技术如何赋能出海品牌升级，并打通合规背景下的全球支付链路。活动为闭门私享会，仅限30名游戏与应用出海开发者参与，免费报名，旨在促进行业领航者之间的思维碰撞与资源对接。",
-    "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251215/1765768468_pic_real.jpg",
-    "url": "https://www.baijing.cn/activity/2193",
-    "category": "游戏"
-  },
-  {
     "title": "2025年美国PlayStation平台最常玩的前五款游戏未变，Circana称",
     "time": "2026-01-07",
     "source": "GamesIndustry.biz",
@@ -378,15 +369,6 @@
     "category": "AI"
   },
   {
-    "title": "AI赋能·智拓全球——AI+出海闭门会（2026-01-22）",
-    "time": "2026-01-22",
-    "source": "白鲸出海",
-    "summary": "本次闭门会由白鲸技术栈主办，聚焦AI技术在出海场景中的落地应用与实战策略，探讨AI+出海的破局之道、全球市场洞察与战略锚定。活动面向AI开发者及泛娱乐、游戏、社交、工具类APP开发者，规模仅20人，免费参与，地点位于福建省福州市（审核后通知详细地址）。活动旨在搭建高密度资源对接平台，推动AI技术与出海业务深度融合。",
-    "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251224/1766570305_pic_real.jpg",
-    "url": "https://www.baijing.cn/activity/2201",
-    "category": "AI"
-  },
-  {
     "title": "新加坡AI聚合平台I10X完成100万美元Pre-Seed轮融资",
     "time": "2026-01-07",
     "source": "动点科技",
@@ -540,6 +522,15 @@
     "category": "AI"
   },
   {
+    "title": "AI赋能·智拓全球——AI+出海闭门会（2026-01-22）",
+    "time": "2026-01-22",
+    "source": "白鲸出海",
+    "summary": "本次闭门会由白鲸技术栈主办，聚焦AI技术在出海场景中的落地应用与实战策略，探讨AI+出海的破局之道、全球市场洞察与战略锚定。活动面向AI开发者及泛娱乐、游戏、社交、工具类APP开发者，规模仅20人，免费参与，地点位于福建省福州市（审核后通知详细地址）。活动旨在搭建高密度资源对接平台，推动AI技术与出海业务深度融合。",
+    "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251224/1766570305_pic_real.jpg",
+    "url": "https://www.baijing.cn/activity/2201",
+    "category": "AI"
+  },
+  {
     "title": "不止充电，这款充电站也可以把你的iPhone变成AI伴侣",
     "time": "2026-01-07",
     "source": "动点科技",
@@ -555,15 +546,6 @@
     "summary": "联想在CES 2026上发布了AI智能眼镜概念产品，外观与普通眼镜无异，重量仅45克，续航8小时。该眼镜搭载联想与摩托罗拉联合开发的AI平台Qira，支持毫秒级实时翻译、图像识别、通知汇总、提词器和语音交互功能，旨在重塑工作与环境交互体验。目前该产品仍为概念设计，尚未确定是否量产，延续了联想在CES展示前瞻性技术但未必全部商业化的传统。",
     "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/Cross_device_Wide-uai-1032x580.jpg",
     "url": "https://www.cn.technode.com/post/2026-01-07/lenovo-ai-glasses-concept-ces-2026/",
-    "category": "AI"
-  },
-  {
-    "title": "联想的 AI 助手 Qira 将登陆其 PC 与摩托罗拉手机",
-    "time": "2026-01-08",
-    "source": "动点科技",
-    "summary": "在CES 2026上，联想发布了环境感知型AI助手Qira，计划于2026年第一季度登陆其新款PC及摩托罗拉手机。Qira采用“本地+安全云”双重架构，保障隐私合规，通过智能体实现跨设备连续服务，可建立用户动态模型并支持离线跨应用操作。功能包括Next Move智能续办、Write For Me随心创作、Catch Me Up快速复盘，支持多模态交互与会议纪要，并设有专为创作者优化的模式，提升生产力与创意效率。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/2025-ballie-teasing-f03-teaser-mo-uai-604x340.webp",
-    "url": "https://www.cn.technode.com/post/2026-01-08/lenovo-ai-qira-ces-2026/",
     "category": "AI"
   },
   {
@@ -1196,4 +1178,5 @@
     "url": "https://mp.weixin.qq.com/s/TgGEi3hd1c9BDolLquaM0Q",
     "category": "其他"
   }
+
 ]
