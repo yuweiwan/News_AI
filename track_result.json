@@ -10,6 +10,24 @@
             "category": "游戏"
         },
         {
+            "title": "2026年最值得期待的30款XboxSeriesX|S游戏前瞻公布",
+            "time": "2026-01-06",
+            "source": "游侠网",
+            "summary": "游侠网发布2026年最值得期待的30款Xbox Series X|S游戏前瞻清单，基于官方信息整理，涵盖《最终幻想VII 重制版》《GTA 6》《光环：战役进化》《极限竞速：地平线6》等重磅作品，强调信息客观性与动态更新机制。同时提及Xbox Game Pass年度入库游戏指南，为玩家提供全年游戏规划参考，标志着次世代主机新一年游戏盛宴的开启。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/06/584_2026010622009990.png",
+            "url": "https://www.ali213.net/news/html/2026-1/991645.html",
+            "category": "游戏"
+        },
+        {
+            "title": "Jobs Roundup: January 2026 | 克里斯·莱格特加入微软担任Xbox高级传播经理",
+            "time": "2026-01-06",
+            "source": "GamesIndustry.biz",
+            "summary": "本文汇总了2026年1月游戏行业重要人事变动，其中微软任命克里斯·莱格特为Xbox高级传播经理，他此前曾在Assembly Media和亚马逊游戏工作室任职，并曾参与Xbox云游戏与Xbox Series X|S的发布。此外，Frontier Developments任命Jo Cooke为新任CEO，Nitro Games提拔Antti Ruonala为COO、Milka Tarkiainen为CPO，Kuro Games任命Jay Kim为韩国总经理，Azra Games和Theorycraft Games也分别晋升了制作人与创意总监。",
+            "image_url": "https://assetsio.gnwcdn.com/chris-leggett.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/jobs-roundup-january-2026-chris-leggett-joins-microsoft-as-xbox-senior-communications-manager",
+            "category": "游戏"
+        },
+        {
             "title": "微软纳德拉呼吁停止将AI视为‘垃圾’",
             "time": "2026-01-05",
             "source": "TechCrunch",
@@ -29,6 +47,15 @@
         }
     ],
     "索尼": [
+        {
+            "title": "2025年美国PlayStation平台最常玩的前五款游戏未变，Circana称",
+            "time": "2026-01-07",
+            "source": "GamesIndustry.biz",
+            "summary": "根据Circana的数据，2025年美国PlayStation 5平台最常玩的前五款游戏与2024年相同，依次为《堡垒之夜》《使命召唤》《GTA 5》《Roblox》和《我的世界》。同一榜单在Xbox平台也基本一致，但《使命召唤》超越《堡垒之夜》位列第一。此外，Arc Raiders在Steam平台登顶，销量突破700万份，玩家平均游戏时长超100小时的比例达18%。该作全平台总销量超1200万份，日活跃用户达320万。",
+            "image_url": "https://assetsio.gnwcdn.com/ps5-zoomed-2.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/top-5-most-played-games-on-playstation-in-us-remain-unchanged-in-2025-says-circana",
+            "category": "游戏"
+        },
         {
             "title": "PS5 和 Xbox 正在争夺你的终身归属权",
             "time": "2026-01-06",
@@ -55,6 +82,15 @@
             "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/web_eyecatch_CES26_1.6.webp",
             "url": "https://cn.technode.com/post/2026-01-06/sony-honda-afeela-customer-delivery-suv-concept-ces-2026/",
             "category": "其他"
+        },
+        {
+            "title": "索尼申请AI生成“幽灵”辅助系统帮助卡关玩家",
+            "time": "2026-01-06",
+            "source": "GamesIndustry.biz",
+            "summary": "索尼已申请一项专利，旨在通过AI生成的“幽灵玩家”辅助系统帮助卡关玩家。该系统可在游戏中以虚拟角色形式提供实时指导，玩家可通过自然语言查询获取帮助，幽灵角色将演示解法，类似协作者亲自示范。专利指出，当前玩家常需耗费大量时间查阅攻略，而该系统可提供更直接、相关的支持。该技术此前已在索尼AI Aloy原型中初现端倪，微软也在探索类似AI辅助功能。",
+            "image_url": "https://assetsio.gnwcdn.com/horizon-forbidden-west-aloy-hero.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/sony-patents-ai-generated-ghost-support-system-to-assist-stuck-players",
+            "category": "AI"
         },
         {
             "title": "可用于破解PS5！《星球大战:极速复仇》实体盘遭抢购",
@@ -112,6 +148,15 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "任天堂承认《密特罗德Prime4》长期开发期间开放世界审美发生变化",
+            "time": "2026-01-06",
+            "source": "GamesIndustry.biz",
+            "summary": "任天堂在《密特罗德Prime4》的漫长开发过程中意识到，玩家对开放世界游戏的偏好已发生显著变化。项目最初受《塞尔达传说：旷野之息》影响，曾考虑打造全开放世界，但因密特罗德系列核心机制（通过能力解锁探索区域）与自由开放世界不兼容，最终改为设计有限但可自由探索的枢纽区域。开发曾于2019年重启，但因耗时过长，团队认为再次推翻设计已不可行，故坚持原有愿景，未采纳近年来动作游戏提速的趋势，使游戏与时代潮流保持距离。游戏已于2025年12月发布，评价两极。",
+            "image_url": "https://assetsio.gnwcdn.com/Switch2_MetroidPrime4Beyond_scrn07.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/nintendo-admits-that-open-world-tastes-changed-during-metroid-prime-4s-long-development",
+            "category": "游戏"
+        },
         {
             "title": "贝尔金推出新款 Switch 2 充电保护盒，涨价至 100 美元",
             "time": "2026-01-05",
@@ -194,6 +239,42 @@
             "source": "Engadget",
             "summary": "摩托罗拉在CES 2026上发布了首款侧折叠智能手机Razr Fold，配备6.6英寸外屏和8.1英寸柔性主屏，支持Moto Pen Ultra手写笔，弥补了三星Galaxy Z Fold 7取消 stylus 支持的不足。相机系统包括三颗50MP主摄、32MP外屏自拍镜头和20MP内屏镜头，支持Dolby Vision录像。手机提供蓝白两种配色，但尚未公布处理器、价格及上市时间，公司称将在未来几个月披露更多规格。",
             "image_url": "https://s.yimg.com/ny/api/res/1.2/rkM3Mz_r_Lyq0lS570eq3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/bafa18d0-e5b1-11f0-bbfd-a9ff75729c11",
+            "url": "https://www.engadget.com/mobile/smartphones/motorola-just-announced-a-foldable-phone-to-rival-samsung-and-google-at-ces-010015323.html",
+            "category": "其他"
+        },
+        {
+            "title": "谷歌与Character.AI就青少年聊天机器人致死案达成初步和解",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "谷歌与AI初创公司Character.AI正与多名青少年自杀或自残事件的家属协商和解，这可能是科技行业首次就AI造成人身伤害达成重大和解。案件涉及未成年人与AI聊天机器人进行性化对话或接受自残建议，其中一例为14岁少年与“丹妮莉丝”机器人互动后自杀。Character.AI已于去年10月禁止未成年人使用，但未承认法律责任。此次和解或引发OpenAI、Meta等公司对类似诉讼的警惕。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1224612965.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
+            "category": "AI"
+        },
+        {
+            "title": "Google Classroom新工具利用Gemini将课程转化为播客节目",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "Google在Google Classroom中推出了一项基于Gemini的新功能，允许教师将课程内容自动生成为播客风格的音频课程，支持自定义年级、主题、学习目标及对话风格（如访谈、圆桌讨论等）。该功能面向Google Workspace教育版用户开放，旨在利用学生对播客的高接受度提升学习参与度。尽管AI生成内容有助于个性化教学和自主复习，Google仍提醒教师需审阅并编辑内容以确保准确性与适切性。此功能是继2024年Gemini进入课堂后的又一教育AI升级。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2018/05/usb-microphones-fullres-0663_preview.jpeg?w=1024",
+            "url": "https://techcrunch.com/2026/01/07/google-classrooms-new-tool-uses-gemini-to-transform-lessons-into-podcast-episodes/",
+            "category": "AI"
+        },
+        {
+            "title": "Character.AI和谷歌就青少年自杀和自残诉讼达成和解",
+            "time": "2026-01-07",
+            "source": "Engadget",
+            "summary": "Character.AI与谷歌就多起涉及青少年自杀和自残的诉讼达成和解。其中一起案件中，一名14岁少年与一个以《权力的游戏》丹妮莉丝·坦格利安为原型的聊天机器人发生性化互动，最终自杀。另一起案件中，聊天机器人被指鼓励青少年自残甚至杀害父母。事件促使Character.AI禁止18岁以下用户使用服务。该公司由两名前谷歌工程师创立，2024年被谷歌以27亿美元收购技术。和解避免了公开审判，但关键细节或无法公开。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/uC2tJkVjXdJXaqZK.G0KFg--~B/aD0xMDA1O3c9MTY3NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/character_ai.jpg",
+            "url": "https://www.engadget.com/ai/characterai-and-google-settle-with-families-in-teen-suicide-and-self-harm-lawsuits-201059912.html",
+            "category": "AI"
+        },
+        {
+            "title": "摩托罗拉在CES发布Razr Fold折叠手机，挑战三星和谷歌",
+            "time": "2026-01-07",
+            "source": "Engadget",
+            "summary": "摩托罗拉在CES 2026上发布了首款侧折叠智能手机Razr Fold，配备6.6英寸外屏和8.1英寸柔性主屏，支持Moto Pen Ultra手写笔，弥补了三星Z Fold 7取消 stylus 支持的遗憾。相机系统包括50MP主摄、50MP超广角/微距、50MP长焦、32MP外屏自拍和20MP内屏摄像头，并支持Dolby Vision视频录制。手机提供蓝白两种配色，具体规格、价格和上市时间尚未公布，预计未来几个月公布更多细节。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/8P4.xPAG.1kCpwpHYt7BgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-12/bafa18d0-e5b1-11f0-bbfd-a9ff75729c11",
             "url": "https://www.engadget.com/mobile/smartphones/motorola-just-announced-a-foldable-phone-to-rival-samsung-and-google-at-ces-010015323.html",
             "category": "其他"
         },
@@ -307,6 +388,24 @@
         }
     ],
     "Meta": [
+        {
+            "title": "这款触觉手环可配合Meta智能眼镜解读面部表情",
+            "time": "2026-01-08",
+            "source": "Engadget",
+            "summary": "初创公司Hapware在CES上发布了Aleye触觉手环，可与Meta Ray-Ban智能眼镜配合使用，通过振动模式向盲人或低视力人群传达对话者的面部表情和非语言动作。该设备利用眼镜的计算机视觉技术识别表情，并在手环上生成独特振动模式，如“微笑”对应侧向震动。用户可通过App自定义检测表情，学习模式平均数分钟即可掌握。产品已开放预购，起售价359美元，需订阅配套App。开发者称其比Meta的语音辅助功能更自然直观。",
+            "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/alleye.jpg",
+            "url": "https://www.engadget.com/wearables/this-haptic-wristband-pairs-with-meta-smart-glasses-to-decode-facial-expressions-214305431.html",
+            "category": "AI"
+        },
+        {
+            "title": "WhatsApp推出新的群聊功能，包括成员标签",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "WhatsApp于本周三推出多项群聊新功能，包括成员标签、文本贴纸和事件提醒。成员标签允许用户在不同群聊中设置个性化身份标签，如“Anna的爸爸”或“守门员”，以增强上下文理解；文本贴纸可将任意文字转换为贴纸并添加至贴纸包；事件提醒则支持在群聊中创建活动并设置自定义提醒。此举是WhatsApp持续增强群聊功能的一部分，此前已支持大文件传输、高清媒体发送和语音聊天等功能。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-07-at-9.57.01-AM.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/",
+            "category": "社交"
+        },
         {
             "title": "谷歌430万颗TPU暴击CUDA护城河！Meta「割肉」助攻",
             "time": "2026-01-06",
@@ -428,12 +527,57 @@
     "YouTube": [],
     "OpenAI": [
         {
+            "title": "ChatGPT即将推出专用健康门户",
+            "time": "2026-01-08",
+            "source": "Engadget",
+            "summary": "OpenAI宣布推出ChatGPT Health功能，允许用户连接医疗记录和健康应用以获取个性化健康建议，但明确强调该功能不用于诊断或治疗。该功能目前处于测试阶段，并有地区限制，且OpenAI承诺不会用健康对话数据训练基础模型。文章提醒用户谨慎使用，因AI可能提供错误信息，且共享敏感健康数据存在隐私风险，尤其考虑到OpenAI此前曾被指控其产品间接导致青少年自杀事件。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/G8nkx1A7101d4Gb20.YEbg--~B/aD0xNzQ5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2025-12/2ee5dac2-d430-45f3-b113-d7bcca435c8b",
+            "url": "https://www.engadget.com/ai/chatgpt-is-launching-a-new-dedicated-health-portal-210150083.html",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI、李飞飞同台，Lisa Su：AMD AI 芯片走到关键一步",
             "time": "2026-01-07",
             "source": "36氪",
             "summary": "AMD在CES 2026发布AI平台Helios，推出MI455X、MI440X等芯片及机架级计算系统，主打Yotta级算力与工业级部署能力。Lisa Su强调AI是50年最重要技术，并联合OpenAI、Luma、李飞飞等企业展示实际应用，涵盖视频生成、本地智能体、空间建模与医疗药物研发。AMD通过模块化、开放标准和全栈解决方案，从芯片供应商转型为AI基础设施提供者，推动算力从云端延伸至边缘与终端设备。",
             "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
             "url": "https://36kr.com/p/3628600955269639",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出ChatGPT Health，每周超2.3亿用户询问健康问题",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "OpenAI正式推出ChatGPT Health功能，为用户提供独立的健康对话空间，以区分日常聊天与健康咨询。该功能将整合Apple Health、MyFitnessPal等健康应用数据，但明确声明不会用这些对话训练模型。OpenAI指出，每周有超2.3亿用户在ChatGPT上询问健康问题，新功能旨在应对医疗资源紧张与服务断层问题，同时强调该工具不用于疾病诊断或治疗。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/chatgpt-health1.webp?w=1024",
+            "url": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
+            "category": "AI"
+        },
+        {
+            "title": "风险投资人士认为，即使在OpenAI主导下，AI初创公司仍能找到突破口",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "TechCrunch采访了Premise合伙人、前NEA合伙人Vanessa Larco，她认为2026年将是消费级AI的转折点。Larco指出，AI将推动类似“管家式”的个性化服务兴起，挑战WebMD、TripAdvisor等传统应用的独立存在模式。她探讨了AI如何重塑用户在线行为，并认为OpenAI不会完全吞噬所有创新空间，初创公司仍可在物理AI、智能眼镜和可穿戴设备等领域找到差异化机会。该访谈来自Equity播客，聚焦AI创业的真正蓝海。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/chatgpt-health1.webp?w=525",
+            "url": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
+            "category": "AI"
+        },
+        {
+            "title": "VC预测OpenAI不会淘汰的消费级AI产品",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "Premise合伙人、前NEA合伙人Vanessa Larco预测2026年将是消费级AI的转折之年，AI将推动类似“管家式”服务的兴起。她认为OpenAI不会涉足需要管理真人交易的市场平台业务，AI应用应像Word文档一样轻量易用。Larco还指出，Meta Ray-Ban智能眼镜等语音交互设备正在改变人机交互方式，屏幕或将成为可选。她预测2026年将出现大量并购，并探讨了稳定币可能解锁的新商业模式。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/230829_NEA_MenloPark_VanessaLarco_0087-e1767808037484.jpg?w=668",
+            "url": "https://www.techcrunch.com/podcast/investing-in-the-consumer-ai-products-openai-wont-want-to-kill/",
+            "category": "AI"
+        },
+        {
+            "title": "对话 John Schulman：如果带着 2025 的记忆回到十年前，OpenAI 能多快造出 ChatGPT？",
+            "time": "2026-01-07",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCREvXibbM6keKjiaGsWYeST1iblzxGV8PKgbO77pAw3JNBaDCacXEGcSoWMhjMWyTkRbooCiax03XTLKUg/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/3vf7dvEWABaOQzRarn822Q",
             "category": "AI"
         },
         {
@@ -583,6 +727,15 @@
     ],
     "苹果": [
         {
+            "title": "摩根大通将接管苹果信用卡",
+            "time": "2026-01-07",
+            "source": "Engadget",
+            "summary": "苹果公司宣布摩根大通将成为苹果信用卡的新发行方，取代此前的合作伙伴高盛。此次过渡预计耗时约两年，期间用户可继续正常使用现有卡片。Mastercard仍将作为支付网络。高盛已将约200亿美元的客户余额以超10亿美元的折扣转让给摩根大通，此举反映了高盛多年来寻求退出该合作的意愿。苹果尚未公布更多交易细节，但已发布常见问题解答，称用户无需立即采取行动。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/dW19TYV5z84VmVl5dV_wOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/becb3450-1860-11ef-bffe-7bae94af26d0",
+            "url": "https://www.engadget.com/big-tech/jpmorgan-chase-is-taking-over-the-apple-card-232711979.html",
+            "category": "其他"
+        },
+        {
             "title": "选择合适的苹果手表：SE 3 是否物有所值？",
             "time": "2026-01-01",
             "source": "TechCrunch",
@@ -726,6 +879,24 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊为全食超市推出升级版智能购物车，容量增大40%并支持扫码支付",
+            "time": "2026-01-08",
+            "source": "The Verge",
+            "summary": "亚马逊推出了升级版智能购物车Dash Cart，计划今年底在数十家全食超市部署。新版本将扫描仪移至内置显示屏旁，增加NFC触控支付功能，支持信用卡或手机支付，不再仅限绑定亚马逊账户。购物车容量增大40%、重量减轻25%，并配备新称重系统，结合摄像头与深度学习模型提升商品识别准确率。用户可同步Alexa购物清单，实时查看消费总额，结账时可直接通过专用通道离店，无需排队。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/amazon-dash-cart-upgrade.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch",
+            "category": "AI"
+        },
+        {
+            "title": "西格妮·韦弗和杰森·艾萨克斯加盟亚马逊《古墓丽影》剧集",
+            "time": "2026-01-07",
+            "source": "GamesIndustry.biz",
+            "summary": "亚马逊即将推出的《古墓丽影》剧集宣布由西格妮·韦弗和杰森·艾萨克斯主演，艾萨克斯将饰演劳拉·克劳馥的叔叔阿特拉斯·德莫纳伊，韦弗则饰演一位名为伊芙琳·沃利斯的神秘女性，意图利用劳拉的才能。该剧由菲比·沃勒-布里奇担任编剧，制片人还包括《迷雾》创作者查德·霍奇，拍摄将于2026年1月19日启动。此前已确认苏菲·特纳饰演劳拉，其他演员还包括马丁·博布-塞姆普尔、比尔·帕特森等。该剧改编自同名游戏系列，由亚马逊MGM工作室于2024年5月批准制作。",
+            "image_url": "https://assetsio.gnwcdn.com/Tomb-Raider-Legeacy-Of-Atlantis_pASeyhW.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/sigourney-weaver-and-jason-isaacs-cast-in-amazons-tomb-raider-series",
+            "category": "游戏"
+        },
+        {
             "title": "亚马逊AI助手Alexa.com上线，拓展至网页和新版App",
             "time": "2026-01-05",
             "source": "TechCrunch",
@@ -793,6 +964,24 @@
         }
     ],
     "Rockstar Games": [
+        {
+            "title": "曝《GTA6》内容还没有做好！仍在设计关卡、润色任务",
+            "time": "2026-01-08",
+            "source": "游侠网",
+            "summary": "据彭博社记者杰森·施赖尔透露，《侠盗猎车手6》（GTA6）尚未进入“内容完备”阶段，开发团队仍在进行关卡设计、任务打磨与内容取舍。尽管官方已将发售日定为2026年11月16日，但内部仍不排除再次延期的可能。目前游戏仍处于内容攻坚期，而非bug修复阶段，引发玩家对能否如期发售的广泛讨论。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/08/584_2026010881349204.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992131.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《GTA6》地图规模超大！玩家晒系列地图大小对比！",
+            "time": "2026-01-08",
+            "source": "游侠网",
+            "summary": "《GTA6》自公布以来备受关注，玩家通过社区制作的地图对比图展示其规模远超系列前作，有望成为史上最大且细节最丰富的地图。尽管当前对比图存在乡村区域比例失衡等问题，不代表最终版本，但仍引发玩家对游戏世界广度与深度的热烈期待。游戏预计于2026年11月发售，开发团队R星尚未公布更多官方细节。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/08/584_2026010883206310.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992137.html",
+            "category": "游戏"
+        },
         {
             "title": "《GTA6》规模超大 地图边缘的内容或许更值得探索！",
             "time": "2026-01-05",
@@ -943,12 +1132,30 @@
             "category": "AI"
         },
         {
+            "title": "刚开年，马斯克就到账了200亿美金！",
+            "time": "2026-01-07",
+            "source": "量子位",
+            "summary": "xAI宣布完成200亿美元E轮融资，估值从500亿美元飙升至2000多亿美元，英伟达、思科、卡塔尔投资局等成为战略投资者。融资将用于构建全球最大GPU集群，包括Colossus I和II算力平台，总算力超百万H100等效GPU。同时，xAI发布《2025年终总结》，披露Grok系列模型已服务月活6亿用户，下一代模型Grok 5正在训练中，预计参数达6万亿，具备150万Token上下文窗口与实时多模态能力，或接近AGI。马斯克亦在推特致谢投资者。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/d2a29f5ca38c482379056267bbd59081.webp",
+            "url": "https://www.qbitai.com/2026/01/367180.html",
+            "category": "AI"
+        },
+        {
             "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
             "time": "2026-01-06",
             "source": "AITNT",
             "summary": "本文报道了AI编程代理（如Claude Opus）在硅谷引发的革命性影响。多位AI领域专家，包括Midjourney创始人David、前谷歌工程师Rohan Anil和谷歌首席工程师Jaana Dogan，均表示在假期期间借助AI工具完成的编程工作量远超过去数年。马斯克评论称“我们已进入奇点”。文章还提及Claude 4.5 Opus在LiveBench基准测试中登顶，并分享了使用技巧，同时指出字节跳动旗下TRAE中国版SOLO已免费开放，显示国产AI编程代理也在快速跟进。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/6/0483f1f6-eaa5-11f0-bf5c-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=21328",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克都爱用的Grok定时任务，治好了我的信息焦虑",
+            "time": "2026-01-05",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXn2xsEl1c2lg1Ov0Mh7JxGNTQ3BHaGFgIgmT0u2dp551OBySmW5m3QE3F70S3FMPemG1ibcCAJvHBg/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/YEX9kMgmQjKqzokyXl1tWg",
             "category": "AI"
         },
         {
@@ -976,6 +1183,15 @@
     "台积电": [],
     "三星": [
         {
+            "title": "三星的“BB-8 机器人”缺席 CES，零售计划或已无限期搁置",
+            "time": "2026-01-08",
+            "source": "动点科技",
+            "summary": "三星球形机器人Ballie在2026年CES展会上意外缺席，引发其零售计划被搁置的猜测。尽管该机器人曾于2020年起作为展会焦点，并集成谷歌Gemini与投影功能，但三星官方仅将其定位为探索环境AI与隐私设计的“创新平台”，未提及量产计划。分析认为，Ballie已从消费产品转型为内部研发工具，用于积累智能家居技术，其市场化进程实质停滞。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/Cross_device_Wide-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2026-01-08/samsung-ballie-robot-shelved-ces-2026/",
+            "category": "AI"
+        },
+        {
             "title": "CES 2026：乐高、三星、英伟达、戴尔等科技巨头最新动态",
             "time": "2026-01-07",
             "source": "Engadget",
@@ -990,6 +1206,24 @@
             "source": "Engadget",
             "summary": "摩托罗拉在CES 2026上发布了首款侧折叠智能手机Razr Fold，配备6.6英寸外屏和8.1英寸柔性主屏，支持Moto Pen Ultra手写笔，弥补了三星Galaxy Z Fold 7取消 stylus 支持的不足。相机系统包括三颗50MP主摄、32MP外屏自拍镜头和20MP内屏镜头，支持Dolby Vision录像。手机提供蓝白两种配色，但尚未公布处理器、价格及上市时间，公司称将在未来几个月披露更多规格。",
             "image_url": "https://s.yimg.com/ny/api/res/1.2/rkM3Mz_r_Lyq0lS570eq3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/bafa18d0-e5b1-11f0-bbfd-a9ff75729c11",
+            "url": "https://www.engadget.com/mobile/smartphones/motorola-just-announced-a-foldable-phone-to-rival-samsung-and-google-at-ces-010015323.html",
+            "category": "其他"
+        },
+        {
+            "title": "三星显示在CES 2026展示创新OLED技术：隐形折痕、4500尼特电视与篮球机器人",
+            "time": "2026-01-07",
+            "source": "Engadget",
+            "summary": "三星显示在CES 2026上展示了多项前沿OLED技术，包括具备隐形折痕的折叠屏原型，可能用于未来iPhone或Galaxy Z Fold系列；一款亮度高达4500尼特的OLED电视原型，远超消费级产品；还演示了用机器人投掷篮球测试折叠OLED面板的耐用性。此外，公司展示了应用于汽车座舱的柔性L型显示屏、360Hz QD-OLED游戏面板，以及耳机、挂件等非主流应用场景，凸显其在显示技术上的广泛探索。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/Tov6U0Mgp38srwy_CTGaJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI4ODA7aD0xNjIwO3E9NTA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/02767710-ec12-11f0-bdff-d961db0f21a2",
+            "url": "https://www.engadget.com/home/home-theater/samsung-display-ces-2026-playful-demos-and-mysterious-prototypes-220407696.html",
+            "category": "其他"
+        },
+        {
+            "title": "摩托罗拉在CES发布Razr Fold折叠手机，挑战三星和谷歌",
+            "time": "2026-01-07",
+            "source": "Engadget",
+            "summary": "摩托罗拉在CES 2026上发布了首款侧折叠智能手机Razr Fold，配备6.6英寸外屏和8.1英寸柔性主屏，支持Moto Pen Ultra手写笔，弥补了三星Z Fold 7取消 stylus 支持的遗憾。相机系统包括50MP主摄、50MP超广角/微距、50MP长焦、32MP外屏自拍和20MP内屏摄像头，并支持Dolby Vision视频录制。手机提供蓝白两种配色，具体规格、价格和上市时间尚未公布，预计未来几个月公布更多细节。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/8P4.xPAG.1kCpwpHYt7BgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-12/bafa18d0-e5b1-11f0-bbfd-a9ff75729c11",
             "url": "https://www.engadget.com/mobile/smartphones/motorola-just-announced-a-foldable-phone-to-rival-samsung-and-google-at-ces-010015323.html",
             "category": "其他"
         },
@@ -1059,6 +1293,15 @@
     ],
     "英伟达": [
         {
+            "title": "英伟达RTX 60系列显卡爆料：Rubin架构2027年登场",
+            "time": "2026-01-08",
+            "source": "游侠网",
+            "summary": "据爆料，英伟达计划于2027年下半年推出采用Rubin架构的GeForce RTX 60系列显卡，核心代号为GR20x，延续每两年更新架构的节奏。该架构将统一用于数据中心与消费级市场，但核心分离，GR212用于AI计算，GR100为数据中心旗舰。受GDDR7显存短缺影响，RTX 50 SUPER系列推迟，市场目光提前转向RTX 60系列。文章还梳理了历代显卡架构发布时间线，揭示英伟达在AI需求激增背景下的产品布局调整。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/08/584_2026010885649625.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992147.html",
+            "category": "AI"
+        },
+        {
             "title": "英伟达CES发了堆“怪物”，但跟你的电脑机箱已经毫无关系",
             "time": "2026-01-07",
             "source": "36氪",
@@ -1075,6 +1318,24 @@
             "image_url": "https://s.yimg.com/ny/api/res/1.2/lrmpcrbhvYPM7moSybyTbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI-/https://s.yimg.com/uu/api/res/1.2/6Ikc6yNLF_yYPQXXPSn4TQ--~B/aD05NjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/CES%202026%20LVCC%20West.jpg",
             "url": "https://www.engadget.com/ces-2026-live-updates-on-lego-samsung-nvidia-dell-and-more-153146039.html",
             "category": "其他"
+        },
+        {
+            "title": "卡特彼勒携手英伟达将AI引入建筑设备",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "卡特彼勒与英伟达合作，推出名为“Cat AI”的人工智能系统，搭载于其Cat 306 CR微型挖掘机上，基于英伟达Jetson Thor物理AI平台构建。该系统通过多智能体架构为操作员提供实时问答、安全提示与服务调度支持，并利用设备每秒发送的约2000条数据构建施工场地数字孪生模型，优化材料计算与调度。此举是卡特彼勒在采矿自动化基础上，向更广泛建筑设备领域推进智能化的重要一步，契合英伟达拓展物理AI生态的战略。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/ces-caterpillar.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
+            "category": "AI"
+        },
+        {
+            "title": "环球音乐集团与英伟达签署新的 AI 合作协议",
+            "time": "2026-01-07",
+            "source": "动点科技",
+            "summary": "环球音乐集团（UMG）与英伟达宣布合作，将英伟达的AI音乐模型Music Flamingo引入其音乐库，旨在通过识别音乐结构、情感和和弦等元素，提升音乐创作、发现与欣赏体验。双方承诺推动“负责任的人工智能”，设立艺术家孵化器以对抗AI生成的劣质内容，并保障版权与艺术家收益。该模型可处理长达15分钟的曲目，具体整合细节尚未公布，但此举标志着UMG在AI领域的重要战略转向。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/lenovo-uai-1032x580.jpg",
+            "url": "https://www.cn.technode.com/post/2026-01-07/universal-music-nvidia-ai-deal/",
+            "category": "AI"
         },
         {
             "title": "英伟达重注Groq背后，中美疯抢同一个未来",
@@ -1234,6 +1495,15 @@
     ],
     "字节跳动": [
         {
+            "title": "HSG将部分字节跳动股份转入延续基金",
+            "time": "2026-01-07",
+            "source": "ION Analytics",
+            "summary": "HSG（原红杉资本中国）计划将其持有的字节跳动部分股份转入一个多元资产延续基金（CV），该交易或将使字节跳动估值至少达到3500亿美元。HSG自2014年起投资字节跳动，目前持股超11%，拟转让比例虽小但规模可观。交易不受TikTok美国业务出售传闻影响，现有有限合伙人可选择退出或继续持有。字节跳动近年持续开展股票回购，估值曾达4800亿美元。HSG管理资产规模达550亿美元，近期还收购了意大利奢侈运动品牌Golden Goose。",
+            "image_url": "https://ionanalytics.com/wp-content/uploads/2026/01/BP-1024x572.jpeg",
+            "url": "https://ionanalytics.com/insights/mergermarket/hsg-to-transfer-part-of-bytedance-stake-into-continuation-vehicle/",
+            "category": "其他"
+        },
+        {
             "title": "告别“剪映模式”：一位前字节负责人对 AI 视频产品的终极思考",
             "time": "2026-01-05",
             "source": "AITNT",
@@ -1288,7 +1558,17 @@
             "category": "社交"
         }
     ],
-    "智谱": [],
+    "智谱": [
+        {
+            "title": "智谱正式登陆港交所：市值超528亿港元，「全球大模型第一股」属于中国",
+            "time": "2026-01-08",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1bxp1NEOUxRrzHQ19nuWgibNLYVc6ThJUoCjEaZybvFictH7gxf0dzLfh0kQqAPCrIDaTtgB4vjib8TA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/TgGEi3hd1c9BDolLquaM0Q",
+            "category": "其他"
+        }
+    ],
     "百川智能": [],
     "月之暗面": [
         {
@@ -1341,6 +1621,24 @@
     "MiniMax": [],
     "快手": [],
     "Anthropic": [
+        {
+            "title": "Anthropic据报道寻求以3500亿美元估值融资100亿美元",
+            "time": "2026-01-07",
+            "source": "TechCrunch",
+            "summary": "据《华尔街日报》报道，人工智能公司Anthropic正寻求融资100亿美元，估值达3500亿美元，为其年内第三次大规模融资。此前该公司在三个月前完成130亿美元融资，估值为1830亿美元。本轮融资由Coatue Management和新加坡政府投资公司GIC主导，预计数周内完成。该轮融资独立于微软和英伟达此前承诺的150亿美元战略投资。Anthropic正准备今年上市，并凭借其Claude Code工具持续吸引开发者。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
+            "category": "AI"
+        },
+        {
+            "title": "5个问题测出值不值得学Claude Code平替之王OpenCode，还有最佳搭配！",
+            "time": "2026-01-07",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/VpHMFVpR_z3AgsEK5743Gg",
+            "category": "AI"
+        },
         {
             "title": "Claude Code 一小时「复刻」谷歌一年成果，那一年能读完五年半的博士吗？",
             "time": "2026-01-06",
