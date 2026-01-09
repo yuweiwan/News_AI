@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "《生化8》领衔！2026年Xbox Game Pass首波阵容公布",
+            "time": "2026-01-07",
+            "source": "游侠网",
+            "summary": "微软正式公布2026年Xbox Game Pass首波新增游戏阵容，包括《生化危机8：村庄》《星球大战：亡命之徒》《战锤40K：星际战士2》等重量级作品，多款游戏支持中文与全中文语音。此次阵容涵盖生存恐怖、开放世界动作与第三人称射击等多种类型，彰显Xbox Game Pass作为“游戏界奈飞”的强大内容价值，相关游戏将于2026年初陆续上线，订阅用户可免费畅玩。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/07/584_20260107105449920.png",
+            "url": "https://www.ali213.net/news/html/2026-1/991901.html",
+            "category": "游戏"
+        },
+        {
             "title": "PS5 和 Xbox 正在争夺你的终身归属权",
             "time": "2026-01-06",
             "source": "动点科技",
@@ -205,6 +214,24 @@
     ],
     "腾讯": [
         {
+            "title": "AI开始替游戏厂商赚钱：腾讯的算盘、网易的执念、中腰部的生死局",
+            "time": "2026-01-09",
+            "source": "钛媒体",
+            "summary": "本文分析AI如何在中国游戏行业实现商业化落地，腾讯通过AI优化广告投放系统提升变现效率，网易借助AI NPC增强玩家情感粘性，中腰部厂商则依靠AI降本增效实现扭亏为盈。文章指出AI已从工具演变为核心增长引擎，推动行业从人力密集向算力驱动转型，但也带来内容内卷、人才结构震荡与合规挑战。未来竞争将聚焦AI原生游戏与智能体驱动的沉浸式体验。",
+            "image_url": "https://w3.tmtpost.com/assets/uploads/files/1edff-2240*280.jpg",
+            "url": "https://www.tmtpost.com/7836185.html",
+            "category": "游戏"
+        },
+        {
+            "title": "腾讯混元3年变形始末｜独家",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "本文深度剖析腾讯自研大模型混元三年来的组织变革与技术演进。2023年启动研发后，混元长期缺乏专业负责人，直至2025年9月，27岁的前OpenAI研究员姚顺雨加入并被任命为首席AI科学家，直接向腾讯总裁汇报，首次将大模型提升为“一把手工程”。姚顺雨推动团队换血、降低发版速度、重构数据与训练策略，并主导向Agent模型转型，腾讯随之重组AI Infra等核心部门。文章指出，腾讯因起步晚、组织松散而落后，此次大手笔调整旨在追赶GPT、DeepSeek等第一梯队模型，但姚顺雨的“甜蜜期”仅约半年，亟需成果证明能力。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/3fe4d47d-ec31-11f0-97c4-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21396",
+            "category": "AI"
+        },
+        {
             "title": "年入25亿，腾讯投的安徽85后，要IPO",
             "time": "2026-01-05",
             "source": "36氪",
@@ -233,6 +260,24 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "在CES 2026上，谷歌将Gemini AI深度整合进Google TV，使电视从被动观看设备升级为可对话、可学习、可创作的智能中枢。用户可通过自然语言搜索内容、编辑照片视频、调节设置，甚至生成电影级AI视频。Gemini依托大屏优势与家庭共享场景，结合本地模型提升响应速度与隐私安全，成为AI落地日常生活的关键入口。同时，涂鸦智能的Hey Tuya与AI宠物机器人等产品也展现AI融入家居的全方位趋势，标志着客厅成为AI革命的新战场。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/51002fa3-ec34-11f0-ac3c-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21399",
+            "category": "AI"
+        },
+        {
+            "title": "全球第二易主，谷歌逆袭登顶！OpenAI 500亿股票池曝光，Ilya躺赚40亿",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "谷歌母公司Alphabet市值超越苹果，跃居全球第二，达3.885万亿美元，主要得益于其AI产品Gemini的迅猛增长与全栈生态优势。与此同时，OpenAI面临用户流量下滑压力，紧急推出500亿美元员工股票激励池，以留住核心人才。据披露，OpenAI联合创始人Ilya已持有约40亿美元股权，公司员工已套现超100亿美元。文章指出，AI竞争已从模型能力转向入口与用户习惯的争夺，谷歌凭借搜索、Android等高频场景实现深度渗透，形成难以复制的护城河。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/f67b09f3-ec6d-11f0-b470-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21414",
+            "category": "AI"
+        },
         {
             "title": "摩托罗拉在CES发布首款侧折叠手机Razr Fold，对标三星和谷歌",
             "time": "2026-01-07",
@@ -389,6 +434,15 @@
     ],
     "Meta": [
         {
+            "title": "8点1氪丨继“小便门”后，海底捞再曝火锅异物事件；商务部回应审查Meta收购Manus；上海移动辟谣强迫员工“上门断网”言论",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "本文汇总了2026年1月8日的热门商业与科技新闻：海底捞回应顾客将尿不湿扔入火锅事件，涉事监护人已被警方处理；商务部回应Meta收购AI公司Manus，称将评估其合规性；上海移动辟谣强迫员工“上门断网”言论并已报案。此外，中国石化与中航油宣布重组，MiniMax拟于港交所上市，苹果计划2028年推出2亿像素iPhone，北大团队在《自然》发表癌症疫苗新突破，雷军宣布未来五年再投2000亿元研发资金，雀巢在50国召回婴幼儿奶粉，国家医保局拟三年内建成便捷支付体系等。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_487b7b5c3b6445d59a8f47b4cdda826c@5667365_oswg363347oswg1080oswg750_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3631430184961033",
+            "category": "AI"
+        },
+        {
             "title": "这款触觉手环可配合Meta智能眼镜解读面部表情",
             "time": "2026-01-08",
             "source": "Engadget",
@@ -396,6 +450,24 @@
             "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/alleye.jpg",
             "url": "https://www.engadget.com/wearables/this-haptic-wristband-pairs-with-meta-smart-glasses-to-decode-facial-expressions-214305431.html",
             "category": "AI"
+        },
+        {
+            "title": "Meta收购Manus最新进展：商务部介入，启动评估调查",
+            "time": "2026-01-08",
+            "source": "36氪",
+            "summary": "Meta拟收购AI初创公司Manus，交易金额达数十亿美元，原被视为尘埃落定。但中国商务部于2026年1月8日宣布，将对该交易是否符合技术出口管制、数据出境及对外投资等法律法规开展评估调查。Manus原为中国公司，核心AI技术与用户数据可能涉及跨境转移，若未获许可或未通过安全评估，交易或被叫停。专家指出，绕开监管的设想过于简单，该案或影响中国AI企业出海合规路径。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260108/v2_c8c3c2a6d55443678dd1067723169d9a@5888275_oswg346656oswg1080oswg821_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3630579055658249",
+            "category": "AI"
+        },
+        {
+            "title": "手写成为我使用Meta Ray-Ban Display眼镜发信息的新最爱方式",
+            "time": "2026-01-08",
+            "source": "Engadget",
+            "summary": "Meta在其Ray-Ban Display智能眼镜上推出了手写输入功能，允许用户通过在桌面上书写来发送自定义短信，提升了在公共场合回复消息的隐私性。尽管存在识别误差（如将大写I误识为H），但操作直观且支持快速纠错。同时，Meta还推出了支持16000字符的手写提词器功能，文本以卡片形式手动翻页，而非自动滚动，更符合用户控制需求。该功能正逐步向早期访问用户推送，标志着Meta持续为智能眼镜添加新功能。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/iJgX3zOKGsdi2mcN7qkDmg--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/meta_display_inside_lens.jpg",
+            "url": "https://www.engadget.com/wearables/handwriting-is-my-new-favorite-way-to-text-with-the-meta-ray-ban-display-glasses-213744708.html",
+            "category": "其他"
         },
         {
             "title": "WhatsApp推出新的群聊功能，包括成员标签",
@@ -533,6 +605,33 @@
             "summary": "OpenAI宣布推出ChatGPT Health功能，允许用户连接医疗记录和健康应用以获取个性化健康建议，但明确强调该功能不用于诊断或治疗。该功能目前处于测试阶段，并有地区限制，且OpenAI承诺不会用健康对话数据训练基础模型。文章提醒用户谨慎使用，因AI可能提供错误信息，且共享敏感健康数据存在隐私风险，尤其考虑到OpenAI此前曾被指控其产品间接导致青少年自杀事件。",
             "image_url": "https://s.yimg.com/uu/api/res/1.2/G8nkx1A7101d4Gb20.YEbg--~B/aD0xNzQ5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2025-12/2ee5dac2-d430-45f3-b113-d7bcca435c8b",
             "url": "https://www.engadget.com/ai/chatgpt-is-launching-a-new-dedicated-health-portal-210150083.html",
+            "category": "AI"
+        },
+        {
+            "title": "关于我用ChatGPT模拟撒旦并支付了订阅费这件事",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "本文探讨了AI技术如何重塑宗教信仰，指出硅谷公司通过聊天机器人将耶稣、撒旦等圣经人物商品化，用户可付费解锁与这些角色的深度互动。AI以温柔、无评判的对话提供情绪价值，却回避神学挑战，将神圣与禁忌转化为订阅制娱乐产品。作者警示这是一场披着科技外衣的数字异端，类似巴别塔的傲慢——人类试图用算法重塑神明，以订阅费取代信仰的代价，最终可能消解真正的灵性追求。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/f40ec847-ec33-11f0-84e9-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21397",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，ChatGPT 发布 AI 医疗功能！能读病历做诊断，支持苹果健康",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "OpenAI正式推出ChatGPT健康功能，可整合电子病历、Apple健康、MyFitnessPal等多源健康数据，辅助用户解读体检报告、规划饮食运动、准备就医问题清单，并通过独立加密空间保障数据隐私。该功能由260多位医生参与开发，采用HealthBench评估框架确保安全性与可理解性，目前仅限美国和iOS用户内测，尚未向公众开放。OpenAI强调其为辅助工具，不能替代医生诊疗。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/10807cb8-ec34-11f0-a5d4-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21398",
+            "category": "AI"
+        },
+        {
+            "title": "全球第二易主，谷歌逆袭登顶！OpenAI 500亿股票池曝光，Ilya躺赚40亿",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "谷歌母公司Alphabet市值超越苹果，跃居全球第二，达3.885万亿美元，主要得益于其AI产品Gemini的迅猛增长与全栈生态优势。与此同时，OpenAI面临用户流量下滑压力，紧急推出500亿美元员工股票激励池，以留住核心人才。据披露，OpenAI联合创始人Ilya已持有约40亿美元股权，公司员工已套现超100亿美元。文章指出，AI竞争已从模型能力转向入口与用户习惯的争夺，谷歌凭借搜索、Android等高频场景实现深度渗透，形成难以复制的护城河。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/f67b09f3-ec6d-11f0-b470-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21414",
             "category": "AI"
         },
         {
@@ -727,6 +826,33 @@
     ],
     "苹果": [
         {
+            "title": "苹果，硬刚印度380亿美元罚款",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "苹果公司因印度反垄断新法面临最高达380亿美元的罚款风险，该法允许以企业全球营业额而非仅印度境内营业额计算罚金。苹果在德里高等法院提起诉讼，质疑该法律的追溯适用性，称其违反公平原则；印度竞争委员会则辩称该法旨在与国际惯例接轨，增强对跨国科技巨头的威慑力。目前案件定于2026年1月27日开庭审理，争议焦点在于罚款基数的合法性与法律溯及力。",
+            "image_url": "",
+            "url": "https://36kr.com/p/3631546281313540",
+            "category": "其他"
+        },
+        {
+            "title": "苹果硬件工程主管或成库克头号接班人",
+            "time": "2026-01-09",
+            "source": "动点科技",
+            "summary": "随着苹果CEO蒂姆·库克年满65岁并有意减轻工作负担，硬件工程主管约翰·特努斯被视为最可能的接班人选。特努斯以精准平衡产品创新与利润著称，曾主导iPhone LiDAR组件在Pro系列的落地，并牵头iPhone Air和折叠屏iPhone等关键项目。他性格稳健、深谙供应链，与库克管理风格相似，深受内部推崇。尽管他领跑接班人榜单，库克仍在同步培养其他高管如费德里吉、库和乔斯维亚克等作为备选。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2026-01-09/apple-ceo-tim-cook-john-ternus/",
+            "category": "其他"
+        },
+        {
+            "title": "刚刚，ChatGPT 发布 AI 医疗功能！能读病历做诊断，支持苹果健康",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "OpenAI正式推出ChatGPT健康功能，可整合电子病历、Apple健康、MyFitnessPal等多源健康数据，辅助用户解读体检报告、规划饮食运动、准备就医问题清单，并通过独立加密空间保障数据隐私。该功能由260多位医生参与开发，采用HealthBench评估框架确保安全性与可理解性，目前仅限美国和iOS用户内测，尚未向公众开放。OpenAI强调其为辅助工具，不能替代医生诊疗。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/10807cb8-ec34-11f0-a5d4-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21398",
+            "category": "AI"
+        },
+        {
             "title": "摩根大通将接管苹果信用卡",
             "time": "2026-01-07",
             "source": "Engadget",
@@ -848,6 +974,33 @@
     ],
     "阿里巴巴": [
         {
+            "title": "《街头霸王6》新角色预告：经典摔角手阿里克斯归来！",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "卡普空正式公布《街头霸王6》第三年季票新角色——经典摔角手阿里克斯（ALEX）将于2026年春季回归。阿里克斯首次登场于《街头霸王3》，以力量型摔角风格和标志性的红色头带著称，曾在《街头霸王5》中作为DLC角色广受好评。此次在《街霸6》中，其动作经过全面重制，结合动作捕捉技术提升操作手感，不仅满足老玩家期待，也暗示其宿敌吉尔的故事线或将延续。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010992154599.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992473.html",
+            "category": "游戏"
+        },
+        {
+            "title": "刚刚！阿里开源 Qwen3-VL-Embedding 和 Qwen3-VL-Reranker 模型！图片和视频也可以做RAG了～",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "阿里巴巴正式开源Qwen3-VL-Embedding和Qwen3-VL-Reranker两款多模态模型，专为图文、视频等混合内容的检索与跨模态理解设计。模型基于Qwen3-VL构建，支持文本、图像、可视化文档和视频等多种输入，在MMEB-v2、MMTEB等权威基准中表现领先。Embedding模型实现统一语义向量表示，Reranker模型通过交叉注意力提升排序精度，二者协同构成高效两阶段检索流程，支持30多种语言，可灵活集成至现有系统，推动多模态RAG技术发展。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/ba59a5d8-eca6-11f0-8aa1-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21417",
+            "category": "AI"
+        },
+        {
+            "title": "阿里业绩沟通释放哪些关键信号？",
+            "time": "2026-01-08",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHlicnhNZicXiaOyFAib1j443HBzs1HuwxibgpJLXaB7pyIpT8mn2T55QYUIFaQU15wx1d1DFdkeRSggaw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/WssPtvDuYM4fhBjEUFQi1Q",
+            "category": "其他"
+        },
+        {
             "title": "阿里开源AI手机的“灵魂”，GUI智能体2B到235B四个版本全，端云协同成功率暴涨33%",
             "time": "2025-12-31",
             "source": "AITNT",
@@ -867,6 +1020,15 @@
         }
     ],
     "百度": [
+        {
+            "title": "百度百科推出“动态百科”、“百科AI知识图谱”等新功能",
+            "time": "2026-01-08",
+            "source": "多知网",
+            "summary": "百度百科宣布以AI为核心引擎，推出“动态百科”和“百科AI知识图谱”两大新功能。动态百科通过生成式UI技术，将抽象知识转化为可视化、可操作的动态影像，涵盖自然科学、人文艺术等领域；百科AI知识图谱则基于百度AI能力，重构海量知识的时空关联，构建结构化知识网络。首期落地项目包括“名画复活计划”与“网红文物大赏”，通过AIGC技术让《戴珍珠耳环的少女》等文物“动态复活”并关联背景知识，推动AI与知识传播深度融合。",
+            "image_url": "http://www.duozhi.com/d/file/2026/01/0690c487872d9485b5b107bef2172e3a.png",
+            "url": "http://www.duozhi.com/industry/insight/2026010818062.shtml",
+            "category": "AI"
+        },
         {
             "title": "又一个百度“良心产品”倒下了",
             "time": "2025-12-29",
@@ -915,7 +1077,17 @@
             "category": "AI"
         }
     ],
-    "红杉资本": [],
+    "红杉资本": [
+        {
+            "title": "红杉中国郑庆生：MiniMax成功的核心所在是对AGI的坚定信仰和长期主义精神",
+            "time": "2026-01-09",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1aEzfNR7zas4zXicjibscBGm0bmXXC6nicg6p0mdkOHm5qjoD3FdQqvEXUIViamgF5Zpd0kd6otLuVrBQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/SBSImPK2QT77qn-c0-XdTQ",
+            "category": "其他"
+        }
+    ],
     "YC": [
         {
             "title": "喝点VC｜YC对话Cursor华人设计负责人：设计师将开始写代码，工程师将开始做设计，我们的共同语言就是代码",
@@ -928,6 +1100,15 @@
         }
     ],
     "高盛": [
+        {
+            "title": "重要商品指数再平衡开启，两大投行预言“白银两周内调整”，高盛“关键还是伦敦”",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "彭博大宗商品指数（BCOM）年度再平衡将于1月9日启动，白银权重将从9.6%大幅下调至3.94%，引发市场预计77亿美元抛售压力，或致价格大幅回调。德意志银行与TD Securities认为白银将承受最大抛售压力，且散户投机推高溢价，预示剧烈重新定价。高盛则指出伦敦市场库存紧张与流动性短缺是核心变量，若白银回流伦敦，价格可能回调；若需求持续，价格或进一步上涨。文章强调当前ETF持仓与COMEX头寸仍低于历史高位，投资需谨慎。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_901f90a449da404bad972d25390708ba@1743780481_oswg367938oswg753oswg605_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3631554730984710",
+            "category": "其他"
+        },
         {
             "title": "高盛、摩根大通领跑FY25并购排名，规模成为关键",
             "time": "2026-01-05",
@@ -949,7 +1130,17 @@
             "category": "AI"
         }
     ],
-    "京东": [],
+    "京东": [
+        {
+            "title": "火热销售中！联想拯救者Legion GO 2掌机现已上架京东",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "联想拯救者Legion GO 2掌机已于京东开售，国行版售价7199元，预装Windows 11并支持SteamOS。该掌机搭载AMD锐龙Z2 Extreme处理器，配备32GB LPDDR5x内存与2TB SSD，采用8.8英寸144Hz OLED横屏，支持30-144Hz可变刷新率及VESA DisplayHDR TrueBlack 1000认证。电池容量提升50%，并配备可拆卸Legion TrueStrike手柄与全功能USB4接口，整体配置面向高性能便携游戏需求。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010991713841.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992461.html",
+            "category": "游戏"
+        }
+    ],
     "莉莉丝": [],
     "NEXON": [],
     "CD Projekt RED": [
@@ -1070,6 +1261,15 @@
     ],
     "卡普空": [
         {
+            "title": "《街头霸王6》新角色预告：经典摔角手阿里克斯归来！",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "卡普空正式公布《街头霸王6》第三年季票新角色——经典摔角手阿里克斯（ALEX）将于2026年春季回归。阿里克斯首次登场于《街头霸王3》，以力量型摔角风格和标志性的红色头带著称，曾在《街头霸王5》中作为DLC角色广受好评。此次在《街霸6》中，其动作经过全面重制，结合动作捕捉技术提升操作手感，不仅满足老玩家期待，也暗示其宿敌吉尔的故事线或将延续。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010992154599.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992473.html",
+            "category": "游戏"
+        },
+        {
             "title": "更多新作在路上！卡普空正筹备《洛克人》40周年活动",
             "time": "2025-12-30",
             "source": "游侠网",
@@ -1122,6 +1322,24 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "4680电池的大饼，马斯克不想画了",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "特斯拉历时五年多推动的4680电池项目遭遇重大挫折，核心供应商L&F大幅削减供货合同，暗示项目近乎搁置。尽管特斯拉曾寄望通过大电芯、全极耳、高镍正极、掺硅负极和干法电极五大技术突破实现成本骤降，但目前仅部分实现，掺硅负极与干法电极量产迟迟未突破。Cybertruck销量远未达预期，进一步削弱了4680电池的商业化动力。马斯克重心已转向AI、机器人与脑机接口，汽车业务被视为包袱，4680电池或成技术理想主义的牺牲品。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260108/v2_73f8f88e38fe42a8a751bbfbdeded8f8@000000_oswg36408oswg1080oswg644_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3630807899571203",
+            "category": "其他"
+        },
+        {
+            "title": "没错，马斯克的二次元「女友」被雷蛇装到外设里了",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "雷蛇在CES 2026上发布了Project Ava，一款搭载Grok大模型的5.5英寸桌面全息AI伴侣，以二次元少女Kira等虚拟形象呈现，具备视觉与听觉感知能力，可实时观察用户与屏幕并互动。该设备主打情绪价值与沉浸式交互，支持自定义角色，预计下半年发售，预付20美元。其与马斯克xAI的Grok智能伴侣高度相似，引发关于隐私侵入与AI调情风格的争议。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/b6369085-ec34-11f0-93e7-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21400",
+            "category": "AI"
+        },
         {
             "title": "xAI 宣布完成 200 亿美元 E 轮融资",
             "time": "2026-01-07",
@@ -1190,6 +1408,15 @@
             "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/Cross_device_Wide-uai-1032x580.jpg",
             "url": "https://cn.technode.com/post/2026-01-08/samsung-ballie-robot-shelved-ces-2026/",
             "category": "AI"
+        },
+        {
+            "title": "CES 2026最大电视新品发布：三星、LG和TCL争相推出Micro RGB与OLED技术",
+            "time": "2026-01-08",
+            "source": "Engadget",
+            "summary": "在CES 2026上，三星、LG和TCL相继发布新一代电视产品，Micro RGB技术成为焦点。三星推出130英寸Micro RGB概念屏及55-100英寸消费级产品，搭载AI引擎提升色彩与对比度；LG推出超薄无线OLED Wallpaper W6和Micro RGB evo系列，支持高刷新率与广色域；TCL则以X11L SQD-Mini LED电视挑战高端市场，宣称峰值亮度达10000尼特，拥有20000个背光分区。OLED阵营也持续升级，三星S95H和LG C6H均强化了亮度与AI功能，显示电视行业正加速突破显示技术边界。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/mN.7lc3YhMbiOzIhycphow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/ec8f6080-e9e4-11f0-bfff-36568d1f9d71",
+            "url": "https://www.engadget.com/home/home-theater/the-biggest-new-tv-announcements-at-ces-2026-from-samsung-lg-and-tcl-190929614.html",
+            "category": "其他"
         },
         {
             "title": "CES 2026：乐高、三星、英伟达、戴尔等科技巨头最新动态",
@@ -1299,6 +1526,15 @@
             "summary": "据爆料，英伟达计划于2027年下半年推出采用Rubin架构的GeForce RTX 60系列显卡，核心代号为GR20x，延续每两年更新架构的节奏。该架构将统一用于数据中心与消费级市场，但核心分离，GR212用于AI计算，GR100为数据中心旗舰。受GDDR7显存短缺影响，RTX 50 SUPER系列推迟，市场目光提前转向RTX 60系列。文章还梳理了历代显卡架构发布时间线，揭示英伟达在AI需求激增背景下的产品布局调整。",
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/08/584_2026010885649625.png",
             "url": "https://www.ali213.net/news/html/2026-1/992147.html",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达的个人超算，可能就是下一个消费级显卡｜CES 2026",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "英伟达在CES 2026上发布DGX Spark，一款面向开发者和创作者的桌面级个人超算，基于Grace Blackwell架构，配备128GB统一内存，支持双机互联达256GB，可本地运行百亿参数大模型。通过NVFP4数据格式，性能提升最高达2.6倍，并结合Brev软件实现本地与云端算力智能调度。该设备适用于AI视频生成、机器人控制、企业安全编码等场景，降低大模型本地化门槛，被视为下一代AI应用基座。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/2a1bc4c7-ec31-11f0-9680-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21395",
             "category": "AI"
         },
         {
@@ -1439,6 +1675,15 @@
     ],
     "deepseek": [
         {
+            "title": "毫无征兆！DeepSeek R1爆更86页论文，这才是真正的Open",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "DeepSeek悄然更新R1论文至86页，详尽公开其纯强化学习训练方法与技术细节，证明R1在数学、代码、推理等任务上媲美甚至超越OpenAI o1、GPT-4o等闭源模型。论文涵盖数据配方、训练成本（约29.4万美元）、安全评估、蒸馏迁移等核心内容，并揭示R1-Zero在训练中涌现出自我反思能力。该模型采用MIT协议开源，被视为开源AI的重要里程碑，其跨尺度蒸馏技术可将大模型推理能力有效迁移到小模型。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/30d30027-ec44-11f0-824f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21402",
+            "category": "AI"
+        },
+        {
             "title": "老黄开年演讲「含华量」爆表！直接拿DeepSeek、Kimi验货下一代芯片",
             "time": "2026-01-07",
             "source": "AITNT",
@@ -1494,6 +1739,15 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "在CES 2026上，谷歌将Gemini AI深度整合进Google TV，使电视从被动观看设备升级为可对话、可学习、可创作的智能中枢。用户可通过自然语言搜索内容、编辑照片视频、调节设置，甚至生成电影级AI视频。Gemini依托大屏优势与家庭共享场景，结合本地模型提升响应速度与隐私安全，成为AI落地日常生活的关键入口。同时，涂鸦智能的Hey Tuya与AI宠物机器人等产品也展现AI融入家居的全方位趋势，标志着客厅成为AI革命的新战场。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/51002fa3-ec34-11f0-ac3c-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21399",
+            "category": "AI"
+        },
         {
             "title": "HSG将部分字节跳动股份转入延续基金",
             "time": "2026-01-07",
@@ -1567,6 +1821,33 @@
             "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1bxp1NEOUxRrzHQ19nuWgibNLYVc6ThJUoCjEaZybvFictH7gxf0dzLfh0kQqAPCrIDaTtgB4vjib8TA/0?wx_fmt=jpeg",
             "url": "https://mp.weixin.qq.com/s/TgGEi3hd1c9BDolLquaM0Q",
             "category": "其他"
+        },
+        {
+            "title": "“全球大模型第一股”智谱AI上市港交所，唐杰官宣GLM-5即将问世",
+            "time": "2026-01-08",
+            "source": "动点科技",
+            "summary": "智谱AI于2026年1月8日在香港交易所主板正式上市，发行价为每股116.20港元，开盘即涨至120港元，市值突破528亿港元，成为全球首家以通用人工智能（AGI）基座模型为核心业务的上市公司。公司创始人、首席科学家唐杰在内部信中宣布，新一代基础模型GLM-5即将发布，并透露2026年将聚焦全新模型架构、通用强化学习范式及模型自主进化能力三大技术方向，同时成立前沿探索部门X-Lab，推动颠覆性创新。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/20251223-184439-uai-750x421.webp",
+            "url": "https://cn.technode.com/post/2026-01-08/zhipu-ai-ipo-hkex/",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，智谱港交所敲钟！市值528亿港元",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "智谱正式在香港交易所上市，股票代码2513，成为全球首家AGI基座模型上市公司，首日市值突破528亿港元。公司凭借GLM-4.7模型在多项国际榜单中领先，技术实力获美团、阿里、腾讯及红杉、高瓴等巨头投资，累计融资超83亿元。2022至2025年上半年研发投入超44亿元，74%员工为研发人员，MaaS模式已服务270万+开发者，收入连续三年翻倍。此次IPO募资将70%用于大模型研发，标志着中国大模型从技术跟跑迈向全球竞技新阶段。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/278c3827-ec35-11f0-97d2-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21401",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚！智谱唐杰发内部信：回归AGI主线，GLM5很快发布！不做传统公司，用咖啡精神做AGI！曝2026发力点：模型架构和学习范式",
+            "time": "2026-01-08",
+            "source": "AITNT",
+            "summary": "智谱首席科学家唐杰发布内部信，宣布新一代大模型GLM-5即将发布，并重申公司回归AGI主线的战略方向。信中回顾了智谱自2018年以来在大模型架构GLM上的持续探索，强调即使在行业低谷期仍坚持训练千亿级模型。2026年将聚焦模型架构革新与学习范式突破，探索持续学习与自主进化路径。同时，公司成立X-Lab推动颠覆性创新，GLM-4.7已实现开源模型SOTA，并成功出海马来西亚。唐杰倡导以“咖啡上瘾”般的执着追求AGI终极目标。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/8/49f14170-ec6a-11f0-88d2-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21411",
+            "category": "AI"
         }
     ],
     "百川智能": [],
@@ -1618,9 +1899,55 @@
         }
     ],
     "商汤科技": [],
-    "MiniMax": [],
+    "MiniMax": [
+        {
+            "title": "刚刚！MiniMax敲钟上市，盘中涨幅超过60%！市值高达827亿港元！闫俊杰爆料：内部代码80%都由AI完成，公司平均年龄29岁，账上超10亿美金",
+            "time": "2026-01-09",
+            "source": "AITNT",
+            "summary": "MiniMax于2026年1月9日在港交所上市，发行价165港元，盘中涨幅超60%，市值达827亿港元。公司由前商汤科技高管闫俊杰创立，专注多模态AGI技术研发，产品包括MiniMax M1/M2大模型、海螺AI、星野等，用户超2.12亿，海外收入占比超70%。2025年前九个月营收达5343.7万美元，毛利率提升至23.3%。研发开支高达1.8亿美元，现金储备超11亿美元。团队平均年龄29岁，80%代码由AI生成，拥有“AI实习生”系统，刷新全球AI公司最快上市纪录。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/9/ffdd96a5-ed03-11f0-a180-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21423",
+            "category": "AI"
+        },
+        {
+            "title": "MiniMax正式登陆港交所：开盘上涨超60%，近四年全球发行规模最大的AI公司",
+            "time": "2026-01-09",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1aEzfNR7zas4zXicjibscBGm0xGEw0frNKJ8HL5nDiasPzgdibXgJwAvTCWxUORI5fLda3DOr7rusibTnw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/DEWSRxSXpZGqF3L-aCWxkw",
+            "category": "其他"
+        },
+        {
+            "title": "红杉中国郑庆生：MiniMax成功的核心所在是对AGI的坚定信仰和长期主义精神",
+            "time": "2026-01-09",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1aEzfNR7zas4zXicjibscBGm0bmXXC6nicg6p0mdkOHm5qjoD3FdQqvEXUIViamgF5Zpd0kd6otLuVrBQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/SBSImPK2QT77qn-c0-XdTQ",
+            "category": "其他"
+        },
+        {
+            "title": "明势创投黄明明：四年六轮加注MiniMax，中国科技企业必将在全球舞台展现光芒",
+            "time": "2026-01-09",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1aEzfNR7zas4zXicjibscBGm0iamKlE0bkkADaRPHzP9yVM240ibDyyYS2MibCqazIlMf3M1CrkZRMwyWw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/YRooU8nZV-BUqUVMh5u0NQ",
+            "category": "其他"
+        }
+    ],
     "快手": [],
     "Anthropic": [
+        {
+            "title": "Claude Usage：一款显示Claude Code使用限额的macOS菜单栏应用",
+            "time": "2026-01-08",
+            "source": "GitHub",
+            "summary": "Claude Usage是一款由richhickson开发的轻量级macOS菜单栏应用，用于实时显示用户在Claude Code中的使用限额（会话与周限额），支持自动刷新、颜色状态提示（绿/黄/红）及剩余时间显示。应用通过读取macOS Keychain中的OAuth凭证调用Anthropic的未公开API获取数据，不收集用户数据，完全开源且无遥测。用户需先安装Claude Code CLI并登录，应用兼容macOS 13.0及以上版本。",
+            "image_url": "https://github.com/richhickson/claudecodeusage/raw/main/screenshot.png",
+            "url": "https://github.com/richhickson/claudecodeusage",
+            "category": "AI"
+        },
         {
             "title": "Anthropic据报道寻求以3500亿美元估值融资100亿美元",
             "time": "2026-01-07",
