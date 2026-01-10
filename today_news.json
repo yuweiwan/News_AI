@@ -253,7 +253,7 @@
     "summary": "Decohack发布的PH今日热榜汇总了2026年1月8日Product Hunt上最热门的27款新产品，涵盖AI工具、开发者效率、智能家居等多个领域。亮点包括LEGO SMART Play（无屏交互式积木）、Conversation API（简化AI聊天记忆构建）、Dessix（视觉化AI创作工作区）和Market Terminal（平民版华尔街终端）。多数产品聚焦AI与无代码开发，强调隐私、本地化和极简体验，其中前15名均获精选推荐，显示市场对智能化、低门槛工具的强烈需求。",
     "image_url": "https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format",
     "url": "https://decohack.com/producthunt-daily-2026-01-08/",
-    "category": "游戏"
+    "category": "AI"
   },
   {
     "title": "Steam Machine未亮相CES，但配件制造商已准备就绪",
@@ -1182,4 +1182,5 @@
     "url": "https://mp.weixin.qq.com/s/Kc8zI75MrO7NNtD1B0BGAA",
     "category": "其他"
   }
+
 ]
