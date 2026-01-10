@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "微软将停用Word内置的发送到Kindle功能",
+            "time": "2026-01-09",
+            "source": "The Verge",
+            "summary": "微软宣布自2026年2月9日起，将停止在Microsoft 365的Word应用中内置的“发送到Kindle”功能。该功能自2023年推出以来，允许用户直接从Word文档发送内容至Kindle设备进行阅读和标注。停用后，用户需通过亚马逊官网的Send to Kindle工具手动发送文件。此举旨在简化产品生态，引导用户使用官方渠道。文章还提及了相关第三方报道及微软官方支持页面。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/SHEENA_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/858976/microsofts-shutting-down-words-built-in-send-to-kindle-feature",
+            "category": "其他"
+        },
+        {
+            "title": "这个小太空人让Windows笔记本和iPad更好地协同工作",
+            "time": "2026-01-09",
+            "source": "The Verge",
+            "summary": "在CES展会上，j5create推出了一款售价70美元的USB-C无线设备，外形酷似小太空人，用于在Windows笔记本与iPad之间实现文件传输、屏幕镜像及鼠标键盘共享。该设备通过专用应用连接，无需物理线缆，提升了跨平台协作体验。作者实测了其功能，但指出在CES现场Wi-Fi环境不佳的情况下，延迟和稳定性仍有待验证。产品设计注重趣味性，太空人造型主要为外观装饰，内部为实用的USB-A转接模块。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/20260108_174038-1.jpeg?quality=90&strip=all",
+            "url": "https://www.theverge.com/tech/858969/this-tiny-spaceman-helps-windows-laptops-and-ipads-play-better-together",
+            "category": "其他"
+        },
+        {
+            "title": "微软让在Word文档中添加超链接变得更加简便",
+            "time": "2026-01-09",
+            "source": "The Verge",
+            "summary": "微软正在改进Word文档中插入超链接的功能，现在用户只需将链接粘贴到目标文本上即可自动创建超链接，无需使用菜单或Ctrl+K快捷键。该功能已开始向Word网页版、Windows和Mac版本推送，需使用Word 2511版或更高版本（Windows）及16.104版或更高版本（Mac）。此举简化了日常办公操作，类似WordPress等内容管理系统已广泛采用该方式，未来或推动Google Docs跟进。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/wordogimage.png?quality=90&strip=all&crop=10.75%2C0%2C78.5%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/859288/microsoft-word-hyperlinks-new-shortcut",
+            "category": "其他"
+        },
+        {
             "title": "《生化8》领衔！2026年Xbox Game Pass首波阵容公布",
             "time": "2026-01-07",
             "source": "游侠网",
@@ -56,6 +83,24 @@
         }
     ],
     "索尼": [
+        {
+            "title": "定档2月6日《JDM：漂移大师》PS5版发售预告正式发布",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "《JDM：漂移大师》正式发布PS5版定档预告，确认将于2026年2月6日登陆PlayStation 5平台。游戏以漫画风格渲染开放世界，灵感源自日本真实街道与汽车文化，强调真实物理引擎与漂移手感，玩家将在蜿蜒山道与都市高架间展开车手传奇。游戏通过分镜叙事与精细赛道设计，还原街头漂移运动的激情与艺术。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010931720499.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992567.html",
+            "category": "游戏"
+        },
+        {
+            "title": "不到一年就断了！索尼游戏耳机Pulse Elite品控翻车",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "索尼于2024年2月推出的无线游戏耳机Pulse Elite因品控问题遭玩家集中投诉，大量用户反馈使用不到一年即出现头梁与耳罩连接处结构断裂，虽音质尚可但耐用性严重不足。Reddit等平台用户晒图证实问题普遍，批评其设计存在先天隐患，日常使用易开裂，部分用户被迫用胶带临时固定，呼吁索尼正视并改进产品缺陷。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010944746127.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992577.html",
+            "category": "游戏"
+        },
         {
             "title": "2025年美国PlayStation平台最常玩的前五款游戏未变，Circana称",
             "time": "2026-01-07",
@@ -158,6 +203,24 @@
     ],
     "任天堂": [
         {
+            "title": "我测试了最新的Switch 2手柄，这款是最好的",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "本文作者Cameron Faulkner测试了多款Nintendo Switch 2第三方手柄，推荐EasySMX S10为最佳整体选择，因其具备TMR摇杆、HD震动、amiibo支持和远程唤醒功能，价格仅$42，远低于原厂$89的Pro手柄。此外，Mobapad N1 HD和GuliKit ES Pro也作为高性价比选项被推荐，文章详细比较了各款手柄的按键手感、摇杆技术、续航和附加功能，强调第三方产品在防漂移技术上的优势。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/257964_Switch_2_controllers_CVirginia2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+            "category": "游戏"
+        },
+        {
+            "title": "经典归来！《火焰纹章：光辉之路》正式登陆Switch2！",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "任天堂通过Switch Online+扩展包服务，将经典策略角色扮演游戏《火焰纹章：光辉之路》引入Nintendo Switch 2平台，供订阅用户重温。该游戏原于2005年登陆GameCube，以特利乌斯大陆为背景，讲述佣兵团长艾克卷入种族战争的史诗故事。游戏保留了系列标志性的永久死亡机制与硬核回合制战略玩法，强调地形、武器相克与单位部署的深度策略。目前仅限订阅用户游玩，该服务还包含多代经典游戏库与在线联机等权益。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010945136157.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992593.html",
+            "category": "游戏"
+        },
+        {
             "title": "任天堂承认《密特罗德Prime4》长期开发期间开放世界审美发生变化",
             "time": "2026-01-06",
             "source": "GamesIndustry.biz",
@@ -214,6 +277,15 @@
     ],
     "腾讯": [
         {
+            "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了",
+            "time": "2026-01-10",
+            "source": "36氪",
+            "summary": "文章分析了2026年中国AI消费互联网的竞争格局，指出字节、阿里、腾讯三大巨头围绕AI通用入口展开激烈博弈。豆包凭借字节的流量优势占据60%市场份额，千问与元宝紧随其后。文章认为，尽管AI模型与算力成本大幅下降，但用户使用时长仍低于15分钟，AI入口尚未形成超级应用心智。巨头们通过独立App试验新交互范式，争夺AI时代的操作系统入口，而垂类场景的洗牌与生态构建将成为胜负关键。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_fc4bd39fa071492b8daa53a6637a1dd4@000000_oswg205636oswg1080oswg410_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3632096091456517",
+            "category": "AI"
+        },
+        {
             "title": "AI开始替游戏厂商赚钱：腾讯的算盘、网易的执念、中腰部的生死局",
             "time": "2026-01-09",
             "source": "钛媒体",
@@ -221,6 +293,15 @@
             "image_url": "https://w3.tmtpost.com/assets/uploads/files/1edff-2240*280.jpg",
             "url": "https://www.tmtpost.com/7836185.html",
             "category": "游戏"
+        },
+        {
+            "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了！",
+            "time": "2026-01-09",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VE1bqR7GX7h5F87WWbhjicQvZWXAv2ocwdia9b8tqjm3HCpfiaeGQgI2bUhvzWNibeXWDVph3G1LWZkaQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/9z0i6ic5fgiBFXRKxGrR2A",
+            "category": "其他"
         },
         {
             "title": "腾讯混元3年变形始末｜独家",
@@ -434,6 +515,15 @@
     ],
     "Meta": [
         {
+            "title": "Meta扩大核能计划，携手比尔·盖茨初创公司为AI数据中心供电",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "Meta与三家核能公司——TerraPower（比尔·盖茨支持）、Oklo（萨姆·阿尔特曼支持）和Vistra达成协议，计划到2035年获得6.6吉瓦的核能，用于支持其AI数据中心运营。首座新反应堆有望于2030年投入运行，Meta将全额承担能源成本，避免转嫁给消费者。此举是Meta继去年与Constellation合作重启老旧核电站后，进一步强化核能作为AI基础设施核心能源的战略布局，旨在巩固美国在全球AI领域的领导地位。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
+            "category": "其他"
+        },
+        {
             "title": "8点1氪丨继“小便门”后，海底捞再曝火锅异物事件；商务部回应审查Meta收购Manus；上海移动辟谣强迫员工“上门断网”言论",
             "time": "2026-01-09",
             "source": "36氪",
@@ -441,6 +531,33 @@
             "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_487b7b5c3b6445d59a8f47b4cdda826c@5667365_oswg363347oswg1080oswg750_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3631430184961033",
             "category": "AI"
+        },
+        {
+            "title": "WhatsApp可能因Channels功能在欧盟被列为超大型在线平台",
+            "time": "2026-01-09",
+            "source": "Engadget",
+            "summary": "根据欧盟《数字服务法案》（DSA），WhatsApp的Channels广播功能因在2025年上半年平均月活跃用户达5170万，超过4500万门槛，可能被认定为“超大型在线平台”。这意味着WhatsApp将面临更严格的监管，包括内容审核义务，违规最高可被处以全球年收入6%的罚款。此前Meta已因Facebook和Instagram的内容管理问题被欧盟处罚。Engadget已联系Meta寻求回应，将跟进更新。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/TqvnujE_BCJuEvLoW.53Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05Mjc-/https://s.yimg.com/uu/api/res/1.2/RlF_9ttDg1PbJJbenr9wKg--~B/aD0xMjc1O3c9MTcwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/6bfa30fa-36c0-4484-a67d-2ead125097f9",
+            "url": "https://www.engadget.com/social-media/whatsapp-might-soon-be-subject-to-stricter-scrutiny-under-the-eus-digital-services-act-191000354.html",
+            "category": "社交"
+        },
+        {
+            "title": "Meta宣布多项核能协议",
+            "time": "2026-01-09",
+            "source": "Engadget",
+            "summary": "Meta宣布与Vistra、TerraPower和Oklo三家能源公司达成三项新协议，计划到2035年为其AI数据中心和Prometheus超集群提供总计6.6吉瓦的核能电力。其中TerraPower的Natrium反应堆将提供高达2.8吉瓦，Oklo将贡献1.2吉瓦，Vistra则通过延长现有核电站寿命并增容提供2.1吉瓦。此举是科技巨头转向核能支持AI算力需求的最新举措，微软和Meta均已签署长期核能采购协议。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/BkV50_lD147GSOLziSrnkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/29f20970-4245-11f0-b2f6-03825e24c776",
+            "url": "https://www.engadget.com/ai/meta-announces-a-slew-of-nuclear-energy-agreements-165337159.html",
+            "category": "AI"
+        },
+        {
+            "title": "Meta与三家核能公司签署协议 获取超6吉瓦电力",
+            "time": "2026-01-09",
+            "source": "TechCrunch",
+            "summary": "Meta宣布与三家核能公司达成协议，为其数据中心获取超过6吉瓦的电力供应，包括与Vistra购买现有核电站容量，以及与Oklo和TerraPower两家初创公司合作建设小型模块化反应堆（SMR）。Vistra的协议将提供2.1吉瓦电力，而两家初创公司计划在2030年前后逐步交付电力。此举反映了科技巨头为满足AI算力需求对稳定清洁能源的迫切需求，尽管SMR成本尚未明确，但Meta的订单有望推动该技术商业化进程。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
+            "category": "其他"
         },
         {
             "title": "这款触觉手环可配合Meta智能眼镜解读面部表情",
@@ -596,8 +713,36 @@
             "category": "AI"
         }
     ],
-    "YouTube": [],
+    "YouTube": [
+        {
+            "title": "YouTube将允许用户在搜索结果中过滤掉Shorts",
+            "time": "2026-01-09",
+            "source": "The Verge",
+            "summary": "YouTube正在更新其搜索过滤功能，新增“视频”和“Shorts”选项，允许用户分别筛选长视频或短视频内容，以改善搜索体验。同时，平台移除了“上架时间-最近一小时”和“按评分排序”等使用不佳的过滤器，并引入新的“流行度”排序选项，取代原有的“观看次数”排序。该功能旨在通过综合观看时长和相关性等信号更精准地评估视频热度。此外，“排序方式”菜单已更名为“优先级”，以提升用户操作的直观性。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_STK092_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/858867/youtube-shorts-search-results-filter",
+            "category": "社交"
+        }
+    ],
     "OpenAI": [
+        {
+            "title": "谁说老实人赚不到钱？Claude用一张3500亿的支票打脸OpenAI",
+            "time": "2026-01-09",
+            "source": "AITNT",
+            "summary": "Anthropic公司凭借Claude模型在AI安全与代码能力上的极致专注，五年内估值从百亿飙升至3500亿美元，反超OpenAI。与OpenAI的激进扩张和巨额亏损形成鲜明对比，Anthropic保持团队稳定、营收三年增长十倍，企业级客户青睐其低错误率与高可靠性。Claude在代码生成测试中表现领先，成为开发者首选工具，被视作AI落地生根的坚实底座，理想主义最终赢得商业胜利。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/9/43619411-ed0e-11f0-a2f1-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21435",
+            "category": "AI"
+        },
+        {
+            "title": "MIT天才博士刚毕业，就被前OpenAI CTO抢走！年薪或300万起步",
+            "time": "2026-01-09",
+            "source": "AITNT",
+            "summary": "MIT博士肖光烜刚毕业即加盟前OpenAI CTO创办的初创公司Thinking Machines，专注大模型预训练。他本科毕业于清华大学双学位，博士期间在MIT研究高效大模型算法，提出SmoothQuant、DuoAttention、XAttention等多项创新技术，显著提升推理效率与显存利用率。其博士论文构建了完整高效LLM框架，获业界高度评价。据称其入职年薪达50万美元（约350万元），远超OpenAI等公司同类岗位平均水平，凸显AI顶尖人才的稀缺与高价值。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/9/4a7c817d-ed26-11f0-837d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21445",
+            "category": "AI"
+        },
         {
             "title": "ChatGPT即将推出专用健康门户",
             "time": "2026-01-08",
@@ -844,6 +989,15 @@
             "category": "其他"
         },
         {
+            "title": "是时候让苹果重新上架ICEBlock应用了",
+            "time": "2026-01-09",
+            "source": "Engadget",
+            "summary": "本文批评苹果公司应重新上架ICEBlock应用，该应用曾用于追踪移民与海关执法局（ICE）的活动位置。作者指出，ICE在2025年造成多人死亡，近期更枪杀了一名白人女性公民Renee Nicole Good，引发公众关注。苹果以保护执法人员为由下架该应用，实则忽视了ICE对平民的实质性威胁。文章还指出苹果一贯标榜社会进步形象，却在涉及商业利益时选择妥协，此次决定与其价值观相悖。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/Zz1mtq9aK05YiSwC_VC.dQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/mTCb4KbhTASg0d6x5fIzig--~B/aD00ODg3O3c9NzMyNzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/a84adce8-6e43-443b-a28d-24d5f68dd5f9",
+            "url": "https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html",
+            "category": "其他"
+        },
+        {
             "title": "刚刚，ChatGPT 发布 AI 医疗功能！能读病历做诊断，支持苹果健康",
             "time": "2026-01-08",
             "source": "AITNT",
@@ -927,6 +1081,15 @@
     ],
     "华为": [
         {
+            "title": "华为小米蔚来抢爆新年新车申报！都很豪华",
+            "time": "2026-01-09",
+            "source": "量子位",
+            "summary": "2026年新年首批新车申报集中曝光，华为鸿蒙智行首款MPV智界V9、蔚来最大SUV ES9、改款小米SU7、极氪8X、纯电奔驰GLC等多款重磅车型密集亮相。ES9定位纯电大三排SUV，搭载700马力双电机；智界V9采用增程系统，续航超1250km，搭载鸿蒙座舱与乾崑智驾；小米SU7改款新增20英寸轮毂与红色卡钳，预计4月上市；极氪8X、零跑A10/D19等也同步申报，激光雷达与高通8295P芯片成亮点，车市2026年竞争将更激烈。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/9e850e14812f1a422fd1f77b36b6d6f2.png",
+            "url": "https://www.qbitai.com/2026/01/368617.html",
+            "category": "其他"
+        },
+        {
             "title": "华为开源7B多模态模型，视觉定位和OCR能力出色，你的昇腾端侧“新甜点”来了",
             "time": "2026-01-05",
             "source": "AITNT",
@@ -974,6 +1137,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了",
+            "time": "2026-01-10",
+            "source": "36氪",
+            "summary": "文章分析了2026年中国AI消费互联网的竞争格局，指出字节、阿里、腾讯三大巨头围绕AI通用入口展开激烈博弈。豆包凭借字节的流量优势占据60%市场份额，千问与元宝紧随其后。文章认为，尽管AI模型与算力成本大幅下降，但用户使用时长仍低于15分钟，AI入口尚未形成超级应用心智。巨头们通过独立App试验新交互范式，争夺AI时代的操作系统入口，而垂类场景的洗牌与生态构建将成为胜负关键。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_fc4bd39fa071492b8daa53a6637a1dd4@000000_oswg205636oswg1080oswg410_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3632096091456517",
+            "category": "AI"
+        },
+        {
             "title": "《街头霸王6》新角色预告：经典摔角手阿里克斯归来！",
             "time": "2026-01-09",
             "source": "游侠网",
@@ -981,6 +1153,42 @@
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010992154599.png",
             "url": "https://www.ali213.net/news/html/2026-1/992473.html",
             "category": "游戏"
+        },
+        {
+            "title": "别低估了，淘宝闪购这一战的决心",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "阿里巴巴将淘宝闪购列为2026年战略重心，决心在即时零售赛道血战到底，通过提升订单价值、扩展品类供给（如天猫、盒马、猫超资源整合）和优化履约体验（如超时免单）构建长期竞争壁垒。尽管亏损规模达200亿元，但单位经济模型持续优化，正从“流量生意”转向“价值生意”。阿里凭借全域数据、品牌正品和实体网络协同，试图重塑零售格局，定义未来十年消费场景的主导权。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_29ab43bd01b5492a9c458f67202a354f@5888275_oswg867093oswg1080oswg654_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3631936836142087",
+            "category": "社交"
+        },
+        {
+            "title": "从联网设备到智能体终端，阿里云开启AI硬件的普惠元年",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "文章聚焦2026年AI硬件从功能智能向端侧智能体的跃迁，指出阿里云通过通义大模型与端云协同架构，为15万硬件厂商提供低门槛、全尺寸的AI能力支持，推动中国硬件从代工制造向全球创新定义转型。文中详述了AI在穿戴设备、智能座舱、出海产品等场景的落地案例，强调AI已从附加功能演变为驱动硬件核心体验的“灵魂”，并促成用户付费模式从买断向订阅转变，标志着AI硬件进入普惠与商业化成熟阶段。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_424b62372e304315ad93edb6479a33d9@6062546_oswg178210oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3632217422382084",
+            "category": "AI"
+        },
+        {
+            "title": "阿里、京东们没做到的事，为什么沃尔玛做到了？",
+            "time": "2026-01-09",
+            "source": "钛媒体",
+            "summary": "文章分析沃尔玛如何通过极致效率模型构建全渠道零售护城河，超越阿里、京东等中国电商巨头。沃尔玛凭借清晰的性价比定位、强大的供应链与物流体系、仓储会员店山姆的成功落地、因地制宜的全球化战略以及依托线下门店的线上履约模式，实现了持续增长。相比之下，中国零售企业多依赖通道费和流量红利，缺乏效率驱动，难以转型。文章强调零售的本质是效率，而非模式，沃尔玛的成功在于将效率模型持续复制与迭代。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2026/01/09/11d07740380e86e05011d1aaf964287e_1767944912.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x530/gravity/center/crop/!1400x530&ext=.png",
+            "url": "https://www.tmtpost.com/7837135.html",
+            "category": "其他"
+        },
+        {
+            "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了！",
+            "time": "2026-01-09",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VE1bqR7GX7h5F87WWbhjicQvZWXAv2ocwdia9b8tqjm3HCpfiaeGQgI2bUhvzWNibeXWDVph3G1LWZkaQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/9z0i6ic5fgiBFXRKxGrR2A",
+            "category": "其他"
         },
         {
             "title": "刚刚！阿里开源 Qwen3-VL-Embedding 和 Qwen3-VL-Reranker 模型！图片和视频也可以做RAG了～",
@@ -1139,6 +1347,15 @@
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010991713841.jpg",
             "url": "https://www.ali213.net/news/html/2026-1/992461.html",
             "category": "游戏"
+        },
+        {
+            "title": "阿里、京东们没做到的事，为什么沃尔玛做到了？",
+            "time": "2026-01-09",
+            "source": "钛媒体",
+            "summary": "文章分析沃尔玛如何通过极致效率模型构建全渠道零售护城河，超越阿里、京东等中国电商巨头。沃尔玛凭借清晰的性价比定位、强大的供应链与物流体系、仓储会员店山姆的成功落地、因地制宜的全球化战略以及依托线下门店的线上履约模式，实现了持续增长。相比之下，中国零售企业多依赖通道费和流量红利，缺乏效率驱动，难以转型。文章强调零售的本质是效率，而非模式，沃尔玛的成功在于将效率模型持续复制与迭代。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2026/01/09/11d07740380e86e05011d1aaf964287e_1767944912.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x530/gravity/center/crop/!1400x530&ext=.png",
+            "url": "https://www.tmtpost.com/7837135.html",
+            "category": "其他"
         }
     ],
     "莉莉丝": [],
@@ -1396,7 +1613,17 @@
         }
     ],
     "零一万物": [],
-    "GameStop": [],
+    "GameStop": [
+        {
+            "title": "GameStop据报道将在美国关闭数百家门店",
+            "time": "2026-01-09",
+            "source": "GamesIndustry.biz",
+            "summary": "GameStop reportedly closed hundreds of stores in the United States, with 390 confirmed closures and 10 more unconfirmed, as part of a broader restructuring. The company shut 590 U.S. stores in fiscal 2024 and plans further cuts in 2025. It is also exiting markets like New Zealand, Ireland, and Germany, while seeking buyers for its French and Canadian operations. Despite these cuts, CEO Ryan Cohen is eligible for a $35 million payout if GameStop’s market cap reaches $100 billion—up from $9.52 billion. Sales have declined significantly across hardware, software, and collectibles.",
+            "image_url": "https://assetsio.gnwcdn.com/GameStop-00.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/report-gamestop-closing-hundreds-of-stores-in-the-united-states",
+            "category": "游戏"
+        }
+    ],
     "Momenta": [],
     "台积电": [],
     "三星": [
@@ -1519,6 +1746,33 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "瞄准英伟达，国产算力产业走向“闭环”",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "本文探讨国产算力产业在芯片设计、存储、网络互连和软件生态等方面的全面突破。随着天数智芯、摩尔线程、沐曦股份等国产GPU厂商上市，长鑫科技与长江存储在DRAM和NAND Flash领域实现量产，中科曙光、海光信息构建高速互联集群，国产算力产业链逐步形成闭环。同时，摩尔线程推出MUSA开发生态，云厂商优刻得通过统一调度屏蔽硬件异构性，科研与企业用户开始大规模采用国产方案，标志着国产算力正从单点突破走向系统性协同。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3632055238607880",
+            "category": "AI"
+        },
+        {
+            "title": "英伟达用AI技术赋能旧显卡：30系/40系显卡性能暴涨！",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "英伟达宣布通过自研NVFP4低精度浮点标准，以AI技术赋能RTX 30系和40系显卡，使其在AI推理任务中性能提升30%至360%，显存占用大幅降低，如Flux.1从23GB压缩至9GB。该技术在Blackwell架构为原生支持，旧显卡通过模拟实现。此举旨在应对内存成本上涨压力，重启旧显卡市场，维持性能竞争力，引发行业对AI算法下放与旧硬件潜力的广泛关注。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010942547724.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992583.html",
+            "category": "AI"
+        },
+        {
+            "title": "CES 2026：从英伟达新品到AMD新芯片再到Razer的AI奇闻",
+            "time": "2026-01-09",
+            "source": "TechCrunch",
+            "summary": "CES 2026在拉斯维加斯落幕，各大科技公司集中发布AI与机器人相关产品。英伟达推出Rubin架构及开源AI模型Alpamayo，推动自动驾驶与机器人发展；AMD发布Ryzen AI 400系列处理器，强化PC端AI能力；Razer展示Project AVA和Project Motoko等AI交互设备；Lego首次参展，推出可互动的智能积木；Clicks推出带实体键盘的Communicator手机；LG的CLOiD家庭机器人表现 sluggish；Caterpillar与英伟达合作开发AI建筑设备。AI驱动的物理设备成为本届展会核心主题。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+            "category": "AI"
+        },
         {
             "title": "英伟达RTX 60系列显卡爆料：Rubin架构2027年登场",
             "time": "2026-01-08",
@@ -1740,6 +1994,24 @@
     ],
     "字节跳动": [
         {
+            "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了",
+            "time": "2026-01-10",
+            "source": "36氪",
+            "summary": "文章分析了2026年中国AI消费互联网的竞争格局，指出字节、阿里、腾讯三大巨头围绕AI通用入口展开激烈博弈。豆包凭借字节的流量优势占据60%市场份额，千问与元宝紧随其后。文章认为，尽管AI模型与算力成本大幅下降，但用户使用时长仍低于15分钟，AI入口尚未形成超级应用心智。巨头们通过独立App试验新交互范式，争夺AI时代的操作系统入口，而垂类场景的洗牌与生态构建将成为胜负关键。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_fc4bd39fa071492b8daa53a6637a1dd4@000000_oswg205636oswg1080oswg410_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3632096091456517",
+            "category": "AI"
+        },
+        {
+            "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了！",
+            "time": "2026-01-09",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VE1bqR7GX7h5F87WWbhjicQvZWXAv2ocwdia9b8tqjm3HCpfiaeGQgI2bUhvzWNibeXWDVph3G1LWZkaQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/9z0i6ic5fgiBFXRKxGrR2A",
+            "category": "其他"
+        },
+        {
             "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
             "time": "2026-01-08",
             "source": "AITNT",
@@ -1747,6 +2019,15 @@
             "image_url": "https://www.aitntnews.com/pictures/2026/1/8/51002fa3-ec34-11f0-ac3c-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=21399",
             "category": "AI"
+        },
+        {
+            "title": "国际足联与TikTok达成首个首选平台协议，助力2026年世界杯内容传播",
+            "time": "2026-01-08",
+            "source": "FIFA.com",
+            "summary": "国际足联（FIFA）与TikTok达成史上首个“首选平台”合作协议，旨在全面提升2026年美加墨世界杯的全球内容覆盖与粉丝互动。该合作将依托TikTok专属世界杯主题页，提供独家幕后内容、全球创作者计划、定制贴纸与互动功能，并允许官方媒体伙伴进行赛事片段直播与广告变现。协议延续了2023年女足世界杯的成功经验，预计将进一步触达年轻及女性受众，增强足球内容的传播力与商业价值，同时强化知识产权保护。",
+            "image_url": "",
+            "url": "https://inside.fifa.com/organisation/media-releases/tiktok-preferred-platform-enhance-coverage-world-cup-2026",
+            "category": "社交"
         },
         {
             "title": "HSG将部分字节跳动股份转入延续基金",
@@ -1813,6 +2094,15 @@
         }
     ],
     "智谱": [
+        {
+            "title": "智谱、MiniMax港股IPO，熬过孤独的人和500亿奖赏 | 深氪lite",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "本文报道了中国AI大模型公司智谱AI与MiniMax于2026年初相继在港交所成功上市，市值分别突破570亿与500亿港元。文章回顾了两家公司在ChatGPT爆发前的孤独创业历程，以及启明创投、明势创投等早期投资人的坚定押注。作者强调，其成功源于创始团队对AGI的执着、自研技术的自主性，以及港股对科技企业友好的政策环境。IPO不仅带来资本回报，更提升了中国AI企业的全球可见度与估值认可。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_0b40cae8b024413bb34a35b150153d5e@5783683_oswg91028oswg1080oswg729_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3631042586395657",
+            "category": "AI"
+        },
         {
             "title": "智谱正式登陆港交所：市值超528亿港元，「全球大模型第一股」属于中国",
             "time": "2026-01-08",
@@ -1935,10 +2225,74 @@
             "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1aEzfNR7zas4zXicjibscBGm0iamKlE0bkkADaRPHzP9yVM240ibDyyYS2MibCqazIlMf3M1CrkZRMwyWw/0?wx_fmt=jpeg",
             "url": "https://mp.weixin.qq.com/s/YRooU8nZV-BUqUVMh5u0NQ",
             "category": "其他"
+        },
+        {
+            "title": "MiniMax 融资故事：4 年 7 轮，谁在推动中国 AI 第一场资本盛宴",
+            "time": "2026-01-09",
+            "source": "AITNT",
+            "summary": "MiniMax 在成立四年内完成七轮融资，累计获投15亿美元，阿里为最大外部股东，高瓴为第一大财务投资人。公司由商汤前高管闫俊杰等人创立，早期聚焦多模态大模型与to C应用，坚持技术驱动与成本控制。在ChatGPT爆发后迅速获得腾讯、红杉、明势等机构加持，2026年1月港股上市，市值达898亿港元。文章还原了其创业历程、投资人视角及在算力受限环境下探索AI商业化路径的独特策略。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/9/f55ecd16-ed25-11f0-9b65-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21442",
+            "category": "AI"
+        },
+        {
+            "title": "智谱、MiniMax港股IPO，熬过孤独的人和500亿奖赏 | 深氪lite",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "本文报道了中国AI大模型公司智谱AI与MiniMax于2026年初相继在港交所成功上市，市值分别突破570亿与500亿港元。文章回顾了两家公司在ChatGPT爆发前的孤独创业历程，以及启明创投、明势创投等早期投资人的坚定押注。作者强调，其成功源于创始团队对AGI的执着、自研技术的自主性，以及港股对科技企业友好的政策环境。IPO不仅带来资本回报，更提升了中国AI企业的全球可见度与估值认可。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_0b40cae8b024413bb34a35b150153d5e@5783683_oswg91028oswg1080oswg729_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3631042586395657",
+            "category": "AI"
+        },
+        {
+            "title": "763亿港元，大模型公司最大规模IPO！MiniMax登陆港交所，开盘前大涨50%",
+            "time": "2026-01-09",
+            "source": "量子位",
+            "summary": "MiniMax于2026年1月9日在港交所成功上市，股票代码“00100”，募资约55.4亿港元，市值一度突破763亿港元，开盘前涨幅超50%，最高达80%。公司成立不足四年，累计融资超15亿美元，获阿里巴巴、腾讯等14家基石投资者支持。其技术路线聚焦全模态大模型研发，语音、视频、文本模型均达行业领先水平，并以“模型即产品”策略实现2.12亿C端用户覆盖。组织上通过AI实习生与扁平架构实现极致研发效率，成本仅为OpenAI的百分之一，验证了AGI时代效率胜于规模的新范式。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6a99d1d2211326828a586b8d743edff5.webp",
+            "url": "https://www.qbitai.com/2026/01/367789.html",
+            "category": "AI"
         }
     ],
-    "快手": [],
+    "快手": [
+        {
+            "title": "快手AI可以更稳点",
+            "time": "2026-01-09",
+            "source": "36氪",
+            "summary": "文章分析了快手AI产品‘可灵’在2025至2026年间的快速发展与内部困境。尽管可灵在视频生成质量上领先，海外下载量与收入显著增长，推动快手股价回升，但其AI业务面临研发投入高、收入占比低、与主业协同不足等问题。核心高管接连离职暴露组织不稳，战略在技术理想与商业变现间摇摆。新推出的‘Motion Control’功能提升可控性，被视为商业化关键突破。文章认为快手AI正处于‘黎明前黑暗’，能否稳住技术团队与战略方向，将决定其能否在2027年前后迎来视频AI的春天。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3632137676030985",
+            "category": "AI"
+        }
+    ],
     "Anthropic": [
+        {
+            "title": "谁说老实人赚不到钱？Claude用一张3500亿的支票打脸OpenAI",
+            "time": "2026-01-09",
+            "source": "AITNT",
+            "summary": "Anthropic公司凭借Claude模型在AI安全与代码能力上的极致专注，五年内估值从百亿飙升至3500亿美元，反超OpenAI。与OpenAI的激进扩张和巨额亏损形成鲜明对比，Anthropic保持团队稳定、营收三年增长十倍，企业级客户青睐其低错误率与高可靠性。Claude在代码生成测试中表现领先，成为开发者首选工具，被视作AI落地生根的坚实底座，理想主义最终赢得商业胜利。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/9/43619411-ed0e-11f0-a2f1-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21435",
+            "category": "AI"
+        },
+        {
+            "title": "谁家更新日志那么长啊？Claude Code版本更新到2.1.0引围观，1096次提交一口气上线",
+            "time": "2026-01-09",
+            "source": "AITNT",
+            "summary": "Claude Code发布2.1.0重大更新，累计合入1096次代码提交，新增Shift+Enter换行、钩子支持、Skills增强、多语言响应、会话传送等功能，引发开发者热议。团队在更新后迅速推出2.1.1和2.1.2版本修复问题，其高效迭代依赖AI辅助编码，创始人Boris Cherny称团队自身重度使用该工具推动产品优化。部分用户批评更新频繁但存在bug，功能复杂。文章源自微信公众号‘机器之心’。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/9/9b1d152f-ed1f-11f0-bd14-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21437",
+            "category": "AI"
+        },
+        {
+            "title": "重磅！Claude Code官方开源：AI屎山代码，终于有解了~（附提示词）",
+            "time": "2026-01-09",
+            "source": "AITNT",
+            "summary": "Claude Code官方开源了名为code-simplifier的插件，旨在解决AI生成代码后出现的“屎山”问题。该插件通过一套精心设计的提示词，自动重构代码以提升可读性、一致性和可维护性，同时严格保持原有功能不变。其核心原则包括：优先清晰而非简洁、强制执行项目编码规范、避免过度简化、聚焦近期修改代码。插件支持自定义配置，适用于各类AI编程场景，被评价为AI编程从“生成”走向“治理”的重要一步。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/9/120c2db0-ed33-11f0-9348-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21450",
+            "category": "AI"
+        },
         {
             "title": "Claude Usage：一款显示Claude Code使用限额的macOS菜单栏应用",
             "time": "2026-01-08",
