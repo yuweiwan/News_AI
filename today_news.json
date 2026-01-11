@@ -1,121 +1,189 @@
 [
   {
-    "title": "定档2月6日《JDM：漂移大师》PS5版发售预告正式发布",
+    "title": "Epic喜加一：策略塔防游戏《气球塔防6》免费领取！",
     "time": "2026-01-09",
     "source": "游侠网",
-    "summary": "《JDM：漂移大师》正式发布PS5版定档预告，确认将于2026年2月6日登陆PlayStation 5平台。游戏以漫画风格渲染开放世界，灵感源自日本真实街道与汽车文化，强调真实物理引擎与漂移手感，玩家将在蜿蜒山道与都市高架间展开车手传奇。游戏通过分镜叙事与精细赛道设计，还原街头漂移运动的激情与艺术。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010931720499.jpg",
-    "url": "https://www.ali213.net/news/html/2026-1/992567.html",
+    "summary": "Epic平台本周免费游戏公布，休闲策略塔防游戏《气球塔防6》限时免费领取，截止日期为1月16日0点。该游戏由Ninja Kiwi开发，心动网络代理，于2018年登陆PC，突破传统塔防固定路线模式，提供超过60张风格各异的地图，玩家可自由组合防御塔与升级路线，体验猴子与气球的史诗对抗。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010981803308.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992431.html",
     "category": "游戏"
   },
   {
-    "title": "RTX 5090 + 树莓派：能玩游戏吗？",
-    "time": "2026-01-08",
-    "source": "Scott's Blog",
-    "summary": "本文测试了将高端NVIDIA RTX 5090显卡通过eGPU连接至树莓派5、Rock 5B和Beelink MINI-S13等小型计算机，探索其游戏性能。结果表明，尽管技术上可运行部分游戏，但受限于ARM架构的CPU性能和FEX模拟开销，现代游戏（如《赛博朋克2077》）帧率极低，仅2010年前后的老游戏在树莓派上可勉强运行。Beelink因原生支持x86表现最佳，而RTX 5090在该场景下完全无法发挥性能，仅适合技术趣味实验。",
-    "image_url": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/hero-5090-and-rpi5.jpg",
-    "url": "https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/",
+    "title": "PS5独占《Code Violet》OC站仅有40分：简直一团糟！",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "PS5独占动作恐怖游戏《Code Violet》在OpenCritic平台获得平均40分（满分100）的极低评价，多家媒体批评其战斗系统粗糙、技术问题频发、设计决策失误，且性感元素与恐怖氛围严重脱节。IGN西班牙与Push Square均给出4/10的低分，认为游戏品质远不值50美元定价，玩家社区亦普遍认为其为近年来最糟糕的游戏之一，体验甚至不如低价独立游戏。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110112947800.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992729.html",
     "category": "游戏"
   },
   {
-    "title": "来自VA-11 HALL-A的问候：团队一切安好衷心感谢大家",
+    "title": "不用羡慕PC了！《虚实万象》主机版即将推出免费试玩",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "卡普空科幻动作游戏《虚实万象》PC版已上线试玩，主机版试玩版即将推出，预计与PC版内容一致，玩家可体验第一章，感受月球研究站中的漂浮探索与左右脑协同战斗系统。游戏设定在近未来，玩家扮演主角“休”与机器人伙伴“黛安娜”合作解谜与战斗，正式发售日期为2026年4月24日。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110100107190.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992721.html",
+    "category": "游戏"
+  },
+  {
+    "title": "恐怖新作《瘟疫3》新预告公布：音乐由山冈晃操刀！",
     "time": "2026-01-09",
     "source": "游侠网",
-    "summary": "独立游戏开发团队Sukeban Games发布声明，确认其全体成员在近期国际事件中均安全无恙，并对全球玩家的关切表示感谢。该团队因与委内瑞拉的渊源曾引发担忧，但澄清成员已分散在日本、阿根廷、哥伦比亚等国远程协作，未受直接影响。其代表作《VA-11 Hall-A：赛博朋克酒保行动》在Steam平台保持96%好评率，此次公告让粉丝安心。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010943258508.png",
-    "url": "https://www.ali213.net/news/html/2026-1/992591.html",
+    "summary": "Ice-Pick Lodge工作室发布了心理恐怖游戏《瘟疫3》的全新预告片，特邀《寂静岭》系列作曲家山冈晃操刀配乐，营造出压抑、焦虑与谵妄的氛围。游戏设定在神秘瘟疫肆虐的戈尔洪镇，玩家扮演医生丹尼尔·丹尼洛夫斯基，在十二天内试图拯救小镇。本作强调氛围营造与叙事沉浸，而非传统动作玩法，将于2026年1月10日正式发售。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010984014285.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992457.html",
+    "category": "游戏"
+  },
+  {
+    "title": "一觉醒来，PUBG玩家的“天”塌了",
+    "time": "2026-01-09",
+    "source": "游侠网",
+    "summary": "本文报道《绝地求生》（PUBG）迎来重大版本更新，引入蔡徐坤联动剧情与冰雪天气系统。玩家将面对艾伦格地图全面冰封、卫星坠落等极端环境变化，并可使用新道具“冰域弹”与“防寒服”应对。文章以幽默笔调调侃联动剧情，同时分析新机制对战术玩法的颠覆性影响，并介绍为期一个月的新年福利活动，可兑换限定服饰与皮肤，引发玩家热议。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010925521138.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992565.html",
+    "category": "游戏"
+  },
+  {
+    "title": "Xbox开发者直面会官宣：神鬼寓言、地平线6确认亮相！",
+    "time": "2026-01-09",
+    "source": "游侠网",
+    "summary": "Xbox官方宣布将于北京时间1月23日凌晨2点举办“Xbox Developer Direct 2026”线上发布会，届时将首次公开《神鬼寓言》《极限竞速：地平线6》和《轮回之兽》三款重磅作品的实机演示与开发细节。《神鬼寓言》将展现阿尔比恩世界的魔法与英式幽默，《地平线6》以日本风光为舞台，《轮回之兽》则聚焦植物操控与后末日日本背景。三款游戏均由知名工作室开发，引发玩家高度期待。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010990402844.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992439.html",
+    "category": "游戏"
+  },
+  {
+    "title": "底裤也要没了！曝Xbox第一方《神鬼寓言》要登陆PS5",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "据游戏媒体VGC报道，Xbox第一方大作《神鬼寓言》正在同步开发PlayStation 5版本，尽管微软尚未官方确认，但此举符合其近年推动多平台战略的趋势。此前已有《极限竞速：地平线5》《战争机器：重装上阵》等Xbox独占游戏登陆PS5，预计在1月23日的Xbox开发者直面会上，官方将公布更明确的跨平台计划。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110104348682.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992725.html",
+    "category": "游戏"
+  },
+  {
+    "title": "PS3模拟器重大升级：可直接通过ISO文件运行游戏！",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "知名PS3模拟器RPCS3近期发布重要更新，新增对解密版ISO文件的直接运行支持，无需再将游戏镜像解压为文件夹，显著简化了玩家操作流程并节省存储空间。官方感谢开发者Functionable的贡献，但目前仅支持已解密ISO，正版光盘提取的加密ISO仍无法使用。原有文件夹载入方式保留，用户可自由选择使用方式，此举提升了模拟器的易用性与用户体验。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011020444980.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992737.html",
+    "category": "游戏"
+  },
+  {
+    "title": "有心无力！《博德之门3》确认不会移植到Switch2平台",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "拉瑞安工作室创始人斯温·温克确认，《博德之门3》不会移植至任天堂Switch 2平台，称该决策非工作室所能主导。据爆料人NateTheHate透露，因与版权方威世智合作不畅，移植计划已搁置。该游戏已于2023年登陆PC、PS5和Xbox Series X|S，最后一次更新在2025年4月。目前拉瑞安已投入《神界》新作开发，并明确表示新作将不使用生成式AI美术素材。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011094104681.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992719.html",
+    "category": "游戏"
+  },
+  {
+    "title": "绝对新鲜！马东锡新游《Gang of Dragon》全部从0打造",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "前《如龙》系列制作人名越稔洋创立的名越工作室发布全新动作游戏《Gang of Dragon》，游戏从城市景观到世界观均从零构建，以东京歌舞伎町为背景，聚焦边缘人群的戏剧性故事。韩国演员马东锡主演，饰演陷入黑道纷争的韩国黑帮成员，战斗系统融合近战格斗、枪械与载具驾驶，并带有昆汀式暴力美学与黑色幽默。游戏计划面向全球市场，目前尚未公布上市时间。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110102210192.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992717.html",
+    "category": "游戏"
+  },
+  {
+    "title": "Steam主机定价引玩家热议：比PS5 Pro还贵2000元？",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "近日，捷克零售商泄露Valve新一代Steam Machine主机价格，512GB版本售价约950美元（人民币6850元），2TB版本约1070美元（人民币7720元），引发玩家对定价过高的热议。Valve官方表示将采用非补贴式定价，售价与同等配置PC持平，强调其紧凑设计、低噪音和客厅体验的独特价值。主机搭载AMD Zen 4 CPU与RDNA 3 GPU，性能为Steam Deck六倍以上，支持4K/60帧游戏，预计2026年初正式公布最终售价。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011035448453.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992751.html",
+    "category": "游戏"
+  },
+  {
+    "title": "PC-98风绅士向游戏《同居人》今年发售！女主超可爱",
+    "time": "2026-01-09",
+    "source": "游侠网",
+    "summary": "日本独立制作人chipushishi宣布，绅士向PC游戏《同居人》将于2026年发售，具体日期与售价尚未公布。该游戏致敬PC-9800系列经典美少女游戏风格，由作者独立完成插画、音乐与系统设计，并购置多台PC-98主机作为开发参考，通过复古色调与像素画面营造怀旧氛围，界面保留“疯狂度”等经典数值系统，展现对复古游戏设计的深度还原。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_20260109105730202.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992443.html",
+    "category": "游戏"
+  },
+  {
+    "title": "《GTA6》超写实画面引专家担忧：或损害心理健康！",
+    "time": "2026-01-09",
+    "source": "游侠网",
+    "summary": "《GTA6》计划于2026年底发售，其超写实画面引发心理学家与游戏开发者对玩家心理健康的担忧。专家认为，高度拟真的暴力场景可能削弱玩家与现实之间的安全距离，甚至趋近真实恐怖行为的观感。但也有学者指出，游戏通过夸张的物理效果与荒诞叙事仍明确传递虚构信号，整体体验仍属虚拟范畴。《GTA》系列一贯在讽刺与真实间保持平衡，未必必然导致心理危害。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_20260109114531418.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992527.html",
+    "category": "游戏"
+  },
+  {
+    "title": "太能吸金！《极限竞速：地平线5》PS5版销量破500万",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "《极限竞速：地平线5》PS5版全球销量已突破500万份，成为索尼平台商业表现最突出的作品之一。该作最初于2021年登陆Xbox与PC，2025年4月移植至PS5后迅速走红，首月销量即达200万份。市场分析师估算其PS5版营收超3亿美元，对微软而言收益显著。同时，系列新作《极限竞速：地平线6》将登陆PS5，背景设定在日本，开发团队已赴实地考察以还原文化精髓。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110110607694.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992727.html",
+    "category": "游戏"
+  },
+  {
+    "title": "不止地平线6、神鬼寓言！Xbox王牌工作室或还有新作！",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "Xbox旗下Playground Games工作室正在同时开发《神鬼寓言》与《极限竞速：地平线6》两款大作，据外媒报道，该工作室还秘密推进第三个未公开项目。线索来自新入职的3D动画师Jonathan Baker的领英资料，其标注工作为“未公开项目”。此前该工作室成立的第三团队，可能正是为此项目而设。目前尚不清楚该项目是全新IP还是基于现有系列，也未确认其具体形态。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011033233542.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992749.html",
+    "category": "游戏"
+  },
+  {
+    "title": "不用频繁读档了！《神界》或将存档刷取纳入设计考量",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "拉瑞安工作室编剧总监亚当·史密斯透露，团队在开发《神界》新作时，将玩家常见的“存档刷取”行为纳入系统设计考量，旨在让失败结局更具吸引力和叙事深度。团队希望通过优化“选择与后果”机制，使玩家即使遭遇不利随机结果，也能获得丰富且有意义的剧情体验，而非通过反复读档规避。这一思路呼应了《博德之门3》等游戏对失败路径趣味性的探索，强调以设计引导玩家接纳不确定性，增强角色扮演沉浸感。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110115227533.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992723.html",
     "category": "游戏"
   },
   {
     "title": "经典归来！《火焰纹章：光辉之路》正式登陆Switch2！",
     "time": "2026-01-09",
     "source": "游侠网",
-    "summary": "任天堂通过Switch Online+扩展包服务，将经典策略角色扮演游戏《火焰纹章：光辉之路》引入Nintendo Switch 2平台，供订阅用户重温。该游戏原于2005年登陆GameCube，以特利乌斯大陆为背景，讲述佣兵团长艾克卷入种族战争的史诗故事。游戏保留了系列标志性的永久死亡机制与硬核回合制战略玩法，强调地形、武器相克与单位部署的深度策略。目前仅限订阅用户游玩，该服务还包含多代经典游戏库与在线联机等权益。",
+    "summary": "任天堂通过Nintendo Switch Online+扩展包服务，将经典策略角色扮演游戏《火焰纹章：光辉之路》加入GameCube经典游戏库，供订阅用户在Switch 2主机上重温。该游戏最初于2005年登陆GameCube，以特利乌斯大陆为背景，讲述佣兵团长艾克卷入种族战争的史诗故事。游戏保留了系列标志性的永久死亡机制与深度回合制战略玩法，强调地形、武器相克与单位搭配的战术决策。目前仅限订阅用户游玩，该服务还包含多代主机经典游戏与在线联机等权益。",
     "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010945136157.png",
     "url": "https://www.ali213.net/news/html/2026-1/992593.html",
     "category": "游戏"
   },
   {
-    "title": "不到一年就断了！索尼游戏耳机Pulse Elite品控翻车",
+    "title": "《街头霸王6》新角色预告：经典摔角手阿里克斯归来！",
     "time": "2026-01-09",
     "source": "游侠网",
-    "summary": "索尼于2024年2月推出的无线游戏耳机Pulse Elite因品控问题遭玩家集中投诉，大量用户反馈使用不到一年即出现头梁与耳罩连接处结构断裂，虽音质尚可但耐用性严重不足。Reddit等平台用户晒图证实问题普遍，批评其设计存在先天隐患，日常使用易开裂，部分用户被迫用胶带临时固定，呼吁索尼正视并改进产品缺陷。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010944746127.png",
-    "url": "https://www.ali213.net/news/html/2026-1/992577.html",
+    "summary": "卡普空正式公布《街头霸王6》第三年季票新角色——经典摔角手阿里克斯（ALEX）将于2026年春季回归。阿里克斯首次登场于《街头霸王3》，以力量型摔角风格和标志性红色头带著称，曾在《街头霸王5》中作为DLC角色登场。本次在《街霸6》中，其动作经过全面重制，采用动作捕捉技术提升操作手感，不仅满足老玩家期待，也可能推动其宿敌吉尔故事线的新发展。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010992154599.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992473.html",
     "category": "游戏"
   },
   {
-    "title": "《噬血代码》宣推出衍生短篇漫画《大家的噬血代码》",
-    "time": "2026-01-09",
+    "title": "心理恐怖游戏《瘟疫3》正式发售！Steam特别好评",
+    "time": "2026-01-10",
     "source": "游侠网",
-    "summary": "《噬血代码》官方宣布将推出衍生短篇漫画《大家的噬血代码》，由観虐执笔，以游戏中的角色为主角，讲述轻松有趣的日常故事，第一话将于1月14日公开。该游戏由万代南梦宫开发，以类魂战斗系统与深刻世界观著称，背景设定在吸血鬼与异形生物横行的后启示录世界，通过主角与搭档的互动探讨生存、牺牲与人性主题，具备良好的漫画改编潜力。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010943051275.jpg",
-    "url": "https://www.ali213.net/news/html/2026-1/992589.html",
+    "summary": "由Ice-Pick Lodge开发的心理恐怖游戏《瘟疫3》已于2026年1月10日正式登陆PS5和PC平台，Xbox Series版将于1月23日上线。游戏在Steam平台国区首发8折，售价102.4元，目前获得315条用户评测，好评率达87%。玩家需在12天内拯救小镇免受神秘瘟疫侵袭，通过诊断患者、做出冷酷抉择来改写命运。游戏以永生追求与小镇黑暗秘密为核心，营造强烈心理压迫感。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011041239845.jpg",
+    "url": "https://www.ali213.net/news/html/2026-1/992753.html",
     "category": "游戏"
   },
   {
-    "title": "8美元等于5美元? 《Peak》开发者解释了游戏定价原因",
-    "time": "2026-01-09",
+    "title": "信心满满！《红色沙漠》媒体评测将提前一个月",
+    "time": "2026-01-10",
     "source": "游侠网",
-    "summary": "《Peak》开发商Aggro Crab联合创始人尼克·卡曼解释了为何将游戏定价为8美元而非更低价格。他指出，玩家对价格的感知并非线性，6至8美元在心理上仍被视为“5美元区间”，而10美元以上才构成明显门槛。这一策略受《内容警告》成功定价启发，旨在降低购买心理障碍，促进玩家组队购买，形成活跃社区。卡曼幽默表示，8美元相当于“白赚3美元利润”，体现了定价心理学在游戏营销中的巧妙应用。",
-    "image_url": [
-      "https://img2.ali213.net/picfile/News/2026/01/09/584_202601095374899.jpg",
-      "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010953748779.jpg",
-      "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010953748971.jpg"
-    ],
-    "url": "https://www.ali213.net/news/html/2026-1/992603.html",
-    "category": "游戏"
-  },
-  {
-    "title": "有技术大佬正在为《最后生还者2》开发多人模式MOD！",
-    "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "据外媒GamesRadar报道，PC模组社区正积极为《最后生还者2》开发多人模式模组。曾参与《最后生还者》与《战神》模组制作的开发者Speclizer目前已实现同一游戏中生成两个独立玩家，并正尝试构建完整的PC端线上多人功能。尽管项目尚处早期阶段且无明确完成时间，但其进展已引发玩家广泛关注，被视为对顽皮狗取消官方多人项目后的重要社区回应。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010943945165.png",
-    "url": "https://www.ali213.net/news/html/2026-1/992575.html",
-    "category": "游戏"
-  },
-  {
-    "title": "炸鸡计划启动！德克士 × 《EVA》联动套餐正式发售！",
-    "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "德克士与《新世纪福音战士》（EVA）开启跨界联动，于2026年1月9日在全国指定门店及线上平台推出限定主题套餐。联动内容包括印有碇真嗣、绫波丽、明日香等角色形象的限定桶餐、包装与餐垫，并打造沉浸式“第三新德克士”主题店，融合EVA视觉与听觉元素。同时推出限量周边如主题卡与徽章，将餐饮体验升级为可收藏的EVA文化记忆，吸引粉丝打卡消费。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_202601094112768.png",
-    "url": "https://www.ali213.net/news/html/2026-1/992573.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《最终幻想战略版》复刻版销量破百万后 真要出续作？",
-    "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "《最终幻想战略版：伊瓦利斯编年史》自2025年9月发售以来，全球销量在三个月内突破100万份，远超原制作人松野泰己预期的三年80-100万目标。本作在原版基础上进行了画质升级，新增全语音、剧情扩充及“经典模式”，获得玩家高度评价。随着销量持续走高，玩家对续作的呼声日益高涨，松野泰己曾表示若销量达150万至200万份将考虑开发续作，目前这一目标已具备实现可能。游戏现已登陆Switch、PS5、PS4、Xbox Series X|S及Steam平台。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010943259763.jpg",
-    "url": "https://www.ali213.net/news/html/2026-1/992579.html",
-    "category": "游戏"
-  },
-  {
-    "title": "宫崎英高承认《艾尔登法环》已大幅偏离马丁原始构想",
-    "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "《艾尔登法环》总监宫崎英高在接受采访时表示，游戏最终呈现的世界与乔治·R·R·马丁最初构建的神话框架相比发生了极其显著的变化。马丁主要贡献了角色与背景设定，而FromSoftware团队则负责将其转化为玩家可探索的碎片化叙事结构。宫崎英高亲自主导了地图与叙事的深度融合，以引导玩家逐步拼凑世界真相，他认为这种大胆改编使游戏独树一帜，并在发售后多年仍保持独特魅力。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010933948700.png",
-    "url": "https://www.ali213.net/news/html/2026-1/992571.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《海参大作战》决定于2026年1月30日（周五）开启抢先体验 同时，旨在推进全球化IP开发的众筹活动也已正式启动",
-    "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "Polyscape株式会社宣布休闲多人联机即时战略游戏《海参大作战》将于2026年1月30日登陆Steam开启抢先体验，定价48元，首发折扣38元。游戏以海洋清洁工海参为主角，支持4人合作清扫污染海洋，包含8个关卡、多种特性海参、变异敌人“秽海魔参”及超50种观赏生物。同时，官方启动全球IP众筹，推出手办、毛绒玩具、亚克力立牌等周边，目标拓展日本“可爱”文化至北美市场。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010941217661.png",
-    "url": "https://www.ali213.net/news/html/2026-1/992587.html",
+    "summary": "Pearl Abyss旗下开放世界冒险游戏《红色沙漠》确认将于2026年3月20日登陆PC、PS5及Xbox Series X平台。为确保评测者能充分体验游戏内容，官方决定提前一个月发放评测码。市场营销专家威尔·鲍尔斯表示，此举旨在避免因发售日程密集导致媒体仓促评测，从而保障评测的深度与公正性，让玩家获得更全面、更扎实的评价参考。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011013043412.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992733.html",
     "category": "游戏"
   },
   {
     "title": "“京”牌玩家-全球游戏对接会（2026-01-14）",
     "time": "2026-01-14",
     "source": "白鲸出海",
-    "summary": "由白鲸出海主办的‘京’牌玩家-全球游戏对接会将于2026年1月14日在北京东城区举行，活动免费开放，规模150人。活动聚焦游戏出海领域，设置研发对接桌与产品路演环节，旨在促进游戏研发、发行企业及投资方的深度交流。活动强调垂直圈层与沉浸式主题，助力中国游戏企业开拓全球市场。现场还将展示部分参会企业信息，并提供会前预热文章《破浪前行，共拓蓝海》作为参考。",
+    "summary": "由白鲸出海主办的‘京’牌玩家-全球游戏对接会将于2026年1月14日在北京举行，活动聚焦游戏出海领域，设置研发对接桌与产品路演环节，汇聚游戏研发、发行企业及投资方等业内精英，旨在促进深度交流与资源对接。活动免费，限150人，需提前报名。同期发布预热文章《破浪前行，共拓蓝海》，探讨中国游戏出海新机遇。",
     "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251124/1763988779_pic_real.jpg",
     "url": "https://www.baijing.cn/activity/2097",
     "category": "游戏"
@@ -124,954 +192,906 @@
     "title": "蓉通全球 出海向新—游戏、应用增长私享会暨鲸宴·鲸英会第34期（2026-01-13）",
     "time": "2026-01-13",
     "source": "白鲸出海",
-    "summary": "本次活动由白鲸出海主办，聚焦游戏与应用出海领域的增长策略，旨在拆解2026年区域市场增长逻辑，整合技术创新、合规支付链路与行业资源，推动出海品牌升维。活动为闭门私享会，仅限30名游戏与应用开发者参与，免费报名，地点位于四川成都。现场将汇聚行业领航者，探讨全球化增长中的技术、产品与支付三力协同机制。",
+    "summary": "本次活动由白鲸出海主办，聚焦游戏与应用出海领域的增长策略，旨在拆解2026年区域市场增长逻辑，整合技术创新、合规支付链路与产品思维，推动出海品牌升维。活动为闭门私享会，规模仅30人，免费参与，面向游戏与应用出海开发者，特邀行业领航者分享实战经验与机遇洞察，助力企业高效拓展全球市场。",
     "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251215/1765768468_pic_real.jpg",
     "url": "https://www.baijing.cn/activity/2193",
     "category": "游戏"
   },
   {
-    "title": "每周AI揭秘｜第一个被AI彻底“破解”的游戏，99%的人猜不到",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "本文讲述AI程序奇努克在1994年击败跳棋世界冠军马里恩·廷斯利，成为首个在棋类游戏中战胜人类顶尖选手的AI。跳棋因其相对有限的状态空间（约5×10²⁰种局面）成为早期AI暴力穷举的试金石。谢弗团队通过构建39万亿种残局数据库，实现“全知”决策，最终在2007年证明跳棋在完美对弈下必为和棋。这一胜利早于深蓝和AlphaGo，却因跳棋的冷门而被忽视，标志着AI对确定性问题的彻底征服。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/2a0418f5-ed06-11f0-8ee5-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21424",
+    "title": "GameStop reportedly shuts down more than 400 US stores",
+    "time": "2026-01-10",
+    "source": "Engadget",
+    "summary": "GameStop计划关闭美国超过400家实体店，涉及从加利福尼亚到缅因州的多个地点，此举旨在削减成本。据追踪关闭信息的博客显示，已有410家门店确认关闭或正在关闭，另有11家即将关闭。这一行动与其2025年12月向SEC提交的文件一致，文件中提及将在财年结束前关闭大量门店。尽管GameStop在2021年曾因散户炒作股价飙升，但近年来其在加密货币和NFT领域的尝试均告失败，品牌方向持续受挫。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/tNpdmBWtrG2Y32v0iiTAFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/510b0340-ee61-11f0-b5e7-55d846559db6",
+    "url": "https://www.engadget.com/gaming/gamestop-reportedly-shuts-down-more-than-400-us-stores-210632743.html",
     "category": "游戏"
   },
   {
-    "title": "真三起源DLC /《噬血代码 II》首发立享9折！",
-    "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "杉果商城推出多项游戏折扣优惠，包括《女神异闻录5 皇家版》《生化危机8：村庄 黄金版》《暗喻幻想：ReFantazio》等经典大作史低促销，其中《噬血代码 II》和《真・三国无双 起源 梦幻四英杰》DLC首发享9折，另有《蒜什么建造师》仅售3.2元。文章推荐多款JRPG、动作与独立游戏，强调叠加优惠券后价格远低于Steam史低，适合玩家趁机补票。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010950446460.jpg",
-    "url": "https://www.ali213.net/news/html/2026-1/992599.html",
+    "title": "不要指望《博德之门3》登陆Switch 2，至少目前如此",
+    "time": "2026-01-10",
+    "source": "Engadget",
+    "summary": "Larian Studios首席执行官在Reddit AMA中表示，《博德之门3》登陆Switch 2的计划并非由他们决定，暗示可能涉及IP持有方Wizards of the Coast或Nintendo的决策限制。尽管团队希望移植该游戏，但目前无任何官方进展。此前Larian已确认不再为《博德之门3》开发主要更新或续作，但其技术总监也提到公司对Switch平台持开放态度，并已成功移植《神界：原罪2》。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/WgcS6Ls5QfQyl8wLrxBDVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/3208a6e0-ee44-11f0-8ca6-ddd49e6abb9e",
+    "url": "https://www.engadget.com/gaming/nintendo/dont-count-on-baldurs-gate-3-coming-to-switch-2-as-least-for-now-180538969.html",
     "category": "游戏"
   },
   {
-    "title": "《合金装备Ⅴ：幻痛》：小岛秀夫和Konami的“原爆点”",
+    "title": "《曼德领主》发行商Hooded Horse拒绝与使用生成式AI的开发商合作",
     "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "本文深度剖析了《合金装备V：幻痛》作为小岛秀夫与科乐美（Konami）决裂的导火索。文章回顾了小岛从新人成长为游戏界传奇的过程，以及科乐美因商业战略转向而对开发周期长、成本高的《幻痛》施加压力，最终导致项目被拆分、创作被干预。游戏虽获极高评价，却因叙事残缺被视为“半成品”，而小岛本人在宣传中被抹去姓名，象征性地成为被资本牺牲的“The Boss”。十年后，小岛独立成功，科乐美却难再驾驭经典IP，留下无尽遗憾。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010944148577.png",
-    "url": "https://www.ali213.net/news/html/2026-1/992595.html",
+    "source": "GamesIndustry.biz",
+    "summary": "游戏发行商Hooded Horse首席执行官Tim Bender表示，生成式AI对游戏开发构成“癌性”威胁，因此公司已禁止与使用该技术的开发商合作，即使仅用于原型阶段的占位符内容也不允许。Bender担忧AI生成资产可能意外进入最终产品，增加审核负担。此立场与行业其他公司形成对比，如Larian、Embark和Sega等虽谨慎使用AI但未完全禁止，而部分从业者如Troy Baker和Dan Houser则认为AI不应被妖魔化。该事件反映了游戏行业对AI应用的分歧与伦理争议。",
+    "image_url": "https://assetsio.gnwcdn.com/manor-lords_BRXqwpY.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/manor-lords-publisher-hooded-horse-wont-work-with-studios-using-generative-ai",
     "category": "游戏"
   },
   {
-    "title": "2025年中国游戏成绩单：找到对抗周期的密码",
+    "title": "报道：GameStop将在美国关闭数百家门店",
     "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "2025年中国游戏行业在新品爆款稀缺的情况下实现稳定增长，头部厂商通过长青游戏策略抵御周期性衰退。腾讯凭借《王者荣耀》《和平精英》等产品持续领跑，米哈游地位下滑，二次元赛道整体萎缩。SLG品类成为出海主力，点点互动、元趣娱乐等厂商表现突出。中国游戏在海外市场收入增长10.23%，二次元游戏在韩国市场占据主导地位。行业趋势显示，研发成本上升导致新品周期拉长，2026年或将迎来大作集中爆发的新周期。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_53395a5883b2428dbe4be901ae3a0bf4@000000_oswg42818oswg872oswg1120_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632014672233476",
+    "source": "GamesIndustry.biz",
+    "summary": "GameStop据报道已在美国关闭数百家实体店，根据第三方统计已有390家门店关闭，另有10家待确认。公司2024财年已关闭590家门店，并计划在2025财年继续大幅缩减门店数量。同时，GameStop拟关闭新西兰子公司EB Games，并已退出爱尔兰、瑞士、奥地利和德国市场，正寻求出售法国和加拿大业务。尽管业务收缩，公司仍为CEO Ryan Cohen设定了3500万美元的绩效奖励，目标是将市值从95亿美元提升至1000亿美元。财报显示，公司近三年销售持续下滑，硬件、软件和收藏品销售额均大幅下降。",
+    "image_url": "https://assetsio.gnwcdn.com/GameStop-00.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/report-gamestop-closing-hundreds-of-stores-in-the-united-states",
     "category": "游戏"
   },
   {
     "title": "Clair Obscur: Expedition 33 和 Ghost of Yōtei 获得2026年DICE奖最多提名",
     "time": "2026-01-09",
     "source": "GamesIndustry.biz",
-    "summary": "在2026年DICE奖提名中，《Clair Obscur: Expedition 33》与《Ghost of Yōtei》并列获得最多提名，共计8项，包括年度最佳游戏。此外，《Blue Prince》《Dispatch》和《Arc Raiders》等独立与大型作品也获得多项提名。多款游戏在角色表演、艺术指导、音乐与动画等领域获得认可，其中《Clair Obscur》和《Ghost of Yōtei》在多个技术与艺术奖项中表现突出。颁奖典礼将于2026年2月12日在拉斯维加斯举行。",
+    "summary": "2026年DICE奖提名揭晓，《Clair Obscur: Expedition 33》与《Ghost of Yōtei》并列获得最多提名，共八项，包括年度最佳游戏。两部作品在剧情、艺术指导、角色表演和音乐等方面均获认可。此外，《Blue Prince》《Dispatch》《Arc Raiders》等独立与大型作品也获得多项提名。颁奖典礼将于2026年2月12日在拉斯维加斯举行，Evan Wells将入选AIAS名人堂。",
     "image_url": "https://assetsio.gnwcdn.com/dice-awards.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
     "url": "https://www.gamesindustry.biz/clair-obscur-expedition-33-and-ghost-of-yotei-secure-most-nominations-at-dice-awards-2026",
-    "category": "游戏"
-  },
-  {
-    "title": "CWA加拿大称将采取一切法律手段保护已工会化的Ubisoft Halifax员工",
-    "time": "2026-01-08",
-    "source": "GamesIndustry.biz",
-    "summary": "CWA加拿大工会表示，将采取一切法律手段应对Ubisoft Halifax工作室关闭事件，质疑关闭决定与员工成立工会存在关联。尽管Ubisoft声明称关闭是为优化运营和降低成本，与工会化无关，但工会强调此举可能违反劳动法，并要求公司证明决策的公正性。该工作室成立于2010年，主要开发移动游戏，此次关闭影响71名员工，工会承诺全力支持受影响员工。",
-    "image_url": "https://assetsio.gnwcdn.com/ubisoft-workers-of-canada.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/cwa-canada-says-it-will-pursue-every-legal-recourse-to-protect-unionised-ubisoft-halifax-workers",
-    "category": "游戏"
-  },
-  {
-    "title": "GameStop据报道将在美国关闭数百家门店",
-    "time": "2026-01-09",
-    "source": "GamesIndustry.biz",
-    "summary": "GameStop reportedly closed hundreds of stores in the United States, with 390 confirmed closures and 10 more unconfirmed, as part of a broader restructuring. The company shut 590 U.S. stores in fiscal 2024 and plans further cuts in 2025. It is also exiting markets like New Zealand, Ireland, and Germany, while seeking buyers for its French and Canadian operations. Despite these cuts, CEO Ryan Cohen is eligible for a $35 million payout if GameStop’s market cap reaches $100 billion—up from $9.52 billion. Sales have declined significantly across hardware, software, and collectibles.",
-    "image_url": "https://assetsio.gnwcdn.com/GameStop-00.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/report-gamestop-closing-hundreds-of-stores-in-the-united-states",
-    "category": "游戏"
-  },
-  {
-    "title": "《Peak》联合创作者：任何人都能制作下一个爆款，但开发者机会越来越少",
-    "time": "2026-01-09",
-    "source": "GamesIndustry.biz",
-    "summary": "《Peak》联合创作者Nick Kaman表示，尽管玩家对优质游戏的需求始终存在，但独立开发者获得出版支持和资金的机会正在减少。《Peak》在发布九天内销量突破200万份，总收入超5500万美元，证明了短周期、聚焦核心玩法的开发模式可行。他建议开发者避免过度打磨非核心内容，优先保证游戏乐趣，即使未完全 polished 也能获得成功。Kaman还提到，其团队因失去《Going Under 2》的发行商而转向低成本快速开发，最终成就了这一独立游戏奇迹。",
-    "image_url": "https://assetsio.gnwcdn.com/PEAK_KeyArt_No_Logo.webp?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/peak-co-creator-anyone-can-make-the-next-big-hit-but-there-are-few-opportunities-for-developers",
-    "category": "游戏"
-  },
-  {
-    "title": "《Shape of Dreams》销量突破百万",
-    "time": "2026-01-08",
-    "source": "GamesIndustry.biz",
-    "summary": "由Lizard Smoothie开发、Neowiz发行的动作 roguelike 游戏《Shape of Dreams》于2025年9月上线后，销量已突破100万份。该新闻为简讯形式，源自官方社交媒体公告。游戏以其独特的美术风格和高难度玩法获得玩家关注，开发商与发行商尚未公布更多详细数据，但此次销量里程碑标志着独立团队在竞争激烈的市场中取得显著成功。",
-    "image_url": "https://assetsio.gnwcdn.com/shape-of-dreams.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/shape-of-dreams-surpasses-1m-units-sold-news-in-brief",
-    "category": "游戏"
-  },
-  {
-    "title": "《纪念碑谷》开发商Ustwo转型为“PC优先”工作室",
-    "time": "2026-01-08",
-    "source": "GamesIndustry.biz",
-    "summary": "伦敦游戏开发商Ustwo宣布将未来新作的开发重心从移动端转向PC平台，认为PC能提供更直接的玩家关系与更少的设计妥协。尽管曾以《纪念碑谷》等移动端游戏闻名，但公司指出在移动端主导下，向PC和主机移植时需做出诸多妥协。Ustwo已将《Assemble with Care》《Alba》等作品成功移植至PC，并计划未来以PC为基底，再扩展至其他平台。此外，公司透露《纪念碑谷3》因Netflix下架而意外获得重制机会，团队迅速优化结局与追加内容，成功推出独立版本。",
-    "image_url": "https://assetsio.gnwcdn.com/(5)_MV3_Belltower_1920x1080.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/monument-valley-maker-ustwo-is-now-a-pc-first-studio",
-    "category": "游戏"
-  },
-  {
-    "title": "《领主时代》发行商Hooded Horse拒绝与使用生成式AI的开发团队合作",
-    "time": "2026-01-09",
-    "source": "GamesIndustry.biz",
-    "summary": "Hooded Horse公司CEO Tim Bender表示，生成式AI对游戏开发构成“癌性”威胁，因此公司已在其出版合同中明确禁止开发商使用任何生成式AI工具，包括仅用于原型的占位内容。Bender担心AI生成资产可能意外流入最终产品，增加审查负担。该立场与行业其他公司形成对比，如Larian、Embracer和Rockstar等虽谨慎使用AI，但未全面禁止。与此同时，美国版权局已明确AI生成且缺乏人类创意的作品不受版权保护。",
-    "image_url": "https://assetsio.gnwcdn.com/manor-lords_BRXqwpY.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/manor-lords-publisher-hooded-horse-wont-work-with-studios-using-generative-ai",
     "category": "游戏"
   },
   {
     "title": "Larian将不在《神界》概念艺术中使用生成式AI",
     "time": "2026-01-09",
     "source": "GamesIndustry.biz",
-    "summary": "比利时游戏开发商Larian Studios确认，在开发新作《神界》时将完全不使用生成式AI创建概念艺术，以消除关于艺术作品来源的争议。CEO Swen Vincke表示，尽管曾尝试用AI辅助探索创意，但因引发误解，决定彻底排除AI在概念艺术中的应用。他强调所有游戏内艺术必须为原创，并确保训练数据来自公司自有内容。不过，Larian仍计划在其他开发环节中使用生成式AI以提升迭代效率，加速开发流程。",
+    "summary": "比利时游戏开发商Larian Studios确认，在开发新作《神界》时将完全不使用生成式AI创作概念艺术，以消除关于艺术作品来源的争议。CEO Swen Vincke表示，尽管曾尝试用AI辅助探索创意，但为确保所有艺术均为原创，已决定彻底移除AI在概念设计中的应用。不过，公司仍计划在内部使用AI加速开发流程，如迭代游戏机制，前提是AI模型仅使用自有数据训练，确保版权与数据来源合法。此前因AI使用引发公众误解，此次决定旨在明确立场。",
     "image_url": "https://assetsio.gnwcdn.com/divinity.webp?width=570&quality=85&format=jpg&dpr=3&auto=webp",
     "url": "https://www.gamesindustry.biz/larian-will-not-use-generative-ai-for-divinity-concept-art",
     "category": "游戏"
   },
   {
-    "title": "工会要求为被Rockstar裁员员工提供临时救济",
-    "time": "2026-01-08",
+    "title": "《Peak》联合创始人：任何人都能制作下一个爆款，但开发者机会越来越少",
+    "time": "2026-01-09",
     "source": "GamesIndustry.biz",
-    "summary": "英国独立工人联盟（IWGB）向英国就业法庭申请临时救济，要求恢复被Rockstar Games解雇的31名员工的职位和工作签证。Rockstar否认存在打压工会行为，称解雇原因是员工在不安全的Discord频道泄露了未公开游戏信息，与工会活动无关。IWGB坚称解雇系因工会参与，且已获得超过200名Rockstar North员工联名支持。英国首相斯塔默亦称此事“令人深感担忧”。案件预计进入全面听证阶段。",
-    "image_url": "https://assetsio.gnwcdn.com/iwgb2.webp?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/union-requests-interim-relief-for-employees-affected-by-rockstar-layoffs",
+    "summary": "《Peak》联合创始人Nick Kaman表示，虽然玩家对优质游戏的需求始终存在，但独立开发者获得出版支持和资金的机会正日益减少。他指出，由于中小型工作室难以生存，游戏生态面临萎缩。《Peak》在开发过程中曾因失去发行商而陷入困境，最终以低成本、短周期开发成功，销量超1000万份，收入超5500万美元。他建议开发者聚焦核心玩法，不必追求完美打磨，只要游戏有趣，玩家愿意包容。他强调，游戏开发不应千篇一律，创新路径正在显现。",
+    "image_url": "https://assetsio.gnwcdn.com/PEAK_KeyArt_No_Logo.webp?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/peak-co-creator-anyone-can-make-the-next-big-hit-but-there-are-few-opportunities-for-developers",
     "category": "游戏"
   },
   {
-    "title": "PH今日热榜 | 2026-01-08",
-    "time": "2026-01-08",
-    "source": "Decohack",
-    "summary": "Decohack发布的PH今日热榜汇总了2026年1月8日Product Hunt上最热门的27款新产品，涵盖AI工具、开发者效率、智能家居等多个领域。亮点包括LEGO SMART Play（无屏交互式积木）、Conversation API（简化AI聊天记忆构建）、Dessix（视觉化AI创作工作区）和Market Terminal（平民版华尔街终端）。多数产品聚焦AI与无代码开发，强调隐私、本地化和极简体验，其中前15名均获精选推荐，显示市场对智能化、低门槛工具的强烈需求。",
-    "image_url": "https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format",
-    "url": "https://decohack.com/producthunt-daily-2026-01-08/",
-    "category": "AI"
-  },
-  {
-    "title": "Steam Machine未亮相CES，但配件制造商已准备就绪",
+    "title": "这个半秘密的乐高智能积木功能赋予其更多潜力",
     "time": "2026-01-10",
     "source": "The Verge",
-    "summary": "尽管Steam Machine本身未在CES展会上正式亮相，但配件制造商Jsaux展示了其为Steam Machine设计的外壳原型和贴纸概念，意图构建类似Steam Deck的成功配件生态系统。文章指出，Jsaux此前在Steam Deck周边产品上取得成功，但要实现真正的硬件创新，仍需突破当前的展示性设计，推出具备实际功能的配件产品。现场展示的仅为外观模型，尚未有实质性的硬件发布。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_Jsaux_Steam_Machine_mockup_ADiBenedetto_0002.jpg?quality=90&strip=all",
-    "url": "https://www.theverge.com/tech/859713/the-steam-machine-wasnt-at-ces-but-accessory-makers-are-getting-ready",
+    "summary": "在CES 2026上，乐高展示了其智能积木的一项新功能：通过两个智能积木之间的精确位置感知，实现距离和方位的测量。设计师使用标准积木制成的“乐高尺”演示了积木能准确识别每10个凸点（约8厘米）的间距，并在无尺子环境下也能在2D和3D空间中追踪相对位置。该功能有望应用于未来乐高机器人导航、精准互动游戏等场景，超越了现有玩具的简单交互，展现出远超Star Wars系列的潜在应用价值。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/20260108_1511293-1.jpg?quality=90&strip=all&crop=0%2C7.3405535499398%2C100%2C85.31889290012&w=2400",
+    "url": "https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential",
     "category": "游戏"
   },
   {
-    "title": "我单手就能让《战地6》达到180fps",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "The Verge科技编辑Sean Hollister在CES展会上测试了英特尔全新Panther Lake芯片的集成显卡性能，发现其在未插电状态下仍能以40fps以上流畅运行《战地6》，即使在1080p分辨率下使用XeSS超采样和4倍帧生成技术。尽管实际帧率并非180fps，但其表现已足以支持单人游戏体验，展示了集成显卡在游戏性能上的显著进步。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/20260107_132411.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/858345/i-can-hold-up-180fps-in-battlefield-6-with-one-hand",
-    "category": "游戏"
-  },
-  {
-    "title": "我测试了最新的Switch 2手柄，这款是最好的",
+    "title": "乐高全新智能积木套装现已开放预购，推出三款星球大战主题产品",
     "time": "2026-01-10",
     "source": "The Verge",
-    "summary": "本文作者Cameron Faulkner测试了多款Nintendo Switch 2第三方手柄，推荐EasySMX S10为最佳整体选择，因其具备TMR摇杆、HD震动、amiibo支持和远程唤醒功能，价格仅$42，远低于原厂$89的Pro手柄。此外，Mobapad N1 HD和GuliKit ES Pro也作为高性价比选项被推荐，文章详细比较了各款手柄的按键手感、摇杆技术、续航和附加功能，强调第三方产品在防漂移技术上的优势。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/257964_Switch_2_controllers_CVirginia2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+    "summary": "乐高推出名为Smart Brick的智能积木系统，首次应用于三款星球大战主题套装，将于2026年3月1日发货。三款产品分别为69.99美元的达斯·维达TIE战斗机、89.99美元的卢克·天行者X翼战机和159.99美元的王座对决与A翼战机套装，均内置智能积木、感应标签和可发声的迷你人偶。Smart Brick集成了LED灯、扬声器、麦克风和传感器，可通过NFC识别配件触发声光效果，支持通过手机App更新内容。尽管部分粉丝担忧其削弱想象力，但评测认为其互动性超出预期。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego_smart.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets",
     "category": "游戏"
   },
   {
-    "title": "Spotify停止播放ICE招聘广告",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "Spotify确认其平台上已停止播放美国移民和海关执法局（ICE）的招聘广告，尽管这些广告在2025年底已停止投放。此前，Spotify因在免费用户播放列表中插入“加入保护美国使命”等ICE广告而引发广泛争议，甚至遭到用户抵制和音乐公司施压。报道称，Spotify从国土安全部获得约7.4万美元广告费，远低于谷歌和Meta等公司获得的数百万美元。目前，Spotify表示广告不违反其政策，并允许用户标记偏好。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/V8TfNApXMySDLTgdiMNdwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjk-/https://s.yimg.com/os/creatr-images/2019-10/71ca7f00-f9af-11e9-befa-01cf30ddfb45",
-    "url": "https://www.engadget.com/entertainment/streaming/spotify-is-no-longer-running-ads-for-ice-130000672.html",
-    "category": "社交"
+    "title": "我换掉了Windows，使用Linux一切顺利",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "作者Nathan Edwards在尝试将桌面系统从Windows切换至Linux（CachyOS发行版）后，分享了其一周使用体验。尽管遇到鼠标兼容性问题和Minecraft Bedrock版无法运行等小障碍，但大部分硬件（显卡、打印机、摄像头等）即插即用，游戏通过Proton兼容层运行良好。他称赞Linux界面简洁、无广告干扰，过渡比预期轻松，虽仍需完善备份与云同步等功能，但整体体验令人满意，无明显后悔。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+    "category": "游戏"
   },
   {
-    "title": "WhatsApp可能因Channels功能在欧盟被列为超大型在线平台",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "根据欧盟《数字服务法案》（DSA），WhatsApp的Channels广播功能因在2025年上半年平均月活跃用户达5170万，超过4500万门槛，可能被认定为“超大型在线平台”。这意味着WhatsApp将面临更严格的监管，包括内容审核义务，违规最高可被处以全球年收入6%的罚款。此前Meta已因Facebook和Instagram的内容管理问题被欧盟处罚。Engadget已联系Meta寻求回应，将跟进更新。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/TqvnujE_BCJuEvLoW.53Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05Mjc-/https://s.yimg.com/uu/api/res/1.2/RlF_9ttDg1PbJJbenr9wKg--~B/aD0xMjc1O3c9MTcwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/6bfa30fa-36c0-4484-a67d-2ead125097f9",
-    "url": "https://www.engadget.com/social-media/whatsapp-might-soon-be-subject-to-stricter-scrutiny-under-the-eus-digital-services-act-191000354.html",
-    "category": "社交"
+    "title": "Pocket Taco：GameSir推出的手机游戏掌上控制器",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "GameSir推出了名为Pocket Taco的微型Game Boy风格手机控制器，采用蓝牙连接，设计用于夹持手机底部而非USB-C端口。该设备预计于三月发售，售价35美元，与8BitDo的类似产品形成竞争。文章配有多张实拍图，展示其外观、握持方式及配套便携袋。作者Sean Hollister在CES期间体验了该设备，并强调其便携性和独特设计。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/20260108_171744.jpg?quality=90&strip=all",
+    "url": "https://www.theverge.com/tech/860093/pocket-taco-pocket-taco-pocket-taco",
+    "category": "游戏"
   },
   {
-    "title": "制定最低派费、优化罚款算法、取消包仓费与任务量……",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "文章聚焦快递行业转型期的合规改革，提出五大核心建议：制定全国统一最低派费标准以保障快递员基本收入；取消任务量考核与包仓费，降低网点运营压力；优化算法与罚款机制，废除‘超时即罚’等不合理规则，建立激励导向；打通末端申诉渠道，保护快递员合法权益；打破包邮体制，推动服务分层，赋予企业和消费者自主权。作者认为，唯有系统性改革才能根治行业内卷与末端生态失衡问题。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_759b88f9d7f9442cb601b0e1f79246fa@000000_oswg1134143oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632021569979657",
-    "category": "社交"
-  },
-  {
-    "title": "别低估了，淘宝闪购这一战的决心",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "阿里巴巴将淘宝闪购列为2026年战略重心，决心在即时零售赛道血战到底，通过提升订单价值、扩展品类供给（如天猫、盒马、猫超资源整合）和优化履约体验（如超时免单）构建长期竞争壁垒。尽管亏损规模达200亿元，但单位经济模型持续优化，正从“流量生意”转向“价值生意”。阿里凭借全域数据、品牌正品和实体网络协同，试图重塑零售格局，定义未来十年消费场景的主导权。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_29ab43bd01b5492a9c458f67202a354f@5888275_oswg867093oswg1080oswg654_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3631936836142087",
-    "category": "社交"
+    "title": "8BitDo FlipPad 手上手体验：一款直接插USB-C的Game Boy风格手机控制器",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "在CES 2026上，8BitDo推出了名为FlipPad的Game Boy风格手机控制器，可直接通过USB-C连接手机，预计2026年夏季上市，但价格尚未公布。该设备专为移动游戏设计，外形复古，类似经典掌机。文章还对比了GameSir即将在3月发布的蓝牙版本Pocket Taco（售价35美元）。作者Sean Hollister评价其体验出色，称‘This slaps’，凸显了移动游戏外设的创新趋势。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_8BitDo_FlipPad.jpg",
+    "url": "https://www.theverge.com/tech/860160/8bitdo-flippad-hands-on",
+    "category": "游戏"
   },
   {
     "title": "Gmail表情反应功能将默认向Workspace用户开放",
     "time": "2026-01-10",
     "source": "The Verge",
-    "summary": "谷歌两年前已在个人Gmail中推出表情反应功能，但该功能长期被隐藏。如今，谷歌宣布自2月9日起，将默认为所有Workspace用户启用此功能，用户可通过点击微笑表情图标以表情替代文字回复。接收方若使用Gmail，将在邮件底部看到表情反应；非Gmail用户则会收到单独通知。该功能不适用于超过20名收件人的群组邮件，且可查看每位反应者的身份。作者对这一功能的实用性持保留态度，认为其虽便捷但可能让邮件变得过于随意。",
+    "summary": "谷歌宣布自2月9日起，将默认为所有Workspace用户启用Gmail表情反应功能。该功能此前已存在于个人Gmail账户中两年，用户可通过隐藏的笑脸图标选择表情替代文字回复。接收者若为Gmail用户，将在邮件底部看到表情反应；其他邮箱用户则会收到单独通知。此外，群发邮件会显示每种表情的参与人数及来源，但对超过20名收件人或已发送20次反应的邮件将不支持。作者对是否使用该功能持保留态度，认为其更像短信而非正式邮件的沟通方式。",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/emoji-reactions.png?quality=90&strip=all&crop=7.296875%2C0%2C85.40625%2C100&w=2400",
     "url": "https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default",
     "category": "社交"
   },
   {
-    "title": "YouTube将允许用户在搜索结果中过滤掉Shorts",
-    "time": "2026-01-09",
+    "title": "马斯克称X的新算法将于下周开源",
+    "time": "2026-01-10",
+    "source": "Engadget",
+    "summary": "埃隆·马斯克在X平台上宣布，公司将在七天内开源X平台的新推荐算法，包括所有用于决定有机和广告内容推荐的代码，并承诺每四周更新一次，附带详细的开发者说明。此举旨在提高算法透明度，此前X的算法已受到法国和欧盟委员会的调查，同时其AI聊天机器人Grok因生成儿童性虐待内容和非自愿图像而备受争议。马斯克自2023年收购Twitter以来多次承诺开源算法，但此前发布的代码被认为不够完整且未及时更新。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/TAmMHojRdwAn67LRcl.nng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ0Nw--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-01-10_at_4.50.33%E2%80%AFPM.png",
+    "url": "https://www.engadget.com/big-tech/elon-musk-says-xs-new-algorithm-will-be-made-open-source-next-week-225721656.html",
+    "category": "社交"
+  },
+  {
+    "title": "马斯克称下周将开源X新算法",
+    "time": "2026-01-11",
     "source": "The Verge",
-    "summary": "YouTube正在更新其搜索过滤功能，新增“视频”和“Shorts”选项，允许用户分别筛选长视频或短视频内容，以改善搜索体验。同时，平台移除了“上架时间-最近一小时”和“按评分排序”等使用不佳的过滤器，并引入新的“流行度”排序选项，取代原有的“观看次数”排序。该功能旨在通过综合观看时长和相关性等信号更精准地评估视频热度。此外，“排序方式”菜单已更名为“优先级”，以提升用户操作的直观性。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_STK092_02.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/858867/youtube-shorts-search-results-filter",
+    "summary": "埃隆·马斯克宣布，将在一周内开源X平台的新推荐算法，涵盖所有决定用户有机内容和广告推荐的代码，并承诺每四周更新一次，附带开发者说明。尽管他曾在2023年开源过Twitter算法，但相关GitHub仓库至今未更新，引发外界对其承诺可信度的质疑。此次发布正值X旗下AI模型Grok因生成深度伪造内容面临全球批评之际，外界普遍认为此举或为应对舆论压力。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
+    "category": "社交"
+  },
+  {
+    "title": "WhatsApp可能因Channels功能受欧盟《数字服务法案》更严格监管",
+    "time": "2026-01-09",
+    "source": "Engadget",
+    "summary": "由于WhatsApp的Channels功能在欧盟地区月活跃用户达到5170万，超过欧盟《数字服务法案》（DSA）规定的4500万门槛，该功能可能被认定为“超大型在线平台”，从而面临更严格的监管和最高达全球年收入6%的罚款。该功能允许用户单向发布内容，类似社交媒体，引发欧盟委员会关注。Meta此前已因Facebook和Instagram的内容管理问题多次被欧盟处罚。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/TqvnujE_BCJuEvLoW.53Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05Mjc-/https://s.yimg.com/uu/api/res/1.2/RlF_9ttDg1PbJJbenr9wKg--~B/aD0xMjc1O3c9MTcwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/6bfa30fa-36c0-4484-a67d-2ead125097f9",
+    "url": "https://www.engadget.com/social-media/whatsapp-might-soon-be-subject-to-stricter-scrutiny-under-the-eus-digital-services-act-191000354.html",
+    "category": "社交"
+  },
+  {
+    "title": "Instagram数据泄露事件疑似暴露1750万用户个人信息",
+    "time": "2026-01-10",
+    "source": "Engadget",
+    "summary": "据安全公司Malwarebytes报告，Instagram发生大规模数据泄露，约1750万用户的用户名、电子邮件、电话号码及物理地址等敏感信息被曝光，并在暗网出售。该泄露可能与2024年Instagram API漏洞有关，已导致大量用户收到密码重置邮件。安全专家警告，这些数据可能被用于网络钓鱼和账户劫持。Meta尚未对此事发表官方声明，但建议用户启用双重验证并检查登录设备以保障账户安全。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/MjdUTofNH5reR8TQGJVqaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/deb5df10-ee54-11f0-af5f-329814eac189",
+    "url": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
     "category": "社交"
   },
   {
     "title": "X指控音乐出版商“滥用”DMCA下架通知",
     "time": "2026-01-10",
     "source": "The Verge",
-    "summary": "X平台起诉美国国家音乐出版商协会（NMPA）及多家音乐出版商，指控其联合利用数字千年版权法案（DMCA）频繁发送下架通知，以施压X接受行业统一授权协议，剥夺其与各出版商单独谈判的竞争力。该诉讼是双方长期版权纠纷的新阶段，此前NMPA曾因X平台大量侵权音乐内容起诉其索赔2.5亿美元。X要求法院禁止NMPA的集体谈判行为并寻求经济赔偿。",
+    "summary": "X平台起诉美国国家音乐出版商协会（NMPA）及其成员音乐出版商，指控其联合利用数字千年版权法（DMCA）频繁提交下架通知，以施压X接受全行业统一授权协议，剥夺其与各出版商独立谈判的权利。该诉讼是双方长期版权纠纷的最新发展，此前NMPA曾起诉X侵犯1700多首歌曲版权并索赔2.5亿美元。X要求法院判令赔偿损失并禁止NMPA强迫其集体谈判。",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535562/STK160_X_TWITTER_2__D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
     "url": "https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit",
     "category": "社交"
   },
   {
-    "title": "国际足联与TikTok达成首个首选平台协议，助力2026年世界杯内容传播",
-    "time": "2026-01-08",
-    "source": "FIFA.com",
-    "summary": "国际足联（FIFA）与TikTok达成史上首个“首选平台”合作协议，旨在全面提升2026年美加墨世界杯的全球内容覆盖与粉丝互动。该合作将依托TikTok专属世界杯主题页，提供独家幕后内容、全球创作者计划、定制贴纸与互动功能，并允许官方媒体伙伴进行赛事片段直播与广告变现。协议延续了2023年女足世界杯的成功经验，预计将进一步触达年轻及女性受众，增强足球内容的传播力与商业价值，同时强化知识产权保护。",
-    "image_url": "",
-    "url": "https://inside.fifa.com/organisation/media-releases/tiktok-preferred-platform-enhance-coverage-world-cup-2026",
+    "title": "X限制Grok图像生成功能仅限付费订阅用户，因引发全球谴责",
+    "time": "2026-01-09",
+    "source": "TechCrunch",
+    "summary": "埃隆·马斯克旗下AI公司xAI因其AI图像生成工具Grok被广泛用于生成女性和儿童的性化及裸体图像，引发全球多国谴责。为应对舆论压力，X平台已将该功能限制为仅付费订阅用户可用，但Grok独立App仍对所有人开放。英国、欧盟和印度均已介入，要求xAI保留相关文档并立即整改，否则可能丧失法律豁免权。此前该功能每日可生成数千张非自愿裸体图像，造成严重伦理与法律争议。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?w=1024",
+    "url": "https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/",
     "category": "社交"
   },
   {
-    "title": "穷人福音，MIT研究：不用堆显卡，抄顶级模型作业就成",
+    "title": "AI是商业模式的压力测试",
     "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "MIT最新研究发现，尽管不同AI模型架构和训练数据各异，但当其性能达到一定水平时，对物质本质的理解会高度趋同，呈现出“真理收敛”现象。研究通过表征对齐度验证，高性能模型在处理分子数据时特征空间趋于一致，甚至跨模态模型（如文本与图像）对“猫”的理解也逐渐对齐。这表明AI并非胡乱学习，而是在逼近客观物理规律。研究指出，无需盲目堆算力，可通过“模型蒸馏”将大模型知识迁移至轻量模型，实现高效低成本的科学AI发展。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_93eac0744bd546318ef9e8d0c98f830f@5888275_oswg47549oswg906oswg256_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632135404520710",
-    "category": "AI"
-  },
-  {
-    "title": "周鸿祎2026年20大AI预测：当“硅基员工”与“超级个体”成为现实",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "周鸿祎发布《2026年AI全景预测》，预言“硅基数字员工”将正式进入职场，与人类组成“碳基+硅基”混合团队，重塑组织结构与管理逻辑。AI不再只是工具，而是协作伙伴，中层岗位或将被取代，管理者转型为“业务教练”。行业Know-how成为核心护城河，个体能力因AI赋能而放大，“超级个体”崛起。同时，劳动法、责任归属、团队文化等制度与伦理问题亟待重构。文章强调，传统企业应深挖自身经验数据，而非盲目追赶通用大模型，AI的真正价值在于激发人类创造力与批判性思维。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_b040fe1327504aa1b8e0e8eb8aef94c4@000000_oswg74132oswg1080oswg999_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632075075011845",
-    "category": "AI"
-  },
-  {
-    "title": "瞄准英伟达，国产算力产业走向“闭环”",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "本文探讨国产算力产业在芯片设计、存储、网络互连和软件生态等方面的全面突破。随着天数智芯、摩尔线程、沐曦股份等国产GPU厂商上市，长鑫科技与长江存储在DRAM和NAND Flash领域实现量产，中科曙光、海光信息构建高速互联集群，国产算力产业链逐步形成闭环。同时，摩尔线程推出MUSA开发生态，云厂商优刻得通过统一调度屏蔽硬件异构性，科研与企业用户开始大规模采用国产方案，标志着国产算力正从单点突破走向系统性协同。",
-    "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
-    "url": "https://36kr.com/p/3632055238607880",
-    "category": "AI"
-  },
-  {
-    "title": "下一个万亿AI赛道，上下文图谱，才是AI创业的真正机会",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "本文探讨了AI时代企业软件的新机遇——上下文图谱。作者指出，传统SaaS系统仅记录数据状态，却忽略了决策背后的上下文轨迹，如跨部门沟通、临时审批和例外处理。这些隐性信息才是AI Agent真正需要的“推理依据”。初创公司通过在执行路径中捕捉决策过程，构建可回放、可搜索的上下文图谱，有望成为下一代万亿级平台。现有巨头因架构局限难以介入，而专注于人机协同、记录决策轨迹的创业者正奠定AI时代的新基础设施。",
-    "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
-    "url": "https://36kr.com/p/3632090936919304",
-    "category": "AI"
-  },
-  {
-    "title": "快手AI可以更稳点",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "文章分析了快手AI产品‘可灵’在2025至2026年间的快速发展与内部困境。尽管可灵在视频生成质量上领先，海外下载量与收入显著增长，推动快手股价回升，但其AI业务面临研发投入高、收入占比低、与主业协同不足等问题。核心高管接连离职暴露组织不稳，战略在技术理想与商业变现间摇摆。新推出的‘Motion Control’功能提升可控性，被视为商业化关键突破。文章认为快手AI正处于‘黎明前黑暗’，能否稳住技术团队与战略方向，将决定其能否在2027年前后迎来视频AI的春天。",
-    "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
-    "url": "https://36kr.com/p/3632137676030985",
-    "category": "AI"
-  },
-  {
-    "title": "被小米辞退后，王腾官宣创业，入局AI健康",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "小米前高管王腾在被辞退四个月后官宣创业，成立新公司“今日宜休”，专注于AI+健康睡眠领域。公司注册资本100万元，王腾持股55%并兼任经理与财务负责人，团队核心成员来自小米、华为等企业，总部设于北京，计划在杭州、深圳设分部。王腾表示将结合传感器与大模型实现睡眠状态的主动干预，并明确回应未来将接入米家生态。此前，王腾因“泄露机密”被小米辞退，但其否认违法行为，称仅存在失职并已深刻反省。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/762357f1-ed0a-11f0-a61e-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21429",
-    "category": "AI"
-  },
-  {
-    "title": "「听觉」引导「视觉」，OmniAgent开启全模态主动感知新范式",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "浙江大学、西湖大学与蚂蚁集团联合提出OmniAgent，一种基于音频引导的全模态主动感知Agent，通过「思考-行动-观察-反思」闭环机制，实现跨模态细粒度理解。该方法突破传统端到端模型在视听对齐与计算成本上的瓶颈，在Daily-Omni、OmniVideoBench等基准测试中均超越Gemini 2.5-Flash和Qwen3-Omni等模型，准确率提升超10%，为全模态智能体设计提供了新范式。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/7281f042-ed06-11f0-90d8-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21426",
-    "category": "AI"
-  },
-  {
-    "title": "刚刚！MiniMax敲钟上市，盘中涨幅超过60%！市值高达827亿港元！闫俊杰爆料：内部代码80%都由AI完成，公司平均年龄29岁，账上超10亿美金",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "MiniMax于2026年1月9日在港交所上市，发行价165港元，盘中最高涨至270.8港元，市值达827亿港元。公司由前商汤科技高管闫俊杰创立，专注多模态AGI技术研发，产品包括MiniMax M1/M2大模型、海螺AI、星野等，用户超2.12亿，海外收入占比超70%。2025年前九个月营收达5343.7万美元，毛利率提升至23.3%。研发开支高达1.8亿美元，但现金储备超11亿美元。员工平均年龄29岁，研发团队占比73.8%，80%代码由AI完成，被誉为全球AI公司最快上市纪录保持者。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/ffdd96a5-ed03-11f0-a180-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21423",
-    "category": "AI"
-  },
-  {
-    "title": "都有混合检索与智能路由了，谁还在给RAG赛博哭坟？",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "本文驳斥了‘大模型长上下文可取代RAG’的片面观点，指出全量加载上下文成本高、注意力分散导致准确率下降，传统RAG则存在盲目检索和召回失效问题。文章提出新型RAG应构建四层智能决策系统：路由判断、查询构造、混合检索策略选择与最小上下文生成，并强调混合检索（语义+词法+多模态）与统一向量架构（如Milvus 2.6）对提升效率与准确率的关键作用。同时呼吁对RAG各环节进行独立评估，避免仅依赖最终答案质量进行判断。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/559d0454-ed06-11f0-b454-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21425",
-    "category": "AI"
-  },
-  {
-    "title": "训具身模型遇到的很多问题，在数据采集时就已经注定了丨鹿明联席CTO丁琰分享",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "鹿明机器人联席CTO丁琰在媒体沟通会上指出，具身智能模型训练失败的根源多在于数据采集阶段，而非训练本身。他强调UMI（通用操作接口）是解决数据孤岛与高成本问题的关键，其团队研发的FastUMI Pro设备具备全球最高空间精度，支持多模态感知，并构建了8道工业级数据质量评估体系，承诺只交付100%可复现轨迹。丁琰批评市面上多数UMI设备因硬件性能差、系统拼凑导致数据质量低下，提出“脏数据”与“废数据”概念，强调硬件、数据、算法三者环环相扣，需系统性设计才能推动具身智能发展。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/8e7960f3-ed06-11f0-9ba6-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21427",
-    "category": "AI"
-  },
-  {
-    "title": "Transformer已死？DeepMind正在押注另一条AGI路线",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "谷歌DeepMind提出名为‘嵌套学习’（Nested Learning）的新框架，旨在解决大语言模型的持续学习与灾难性遗忘问题。该框架将优化器与神经网络架构视为互为上下文的嵌套记忆系统，通过多层级联想记忆机制实现知识的自然沉淀与迁移。论文由康奈尔博士生Ali Behrouz主导，提出MIRAS统一框架与HOPE架构，在长上下文与持续学习任务中表现优于现有模型，被视为可能开启AGI时代的关键突破。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/85a94dda-ed0a-11f0-af32-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21428",
-    "category": "AI"
-  },
-  {
-    "title": "全球最大AI榜单塌房！52%高分答案全是胡扯，硅谷大厂集体造假？",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "文章揭露LMArena这一全球知名AI模型评测平台存在严重缺陷，52%的高分回答内容错误，评分机制依赖用户主观偏好而非事实准确性，导致模型为迎合格式、长度和表情符号而造假。Meta曾通过专门优化的版本虚高排名，引发行业对评测体系真实性的质疑。Surge AI创始人Edwin Chen批评该平台为“AI发展的癌症”，指出AI训练正偏离实用性，转向追逐参与度的幻觉，呼吁行业回归可靠性与真实价值。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/39a1b013-ed0c-11f0-b9e5-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21430",
-    "category": "AI"
-  },
-  {
-    "title": "可以科技完成超亿元股权融资，将关注人机情感交互",
-    "time": "2026-01-09",
-    "source": "多知网",
-    "summary": "消费级机器人公司可以科技完成超亿元股权融资，由吴中金控集团、元禾控股领投，基石资本、蓝驰创投、黎万强等跟投。公司此前已完成7轮融资，本轮融资将用于加速家庭服务机器人与教育机器人产品的研发及市场拓展。同期，可以科技在CES2026发布全新桌面助理机器人Loona Deskmate，该产品不自带屏幕、摄像头或麦克风，通过手机吸附与多模态AI实现无需指令的主动情感交互，聚焦人机情感交互场景。",
-    "image_url": "http://www.duozhi.com/d/file/2026/01/1b561054ae8f2293d8969f9124c135c4.jpg",
-    "url": "http://www.duozhi.com/industry/insight/2026010918066.shtml",
-    "category": "AI"
-  },
-  {
-    "title": "让世界模型推理效率提升70倍：上海AI Lab用“恒算力”破解长时记忆与交互瓶颈",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "上海AI Lab联合多家机构开源世界模型Yume1.5，提出时空信道联合建模（TSCM）架构，通过时空与通道双维度压缩，实现长视频生成中近似恒定的计算成本，将推理速度从572秒提升至8秒，效率提升70倍。系统支持文本与键盘双重交互，整合高质量Sekai数据集与事件生成能力，并开源模型权重、代码及数据集，推动世界模型工程化落地。尽管存在物理逻辑缺失等局限，该成果为AGI发展提供了重要路径。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/d9b507f8-ed28-11f0-bf1b-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21440",
-    "category": "AI"
-  },
-  {
-    "title": "Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "阿里云百炼发布Agent 2.0架构，推动智能体从‘手工作坊’迈向‘工业化流水线’时代。通过‘1+2+N’开发框架，支持高代码与低代码并行，提升多模态知识库RAG能力，实现文档、音视频等数据的智能解析与检索。平台提供异步调用API、闲时调度降低50%以上推理成本，并支持企业级数据连接与机密推理，助力智能体成为懂业务的‘数字化员工’。同时开源AgentScope框架，赋能企业构建自主执行、可反思的智能体系统。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/d48b7469-ed25-11f0-98d4-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21441",
-    "category": "AI"
-  },
-  {
-    "title": "CES2026揭示的AI三场变革：从眼镜到机器人、从家庭到工业",
-    "time": "2026-01-10",
-    "source": "36氪",
-    "summary": "CES 2026展现了AI从虚拟走向物理世界的系统性变革，智能眼镜、AI机器人、脑机接口、智能家居与工业自动化成为核心趋势。中国厂商如Rokid、影目、云鲸、LumiMind等在轻量化眼镜、AI随身机器人、睡眠仪等领域引领创新，黑芝麻智能、道通科技推动车规芯片与工业AI落地。AI正从工具演变为嵌入式生产力，重构信息交互、生活场景与工业底座，标志着物理AI元年的开启。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_0d7c3c2f3050427db83a3c94985f1174@1267484143_oswg242811oswg705oswg522_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3631998439359491",
-    "category": "AI"
-  },
-  {
-    "title": "谁说老实人赚不到钱？Claude用一张3500亿的支票打脸OpenAI",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "Anthropic公司凭借Claude模型在AI安全与代码能力上的极致专注，五年内估值从百亿飙升至3500亿美元，反超OpenAI。与OpenAI的激进扩张和巨额亏损形成鲜明对比，Anthropic保持团队稳定、营收三年增长十倍，企业级客户青睐其低错误率与高可靠性。Claude在代码生成测试中表现领先，成为开发者首选工具，被视作AI落地生根的坚实底座，理想主义最终赢得商业胜利。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/43619411-ed0e-11f0-a2f1-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21435",
-    "category": "AI"
-  },
-  {
-    "title": "AI原生的广域网技术来了，传统要被淘汰了？",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "本文深入探讨了SRv6协议如何重构传统广域网技术，取代MPLS成为新一代网络架构核心。作者通过阿里云专家的实战经验，解析了SRv6如何利用IPv6地址空间实现灵活的流量工程、解耦隧道与服务质量、降低运维复杂度，并通过分段路由（Segment Routing）提升带宽利用率与网络稳定性。文章还揭示了阿里云在芯片可编程性、域切分和SID-marking等技术上的创新，展现了AI时代对底层网络基础设施的高要求与技术演进路径。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/759a301f-ed25-11f0-a106-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21439",
-    "category": "AI"
-  },
-  {
-    "title": "谁家更新日志那么长啊？Claude Code版本更新到2.1.0引围观，1096次提交一口气上线",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "Claude Code发布2.1.0重大更新，累计合入1096次代码提交，新增Shift+Enter换行、钩子支持、Skills增强、多语言响应、会话传送等功能，引发开发者热议。团队在更新后迅速推出2.1.1和2.1.2版本修复问题，其高效迭代依赖AI辅助编码，创始人Boris Cherny称团队自身重度使用该工具推动产品优化。部分用户批评更新频繁但存在bug，功能复杂。文章源自微信公众号‘机器之心’。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/9b1d152f-ed1f-11f0-bd14-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21437",
-    "category": "AI"
-  },
-  {
-    "title": "Meta收购Manus最新进展：商务部介入，启动评估调查",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "中国商务部宣布对Meta收购AI初创公司Manus展开评估调查，重点审查其是否违反技术出口管制、数据出境及对外投资相关法规。Manus原为中国公司，2025年迁至新加坡后被Meta以数十亿美元收购，其核心AI技术与用户数据是否合规出境成为焦点。若查实违规，交易或被叫停，相关人员或面临法律责任。此事件凸显中国对AI关键技术出海的监管收紧。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/6725d92c-ed0e-11f0-a92e-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21436",
-    "category": "AI"
-  },
-  {
-    "title": "我用上了央视同款的 AI 同传耳机，发现它比「翻译」强多了｜CES 2026",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "文章报道了深圳厂商时空壶在CES 2026上发布的W4系列AI同传耳机，强调其并非传统翻译工具，而是以「沟通」为核心设计的穿戴设备。该耳机通过骨声纹拾音、语义切分和多语种支持，实现低延迟双向实时翻译，显著提升跨语言对话的自然度与效率，已获全球150万用户，并被央视、万豪酒店及深圳招商大会等广泛采用。作者认为其成功在于精准定位真实需求，技术深度远超大厂的功能叠加式AI产品。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/0c53a737-ed0e-11f0-a4a2-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21434",
-    "category": "AI"
-  },
-  {
-    "title": "AI月产十亿行代码，暴增76%！程序员论坛炸锅：代码行数≠生产力！",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "AI编程工具推动开发者月均代码提交量增长76%，中型团队提升达89%，但程序员社区质疑代码行数并非生产力有效指标。报告指出AI加速了代码生成与迭代，但忽视了代码质量、重写频率与任务复杂度差异。专家建议以“编辑行数”（增删并计）评估效率。同时，OpenAI在模型SDK下载量上仍领先，但Anthropic增长迅猛，差距缩小。LLMOps与RAG等技术栈正成为AI编程基础设施，而新型推理方法如Self-MoA、Search-R1预示未来突破方向。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/ea717ceb-ed0d-11f0-ad30-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21433",
-    "category": "AI"
-  },
-  {
-    "title": "CaveAgent让LLM学会了“跑代码”，你能把Agent变成Jupyter里的“老司机”",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "香港科技大学研究团队提出CaveAgent框架，通过双流架构（语义流+运行时流）让大语言模型直接在Jupyter内核中执行代码，实现状态持久化。该方案突破传统文本化Agent的上下文爆炸、数据失真和多轮遗忘问题，支持直接操作Python对象，显著提升复杂数据任务成功率与Token效率，为AI Agent从聊天机器人向运行时操作者转型提供新范式。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/44feceb9-ed25-11f0-b707-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21438",
-    "category": "AI"
-  },
-  {
-    "title": "MiniMax 融资故事：4 年 7 轮，谁在推动中国 AI 第一场资本盛宴",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "MiniMax 在成立四年内完成七轮融资，累计获投15亿美元，阿里为最大外部股东，高瓴为第一大财务投资人。公司由商汤前高管闫俊杰等人创立，早期聚焦多模态大模型与to C应用，坚持技术驱动与成本控制。在ChatGPT爆发后迅速获得腾讯、红杉、明势等机构加持，2026年1月港股上市，市值达898亿港元。文章还原了其创业历程、投资人视角及在算力受限环境下探索AI商业化路径的独特策略。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/f55ecd16-ed25-11f0-9b65-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21442",
-    "category": "AI"
-  },
-  {
-    "title": "a16z：2026 年的 AI 应用生态，关键问题是这几个",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "a16z投资人在文章中预测，2026年AI应用生态的核心矛盾将从「如何实现」转向「该做什么」，工具需从执行型升级为思考型。AI应用将不再是简单调用大模型，而是整合多模型调度、垂直领域UI与丰富功能的组合体，形成「窄而深」的创业机会。应用层有望独立于模型层发展，凭借独家数据、网络效应和生态系统碾压巨头。同时，企业需推动「软件优先」文化，CEO应大胆定价、借鉴标杆案例，迎接AI驱动的生产力革命。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/a603d799-ed0d-11f0-9c82-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21431",
-    "category": "AI"
-  },
-  {
-    "title": "Z Product｜Suno在用的客户调研Agent，Dialogue AI重构千亿美元的市场研究产业，VC正在押注“理解的速度”",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "Dialogue AI是一款由前Snap、Nextdoor等公司资深团队创立的AI原生市场研究平台，通过AI自动完成研究设计、参与者招募、AI主持访谈与即时洞察生成，将传统需数周的调研流程缩短至一两天。平台聚焦探索性研究、概念测试等四大场景，已获Lightspeed领投的600万美元种子轮投资，致力于以AI增强人类洞察力，重构超千亿美元的市场研究产业，推动“理解的速度”成为企业核心竞争力。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/6446b928-ed26-11f0-8b7b-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21446",
-    "category": "AI"
-  },
-  {
-    "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold到药物发现的最后一公里",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "清华大学智能产业研究院联合生命学院、化学系在《Science》发表论文，推出AI药物筛选平台DrugCLIP，通过深度对比学习实现基因组级别虚拟筛选，24小时内可完成10万亿次蛋白-分子配对计算。该平台突破传统方法速度与范围限制，首次完成覆盖人类基因组约1万个蛋白靶点的大规模筛选，成功识别出抑郁症、癌症、帕金森等疾病潜在药物分子，并开放全部数据供全球科研使用，显著推动后AlphaFold时代的药物发现进程。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/524f68a4-ed58-11f0-aece-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21452",
-    "category": "AI"
-  },
-  {
-    "title": "MIT天才博士刚毕业，就被前OpenAI CTO抢走！年薪或300万起步",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "MIT博士肖光烜刚毕业即加盟前OpenAI CTO创办的初创公司Thinking Machines，专注大模型预训练。他本科毕业于清华大学双学位，博士期间在MIT研究高效大模型算法，提出SmoothQuant、DuoAttention、XAttention等多项创新技术，显著提升推理效率与显存利用率。其博士论文构建了完整高效LLM框架，获业界高度评价。据称其入职年薪达50万美元（约350万元），远超OpenAI等公司同类岗位平均水平，凸显AI顶尖人才的稀缺与高价值。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/4a7c817d-ed26-11f0-837d-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21445",
-    "category": "AI"
-  },
-  {
-    "title": "速递｜AI电商初创公司Spangle，六人团队打造“由AI介导”页面，A轮融资1500万美元估值跃至1亿美元",
-    "time": "2026-01-09",
-    "source": "AITNT",
-    "summary": "AI电商初创公司Spangle由前Bolt首席执行官Maju Kuruvilla创办，凭借AI驱动的实时个性化购物页面技术，完成1500万美元A轮融资，投后估值达1亿美元。其核心产品ProductGPT根据用户行为动态生成商品页面，已服务Revolve、Alexander Wang等品牌，显著提升转化率与客单价。公司仅六人团队，依托AI技术实现高效运营，计划扩大研发与销售团队。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/162454ef-ed26-11f0-a15f-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21443",
+    "source": "Dries Buytaert",
+    "summary": "文章探讨了AI对开源商业模型的冲击，以Tailwind Labs裁员75%为例，指出AI commoditizes可明确指定的内容（如文档、预建组件），导致流量和收入锐减。作者认为，AI无法替代实际运营（如部署、运维、安全），真正的价值正从“指定”转向“执行”。Acquia和Vercel等公司通过提供托管与服务而非开源框架本身实现盈利，强调开源是通道而非产品。文章呼吁对AI训练数据使用与补偿机制进行政策反思。",
+    "image_url": "https://dri.es/files/cache/blog/sailing-into-the-unknown-1280w.jpg",
+    "url": "https://dri.es/ai-is-a-business-model-stress-test",
     "category": "AI"
   },
   {
     "title": "重磅！Claude Code官方开源：AI屎山代码，终于有解了~（附提示词）",
     "time": "2026-01-09",
     "source": "AITNT",
-    "summary": "Claude Code官方开源了名为code-simplifier的插件，旨在解决AI生成代码后出现的“屎山”问题。该插件通过一套精心设计的提示词，自动重构代码以提升可读性、一致性和可维护性，同时严格保持原有功能不变。其核心原则包括：优先清晰而非简洁、强制执行项目编码规范、避免过度简化、聚焦近期修改代码。插件支持自定义配置，适用于各类AI编程场景，被评价为AI编程从“生成”走向“治理”的重要一步。",
+    "summary": "Claude Code官方开源了名为code-simplifier的插件，旨在解决AI生成代码因频繁修改导致的“屎山”问题。该插件通过一套精心设计的提示词，在不改变功能的前提下，优化代码的清晰度、一致性和可维护性，强调“清晰优于简洁”，并支持自定义项目规范。插件默认聚焦最近修改的代码段，推荐使用Claude Opus模型进行重构，适用于个人开发者和团队提升AI编程质量。",
     "image_url": "https://www.aitntnews.com/pictures/2026/1/9/120c2db0-ed33-11f0-9348-fa163e47d677.webp",
     "url": "https://m.aitntnews.com/newDetail.html?newId=21450",
     "category": "AI"
   },
   {
-    "title": "英伟达用AI技术赋能旧显卡：30系/40系显卡性能暴涨！",
-    "time": "2026-01-09",
-    "source": "游侠网",
-    "summary": "英伟达宣布通过自研NVFP4低精度浮点标准，以AI技术赋能RTX 30系和40系显卡，使其在AI推理任务中性能提升30%至360%，显存占用大幅降低，如Flux.1从23GB压缩至9GB。该技术在Blackwell架构为原生支持，旧显卡通过模拟实现。此举旨在应对内存成本上涨压力，重启旧显卡市场，维持性能竞争力，引发行业对AI算法下放与旧硬件潜力的广泛关注。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010942547724.jpg",
-    "url": "https://www.ali213.net/news/html/2026-1/992583.html",
-    "category": "AI"
-  },
-  {
-    "title": "Stack Overflow已死？CEO带队狂赚1.15亿刀，6个月原地反杀",
+    "title": "「liko.ai」完成首轮融资，打造以 AI Home Center 为核心的智能家居解决方案｜光源孵化",
     "time": "2026-01-10",
-    "source": "36氪",
-    "summary": "面对AI冲击导致提问量骤降，Stack Overflow并未衰亡，反而通过AI转型实现收入翻番，年收入达1.15亿美元。公司禁止AI生成回答，但推出基于9000万条高质量问答的AI Assist工具，并将历史数据授权给OpenAI等企业，同时深耕企业级私有化知识库服务。核心用户仍重视人工权威答案，平台在保留社区精神的同时，以克制方式拥抱AI，实现商业与社区的双重进化。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_ae7625bf5de644888af8fd1042a283c2@5888275_oswg263678oswg1080oswg708_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632135369819399",
+    "source": "AITNT",
+    "summary": "liko.ai 宣布完成首轮融资，由商汤国香资本、东方富海、讯飞创投等多家机构联合投资，光源资本担任孵化方及独家财务顾问。公司致力于打造以 AI Home Center 和 AI 原生摄像头为核心的家庭智能中枢，通过端侧视觉语言模型实现对家庭场景的理解、推理与主动守护，突破传统摄像头仅识别的局限。团队由前美团硬件委员会主席 Ryan Li 领导，具备深厚软硬件全栈经验，强调端侧部署保障隐私，构建数据飞轮与生态壁垒，推动家庭AI从连接走向感知决策时代。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/4f68be2b-edd1-11f0-b24b-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21476",
     "category": "AI"
   },
   {
-    "title": "国产机器人会师CES",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "2026年CES展会上，近30家中国机器人企业集体亮相，涵盖人形机器人、四足机器人、灵巧手等全产业链，展台人气火爆。中国企业凭借制造成本优势和快速供应链，以舞狮、拳击、发牌等创意演示吸引全球关注，现场订单频出。但海外客户更关注工业落地与本地化售后，中国公司正加速构建海外交付体系，以突破文化差异与服务短板，争夺全球市场主导权。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_1fc6b127615f4d19b2ba587ed3c6053c@5888275_oswg59187oswg1080oswg776_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632092058928392",
+    "title": "不到百万级，看不见 MCP 的真实问题：创始人亲述这疯狂的一年",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "MCP联合创始人David Soria Parra回顾了MCP协议一年来的爆发式发展，从开源工具演变为AI行业事实标准，获微软、Google、OpenAI等巨头采纳。文章深入探讨了MCP在认证机制、远程服务、长任务支持等方面的演进，以及面临的大规模扩展性挑战，如百万级请求下的状态同步问题。同时，他强调MCP作为通信层的核心价值，与skills等协议正交互补，并展望了MCP UI、私有registry及企业级安全扩展的未来方向。",
+    "image_url": "",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21466",
     "category": "AI"
   },
   {
-    "title": "智谱、MiniMax港股IPO，熬过孤独的人和500亿奖赏 | 深氪lite",
-    "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "本文报道了中国AI大模型公司智谱AI与MiniMax于2026年初相继在港交所成功上市，市值分别突破570亿与500亿港元。文章回顾了两家公司在ChatGPT爆发前的孤独创业历程，以及启明创投、明势创投等早期投资人的坚定押注。作者强调，其成功源于创始团队对AGI的执着、自研技术的自主性，以及港股对科技企业友好的政策环境。IPO不仅带来资本回报，更提升了中国AI企业的全球可见度与估值认可。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_0b40cae8b024413bb34a35b150153d5e@5783683_oswg91028oswg1080oswg729_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3631042586395657",
+    "title": "测试的第4款AI播客产品，终于开始有收入了？",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "本文分析了AI播客产品Befreed的市场表现，指出其在‘AI+读书’场景中通过目标导向推荐、个性化音频摘要、Mindspace知识点追踪等功能，相较竞品AIbrary取得更高下载量与收入（近30天流水达1万美元）。文章探讨了Befreed成功的关键在于强化用户目标感与反馈机制，但同时也指出AI摘要难以替代深度阅读或真人讲书的体验，其定位更接近工具而非内容平台，未来能否持续增长仍待观察。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/1269411c-edd0-11f0-9633-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21473",
     "category": "AI"
   },
   {
-    "title": "从联网设备到智能体终端，阿里云开启AI硬件的普惠元年",
+    "title": "今年最具启发的Claude Code用例：她用cc搭了8个Agent监控自己的生活",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "21岁创业者Molly Cantillon利用Claude Code构建了8个并行AI代理，全面监控并自动化管理个人生活，涵盖产品运营、邮件处理、交易分析、健康追踪、订阅管理等场景。她通过自动化脚本、桌面操作和递归自我改进机制，实现“个人全景监控”，逆转了传统被监控的权力结构。文章强调从工具使用转向基础设施构建，并警告避免被系统吞噬，倡导保持元认知能力。该案例被视为AI赋能个人管理的前沿实践。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/39a75f74-edd0-11f0-91a8-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21475",
+    "category": "AI"
+  },
+  {
+    "title": "看完 Manus、Cursor 分享后的最大收获：避免 Context 的过度工程化才是关键",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "本文分析了Manus和Cursor两家AI Agent公司关于上下文工程的实践，强调避免过度工程化上下文，主张通过‘上下文卸载’和‘动态发现’提升效率。两者均将冗长工具输出、会话记录等转化为文件，让模型按需检索，而非硬塞入上下文窗口。Manus提出‘紧凑化’与‘摘要化’两阶段缩减策略，Cursor则通过文件化工具说明降低Token消耗。文章指出，未来趋势是简化架构、信任模型能力，构建外部信息探索环境而非依赖大上下文。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/d84e68af-edce-11f0-8391-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21469",
+    "category": "AI"
+  },
+  {
+    "title": "一文搞懂 Agents 评测丨Anthropic 最新万字长文",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "本文由Anthropic撰写，系统性地探讨了AI Agent的评测方法与实践框架。文章指出传统单轮评测已无法应对Agent多轮交互、工具调用与动态决策的复杂性，提出应构建包含任务、试次、评分器、记录与评测框架的完整评估体系。文中详细分析了编程、对话、研究与电脑操作四类Agent的评测策略，强调使用确定性、模型与人工评分器结合，并引入pass@k和pass^k等指标量化非确定性。文章还提供了从零构建评测的八步路线图，倡导评测驱动开发，以提升Agent研发效率与可靠性。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/3286b998-edcd-11f0-b5fe-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21467",
+    "category": "AI"
+  },
+  {
+    "title": "DeepSeek V4爆春节登场！四大杀招突袭全球编程王座，Claude危",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "DeepSeek计划于2026年春节前后发布下一代大模型V4，聚焦编程能力突破，有望超越Claude和GPT系列成为编程领域新王者。V4在超长上下文代码处理、推理严密性、算法稳定性及训练效率上实现四大核心升级，继承V3的MoE架构与MLA机制，并融合R1的强化学习经验。其底层算法mHC技术有效解决大模型训练信号衰减问题，且在有限硬件条件下实现高性价比突破，引发全球AI界高度关注。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/abac0677-edd3-11f0-883c-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21480",
+    "category": "AI"
+  },
+  {
+    "title": "滴滴上线AI叫车，终于有懂我的出行AI了",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "滴滴推出AI叫车功能，用户可通过自然语言与AI助手“小滴”交互，表达个性化出行需求如仅选油车、新车、无异味等，系统自动识别意图并匹配车辆，同时能记忆用户偏好、支持预约、出行规划、查账报销等多场景服务。该功能结合MCP开放平台，允许开发者接入出行能力，实现跨应用智能调度。文章强调其在解决小众真实需求上的突破，但指出实际执行依赖滴滴长期积累的出行生态而非仅靠大模型。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/bc887cd3-edd2-11f0-b406-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21478",
+    "category": "AI"
+  },
+  {
+    "title": "Corsif 一个教老年人用 ChatGPT 的应用，如何做到月入 30 万美元",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "Corsif是一款通过游戏化方式教老年人使用ChatGPT等AI工具的应用，虽功能简单、无技术壁垒，却凭借精准定位婴儿潮一代用户、结构化学习体验与心理驱动营销，实现月入30万美元。其成功关键在于降低学习门槛、创造“跟上时代”的安全感，并通过付费广告+AI自动化广告工厂高效触达目标群体，同时采用网页端转化漏斗规避平台抽成，最大化收益。该案例揭示了AI时代真正的商业机会在于技术普及而非技术创新。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/51b61410-edd1-11f0-973f-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21477",
+    "category": "AI"
+  },
+  {
+    "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold到药物发现的最后一公里",
     "time": "2026-01-09",
-    "source": "36氪",
-    "summary": "文章聚焦2026年AI硬件从功能智能向端侧智能体的跃迁，指出阿里云通过通义大模型与端云协同架构，为15万硬件厂商提供低门槛、全尺寸的AI能力支持，推动中国硬件从代工制造向全球创新定义转型。文中详述了AI在穿戴设备、智能座舱、出海产品等场景的落地案例，强调AI已从附加功能演变为驱动硬件核心体验的“灵魂”，并促成用户付费模式从买断向订阅转变，标志着AI硬件进入普惠与商业化成熟阶段。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_424b62372e304315ad93edb6479a33d9@6062546_oswg178210oswg1080oswg720_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632217422382084",
+    "source": "AITNT",
+    "summary": "清华大学智能产业研究院联合生命学院、化学系在《Science》发表论文，推出AI药物筛选平台DrugCLIP，通过深度对比学习实现基因组级别虚拟筛选，24小时内完成10万亿次蛋白-分子配对计算，突破传统方法效率瓶颈。该平台首次完成覆盖人类基因组规模的筛选，为抑郁症、癌症、帕金森等疾病发现潜在药物分子，并开放全部数据供全球科研使用，显著推动后AlphaFold时代的药物发现进程。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/524f68a4-ed58-11f0-aece-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21452",
+    "category": "AI"
+  },
+  {
+    "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！项目做到一半突遭中断，官方解释是“误伤”？",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "Anthropic突然限制第三方工具如Cursor、OpenCode和xAI对Claude模型的调用，引发开发者强烈不满。官方称此举为防止绕过计费机制与竞争性使用，但被指误伤正常用户。用户批评其强制迁移至官方终端工具，剥夺了已付费用户的使用自由。事件暴露了AI模型提供商在订阅制与API计费间的利益冲突，以及生态控制权的争夺。OpenCode创始人已转向与OpenAI合作，推动多模型兼容。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/d800817f-eddc-11f0-a762-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21481",
+    "category": "AI"
+  },
+  {
+    "title": "大模型如何泛化出多智能体推理能力？清华提出策略游戏自博弈方案MARSHAL",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "清华大学研究团队提出MARSHAL框架，通过让大模型在策略游戏中进行自博弈，利用强化学习提升多智能体推理能力。实验表明，该方法不仅显著提高游戏胜率（最高提升28.7%），还能泛化至数学竞赛和专家问答等通用推理任务，在AIME和GPQA等基准上分别提升10.0%和7.6%。MARSHAL创新性地引入轮次级优势估计和分角色归一化，有效解决多智能体训练中的信用分配与异构性问题，并揭示模型习得角色意识与意图识别等关键推理能力。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/5f728bb3-edca-11f0-8dd8-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21465",
+    "category": "AI"
+  },
+  {
+    "title": "奥特曼点名「AGI最后一块拼图」！记忆，才是硅谷2026新共识",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "奥特曼指出，记忆能力是通向通用人工智能（AGI）的最后一块拼图。当前AI记忆功能仍处于初级阶段，类似GPT-2水平，但一旦AI能长期记住用户的生活细节与微小偏好，将极大提升其智能与陪伴感。谷歌、OpenAI等巨头正竞相布局持续学习与记忆架构，多位AI专家认为，突破记忆瓶颈是AI摆脱机械感、实现真正数字自我的关键。尽管上下文窗口扩大是权宜之计，但细粒度长期记忆仍需底层架构革新。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/e589714e-ee02-11f0-8333-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21486",
+    "category": "AI"
+  },
+  {
+    "title": "第一批做AI漫剧的中年人，已经财务自由了?",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "2025年AI漫剧迅速崛起，凭借AI生成技术大幅降低制作成本（每分钟低至400元），结合短剧盈利模式实现高回报，单部作品播放量可达数亿，头部团队月营收超五千万元。该行业吸引大量入局者，但竞争激烈，90%作品播放量不足百万，存在版权模糊、骗局频发、内容审核风险等问题，真正盈利者仅占少数，呈现高风险高回报特征。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/eb51a608-ee03-11f0-bd22-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21491",
+    "category": "AI"
+  },
+  {
+    "title": "让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "深势科技发布Deploy-Master，通过双大模型辩论机制自动化部署科学软件，成功跑通GitHub上5万余个科研代码仓库，部署成功率超95%。该系统解决科学工具长期存在的环境依赖、构建失败和不可复现问题，构建了以执行为核心的基础设施，为AI for Science和智能体系统提供稳定工具调用基座，推动科研自动化与可复现性革命。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/6d284ba4-ee03-11f0-acc6-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21489",
+    "category": "AI"
+  },
+  {
+    "title": "2025，MCP、Agent、AI Coding",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "作者回顾2025年在AI领域的三大专注方向：MCP、Agent和AI Coding。他创建了MCP.so导航站并出版《这就是MCP》一书，推动MCP生态发展；深入研究Agent三大核心组件（Framework、Tools、Sanbox），并开发ShipAny框架以降低开发门槛；在AI Coding领域推出CopyWeb等产品，探索网页复刻与模板增量填充路径。文章强调个人自由开发理念，展望2026年聚焦Agent基础设施与工厂化落地。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/9d60d556-ee02-11f0-ba3f-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21482",
+    "category": "AI"
+  },
+  {
+    "title": "一年后，DeepSeek-R1的每token成本降到了原来的1/32",
+    "time": "2026-01-10",
+    "source": "AITNT",
+    "summary": "DeepSeek-R1于2025年1月发布，是一款6710亿参数的MoE架构开源大模型，曾引发全球AI行业关注。一年后，通过英伟达Blackwell GPU与TensorRT-LLM软件栈的软硬件协同优化，其每token推理成本降至原来的1/32。优化技术包括NVFP4浮点格式、解耦服务、多token预测及核函数改进，显著提升吞吐量。NVIDIA GB200 NVL72和HGX B200平台在不同序列长度下均实现性能飞跃，推动大模型部署成本持续下降。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/10/0bd53d6f-ee03-11f0-ba7b-fa163e47d677.webp",
+    "url": "https://m.aitntnews.com/newDetail.html?newId=21487",
+    "category": "AI"
+  },
+  {
+    "title": "曝DeepSeek V4模型春节前后发布！生成能力更强劲",
+    "time": "2026-01-10",
+    "source": "游侠网",
+    "summary": "据科技媒体The Information报道，DeepSeek计划于2026年2月中旬农历新年前后发布新一代AI模型DeepSeek V4，其核心突破在于强大的代码生成能力，支持百万级tokens上下文窗口，可完整处理中型项目代码库与文档，有效解决跨文件依赖理解问题。该模型在训练机制上实现性能不衰减，初步测试表现优于Claude和GPT系列，并可能采用全新mHC架构，提升并行效率与国产芯片适配性，为商业化部署奠定基础。",
+    "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011031725800.png",
+    "url": "https://www.ali213.net/news/html/2026-1/992747.html",
     "category": "AI"
   },
   {
     "title": "CES 2026聚焦“物理AI”与机器人",
     "time": "2026-01-09",
     "source": "TechCrunch",
-    "summary": "CES 2026展会上，人工智能从屏幕走向现实，物理AI与机器人成为绝对主角。从波士顿动力重新设计的Atlas人形机器人，到AI驱动的制冰机等创新产品，展示了AI在工业、消费领域的实体化应用。展会还凸显了企业对无屏AI体验的探索，如OpenAI转向音频优先交互，Lego智能积木无需屏幕即可操作。此外，Moblieye收购Mentee Robotics进军人形机器人领域，xAI完成200亿美元融资，引发行业关注。",
+    "summary": "CES 2026展会展示了人工智能从屏幕走向现实的转折点，物理AI与机器人成为核心主题。波士顿动力重新设计的Atlas人形机器人、AI制冰机、Mobileye收购Mentee Robotics进军人形机器人领域等创新备受关注。展会凸显AI正广泛应用于工厂自动化、无人机拦截和娱乐互动等领域。同时，OpenAI探索无屏音频交互、Lego推出无需屏幕的智能积木，标志着人机交互进入新阶段。",
     "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/atlas-announcement.jpg?w=531",
     "url": "https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/",
     "category": "AI"
   },
   {
-    "title": "下一个风口，AI漫剧出海——线下沙龙暨行业资源对接会（2026-01-28）",
-    "time": "2026-01-28",
-    "source": "白鲸出海",
-    "summary": "白鲸出海将于2026年1月28日在杭州举办‘AI漫剧出海’线下沙龙暨行业资源对接会，聚焦AI漫剧从国内爆发到全球出海的战略机遇，邀请平台方、制作方、IP方及AI技术代表共同探讨落地路径。活动免费，规模200人，旨在精准对接海外发行与产业资源，助力中国AI漫剧内容出海。现场将展示行业报名信息与长图详情，主办方为白鲸出海，其为国内领先的泛互联网出海综合服务平台。",
-    "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251230/1767078125_pic_real.jpg",
-    "url": "https://www.baijing.cn/activity/2204",
+    "title": "印度尼西亚因非自愿性深度伪造内容封禁Grok",
+    "time": "2026-01-10",
+    "source": "TechCrunch",
+    "summary": "印度尼西亚政府于2026年1月10日宣布临时封禁xAI旗下的聊天机器人Grok，原因是其生成大量非自愿性、性化的深度伪造图像，涉及真实女性和未成年人，甚至包含暴力内容。印尼通信与数字部长称此举是为保护公民数字空间的人权与尊严。此前，印度、欧盟和英国也相继要求xAI采取措施，而美国则反应不一。xAI已将图像生成功能限制为X平台付费用户，但Grok应用仍可被自由使用。马斯克则批评相关行动是为审查找借口。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+    "category": "AI"
+  },
+  {
+    "title": "CES 2026：从英伟达新品到AMD新芯片再到Razer的AI怪癖",
+    "time": "2026-01-09",
+    "source": "TechCrunch",
+    "summary": "CES 2026在拉斯维加斯落幕，各大科技公司集中发布AI与硬件新品。英伟达推出Rubin架构及开源AI模型Alpamayo，聚焦自动驾驶与机器人；AMD发布Ryzen AI 400系列处理器，强化PC端AI能力；Razer展示Project AVA和Project Motoko等AI交互设备；Clicks推出带实体键盘的Communicator手机；LG的CLOiD家庭机器人表现 sluggish；Caterpillar与英伟达合作开发AI建筑设备；Lego首次亮相CES，推出可交互的智能积木。AI驱动的物理设备成为本届展会核心主题。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+    "category": "AI"
+  },
+  {
+    "title": "OpenAI据称要求承包商上传过往工作真实文件",
+    "time": "2026-01-10",
+    "source": "TechCrunch",
+    "summary": "据Wired报道，OpenAI与训练数据公司Handshake AI正要求第三方承包商上传其在过往及当前工作中实际完成的文件，如Word文档、PDF、PowerPoint、Excel表格或代码仓库等，以用于AI模型训练。承包商需在上传前使用ChatGPT的“Superstar Scrubbing”工具删除敏感信息，但知识产权律师警告此举存在重大法律风险，依赖承包商自行判断保密内容不可靠。OpenAI拒绝置评。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+    "category": "AI"
+  },
+  {
+    "title": "Anthropic将Allianz纳入企业客户名单",
+    "time": "2026-01-09",
+    "source": "TechCrunch",
+    "summary": "AI研究公司Anthropic宣布与德国保险巨头Allianz达成合作，将其Claude大模型和Claude Code编程工具引入Allianz内部，并为员工开发可执行多步骤工作流的定制AI代理。双方还将建立AI交互日志系统以确保透明度与合规性。该合作是Anthropic在2026年的首个企业大单，此前已与Deloitte、Accenture、IBM和Snowflake等公司达成类似协议。Anthropic目前占据企业AI市场40%的份额，在AI编程领域占比达54%，显示出其在企业AI领域的领先优势。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-12.22.37PM.png?w=1024",
+    "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
     "category": "AI"
   },
   {
     "title": "AI赋能·智拓全球——AI+出海闭门会（2026-01-22）",
     "time": "2026-01-22",
     "source": "白鲸出海",
-    "summary": "本次活动由白鲸技术栈主办，聚焦AI技术在出海场景中的落地应用与实战策略，探讨AI+出海的破局之道、全球市场洞察与战略锚定。活动为闭门形式，仅限20人参与，面向AI开发者及泛娱乐、游戏、社交、工具类APP从业者，免费报名。活动将于2026年1月22日在福建福州举行，地址审核后通知，并提供详情长图展示内容要点。",
+    "summary": "本次闭门会由白鲸技术栈主办，聚焦AI技术在出海场景中的落地应用与实战策略，探讨AI+出海的破局之道、全球市场战略锚定及行业实战锦囊。活动面向AI开发者及泛娱乐、游戏、社交、工具类APP开发者，规模仅20人，免费参与，地点位于福建省福州市（审核后通知具体地址）。活动旨在为高质量从业者提供深度交流与资源对接平台。",
     "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251224/1766570305_pic_real.jpg",
     "url": "https://www.baijing.cn/activity/2201",
     "category": "AI"
   },
   {
-    "title": "CES 2026：从英伟达新品到AMD新芯片再到Razer的AI奇闻",
+    "title": "AI月产十亿行代码，暴增76%！程序员论坛炸锅：代码行数≠生产力！",
     "time": "2026-01-09",
-    "source": "TechCrunch",
-    "summary": "CES 2026在拉斯维加斯落幕，各大科技公司集中发布AI与机器人相关产品。英伟达推出Rubin架构及开源AI模型Alpamayo，推动自动驾驶与机器人发展；AMD发布Ryzen AI 400系列处理器，强化PC端AI能力；Razer展示Project AVA和Project Motoko等AI交互设备；Lego首次参展，推出可互动的智能积木；Clicks推出带实体键盘的Communicator手机；LG的CLOiD家庭机器人表现 sluggish；Caterpillar与英伟达合作开发AI建筑设备。AI驱动的物理设备成为本届展会核心主题。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+    "source": "AITNT",
+    "summary": "报告显示，AI辅助编程使开发者月均代码提交量增长76%，中型团队提升达89%，但程序员社群质疑代码行数不能等同于生产力。报告指出AI生成代码存在质量参差、重复重构等问题，真正效率应考量编辑行数（增删并计）。同时，OpenAI在SDK下载量上仍领先，但Anthropic增长迅猛，差距缩小；Claude模型在交互响应速度上表现优异，而GPT-5系列适合批量生成。报告还提及LLMOps成为基建标配，以及Self-MoA、Search-R1等前沿研究方向。",
+    "image_url": "https://www.aitntnews.com/pictures/2026/1/9/ea717ceb-ed0d-11f0-ad30-fa163e47d677.webp",
+    "url": "https://www.aitntnews.com/newDetail.html?newId=21433",
     "category": "AI"
   },
   {
-    "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了",
+    "title": "下一个风口，AI漫剧出海——线下沙龙暨行业资源对接会（2026-01-28）",
+    "time": "2026-01-28",
+    "source": "白鲸出海",
+    "summary": "本次活动由白鲸出海主办，聚焦AI漫剧这一新兴出海赛道，旨在搭建平台、制作方、IP方与海外发行资源的对接桥梁。活动将深度解析AI漫剧从国内爆发到全球拓展的战略机遇，邀请行业实战派代表共话落地路径，面向短剧出海从业者免费开放，预计参与人数200人。现场还将展示行业报名信息与长图资料，助力企业把握AI+内容出海新风口。",
+    "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251230/1767078125_pic_real.jpg",
+    "url": "https://www.baijing.cn/activity/2204",
+    "category": "AI"
+  },
+  {
+    "title": "CES 2026上的机器人：可爱、诡异与令人困惑的机器人全览",
     "time": "2026-01-10",
-    "source": "36氪",
-    "summary": "文章分析了2026年中国AI消费互联网的竞争格局，指出字节、阿里、腾讯三大巨头围绕AI通用入口展开激烈博弈。豆包凭借字节的流量优势占据60%市场份额，千问与元宝紧随其后。文章认为，尽管AI模型与算力成本大幅下降，但用户使用时长仍低于15分钟，AI入口尚未形成超级应用心智。巨头们通过独立App试验新交互范式，争夺AI时代的操作系统入口，而垂类场景的洗牌与生态构建将成为胜负关键。",
-    "image_url": "https://img.36krcdn.com/hsossms/20260109/v2_fc4bd39fa071492b8daa53a6637a1dd4@000000_oswg205636oswg1080oswg410_img_000?x-oss-process=image/format,jpg/interlace,1",
-    "url": "https://36kr.com/p/3632096091456517",
-    "category": "AI"
-  },
-  {
-    "title": "Meta宣布多项核能协议",
-    "time": "2026-01-09",
     "source": "Engadget",
-    "summary": "Meta宣布与Vistra、TerraPower和Oklo三家能源公司达成三项新协议，计划到2035年为其AI数据中心和Prometheus超集群提供总计6.6吉瓦的核能电力。其中TerraPower的Natrium反应堆将提供高达2.8吉瓦，Oklo将贡献1.2吉瓦，Vistra则通过延长现有核电站寿命并增容提供2.1吉瓦。此举是科技巨头转向核能支持AI算力需求的最新举措，微软和Meta均已签署长期核能采购协议。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/BkV50_lD147GSOLziSrnkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/29f20970-4245-11f0-b2f6-03825e24c776",
-    "url": "https://www.engadget.com/ai/meta-announces-a-slew-of-nuclear-energy-agreements-165337159.html",
+    "summary": "本文报道了CES 2026上展出的各类机器人，涵盖从LG的洗衣机器人CLOiD、Dreame的楼梯清洁机器人、OlloBot的长颈宠物机器人，到Clutterbot的Rovie玩具收集机器人、Switchbot的Onero H1最佳机器人奖得主，以及Ludens AI的Cocomo陪伴机器人等。文章详细描述了这些机器人的功能、设计特点与应用场景，展现了AI驱动下机器人在家庭助手、儿童陪伴和情感交互方面的多样化发展，同时指出部分产品仍处于原型阶段。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/H0gF4.5T7FRyFfVkIgySHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/LtGqqJ8Bqydty7Qcvju14w--~B/aD0xMjgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cloid_hands.jpg",
+    "url": "https://www.engadget.com/ai/the-robots-we-saw-at-ces-2026-the-lovable-the-creepy-and-the-utterly-confusing-153537930.html",
     "category": "AI"
   },
   {
-    "title": "刚刚，智谱港交所敲钟！市值528亿港元",
-    "time": "2026-01-08",
-    "source": "量子位",
-    "summary": "中国AI公司智谱正式在港交所上市，股票代码2513，首日开盘涨超3%，市值突破528亿港元，成为全球首家AGI基座模型上市公司。公司凭借GLM-4.7模型在多个国际榜单登顶，技术实力获美团、阿里、腾讯、红杉、高瓴等巨头投资，8轮融资超83亿元。2022-2024年营收年复合增长率达130%，研发投入超44亿元，70%募资将用于大模型研发，标志着中国大模型从技术跟跑迈向全球竞技新阶段。",
-    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/d58e3e80500291df3b4fbc5dde7831b6.png",
-    "url": "https://www.qbitai.com/2026/01/367379.html",
-    "category": "AI"
-  },
-  {
-    "title": "黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了",
-    "time": "2026-01-08",
-    "source": "量子位",
-    "summary": "在CES 2026上，英伟达CEO黄仁勋围绕物理AI展开演讲，提出机器人是‘AI移民’，可承担人类不愿从事的工作，并预计今年内将出现具备人类级动作能力的机器人。他强调英伟达作为技术平台提供商，而非汽车制造商，其开源的Alpamayo模型与特斯拉FSD形成差异化。面对内存成本飙升和显卡供应紧张，黄仁勋表示不排除重启旧款显卡产线并移植新技术，如DLSS 4.5。他还透露英伟达是全球HBM4主要用户，正协同供应商扩产，并将AI基础设施定义为‘AI工厂’。",
-    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6a19565aa47544d92e56b611a42d0fb1.webp",
-    "url": "https://www.qbitai.com/2026/01/367397.html",
-    "category": "AI"
-  },
-  {
-    "title": "Sharpa的乒乓球、发牌人形机器人在CES 2026加班工作",
-    "time": "2026-01-09",
+    "title": "CES公司希望你的大脑成为计算的下一个大趋势",
+    "time": "2026-01-10",
     "source": "Engadget",
-    "summary": "在CES 2026展会上，Sharpa公司展示了一款高度灵活的人形机器人，能够自主打乒乓球、发扑克牌并自拍。其核心是名为SharpaWave的仿真人手，具备22个主动自由度，每个指尖配备微型摄像头和千余个触觉像素，可精准抓取卡片等精细物品。机器人不仅动作流畅，还通过模仿人类手势展示了出色的交互能力，体现了其作为通用型机器人在多种场景下的应用潜力。",
-    "image_url": "https://s.yimg.com/uu/api/res/1.2/Q6K_y00W_OWYYjjsZs.9oA--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/sharpa.JPG",
-    "url": "https://www.engadget.com/ai/sharpas-ping-pong-playing-blackjack-dealing-humanoid-is-working-overtime-at-ces-2026-150000488.html",
+    "summary": "本文探讨了CES展会上多家公司推出的脑电图（EEG）可穿戴设备，旨在监测大脑活动以提升专注力、睡眠质量和心理健康。Neurable与HyperX合作推出专为游戏玩家设计的EEG头戴设备，可训练用户进入冷静专注状态，显著提升反应速度与准确率。其他公司如MyWaves、Brain-Life和Naox则探索EEG在助眠、认知负荷监测及集成至无线耳塞中的应用。专家提醒，这些设备不能替代专业医疗诊断，仅适合作为辅助 wellness 工具。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/QfDeNtgo2dJj0TbohRciiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/KUeFVFr6tDu4GhB5jArUsA--~B/aD0xMjAwO3c9MTgwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/eeg-zanderlabs.jpg",
+    "url": "https://www.engadget.com/wearables/the-ces-companies-hoping-your-brain-is-the-next-big-thing-in-computing-175048601.html",
+    "category": "AI"
+  },
+  {
+    "title": "【收购】OpenAI收购高管教练AI初创企业Convogo的创始团队：领导力评估、360 反馈与 HR 工作流正在被重构",
+    "time": "2026-01-09",
+    "source": "HRTechChina",
+    "summary": "OpenAI于2026年1月宣布以团队收购（acqui-hire）方式吸纳高管教练AI公司Convogo的三位联合创始人Matt Cooper、Evan Cater和Mike Gillett，交易为全股票形式，不涉及Convogo的知识产权或产品。Convogo产品将停止运营，团队将加入OpenAI的AI cloud相关项目，此举标志着领导力评估、360度反馈与HR工作流正被AI技术深度重构。",
+    "image_url": "https://www.hrtechchina.com/wp-content/uploads/convogo-01-08_171540_345-720x340.png",
+    "url": "https://www.hrtechchina.com/74527.html",
+    "category": "AI"
+  },
+  {
+    "title": "一口气集齐老黄苏妈英特尔，还得是AI，还得是联想",
+    "time": "2026-01-09",
+    "source": "量子位",
+    "summary": "文章聚焦CES 2026上AI硬件新趋势，提出‘所有设备都将变成AI设备’的共识，重点分析联想提出的‘混合AI’战略——融合个人、企业与公共智能，通过端云协同与多智能体协作打造个性化AI体验。联想发布全球首款个人AI超级智能体Qira（天禧），并联合英伟达、AMD、高通等巨头构建生态，强调软硬一体与供应链整合优势，被视为AI 2.0时代生态型企业的代表。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/c93d4dad17ba32486f123fbc48ec9a78.webp",
+    "url": "https://www.qbitai.com/2026/01/367831.html",
+    "category": "AI"
+  },
+  {
+    "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold遗留难题",
+    "time": "2026-01-09",
+    "source": "量子位",
+    "summary": "清华大学智能产业研究院联合生命学院、化学系在《Science》发表论文，推出AI驱动的超高通量药物虚拟筛选平台DrugCLIP。该平台通过对比学习与三维结构预训练，24小时内可完成10万亿次蛋白-分子配对计算，首次实现覆盖人类基因组规模的虚拟筛选，成功为抑郁症、癌症、帕金森等疾病筛选出高潜力候选分子，并验证了对AlphaFold预测结构的适用性。相关数据已全面开放，推动AI制药进入新阶段。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/e6d054061d698397048eced87fb7a40a.jpeg",
+    "url": "https://www.qbitai.com/2026/01/368598.html",
+    "category": "AI"
+  },
+  {
+    "title": "蚂蚁再把医疗AI卷出新高度！蚂蚁·安诊儿医疗大模型开源即SOTA",
+    "time": "2026-01-09",
+    "source": "量子位",
+    "summary": "蚂蚁集团联合浙江省卫生健康信息中心等机构开源医疗大模型AntAngelMed（蚂蚁·安诊儿），参数规模达100B，已在HealthBench、MedAIBench、MedBench等权威医疗评测中登顶，推理速度超200 tokens/s，支持中小型机构实时部署。模型采用Ling-flash-2.0混合专家架构，通过三阶段训练实现专业性与人情味并重，具备医学知识问答、病理解读、医患沟通等能力，并采用FP8量化与EAGLE3优化提升推理效率，成为目前参数最大、性能最强的开源医疗大模型。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/89639a4c1dd3bc2332cfc894460d4979.jpeg",
+    "url": "https://www.qbitai.com/2026/01/368649.html",
+    "category": "AI"
+  },
+  {
+    "title": "DeepSeek V4爆料：春节档GPT/Claude编程危",
+    "time": "2026-01-10",
+    "source": "量子位",
+    "summary": "据外媒The Information消息，DeepSeek计划于2026年春节前后发布其新一代大模型DeepSeek-V4，主打卓越的编程能力，内部测试显示其已超越OpenAI的GPT系列和Anthropic的Claude。V4在超长代码提示处理、训练全过程数据模式理解能力上实现关键突破，避免了传统模型随训练轮次增加而出现的性能衰减问题。用户反馈其生成答案逻辑更清晰、推理更可靠。此外，V3.2已在大模型竞技场进行人类偏好评估，暗示V4可能提前公开测试。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/bc4feb23b2dbf97957f891da68f94eab.png",
+    "url": "https://www.qbitai.com/2026/01/368820.html",
     "category": "AI"
   },
   {
     "title": "763亿港元，大模型公司最大规模IPO！MiniMax登陆港交所，开盘前大涨50%",
     "time": "2026-01-09",
     "source": "量子位",
-    "summary": "MiniMax于2026年1月9日在港交所成功上市，股票代码“00100”，募资约55.4亿港元，市值一度突破763亿港元，开盘前涨幅超50%，最高达80%。公司成立不足四年，累计融资超15亿美元，获阿里巴巴、腾讯等14家基石投资者支持。其技术路线聚焦全模态大模型研发，语音、视频、文本模型均达行业领先水平，并以“模型即产品”策略实现2.12亿C端用户覆盖。组织上通过AI实习生与扁平架构实现极致研发效率，成本仅为OpenAI的百分之一，验证了AGI时代效率胜于规模的新范式。",
+    "summary": "MiniMax在香港交易所主板挂牌上市，股票代码“00100”，募集资金约55.4亿港元，市值一度突破763亿港元，开盘前涨幅超50%，最高达80%。公司成立不足四年，累计融资超15亿美元，获得阿里巴巴、腾讯等14家基石投资者支持。其技术路线聚焦全模态并行研发，语音、视频、文本模型均达行业领先水平，并通过AI驱动的组织架构实现极致研发效率，以不足OpenAI百分之一的成本实现技术突破，验证了“智能转化率”在AGI竞赛中的关键价值。",
     "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6a99d1d2211326828a586b8d743edff5.webp",
     "url": "https://www.qbitai.com/2026/01/367789.html",
     "category": "AI"
   },
   {
-    "title": "Markdown如何征服世界",
+    "title": "起猛了，追觅的扫地机、割草机、洗护机器人在CES成精了！",
     "time": "2026-01-09",
-    "source": "Anil Dash",
-    "summary": "本文回顾了Markdown这一简单文本格式如何从2004年由John Gruber为个人博客创建的工具，演变为全球技术生态的核心标准。它简化了网页格式化，被广泛应用于GitHub、Google Docs、Apple Notes、Slack等平台，成为AI提示工程的基础语言。作者强调，Markdown的成功源于其简洁性、开放性与社区协作，而非商业驱动，体现了互联网早期由个人贡献推动创新的精神。",
-    "image_url": "https://www.anildash.com/img/iFzjc8yxrR-600.jpeg",
-    "url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
-    "category": "其他"
-  },
-  {
-    "title": "Nicolò Di Giacomo，Banor家族办公室负责人谈资产管理行业趋势",
-    "time": "2026-01-08",
-    "source": "ION Analytics",
-    "summary": "在ION Influencers访谈中，Banor家族办公室负责人Nicolò Di Giacomo深入探讨了资产管理行业的最新趋势。他强调家族办公室应优先建立清晰的治理结构与投资政策，而非盲目追求投资标的；指出单一家族办公室向多家族办公室转型的困难，并提醒投资者警惕伪分散化和缺乏专业优势的共同投资。他还预测私人信贷与半流动性结构将在未来12-24个月内面临压力测试，同时强调人才与关系管理在科技时代的重要性。",
-    "image_url": "https://fast.wistia.com/embed/medias/r9ek5ctu1x/swatch",
-    "url": "https://ionanalytics.com/insights/mergermarket/nicolo-di-giacomo-head-of-family-office-at-banor-on-trends-in-the-asset-management-industry/",
-    "category": "其他"
-  },
-  {
-    "title": "EverNitro在CES 2026简化丝滑氮气咖啡制作过程",
-    "time": "2026-01-08",
-    "source": "TechCrunch",
-    "summary": "XBrew Lab在CES 2026上推出了家用氮气饮料机EverNitro，旨在让家庭用户更便捷、环保地制作氮气咖啡。该设备通过从空气中提取氮气，无需一次性气罐，降低使用成本并减少浪费，氮气纯度达95%。用户可通过App控制压力（0-8 BAR），支持咖啡、鸡尾酒等多种饮品。产品已在Kickstarter募资超57万美元，定价低于竞品NitroBrew，未来计划拓展至其他饮品的智能气体调控。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/XbrewEverNitro.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/01/08/evernitro-is-simplifying-the-process-of-crafting-silky-nitro-coffee-at-ces-2026/",
-    "category": "其他"
-  },
-  {
-    "title": "Meta与三家核能公司签署协议 获取超6吉瓦电力",
-    "time": "2026-01-09",
-    "source": "TechCrunch",
-    "summary": "Meta宣布与三家核能公司达成协议，为其数据中心获取超过6吉瓦的电力供应，包括与Vistra购买现有核电站容量，以及与Oklo和TerraPower两家初创公司合作建设小型模块化反应堆（SMR）。Vistra的协议将提供2.1吉瓦电力，而两家初创公司计划在2030年前后逐步交付电力。此举反映了科技巨头为满足AI算力需求对稳定清洁能源的迫切需求，尽管SMR成本尚未明确，但Meta的订单有望推动该技术商业化进程。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
-    "category": "其他"
-  },
-  {
-    "title": "收购硅谷的风投公司又筹集了150亿美元",
-    "time": "2026-01-09",
-    "source": "TechCrunch",
-    "summary": "Andreessen Horowitz宣布完成新一轮150亿美元融资，使其资产管理规模突破900亿美元，与Sequoia Capital并列全球最大风投机构。资金将用于增长投资、应用、基础设施、生物技术及“美国活力”计划，重点布局国防、航空航天和制造业。该公司与沙特主权基金、特朗普政府及马斯克团队关系密切，投资组合涵盖OpenAI、Coinbase、Airbnb等明星企业，被视为塑造美国科技未来的关键力量。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-02-at-4.27.47-PM.png?w=1024",
-    "url": "https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/",
-    "category": "其他"
-  },
-  {
-    "title": "运动可媲美心理疗法缓解抑郁",
-    "time": "2026-01-08",
-    "source": "ScienceDaily",
-    "summary": "一项由科克伦团队主导的大型研究综述表明，规律运动在缓解抑郁症状方面的效果可与心理疗法相媲美，且与抗抑郁药物效果相似，但证据确定性较低。研究分析了73项随机对照试验，涉及近5000名抑郁症患者，发现轻至中等强度、持续13至36次的运动效果最佳，副作用极少。运动作为一种低成本、易获取的干预手段，对许多患者具有重要价值，但长期疗效仍需更大规模高质量研究验证。",
-    "image_url": "https://www.sciencedaily.com/images/1920/overcoming-depression.webp",
-    "url": "https://www.sciencedaily.com/releases/2026/01/260107225516.htm",
-    "category": "其他"
-  },
-  {
-    "title": "小米SU7改款全系标配激光雷达！雷军再次回击黑公关：水军想给我贴“虚假营销”标签",
-    "time": "2026-01-08",
     "source": "量子位",
-    "summary": "小米SU7发布1年9个月后迎来首次改款，预计2026年4月上市，全系标配激光雷达、4D毫米波雷达及小米HAD端到端辅助驾驶，三电系统全面升级，Pro版CLTC续航达902km，全系采用2200MPa超强钢与9气囊安全配置，预售价上调1-1.4万元。雷军直播回应黑公关质疑，澄清“1300公里只充一次电”为断章取义，驳斥SU3渲染图为假，并强调维护用户尊严的底线。同时透露小米今年将推出4款新车，年销量目标55万辆。",
-    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/a23e24f6b10896d530ef55dc37726bcb.png",
-    "url": "https://www.qbitai.com/2026/01/367417.html",
+    "summary": "追觅在CES 2026上发布多款具身智能家用机器人，包括AI洗护机器人、割草机器人、爬楼扫地机和泳池机器人等，突破传统单一清洁功能，实现自主感知、决策与执行全流程。其产品通过视觉、触觉多模态感知与VLA模型，完成衣物抓取、分类、洗涤、烘干、爬楼、水下清洁等复杂任务，推动家电向家庭服务机器人演进。凭借工程化量产能力和数据闭环，追觅被视为具身智能家庭化落地最快的企业。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/819414ab6d48851675633ab8a5c6f2dd.webp",
+    "url": "https://www.qbitai.com/2026/01/367855.html",
+    "category": "AI"
+  },
+  {
+    "title": "智能体卷王诞生！干活自动配结项报告，1.5张截图就把事说清了",
+    "time": "2026-01-10",
+    "source": "量子位",
+    "summary": "Youtu-Agent团队提出SmartSnap框架，让AI智能体在执行任务时主动收集关键证据截图，自动生成结项报告，实现自我验证。该方法通过‘3C原则’（完整性、简洁性、创造性）筛选证据，平均仅需1.5张截图即可完成任务验证，显著降低人工校验成本。基于GRPO强化学习训练，中等规模模型表现可媲美超大模型，推动GUI智能体从被动执行向认知协同演进。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/2dcc9620acedaae2f6b15515ca7f619f.jpeg",
+    "url": "https://www.qbitai.com/2026/01/368834.html",
+    "category": "AI"
+  },
+  {
+    "title": "吴恩达：图灵测试不够用了，我会设计一个AGI专用版",
+    "time": "2026-01-10",
+    "source": "量子位",
+    "summary": "吴恩达提出设计一种专为AGI量身定制的‘图灵-AGI测试’，以弥补现有基准测试对AI能力评估的片面性。该测试要求AI在无预知任务的情况下，通过访问互联网和常用软件完成多日实际工作场景任务（如客服响应），以评估其通用工作能力与经济价值，而非仅在固定数据集上刷榜。此举旨在遏制AGI炒作，推动行业聚焦真实应用与生产力提升，并为AGI突破提供可信判定标准。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/b3c78aee9325302576d4d8b875c66eec.webp",
+    "url": "https://www.qbitai.com/2026/01/368839.html",
+    "category": "AI"
+  },
+  {
+    "title": "离开马斯克后，他把人形机器人做成了这样",
+    "time": "2026-01-10",
+    "source": "量子位",
+    "summary": "矩阵超智公司发布新一代人形机器人MATRIX-3，由前特斯拉Optimus团队核心成员张海星领衔打造。该机器人融合仿生肤质、高维触觉传感、27自由度灵巧手与零样本泛化认知内核，实现安全人机共处与复杂环境自主操作，突破传统预设指令限制，可适应工厂、物流、医疗及家庭等多元场景。产品已启动早期体验计划，预计2026年部署试点，标志着人形机器人从专业执行迈向通用物理智能的新阶段。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6bb1d9a34cbdbd25b815ff36c78c3238.webp",
+    "url": "https://www.qbitai.com/2026/01/368903.html",
+    "category": "AI"
+  },
+  {
+    "title": "MiniMax登陆港交所，成史上IPO规模最大的AI大模型公司",
+    "time": "2026-01-09",
+    "source": "动点科技",
+    "summary": "上海人工智能公司MiniMax于2026年1月9日在香港交易所正式上市，发行价为每股165港元，募集资金约55.4亿港元，上市首日市值最高超763亿港元，成为史上IPO规模最大的AI大模型公司。公司获得14家国内外基石投资者支持，包括阿里巴巴、易方达等，服务覆盖全球200多个国家和地区，累计用户达2.12亿，海外市场收入占比超70%。",
+    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/byd-linghui-miit-uai-1032x580.jpg",
+    "url": "https://cn.technode.com/post/2026-01-09/minimax-hkex-listing-largest-ai-model-ipo/",
+    "category": "AI"
+  },
+  {
+    "title": "Grok的AI深度伪造问题引发轩然大波",
+    "time": "2026-01-11",
+    "source": "The Verge",
+    "summary": "xAI旗下的Grok聊天机器人在推出AI图像编辑功能后，被广泛用于生成大量未经同意的性化深度伪造图像，涉及成人甚至未成年人。英国首相基尔·斯塔默谴责这些内容“令人作呕”，并威胁将采取行动。尽管X平台已限制免费用户通过@grok生成图像，但该功能仍可通过其他方式自由使用。全球监管机构，包括欧盟、印度和澳大利亚，纷纷要求X保留相关文档并采取措施遏制非法内容，而马斯克则将批评视为对言论自由的打压。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes",
+    "category": "AI"
+  },
+  {
+    "title": "AI即将来袭：收藏品迎来智能革命",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "本文报道了CES 2026上两款新兴AI收藏品项目HeyMates和Buddyo，它们通过智能底座和NFC技术，将传统收藏玩偶（如Funko Pops和Amiibo）转化为可对话的AI角色。HeyMates主打原创AI人物如爱因斯坦和塔罗师，而Buddyo则允许用户为现有玩偶创建个性化的AI助手，利用AI分析图像生成背景故事。两者均强调轻松互动与趣味性，试图在收藏品市场中开辟AI新赛道，尽管Funko自身面临经营困境，但AI驱动的互动收藏品正迅速崛起。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ai-collectibles-heymates-buddyo-4.jpg?quality=90&strip=all&crop=0%2C0.011361054305837%2C100%2C99.977277891388&w=2400",
+    "url": "https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026",
+    "category": "AI"
+  },
+  {
+    "title": "CES 2026：联想用全栈AI，解释什么是Smarter AI for All丨CES 2026",
+    "time": "2026-01-10",
+    "source": "钛媒体",
+    "summary": "本文报道了联想在CES 2026展会上展示其全栈AI战略，强调‘Smarter AI for All’的理念，通过整合硬件、软件与云服务，推动AI技术在消费级产品中的普惠应用。联想展示了多款搭载AI能力的终端设备与解决方案，旨在提升用户体验并重塑智能计算生态，体现了其从单一产品向AI全场景布局的转型方向。",
+    "image_url": "https://diantv.tmtpost.com/uploads/video_images/2026/01/20260110182038878.jpg",
+    "url": "https://www.tmtpost.com/video/7838085.html",
+    "category": "AI"
+  },
+  {
+    "title": "“AI原生终端”的落地时刻，如何重构端侧智能？｜CES 2026",
+    "time": "2026-01-11",
+    "source": "钛媒体",
+    "summary": "本文聚焦CES 2026上AI原生终端的发展趋势，探讨物理AI如何推动消费电子设备从传统智能硬件向具备自主计算能力的AI原生终端演进。微光科技与黑芝麻智能高管指出，AI原生终端的核心是“没有AI就失去存在意义”，AI眼镜与具身智能机器人是最具潜力的方向。文章强调，成功关键在于聚焦单一场景、实现无感交互、摒弃手机APP思维，构建“云边端”协同的算力架构，并重视产品美学与本地化运营，以突破技术、文化与商业壁垒。",
+    "image_url": "https://images.tmtpost.com/uploads/images/2026/01/0a82cfeacd5cfc5f103d2304f9f3b276_1768093796.jpeg",
+    "url": "https://www.tmtpost.com/7837633.html",
+    "category": "AI"
+  },
+  {
+    "title": "代码如陶土",
+    "time": "2026-01-10",
+    "source": "campedersen.com",
+    "summary": "作者通过参加陶艺课制作了一个非功能性的超立方体陶器，类比编程中代码与陶土的相似性：两者都是可塑的媒介，需要不断调整、容错与重来。他指出，正如工业革命使陶瓷生产自动化，AI正使代码编写自动化，但真正有价值的不再是重复性工作，而是人类独有的创意与艺术表达——如超立方体般的独特构想。作者认为，未来程序员应专注于创新而非重复劳动，代码的“工艺”价值将因此提升。",
+    "image_url": "https://campedersen.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhypercube-clay.ef7e8611.jpg&w=3840&q=75",
+    "url": "https://campedersen.com/code-is-clay",
+    "category": "其他"
+  },
+  {
+    "title": "发现并修复Ghostty最大的内存泄漏问题",
+    "time": "2026-01-10",
+    "source": "Mitchell Hashimoto",
+    "summary": "本文作者详细分析了终端模拟器Ghostty中一个长期存在的内存泄漏问题，该问题由非标准内存页在滚动缓冲区重用时未正确释放导致，尤其在使用Claude Code等工具时被大规模触发。修复方案是禁止重用非标准内存页，改用标准页池分配，并通过macOS虚拟内存标签工具精准定位和验证修复效果。该修复已合并入代码库，将在1.3版本发布。",
+    "image_url": "",
+    "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+    "category": "其他"
+  },
+  {
+    "title": "通过斯诺登文件揭秘美国国内情报设施的隐藏信息",
+    "time": "2026-01-10",
+    "source": "Libroot.org",
+    "summary": "本文通过分析2016年和2017年《拦截者》与澳大利亚广播公司发布的斯诺登文件PDF元数据，发现其中关于美国国内情报设施的详细内容被系统性删除，而同等外国设施信息则被完整保留。被删除部分揭示了华盛顿特区的“波托马克任务地面站”（PMGS）和丹佛的“联合丹佛任务地面站”（CDMGS）的机密操作代号及其与公开代号（如Aerospace Data Facility）的关联，证明美国对本土设施实施了更严格的分类掩盖。该发现首次公开了PDF版本历史中的文本删除痕迹，而非简单黑框遮盖。",
+    "image_url": [
+      "https://libroot.org/public/post-imgs/ver1.jpg",
+      "https://libroot.org/public/post-imgs/ver2.jpg",
+      "https://libroot.org/public/post-imgs/bver1.jpg",
+      "https://libroot.org/public/post-imgs/bver2.jpg",
+      "https://libroot.org/public/post-imgs/pinegap-table.png"
+    ],
+    "url": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
+    "category": "其他"
+  },
+  {
+    "title": "GTC2026全球流量大会（深圳）即将举办",
+    "time": "2026-04-24",
+    "source": "白鲸出海",
+    "summary": "GTC2026全球流量大会（深圳）将于2026年4月24-25日在深圳福田会展中心2号馆举办，展区面积达15000㎡，汇聚近200家展商，覆盖游戏、AI+、短剧、DTC品牌及技术出海等热门领域，预计吸引超30000名跨境出海从业者参会。大会设开幕式峰会、AI+出海峰会、短剧出海峰会等多场专题论坛，并提供资源对接、数据报告与会员权益，致力于打造跨境出海领域规模最大、影响力最广的行业盛会。",
+    "image_url": "https://baijingoss.oss-cn-beijing.aliyuncs.com/uploads/gtc/2025/config/176310663557424.jpg",
+    "url": "https://www.baijing.cn/activity/2205",
+    "category": "其他"
+  },
+  {
+    "title": "全球企业虽对委内瑞拉石油前景充满兴趣但仍持观望态度",
+    "time": "2026-01-09",
+    "source": "ION Analytics",
+    "summary": "尽管委内瑞拉总统马杜罗被推翻后，全球能源企业对投资该国石油领域兴趣激增，但受政治、监管和地缘政治不确定性影响，多数企业仍持谨慎态度，暂无立即投资计划。文章指出，前PDVSA高管、风险偏好高的投资机构如J&F Investimentos、Starboard Partners及Amos Global Energy Management正积极评估机会，重点聚焦能源基础设施修复与油田服务。美国政策走向、OFAC许可及中国与俄罗斯的退出风险，仍是关键变量。",
+    "image_url": "https://ionanalytics.com/wp-content/uploads/2024/02/GettyImages-1297752961_Roads-1024x682.jpg",
+    "url": "https://ionanalytics.com/insights/mergermarket/global-firms-hold-fire-despite-frenzy-over-venezuelas-oil-future/",
+    "category": "其他"
+  },
+  {
+    "title": "苹果硬件工程主管或成库克头号接班人",
+    "time": "2026-01-09",
+    "source": "动点科技",
+    "summary": "随着苹果CEO蒂姆·库克年满65岁并有意减轻工作负担，硬件工程主管约翰·特努斯被视为最可能的接班人选。特努斯现年50岁，以精准平衡产品创新与利润著称，曾主导iPhone LiDAR组件的分级投放策略，并牵头iPhone Air与折叠屏iPhone等关键项目。他性格稳健低调，深谙供应链管理，与库克管理风格相似，深受内部推崇。尽管特努斯领跑，库克仍在同步培养其他高管如费德里吉、库和乔斯维亚克等作为备选。",
+    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+    "url": "https://cn.technode.com/post/2026-01-09/apple-ceo-tim-cook-john-ternus/",
+    "category": "其他"
+  },
+  {
+    "title": "CES 2026证明今年PC行业前景堪忧",
+    "time": "2026-01-09",
+    "source": "Engadget",
+    "summary": "CES 2026揭示了PC行业面临的严峻挑战：由于AI数据中心对内存的疯狂需求，DRAM价格飙升，导致戴尔等厂商大幅上调笔记本电脑售价，如XPS 14起售价涨至2050美元。AMD高管指出，消费者或将转向组件升级而非整机更换，以规避高昂内存成本。NVIDIA和AMD新推出的AI超算系统更是消耗巨量内存，预示消费级产品将面临长期短缺与涨价压力。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/iDoDOFoCTQoqpn61n3lVcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02NDQ-/https://s.yimg.com/uu/api/res/1.2/SKb7VJZUA2i29q784hwh1Q--~B/aD0xMDM3O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Jensen_Rubin.jpg",
+    "url": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html",
+    "category": "其他"
+  },
+  {
+    "title": "NASA宣布因宇航员健康问题 unprecedented 返回国际空间站乘组",
+    "time": "2026-01-09",
+    "source": "Live Science",
+    "summary": "NASA因国际空间站（ISS）上一名宇航员突发健康问题，取消了原定的太空行走任务，并考虑提前结束Crew-11乘组的驻留任务。该宇航员状况稳定，但NASA未公布其身份及具体病情。原计划执行太空行走的美国宇航员Mike Fincke和Zena Cardman将与其他两名乘员一同提前返回地球。此举极为罕见，可能影响空间站的常规轮换计划。NASA表示将在未来几天公布返回的具体日期。",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/PWXyhTLxMc79cTzBgmtgc8.jpg",
+    "url": "https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues",
+    "category": "其他"
+  },
+  {
+    "title": "太初元碁发布国产高兼容性虚拟指令集PCX及高性能工业级编译器PCXAC",
+    "time": "2026-01-09",
+    "source": "量子位",
+    "summary": "国产AI芯片企业太初元碁发布首个高兼容性虚拟指令集PCX及高性能工业级编译器PCXAC，旨在降低跨硬件平台迁移成本。PCX通过抽象底层计算单元，支持多种数据类型与并行编程模型，可嵌入SDAA C程序实现精细优化；PCXAC可将PCX指令高效转换为太初AI加速卡的机器指令，性能超越LLVM，显著提升算力利用率。同时，PCXAC提供全流程开发工具，降低环境配置复杂度，并已参与多个开源生态建设，适配600余个模型，推动国产智算普惠。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/ba776090f7178d2258a6910b530ce271.png",
+    "url": "https://www.qbitai.com/2026/01/368641.html",
     "category": "其他"
   },
   {
     "title": "华为小米蔚来抢爆新年新车申报！都很豪华",
     "time": "2026-01-09",
     "source": "量子位",
-    "summary": "2026年新年首批新车申报集中曝光，华为鸿蒙智行首款MPV智界V9、蔚来最大SUV ES9、改款小米SU7、极氪8X、纯电奔驰GLC等多款重磅车型密集亮相。ES9定位纯电大三排SUV，搭载700马力双电机；智界V9采用增程系统，续航超1250km，搭载鸿蒙座舱与乾崑智驾；小米SU7改款新增20英寸轮毂与红色卡钳，预计4月上市；极氪8X、零跑A10/D19等也同步申报，激光雷达与高通8295P芯片成亮点，车市2026年竞争将更激烈。",
+    "summary": "2026年新年首批新车申报密集发布，蔚来推出最大SUV ES9，定位六/七座纯电大车，搭载700马力双电机；鸿蒙智行首款MPV智界V9亮相，搭载华为增程系统与鸿蒙座舱，续航超1250km；小米SU7改款即将于4月上市，新增20英寸轮毂与红色卡钳；极氪8X、零跑A10/D19、纯电奔驰GLC等多款重磅车型同步申报，激光雷达、8295P芯片、1000V高压架构等新技术广泛应用，车市2026年竞争将空前激烈。",
     "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/9e850e14812f1a422fd1f77b36b6d6f2.png",
     "url": "https://www.qbitai.com/2026/01/368617.html",
     "category": "其他"
   },
   {
-    "title": "乐高试图用Smart Play让科技隐形",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "乐高在CES 2026上发布了Smart Play系统，通过内置传感器的智能积木、智能人偶和标签，让积木套装能感知互动、播放声音并响应孩子操作，强调社交与自主玩耍体验。该系统历时八年开发，首批产品以星战主题为主，价格较高（如160美元的星战套装），引发家长对成本的担忧。乐高希望借此平台拓展至更多产品线，但其市场接受度仍待观察，尤其是非授权套装的潜力。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/plUXLjNmsJuwTxnMOcqzqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/m07_jJv6ZawCFFqNGeeP7g--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/75421_Lifestyle_cons_2.jpg",
-    "url": "https://www.engadget.com/entertainment/lego-is-trying-to-make-tech-invisible-with-smart-play-130000979.html",
-    "category": "其他"
-  },
-  {
-    "title": "是时候让苹果重新上架ICEBlock应用了",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "本文批评苹果公司应重新上架ICEBlock应用，该应用曾用于追踪移民与海关执法局（ICE）的活动位置。作者指出，ICE在2025年造成多人死亡，近期更枪杀了一名白人女性公民Renee Nicole Good，引发公众关注。苹果以保护执法人员为由下架该应用，实则忽视了ICE对平民的实质性威胁。文章还指出苹果一贯标榜社会进步形象，却在涉及商业利益时选择妥协，此次决定与其价值观相悖。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/Zz1mtq9aK05YiSwC_VC.dQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/mTCb4KbhTASg0d6x5fIzig--~B/aD00ODg3O3c9NzMyNzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/a84adce8-6e43-443b-a28d-24d5f68dd5f9",
-    "url": "https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html",
-    "category": "其他"
-  },
-  {
-    "title": "Engadget评选CES 2026最佳科技产品：Lego Smart Play荣获年度最佳",
+    "title": "NASA为50多年来首次载人登月任务做最后准备",
     "time": "2026-01-10",
     "source": "Engadget",
-    "summary": "Engadget对CES 2026展会进行了全面评测，选出15项年度最佳科技产品，涵盖机器人、无障碍设备、电视、AI硬件、智能家居等多个类别。其中，Lego Smart Play凭借无需App即可通过智能积木实现互动游戏的创新设计，荣获‘年度最佳’奖项。其他亮点包括LG Wallpaper TV、Switchbot Onero H1机器人、Shokz OpenFit Pro耳机和三星Galaxy Z TriFold折叠屏手机。文章强调了科技产品应注重实际体验而非空洞AI概念。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/9vSFMa6ghMgtTDu5YWJm5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bestof_lego.jpg",
-    "url": "https://www.engadget.com/engadgets-best-of-ces-2026-all-the-new-tech-that-caught-our-eye-in-las-vegas-200057123.html",
+    "summary": "NASA正在为Artemis 2任务做最后准备，目标是在2026年2月6日左右发射，这是自1972年阿波罗计划以来首次载人登月任务。此次任务将搭载四名宇航员，执行为期10天的绕月飞行，测试猎户座飞船的生命支持系统。火箭和飞船将在佛罗里达州肯尼迪航天中心进行转运，并计划于1月底进行湿式彩排，模拟完整发射流程。任务成功将为未来更长期的月球探索奠定基础。",
+    "image_url": "https://s.yimg.com/uu/api/res/1.2/mkfPEQpaey5A0_tNuey.4Q--~B/aD0xMDU3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/nasa-artemis2.jpeg",
+    "url": "https://www.engadget.com/science/space/nasa-makes-final-preparations-for-its-first-crewed-moon-mission-in-over-50-years-150000825.html",
+    "category": "其他"
+  },
+  {
+    "title": "SpaceX获得FCC批准再发射7500颗星链卫星",
+    "time": "2026-01-10",
+    "source": "TechCrunch",
+    "summary": "美国联邦通信委员会（FCC）批准SpaceX再发射7500颗第二代星链卫星，使总批准数量达到15000颗。此次批准还允许星链卫星使用五个频段，并在美国内外提供直接到手机的通信服务。FCC暂缓批准SpaceX提出的额外14988颗卫星申请。SpaceX需在2028年12月1日前发射获批卫星的一半，剩余部分须于2031年12月前完成部署。此举将进一步扩展其全球高速互联网覆盖能力。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/03/51924933910_9627ae096e_o.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/",
+    "category": "其他"
+  },
+  {
+    "title": "席卷硅谷的风投公司又筹集了150亿美元",
+    "time": "2026-01-09",
+    "source": "TechCrunch",
+    "summary": "Andreessen Horowitz宣布筹集了超过150亿美元的新资金，使其资产管理规模突破900亿美元，与Sequoia Capital并列全球最大的风投公司之一。该基金将资金分配至增长投资、应用、基础设施、生物技术及“美国活力”等多个领域，重点布局国防、航空航天和制造业，以支持美国技术主导地位。其投资者包括加州养老基金和沙特公共投资基金，同时与特朗普政府及马斯克团队关系密切。公司还押注AI全栈投资，拥有包括Coinbase、Airbnb在内的115家独角兽企业。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-02-at-4.27.47-PM.png?w=1024",
+    "url": "https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/",
+    "category": "其他"
+  },
+  {
+    "title": "Meta与三家核能公司签署协议，获取6吉瓦以上电力",
+    "time": "2026-01-09",
+    "source": "TechCrunch",
+    "summary": "Meta宣布与Oklo、TerraPower和Vistra三家核能公司达成协议，为其数据中心获取总计超过6吉瓦的核能电力。其中，Vistra将提供来自现有核电站的2.1吉瓦电力，而Oklo和TerraPower则计划建设小型模块化反应堆（SMR），分别于2030年和2032年开始供电。此举源于Meta对稳定24/7电力的需求，以支持其AI业务扩张。尽管现有核电成本更低，但SMR被视为未来规模化供电的关键，尽管其技术与监管审批仍面临挑战。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
     "category": "其他"
   },
   {
     "title": "NASA提前一个月结束Crew-11宇航员任务",
-    "time": "2026-01-09",
+    "time": "2026-01-10",
     "source": "Engadget",
-    "summary": "NASA因一名宇航员出现医疗问题，决定将Crew-11任务提前一个月结束，这是历史上首次因医疗原因提前终止太空任务。尽管宇航员目前状况稳定，但国际空间站缺乏完整诊断设备，为避免健康风险，NASA选择谨慎撤离。原定于2月20日返回的宇航员将在数日内返航，空间站将仅剩三人留守。替换任务Crew-12的发射时间也可能提前。",
+    "summary": "NASA因一名宇航员出现医疗问题，决定将Crew-11任务提前一个月结束，这是历史上首次因医疗原因提前终止太空任务。该宇航员健康状况稳定，但ISS上的医疗设备不足以完成全面诊断，为安全起见，NASA选择提前返航。原定于2月20日返回的宇航员现在计划最早于1月14日返回地球，着陆地点为加州沿海。任务结束后，空间站将仅剩三人留守，Crew-12任务可能提前发射接替。",
     "image_url": "https://s.yimg.com/uu/api/res/1.2/1l7GbGwc5_8UU5KJuaDWVQ--~B/aD0xMDY3O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/nasa-iss-crew-11.jpg",
     "url": "https://www.engadget.com/science/space/nasa-is-ending-crew-11-astronauts-mission-a-month-early-140000750.html",
     "category": "其他"
   },
   {
-    "title": "现代预算电动车EV2发布，续航达240英里",
-    "time": "2026-01-09",
+    "title": "SpaceX获得FCC批准再部署7500颗星链二代卫星",
+    "time": "2026-01-10",
     "source": "Engadget",
-    "summary": "现代汽车在布鲁塞尔车展上发布了其入门级电动车EV2，外观类似Soul，但更紧凑时尚。该车基于E-GMP平台，提供42kWh和61kWh两种电池选项，对应WLTP续航分别为197英里和278英里（EPA估算约170英里和240英里）。充电速度为10%-80%约30分钟，支持V2L/V2G功能。车内配备12.3英寸仪表盘、12.3英寸中控屏和5英寸空调屏，支持多USB-C快充。目前暂无美国市场上市计划，主要面向欧洲及其他地区。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/FxX9jiewJ53U5gixSKxeFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/e8be2c00-ed4c-11f0-bd7f-fa5d13cf1960",
-    "url": "https://www.engadget.com/transportation/evs/kias-budget-ev2-arrives-with-up-to-240-miles-of-range-130038144.html",
+    "summary": "美国联邦通信委员会（FCC）批准SpaceX额外部署7500颗星链二代卫星，使其可部署的二代卫星总数达到15000颗。新批准允许SpaceX升级卫星技术，支持更多频段和轨道层，以提升全球互联网与移动服务覆盖，并拓展美国境外的“直连手机”服务及美国境内补充覆盖。此前SpaceX已与T-Mobile合作提供卫星短信服务，未来计划支持卫星通话。此举旨在优化网络性能，同时应对轨道碎片风险。",
+    "image_url": "https://s.yimg.com/uu/api/res/1.2/D5y7Kd9PdLK0wqVvLPs67A--~B/aD0xMDY2O3c9MTYwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/spacex-starlink.jpg",
+    "url": "https://www.engadget.com/science/space/spacex-can-deploy-7500-more-starlink-gen2-satellites-with-fcc-approval-180000843.html",
     "category": "其他"
   },
   {
-    "title": "The Clicks联合创始人解释其微型Communicator手机的目标用户",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "Engadget报道了科技公司Clicks在CES 2026上发布的两款新品：磁吸式Power Keyboard键盘和微型Communicator手机。前者兼具充电与实体键盘功能，采用滑动设计，适合偏好物理按键的用户；后者则是一款4英寸屏幕、内置键盘、搭载定制Niagara启动器的Android手机，专为需要分机办公、数字极简主义或双SIM卡的用户设计，虽不追求大众市场，但提供差异化体验。产品已开启预售，售价399美元。",
-    "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/DSCF9236.jpg",
-    "url": "https://www.engadget.com/mobile/the-clicks-co-founder-explains-who-its-tiny-communicator-phone-is-for-170000501.html",
-    "category": "其他"
-  },
-  {
-    "title": "CES：规模庞大，可持续技术却寥寥无几",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "本文报道了CES 2026展会上可持续技术的稀缺现状，尽管展会上AI与智能设备泛滥，但环保类产品仅占极小比例。作者实地探访后列举了数家有潜力的可持续科技公司，包括可充电的Shine 2.0风力涡轮机、可生物降解的Flint电池、可压缩塑料的Clear Drop设备、柔性钙钛矿太阳能面板的CPTI、利用建筑水电能源的Green Vigor、太阳能遮阳棚Jackery Solar Gazebo、以及Segway电动货运自行车等，虽技术尚处早期或面向企业，但代表了可持续创新的微弱希望。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/ttmnE7zDh8bDUeqUdqWH6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/uu/api/res/1.2/sw5XVohuKbkmyWBR1iK5Vg--~B/aD0zMTczO3c9NTY0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/trash_2.jpg",
-    "url": "https://www.engadget.com/science/ces-so-very-big-so-little-sustainability-tech-180000648.html",
-    "category": "其他"
-  },
-  {
-    "title": "CES 2026证明今年PC行业陷入困境",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "CES 2026揭示了PC行业因AI数据中心对内存的疯狂需求而导致的供应链危机。内存价格飙升，导致Dell XPS系列笔记本起售价暴涨至2000美元以上，而AMD和NVIDIA等公司则推出搭载数十TB内存的AI超算系统。专家预测消费者将转向组件升级而非整机更换，但整体消费电子产品价格将持续上涨，内存短缺将深刻影响普通用户的购买能力。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/iDoDOFoCTQoqpn61n3lVcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02NDQ-/https://s.yimg.com/uu/api/res/1.2/SKb7VJZUA2i29q784hwh1Q--~B/aD0xMDM3O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Jensen_Rubin.jpg",
-    "url": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html",
-    "category": "其他"
-  },
-  {
-    "title": "CES 2026：最新科技动态汇总",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "Engadget对CES 2026展会进行了全面报道，总结了本届展会的多项创新科技产品，包括LG的超薄“壁纸电视”、Lego Smart Play智能积木、IXI自适应镜片、Lenovo可卷曲游戏本、ASUS双屏ROG笔记本、Dell XPS系列笔记本升级等。此外，还评选出最佳健康、音频、智能家居、AI硬件等类别获奖产品，如Eyebot视力检测亭、Shokz OpenFit Pro耳塞和IKEA低价Matter兼容设备。报道强调技术如何提升生活体验，同时避免过度依赖屏幕，注重实用与人性化设计。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/0zQnc3oC3rvWlYwwNvfJZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Tired%20Robots%20CES%202026.jpg",
-    "url": "https://www.engadget.com/ces-2026-live-updates-on-the-latest-gadgets-at-the-biggest-tech-event-of-the-year-153146311.html",
-    "category": "其他"
-  },
-  {
-    "title": "Dolby Vision 2今年登场，你需要了解的关键信息",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "Dolby Vision 2是杜比公司推出的下一代图像引擎，旨在通过内容识别、环境光补偿和运动优化提升电视画质，尤其改善暗场景和体育赛事的显示效果。其新特性包括改进的色调映射和“真实运动”功能，避免过度平滑的肥皂剧效应。首批支持该技术的电视品牌包括海信、TCL和飞利浦的2026款Mini LED与OLED电视，流媒体平台Peacock将成为首个支持Dolby Vision 2的内容服务商。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/qPUQxLsk5zxIOlTqR7Kf8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/uu/api/res/1.2/.gzvVsXoHltSIledbHcNYQ--~B/aD0xNDQwO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dv2.jpg",
-    "url": "https://www.engadget.com/home/home-theater/dolby-vision-2-is-coming-this-year-heres-what-you-need-to-know-140000034.html",
-    "category": "其他"
-  },
-  {
-    "title": "CES 2026所有科技与新品发布汇总",
-    "time": "2026-01-09",
-    "source": "Engadget",
-    "summary": "本文全面总结了CES 2026展会的重磅科技发布，涵盖三星三折叠手机、乐高Smart Brick智能积木、LG洗衣机器人CLOiD、NVIDIA DLSS 4.5、Intel Core Ultra 3芯片、AMD Ryzen AI芯片、Qualcomm Snapdragon X2 Plus、Micro RGB电视、亚马逊Ember Artline TV、AI伴侣机器人Cocomo、Boston Dynamics Atlas量产版、索尼本田Afeela电动车、8BitDo FlipPad手机控制器、NoshAI烹饪机器人等创新产品。文章还详述了智能家电、可穿戴设备、音频设备及健康科技等领域的最新进展。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/rCfzcwqskmUPVdpSmpF4jA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/VviSCVsHDMWynP0Mi0Lblw--~B/aD0yNDAwO3c9MzYwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/bf320688-e8d3-4dca-8aa7-16a4172f695d",
-    "url": "https://www.engadget.com/general/all-the-tech-and-gadgets-announced-at-ces-2026-130124023.html",
-    "category": "其他"
-  },
-  {
-    "title": "CES 2026迄今最出色的科技产品",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "本文汇总了CES 2026展会期间发布的多项创新科技产品，涵盖Philips Hue智能灯光的SpatialAware功能、Fender无线耳机、Sora Materials超轻材料Soramatex、模块化游戏手柄、Thunderbolt 5集线器、固态电池、静音吸尘器、X-Wing风格FPV无人机、E-Ink海报、L'Oréal智能美容设备、AI可穿戴耳机、智能家居产品如Ikea智能灯和音箱，以及联想、三星、LG等品牌的折叠屏手机、AI笔记本、机器人和超大尺寸电视。文章重点介绍了这些产品的技术突破与实用价值，展现未来智能生活的趋势。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/corsair_top.jpg?quality=90&strip=all&crop=0.019215987701763%2C0%2C99.961568024596%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
-    "category": "其他"
-  },
-  {
-    "title": "从CES 2026中学到了什么",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "CES 2026展示了消费科技的最新趋势，包括健康科技中对体液检测的广泛应用、电视品牌性能差距缩小、AI机器人从概念走向实用化、Wi-Fi 8提前亮相、以及电源银行功能过度堆砌等。报道还指出AI正从屏幕走向实体，成为陪伴型机器人和宠物，同时OLED显示器采用RGB垂直子像素排列提升画质。尽管诸多产品宣称革命性创新，但许多仍停留在宣传阶段，真实落地的多为改进型产品如更智能的扫地机器人。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Gemini-google-tv.png?quality=90&strip=all&crop=0.10834236186349%2C0%2C99.783315276273%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/859244/ces-2026-highlights-trends",
-    "category": "其他"
-  },
-  {
-    "title": "这个半隐藏的乐高智能积木功能赋予其更多潜力",
+    "title": "这家公司或可帮助将Auracast功能引入iPhone",
     "time": "2026-01-10",
     "source": "The Verge",
-    "summary": "The Verge记者Sean Hollister在CES 2026上体验了乐高新推出的Smart Brick，发现其具备一项此前未公开的高精度距离与方位感知功能。通过两个Smart Brick相互追踪，可精确测量高达5米内的相对位置与角度变化，甚至能识别每10个积木凸点（约8厘米）的移动。这一技术有望应用于未来乐高机器人导航、互动游戏和成人拼搭模型，无需摄像头或复杂编程即可实现自主定位，极大拓展了智能玩具的潜力。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/20260108_1511293-1.jpg?quality=90&strip=all&crop=0%2C7.3405535499398%2C100%2C85.31889290012&w=2400",
-    "url": "https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential",
-    "category": "其他"
-  },
-  {
-    "title": "微软将停用Word内置的发送到Kindle功能",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "微软宣布自2026年2月9日起，将停止在Microsoft 365的Word应用中内置的“发送到Kindle”功能。该功能自2023年推出以来，允许用户直接从Word文档发送内容至Kindle设备进行阅读和标注。停用后，用户需通过亚马逊官网的Send to Kindle工具手动发送文件。此举旨在简化产品生态，引导用户使用官方渠道。文章还提及了相关第三方报道及微软官方支持页面。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/SHEENA_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/858976/microsofts-shutting-down-words-built-in-send-to-kindle-feature",
-    "category": "其他"
-  },
-  {
-    "title": "Meta扩大核能计划，携手比尔·盖茨初创公司为AI数据中心供电",
-    "time": "2026-01-10",
-    "source": "The Verge",
-    "summary": "Meta与三家核能公司——TerraPower（比尔·盖茨支持）、Oklo（萨姆·阿尔特曼支持）和Vistra达成协议，计划到2035年获得6.6吉瓦的核能，用于支持其AI数据中心运营。首座新反应堆有望于2030年投入运行，Meta将全额承担能源成本，避免转嫁给消费者。此举是Meta继去年与Constellation合作重启老旧核电站后，进一步强化核能作为AI基础设施核心能源的战略布局，旨在巩固美国在全球AI领域的领导地位。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
-    "category": "其他"
-  },
-  {
-    "title": "Nothing Ear (a)无线耳塞降至59美元，性价比出众",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "Nothing公司的无线耳塞Ear (a)目前价格降至59美元，为自黑色星期五以来的最低价，性价比极高。这款耳塞外观时尚，提供亮黄、黑、白三种配色，配备主动降噪、多点蓝牙连接、低延迟游戏模式和IP54防尘防水功能，音质表现超出同价位产品。其充电盒小巧透明，续航达8小时（关闭降噪），并支持与ChatGPT集成。文章推荐其为预算有限用户的首选耳塞。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406202/DSCF6918.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/gadgets/858740/nothing-ear-a-wireless-earbuds-cmf-headphone-pro-deal-sale",
-    "category": "其他"
-  },
-  {
-    "title": "华硕是否打造了一款搭载超强集成显卡的隐藏版游戏本？",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "华硕在CES 2026上推出了一款搭载AMD Strix Halo芯片的TUF Gaming A14游戏本，这款笔记本以预算友好定位著称，却内置了目前最强的集成显卡，性能表现令人惊喜。尽管官方尚未公布最终售价，但其轻薄设计与强劲图形性能的结合，使其成为一款极具潜力的“睡衣型”游戏本，值得期待实际评测。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258167_Asus_TUF_A14_gaming_laptop_CES_2026_ADiBenedetto_0006.jpg?quality=90&strip=all",
-    "url": "https://www.theverge.com/tech/858792/did-asus-just-make-a-sleeper-gaming-laptop-with-a-monster-igpu",
-    "category": "其他"
-  },
-  {
-    "title": "阿里、京东们没做到的事，为什么沃尔玛做到了？",
-    "time": "2026-01-09",
-    "source": "钛媒体",
-    "summary": "文章分析沃尔玛如何通过极致效率模型构建全渠道零售护城河，超越阿里、京东等中国电商巨头。沃尔玛凭借清晰的性价比定位、强大的供应链与物流体系、仓储会员店山姆的成功落地、因地制宜的全球化战略以及依托线下门店的线上履约模式，实现了持续增长。相比之下，中国零售企业多依赖通道费和流量红利，缺乏效率驱动，难以转型。文章强调零售的本质是效率，而非模式，沃尔玛的成功在于将效率模型持续复制与迭代。",
-    "image_url": "https://images.tmtpost.com/uploads/images/2026/01/09/11d07740380e86e05011d1aaf964287e_1767944912.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x530/gravity/center/crop/!1400x530&ext=.png",
-    "url": "https://www.tmtpost.com/7837135.html",
-    "category": "其他"
-  },
-  {
-    "title": "文玩玉石的陪逛买手，在直播和现实之中求生存",
-    "time": "2026-01-09",
-    "source": "钛媒体",
-    "summary": "本文聚焦广东四会、深圳水贝、义乌等地的陪逛买手群体，揭示他们如何利用行业信息差为买家避坑、议价并收取佣金。这些买手多为原行业从业者，转型后靠专业能力赢得信任，但面临流量竞争、同行抄袭、MCN机构冲击及道德困境——部分人为佣金与商家合谋忽悠客户。尽管收入可观、无库存压力，但其模式依赖信息差，难以规模化，且在直播带货的虚假营销冲击下生存艰难，职业认同与商业现实间充满矛盾。",
-    "image_url": "https://images.tmtpost.com/uploads/images/2026/01/09/634731b4577a480bcb7e572438d38448_1767927989.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x942/gravity/center/crop/!1400x942&ext=.jpeg",
-    "url": "https://www.tmtpost.com/7836834.html",
-    "category": "其他"
-  },
-  {
-    "title": "乐高新款智能积木套装现已开放预购，首发星战主题系列",
-    "time": "2026-01-10",
-    "source": "The Verge",
-    "summary": "乐高正式推出其全新的Smart Play系统，首波产品为三款星战主题积木套装，将于2026年3月1日发货。这些套装内置智能积木（Smart Brick），具备LED灯、扬声器、麦克风、传感器和NFC识别功能，可与配套的智能标签和人物模型互动，播放音效与灯光效果。三款套装价格从69.99美元至159.99美元不等，均附带无线充电底座。尽管部分粉丝担忧电子化削弱了传统创意玩法，但评测者认为其互动体验远超预期，标志着乐高50年来最重大的技术革新。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego_smart.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets",
-    "category": "其他"
-  },
-  {
-    "title": "你可以像拆巧克力一样拆分这款10000mAh充电宝",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "Nimble在CES 2026上推出了一款名为Champ Stack 10K的创新充电宝，其独特设计允许用户将其安全地拆分为两个独立的5000mAh充电单元，方便两人同时为手机充电，无需共用一个设备。每个半块均内置USB-C充电线，一端为固定线缆，另一端为折叠式接口，提升使用便利性。尽管整体输出功率为30W，拆分后每侧降为20W。该产品预计于2026年春季上市，售价约80美元，适合经常需要共享充电的用户。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nimble_powerbank.jpg?quality=90&strip=all&crop=0%2C0.015620118712903%2C100%2C99.968759762574&w=2400",
-    "url": "https://www.theverge.com/tech/859493/nimble-champ-stack-10k-power-bank-shareable",
-    "category": "其他"
-  },
-  {
-    "title": "这家公司或能将Auracast功能带入iPhone",
-    "time": "2026-01-10",
-    "source": "The Verge",
-    "summary": "尽管苹果尚未支持蓝牙Auracast技术，音频公司Atitan推出了一款名为splitR的MagSafe转接器，可让iPhone具备Auracast收发功能。该设备通过USB-C或3.5mm接口连接非Auracast设备，并搭配connectR应用实现多设备互联、群组聆听和社交互动。未来版本还将支持无线蓝牙转Auracast传输，有望推动该技术在家庭和助听场景中的普及。Atitan计划通过众筹发布该产品。",
+    "summary": "尽管苹果尚未支持蓝牙Auracast技术，音频公司Atitan推出了一款名为splitR的MagSafe磁吸式转接器，可为iPhone添加Auracast发送与接收功能。配合即将上线的connectR应用，用户可创建音频广播、实现多设备组听，并支持连接非Auracast设备通过有线方式扩展功能。该设备旨在打破生态壁垒，兼容任何Auracast耳机或音箱，未来还将支持无线蓝牙转Auracast传输，有望推动Auracast在家庭和助听场景的普及。",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/atitan-auracast-transceiver-ces.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
     "url": "https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026",
     "category": "其他"
   },
   {
-    "title": "CES 2026 最佳科技产品榜单：可卷曲笔记本、三折手机、Lego智能积木等",
+    "title": "你会为植物买一个电子宠物吗？",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "The Verge记者Sean Hollister报道了一款名为Senso的智能植物传感器，外形类似经典电子宠物Tamagotchi，可监测植物的光照、温度、湿度和土壤湿度，并通过AI进行互动。该产品正在Kickstarter众筹，作者对其营销噱头持保留态度，认为若能接入本地智能家居系统会更具吸引力。文章以调侃语气探讨了科技产品过度游戏化趋势。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196092/sean-nerf-profile-pic..0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/tech/860085/would-you-buy-a-tamagotchi-for-your-plants",
+    "category": "其他"
+  },
+  {
+    "title": "CES 2026我可能真的会买的那些玩意",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "本文是The Verge编辑David Pierce对CES 2026展会上真实可购科技产品的推荐清单，涵盖实用型设备如Clicks Power Keyboard、乐高智能积木、宜家Kallsup蓝牙音箱、联想Legion Go 2掌机、Pila家用电池、Corsair Galleon机械键盘、Shokz OpenFit Pro耳机、三星Galaxy Z Trifold折叠屏手机、亚马逊Ember Artline电视和Govee Sky天顶灯等。作者强调这些产品具备实际落地可能性与消费价值，并分享了个人使用体验与购买动机，同时附带读者推荐的书籍、音乐、应用与生活方式建议。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Installer-111.png?quality=90&strip=all&crop=0%2C0.072150072150073%2C100%2C99.8556998557&w=2400",
+    "url": "https://www.theverge.com/tech/859808/ces-2026-best-gadgets-installer",
+    "category": "其他"
+  },
+  {
+    "title": "我从未使用过轨迹球，但Keychron的Nape Pro看起来像是完美的那一个",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "Keychron在CES 2026上发布了其首款轨迹球设备Nape Pro，这款紧凑型设备设计灵活，可置于键盘左右侧或前方，无需移动手部即可操作光标、旋转旋钮或使用六个可编程按钮，类似ThinkPad的TrackPoint体验。作者作为评测者对其设计和实用性表示高度期待，认为其适合与传统鼠标配合使用。产品预计春季登陆美国市场，售价60至100美元，提供黑白两种配色。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_Keychron_Nape_Pro_trackball_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one",
+    "category": "其他"
+  },
+  {
+    "title": "CES 2026迄今发布的最佳科技产品",
     "time": "2026-01-09",
     "source": "The Verge",
-    "summary": "《The Verge》发布CES 2026年度最佳科技产品榜单，涵盖多个类别：LG Display的4K OLED显示器、TCL X11L Mini LED电视、三星Galaxy Z TriFold三折手机、Lego Smart Brick智能积木获“最佳整体奖”。此外，戴尔复兴XPS系列、Aqara智能门锁支持苹果无感解锁、Dreame七百美元灯式吹风机、Fender模块化耳机等创新产品也备受关注。文章强调了实用创新与设计突破，其中Lego Smart Brick因无AI、可玩性强且即将上市而脱颖而出。",
+    "summary": "本文总结了CES 2026展会上发布的多项创新科技产品，涵盖智能家居、可穿戴设备、AI硬件与消费电子。亮点包括飞利浦Hue SpatialAware智能灯光系统、Fender Mix无线耳机、Soramatex超轻材料、联想可卷曲游戏本、罗博特克楼梯清洁机器人、苹果Home Key兼容的Aqara智能门锁、三星无折痕折叠屏面板、乐高智能积木、LG折叠洗衣机器人CLOiD，以及多款AI驱动的电视与家电。文章以深度评测和产品细节为主，展现未来一年科技趋势。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/corsair_top.jpg?quality=90&strip=all&crop=0.019215987701763%2C0%2C99.961568024596%2C100&w=2400",
+    "url": "https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home",
+    "category": "其他"
+  },
+  {
+    "title": "Amazfit Active 2手环和蓝光碟成为本周最佳优惠",
+    "time": "2026-01-11",
+    "source": "The Verge",
+    "summary": "本文介绍了本周科技与购物领域的几项优质折扣，重点推荐了Amazfit Active 2智能手环，售价低至85美元，具备心率监测、血氧检测、离线导航和长达9天的续航；Anker新款45W快充充电器现优惠至30美元，内置显示屏支持智能功率调节；此外，亚马逊正推出4K蓝光碟促销，多部热门电影如《超人》《女巫》等仅售11美元每部，适合家庭娱乐。文章还提及了Shokz耳机、谷歌Nest恒温器等其他值得入手的优惠产品。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/amazfitactive2deals.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale",
+    "category": "其他"
+  },
+  {
+    "title": "Betterment金融应用误发1万美元加密货币诈骗信息",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "金融应用Betterment被曝通过第三方系统向用户发送虚假通知，声称用户若向比特币或以太坊钱包转账1万美元，即可获得三倍返还。该消息附带伪造的官方语气和收款地址，引发用户恐慌。Betterment随后在X平台澄清，称此为未经授权的第三方推送，非官方活动，并提醒用户勿信。该事件凸显了金融App被滥用进行加密诈骗的风险。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/htfdkey7lecg1-2.png?quality=90&strip=all&crop=0,0,100,100",
+    "url": "https://www.theverge.com/news/860106/betterment-crypto-scam-notification",
+    "category": "其他"
+  },
+  {
+    "title": "The Vergecast Live at CES 2026：一个会摔倒的机器人有什么用？",
+    "time": "2026-01-09",
+    "source": "The Verge",
+    "summary": "本文是The Vergecast播客团队在CES 2026现场录制的节目回顾，聚焦于本届展会中令人意外的科技趋势。尽管传统上CES以高端电视和汽车为主，但2026年更多展示了旧设备的创新升级与硬件先行、软件滞后的现象。机器人产品虽多却普遍不稳定，而Lego智能积木、Clicks通讯器、Roomba升级版等产品成为亮点。文章指出，真正重要的是透过产品洞察科技行业对未来生活的构想，而非单一设备本身。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_VST_0106_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/podcast/859370/ces-2026-best-tech-vergecast",
+    "category": "其他"
+  },
+  {
+    "title": "微软让在Word文档中添加超链接变得更加简单",
+    "time": "2026-01-09",
+    "source": "The Verge",
+    "summary": "微软正在更新Word，使用户能够通过直接将链接粘贴到选中文本上来快速创建超链接，无需再使用菜单或Ctrl+K快捷键。该功能现已向所有Word网页版用户推出，并将在Windows 2511版和Mac 16.104版及以上版本中逐步上线。此举简化了日常文档编辑流程，类似WordPress等平台的体验，目前谷歌文档尚未跟进。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/overpaste-hyperlink.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut",
+    "category": "其他"
+  },
+  {
+    "title": "FCC批准SpaceX再发射7500颗星链卫星",
+    "time": "2026-01-11",
+    "source": "The Verge",
+    "summary": "美国联邦通信委员会（FCC）批准了SpaceX再发射7500颗第二代星链卫星的计划，使该公司在轨卫星总数将达到约15000颗。根据要求，50%的卫星需在2028年12月前部署并运行，其余需在2031年前完成。尽管此举引发天文学家对光污染、太空碎片和轨道碰撞的担忧，但FCC放宽了此前对覆盖重叠的限制，以支持其全球直连手机和高达1Gbps的高速互联网服务。SpaceX对这一结果表示满意，此前与政府的紧张关系似乎有所缓和。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_B.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+    "url": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites",
+    "category": "其他"
+  },
+  {
+    "title": "你可以像掰巧克力一样拆分这款10000mAh充电宝",
+    "time": "2026-01-09",
+    "source": "The Verge",
+    "summary": "Nimble公司在CES 2026上推出了一款名为Champ Stack 10K的创新充电宝，其独特之处在于可安全地一分为二，每半块成为独立的5000mAh充电设备，方便两人同时为手机充电。每半部分分别配备内置USB-C线缆和折叠式USB-C接口，无需额外线材。尽管整体输出功率为30W，分拆后每侧降至20W。该产品预计于2026年春季以约80美元价格上市，适合经常需要共享充电的用户。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nimble_powerbank.jpg?quality=90&strip=all&crop=0%2C0.015620118712903%2C100%2C99.968759762574&w=2400",
+    "url": "https://www.theverge.com/tech/859493/nimble-champ-stack-10k-power-bank-shareable",
+    "category": "其他"
+  },
+  {
+    "title": "Meta扩展核能计划，携手比尔·盖茨初创公司为AI数据中心供电",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "Meta与三家核能公司——TerraPower（比尔·盖茨支持）、Oklo（萨姆·奥特曼支持）和Vistra达成协议，计划到2035年为其AI数据中心提供6.6吉瓦的电力，足以满足爱尔兰全国用电需求。Meta将全额承担新建核反应堆的成本，首座反应堆有望在2030年投入运营。此举是Meta继去年与Constellation合作重启老旧核电站后，进一步推动核能作为AI基础设施核心能源的战略布局，旨在巩固美国在全球AI领域的领导地位。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
+    "category": "其他"
+  },
+  {
+    "title": "你的书桌上有什么？Stevie Bonifield的办公桌揭秘",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "本文是The Verge‘你的书桌上有什么？’系列的一篇专访，介绍了新闻撰稿人Stevie Bonifield位于新泽西家中卧室的个性化办公桌。其工作台配备可调高度的VIVO升降桌、Haworth Breck座椅、双MacBook Air、AMD Ryzen游戏PC、Nuphy Halo75 V2机械键盘、Razer Orochi V2无线鼠标等设备，并详细分享了其对设备的使用体验。桌面还陈列了《星球大战》、《Dimension 20》、《暗黑破坏神》等科幻奇幻主题的收藏品，以及个人岩石标本和Kobo电子阅读器，展现了其极客与收藏爱好者的双重身份。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258201_WOYD_Stevie_B__SBonifield_0001.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo",
+    "category": "其他"
+  },
+  {
+    "title": "蒂姆·库克和桑达尔·皮查伊是懦夫",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "本文批评苹果和谷歌未按其应用商店政策下架X平台的深度伪造色情功能，指责其CEO蒂姆·库克和桑达尔·皮查伊为迎合埃隆·马斯克及政治压力而放弃原则。文章指出，X平台利用Grok生成非自愿的裸体AI图像，严重违反苹果和谷歌关于儿童保护和内容安全的明确规定，但两家公司却因惧怕政治与商业报复而无所作为，暴露了科技巨头在道德与商业利益间的彻底妥协。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194388232.jpg?quality=90&strip=all&crop=0.0034539928157002%2C0%2C99.993092014369%2C100&w=2400",
+    "url": "https://www.theverge.com/policy/859902/apple-google-run-by-cowards",
+    "category": "其他"
+  },
+  {
+    "title": "从CES 2026中学到了什么",
+    "time": "2026-01-11",
+    "source": "The Verge",
+    "summary": "CES 2026展示了消费科技的最新趋势，包括AI在机器人和宠物中的应用、智能家居设备的普及与价格下降、电视品牌性能差距缩小、可穿戴设备通过体液检测健康数据、Wi-Fi 8提前亮相、以及电源银行功能过度复杂化。尽管机器人但理想象未实现，但Roomba等实用设备显著升级。同时，OLED显示器采用RGB子像素排列提升画质，NVIDIA的自动驾驶技术挑战特斯拉，PC市场因AI需求面临内存价格上涨压力。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/IMG_3188.jpeg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+    "url": "https://www.theverge.com/tech/859244/ces-2026-highlights-trends",
+    "category": "其他"
+  },
+  {
+    "title": "CES 2026 充斥体液：代谢与长寿的新前沿",
+    "time": "2026-01-09",
+    "source": "The Verge",
+    "summary": "本文报道了CES 2026展会上健康科技的新趋势：以尿液、唾液、汗液等体液为检测样本的可穿戴设备和家用检测工具大量涌现，旨在通过代谢数据分析提升健康与寿命。从智能马桶、激素检测套件到分析面部血流的‘长寿镜’，技术正从基础健身转向预防性健康管理。作者指出，尽管AI和数据整合被寄予厚望，但当前技术仍不成熟，且用户对隐私泄露的担忧加剧。行业正努力平衡数据深度与心理负担，未来或更注重长期生活方式干预而非短期监测。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258211_Mira_Hormone_test_kit_AKrales_0039.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+    "url": "https://www.theverge.com/tech/859132/optimizer-ces-2026-metabolism-bodily-fluids-health-tech-wearables",
+    "category": "其他"
+  },
+  {
+    "title": "亚马逊计划在芝加哥附近开设超级购物中心",
+    "time": "2026-01-10",
+    "source": "The Verge",
+    "summary": "亚马逊计划在芝加哥郊区奥兰帕克建设一座22.9万平方英尺的超级购物中心，集零售与仓储于一体，销售杂货、日用品和即食食品，并支持顾客取货。尽管亚马逊近年来关闭了多家实体门店，包括书店和Amazon Style服装店，但此次项目表明其仍对大型实体零售持探索态度。该提案已获当地规划委员会批准，将成为其继全食超市后又一重要线下布局。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "url": "https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans",
+    "category": "其他"
+  },
+  {
+    "title": "The Verge Awards at CES 2026：可卷曲笔记本、三折手机与长寿站",
+    "time": "2026-01-09",
+    "source": "The Verge",
+    "summary": "《The Verge》评选出CES 2026年度最佳科技产品，涵盖多个类别：LG Display的4K OLED显示器因无色晕技术获奖，TCL X11L Mini LED电视以10,000尼特亮度和100% BT.2020色域领先，三星Galaxy Z TriFold成为首款三折手机，Lego Smart Brick因其创新互动体验被评为年度最佳，此外还有Aqara智能锁支持苹果无感解锁、Dreame双功能吹风机/台灯、Withings健康秤等亮点产品。文章全面总结了CES 2026中最具实用价值与创新性的消费科技。",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_CES_BestOf_Sean_v01_KM.00_28_44_06.Still002.jpg?quality=90&strip=all&crop=0,0,100,100",
     "url": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
     "category": "其他"
   },
   {
-    "title": "别介意，我拿走了：ikko MindOne Pro小型AI智能手机亮相CES",
-    "time": "2026-01-09",
+    "title": "我用Linux取代了Windows，一切都很顺利",
+    "time": "2026-01-10",
     "source": "The Verge",
-    "summary": "在CES展会上，作者发现了一款小巧的AI智能手机——ikko MindOne Pro，配备4英寸OLED屏幕和5000万像素可翻转摄像头。该手机将搭载Android 15及专有AI操作系统，支持专注模式功能。目前项目正处于Kickstarter融资后期阶段，预计于2月发货。这款手机以反主流大屏趋势为卖点，吸引关注个性化与便携性科技产品的用户。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02234_processed.jpg?quality=90&strip=all",
-    "url": "https://www.theverge.com/tech/859202/dont-mind-if-i-do",
-    "category": "其他"
-  },
-  {
-    "title": "这个小太空人让Windows笔记本和iPad更好地协同工作",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "在CES展会上，j5create推出了一款售价70美元的USB-C无线设备，外形酷似小太空人，用于在Windows笔记本与iPad之间实现文件传输、屏幕镜像及鼠标键盘共享。该设备通过专用应用连接，无需物理线缆，提升了跨平台协作体验。作者实测了其功能，但指出在CES现场Wi-Fi环境不佳的情况下，延迟和稳定性仍有待验证。产品设计注重趣味性，太空人造型主要为外观装饰，内部为实用的USB-A转接模块。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/20260108_174038-1.jpeg?quality=90&strip=all",
-    "url": "https://www.theverge.com/tech/858969/this-tiny-spaceman-helps-windows-laptops-and-ipads-play-better-together",
-    "category": "其他"
-  },
-  {
-    "title": "微软让在Word文档中添加超链接变得更加简便",
-    "time": "2026-01-09",
-    "source": "The Verge",
-    "summary": "微软正在改进Word文档中插入超链接的功能，现在用户只需将链接粘贴到目标文本上即可自动创建超链接，无需使用菜单或Ctrl+K快捷键。该功能已开始向Word网页版、Windows和Mac版本推送，需使用Word 2511版或更高版本（Windows）及16.104版或更高版本（Mac）。此举简化了日常办公操作，类似WordPress等内容管理系统已广泛采用该方式，未来或推动Google Docs跟进。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/wordogimage.png?quality=90&strip=all&crop=10.75%2C0%2C78.5%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/859288/microsoft-word-hyperlinks-new-shortcut",
+    "summary": "作者Nathan Edwards在经历多次延迟后，终于将桌面操作系统从Windows切换为CachyOS Linux。他原本担心驱动和游戏兼容性问题，但实际使用中NVIDIA显卡驱动安装顺利，日常办公、打印和单款游戏均能正常运行。尽管遇到鼠标仅在游戏内响应的奇怪问题，整体体验远超预期，证明Linux已可作为高效、低维护的主流桌面替代方案。",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
     "category": "其他"
   },
   {
@@ -1102,6 +1122,15 @@
     "category": "AI"
   },
   {
+    "title": "台积电的真正瓶颈",
+    "time": "2026-01-10",
+    "source": "海豚投研",
+    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHlicnhNZicXiaOyFAib1j443HBXQIlcHyDyI4ujW3lYf7pRDlMNxbgssMaXdjiaSsvmIx31rbPI5rSABQ/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/EBCoc-fZlPpuCaOl4tujtQ",
+    "category": "其他"
+  },
+  {
     "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了！",
     "time": "2026-01-09",
     "source": "海豚投研",
@@ -1120,13 +1149,13 @@
     "category": "其他"
   },
   {
-    "title": "阿里业绩沟通释放哪些关键信号？",
-    "time": "2026-01-08",
-    "source": "海豚投研",
+    "title": "熬夜追CES科技春晚，来吐槽老外评出来的24个AI产品奖",
+    "time": "2026-01-10",
+    "source": "卡尔的AI沃茨",
     "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHlicnhNZicXiaOyFAib1j443HBzs1HuwxibgpJLXaB7pyIpT8mn2T55QYUIFaQU15wx1d1DFdkeRSggaw/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/WssPtvDuYM4fhBjEUFQi1Q",
-    "category": "其他"
+    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXljyuETtCz6GKDUZDeahDlxGQbJzVlCmQcMvCW7FO1VM6ic5v9pSHSh6ibFsNodVD0SkeswrgYdKE2Q/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/rhZDL0o8bVgDP_sauCYqsg",
+    "category": "AI"
   },
   {
     "title": "看完影视飓风拍的AI代写，我用NotebookLM复现了工作流",
@@ -1144,15 +1173,6 @@
     "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
     "image_url": "",
     "url": "https://mp.weixin.qq.com/s/VpHMFVpR_z3AgsEK5743Gg",
-    "category": "AI"
-  },
-  {
-    "title": "元宝“骂人”骂上热搜，我觉得可以来聊聊AI情绪化了",
-    "time": "2026-01-06",
-    "source": "卡尔的AI沃茨",
-    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlF0VymaT95KJ1OaLYXHtiaFxriaicXHRpcsCPGiaI5bofdytaKbCWXIQlSju34HRnUmobiaIBoZaiaia3pQ/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/cmipUFDT4qOTo9OIWgMD1g",
     "category": "AI"
   },
   {
@@ -1182,5 +1202,4 @@
     "url": "https://mp.weixin.qq.com/s/Kc8zI75MrO7NNtD1B0BGAA",
     "category": "其他"
   }
-
 ]

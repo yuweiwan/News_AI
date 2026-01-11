@@ -1,6 +1,42 @@
 {
     "微软": [
         {
+            "title": "底裤也要没了！曝Xbox第一方《神鬼寓言》要登陆PS5",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "据游戏媒体VGC报道，Xbox第一方大作《神鬼寓言》正在同步开发PlayStation 5版本，尽管微软尚未官方确认，但此举符合其近年推动多平台战略的趋势。此前已有《极限竞速：地平线5》《战争机器：重装上阵》等Xbox独占游戏登陆PS5，预计在1月23日的Xbox开发者直面会上，官方将公布更明确的跨平台计划。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110104348682.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992725.html",
+            "category": "游戏"
+        },
+        {
+            "title": "不止地平线6、神鬼寓言！Xbox王牌工作室或还有新作！",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "Xbox旗下Playground Games工作室正在同时开发《神鬼寓言》与《极限竞速：地平线6》两款大作，据外媒报道，该工作室还秘密推进第三个未公开项目。线索来自新入职的3D动画师Jonathan Baker的领英资料，其标注工作为“未公开项目”。此前该工作室成立的第三团队，可能正是为此项目而设。目前尚不清楚该项目是全新IP还是基于现有系列，也未确认其具体形态。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011033233542.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992749.html",
+            "category": "游戏"
+        },
+        {
+            "title": "我换掉了Windows，使用Linux一切顺利",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "作者Nathan Edwards在尝试将桌面系统从Windows切换至Linux（CachyOS发行版）后，分享了其一周使用体验。尽管遇到鼠标兼容性问题和Minecraft Bedrock版无法运行等小障碍，但大部分硬件（显卡、打印机、摄像头等）即插即用，游戏通过Proton兼容层运行良好。他称赞Linux界面简洁、无广告干扰，过渡比预期轻松，虽仍需完善备份与云同步等功能，但整体体验令人满意，无明显后悔。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+            "category": "游戏"
+        },
+        {
+            "title": "我用Linux取代了Windows，一切都很顺利",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "作者Nathan Edwards在经历多次延迟后，终于将桌面操作系统从Windows切换为CachyOS Linux。他原本担心驱动和游戏兼容性问题，但实际使用中NVIDIA显卡驱动安装顺利，日常办公、打印和单款游戏均能正常运行。尽管遇到鼠标仅在游戏内响应的奇怪问题，整体体验远超预期，证明Linux已可作为高效、低维护的主流桌面替代方案。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+            "category": "其他"
+        },
+        {
             "title": "微软将停用Word内置的发送到Kindle功能",
             "time": "2026-01-09",
             "source": "The Verge",
@@ -25,6 +61,24 @@
             "summary": "微软正在改进Word文档中插入超链接的功能，现在用户只需将链接粘贴到目标文本上即可自动创建超链接，无需使用菜单或Ctrl+K快捷键。该功能已开始向Word网页版、Windows和Mac版本推送，需使用Word 2511版或更高版本（Windows）及16.104版或更高版本（Mac）。此举简化了日常办公操作，类似WordPress等内容管理系统已广泛采用该方式，未来或推动Google Docs跟进。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/wordogimage.png?quality=90&strip=all&crop=10.75%2C0%2C78.5%2C100&w=2400",
             "url": "https://www.theverge.com/tech/859288/microsoft-word-hyperlinks-new-shortcut",
+            "category": "其他"
+        },
+        {
+            "title": "Xbox开发者直面会官宣：神鬼寓言、地平线6确认亮相！",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "Xbox官方宣布将于北京时间1月23日凌晨2点举办“Xbox Developer Direct 2026”线上发布会，届时将首次公开《神鬼寓言》《极限竞速：地平线6》和《轮回之兽》三款重磅作品的实机演示与开发细节。《神鬼寓言》将展现阿尔比恩世界的魔法与英式幽默，《地平线6》以日本风光为舞台，《轮回之兽》则聚焦植物操控与后末日日本背景。三款游戏均由知名工作室开发，引发玩家高度期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010990402844.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992439.html",
+            "category": "游戏"
+        },
+        {
+            "title": "微软让在Word文档中添加超链接变得更加简单",
+            "time": "2026-01-09",
+            "source": "The Verge",
+            "summary": "微软正在更新Word，使用户能够通过直接将链接粘贴到选中文本上来快速创建超链接，无需再使用菜单或Ctrl+K快捷键。该功能现已向所有Word网页版用户推出，并将在Windows 2511版和Mac 16.104版及以上版本中逐步上线。此举简化了日常文档编辑流程，类似WordPress等平台的体验，目前谷歌文档尚未跟进。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/overpaste-hyperlink.gif?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut",
             "category": "其他"
         },
         {
@@ -83,6 +137,42 @@
         }
     ],
     "索尼": [
+        {
+            "title": "PS5独占《Code Violet》OC站仅有40分：简直一团糟！",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "PS5独占动作恐怖游戏《Code Violet》在OpenCritic平台获得平均40分（满分100）的极低评价，多家媒体批评其战斗系统粗糙、技术问题频发、设计决策失误，且性感元素与恐怖氛围严重脱节。IGN西班牙与Push Square均给出4/10的低分，认为游戏品质远不值50美元定价，玩家社区亦普遍认为其为近年来最糟糕的游戏之一，体验甚至不如低价独立游戏。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110112947800.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992729.html",
+            "category": "游戏"
+        },
+        {
+            "title": "底裤也要没了！曝Xbox第一方《神鬼寓言》要登陆PS5",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "据游戏媒体VGC报道，Xbox第一方大作《神鬼寓言》正在同步开发PlayStation 5版本，尽管微软尚未官方确认，但此举符合其近年推动多平台战略的趋势。此前已有《极限竞速：地平线5》《战争机器：重装上阵》等Xbox独占游戏登陆PS5，预计在1月23日的Xbox开发者直面会上，官方将公布更明确的跨平台计划。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110104348682.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992725.html",
+            "category": "游戏"
+        },
+        {
+            "title": "Steam主机定价引玩家热议：比PS5 Pro还贵2000元？",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "近日，捷克零售商泄露Valve新一代Steam Machine主机价格，512GB版本售价约950美元（人民币6850元），2TB版本约1070美元（人民币7720元），引发玩家对定价过高的热议。Valve官方表示将采用非补贴式定价，售价与同等配置PC持平，强调其紧凑设计、低噪音和客厅体验的独特价值。主机搭载AMD Zen 4 CPU与RDNA 3 GPU，性能为Steam Deck六倍以上，支持4K/60帧游戏，预计2026年初正式公布最终售价。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011035448453.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992751.html",
+            "category": "游戏"
+        },
+        {
+            "title": "太能吸金！《极限竞速：地平线5》PS5版销量破500万",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "《极限竞速：地平线5》PS5版全球销量已突破500万份，成为索尼平台商业表现最突出的作品之一。该作最初于2021年登陆Xbox与PC，2025年4月移植至PS5后迅速走红，首月销量即达200万份。市场分析师估算其PS5版营收超3亿美元，对微软而言收益显著。同时，系列新作《极限竞速：地平线6》将登陆PS5，背景设定在日本，开发团队已赴实地考察以还原文化精髓。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110110607694.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992727.html",
+            "category": "游戏"
+        },
         {
             "title": "定档2月6日《JDM：漂移大师》PS5版发售预告正式发布",
             "time": "2026-01-09",
@@ -209,6 +299,24 @@
             "summary": "本文作者Cameron Faulkner测试了多款Nintendo Switch 2第三方手柄，推荐EasySMX S10为最佳整体选择，因其具备TMR摇杆、HD震动、amiibo支持和远程唤醒功能，价格仅$42，远低于原厂$89的Pro手柄。此外，Mobapad N1 HD和GuliKit ES Pro也作为高性价比选项被推荐，文章详细比较了各款手柄的按键手感、摇杆技术、续航和附加功能，强调第三方产品在防漂移技术上的优势。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/257964_Switch_2_controllers_CVirginia2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+            "category": "游戏"
+        },
+        {
+            "title": "有心无力！《博德之门3》确认不会移植到Switch2平台",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "拉瑞安工作室创始人斯温·温克确认，《博德之门3》不会移植至任天堂Switch 2平台，称该决策非工作室所能主导。据爆料人NateTheHate透露，因与版权方威世智合作不畅，移植计划已搁置。该游戏已于2023年登陆PC、PS5和Xbox Series X|S，最后一次更新在2025年4月。目前拉瑞安已投入《神界》新作开发，并明确表示新作将不使用生成式AI美术素材。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011094104681.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992719.html",
+            "category": "游戏"
+        },
+        {
+            "title": "不要指望《博德之门3》登陆Switch 2，至少目前如此",
+            "time": "2026-01-10",
+            "source": "Engadget",
+            "summary": "Larian Studios首席执行官在Reddit AMA中表示，《博德之门3》登陆Switch 2的计划并非由他们决定，暗示可能涉及IP持有方Wizards of the Coast或Nintendo的决策限制。尽管团队希望移植该游戏，但目前无任何官方进展。此前Larian已确认不再为《博德之门3》开发主要更新或续作，但其技术总监也提到公司对Switch平台持开放态度，并已成功移植《神界：原罪2》。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/WgcS6Ls5QfQyl8wLrxBDVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/3208a6e0-ee44-11f0-8ca6-ddd49e6abb9e",
+            "url": "https://www.engadget.com/gaming/nintendo/dont-count-on-baldurs-gate-3-coming-to-switch-2-as-least-for-now-180538969.html",
             "category": "游戏"
         },
         {
@@ -524,6 +632,24 @@
             "category": "其他"
         },
         {
+            "title": "Instagram数据泄露事件疑似暴露1750万用户个人信息",
+            "time": "2026-01-10",
+            "source": "Engadget",
+            "summary": "据安全公司Malwarebytes报告，Instagram发生大规模数据泄露，约1750万用户的用户名、电子邮件、电话号码及物理地址等敏感信息被曝光，并在暗网出售。该泄露可能与2024年Instagram API漏洞有关，已导致大量用户收到密码重置邮件。安全专家警告，这些数据可能被用于网络钓鱼和账户劫持。Meta尚未对此事发表官方声明，但建议用户启用双重验证并检查登录设备以保障账户安全。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/MjdUTofNH5reR8TQGJVqaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/deb5df10-ee54-11f0-af5f-329814eac189",
+            "url": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+            "category": "社交"
+        },
+        {
+            "title": "Meta扩展核能计划，携手比尔·盖茨初创公司为AI数据中心供电",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "Meta与三家核能公司——TerraPower（比尔·盖茨支持）、Oklo（萨姆·奥特曼支持）和Vistra达成协议，计划到2035年为其AI数据中心提供6.6吉瓦的电力，足以满足爱尔兰全国用电需求。Meta将全额承担新建核反应堆的成本，首座反应堆有望在2030年投入运营。此举是Meta继去年与Constellation合作重启老旧核电站后，进一步推动核能作为AI基础设施核心能源的战略布局，旨在巩固美国在全球AI领域的领导地位。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
+            "category": "其他"
+        },
+        {
             "title": "8点1氪丨继“小便门”后，海底捞再曝火锅异物事件；商务部回应审查Meta收购Manus；上海移动辟谣强迫员工“上门断网”言论",
             "time": "2026-01-09",
             "source": "36氪",
@@ -555,6 +681,24 @@
             "time": "2026-01-09",
             "source": "TechCrunch",
             "summary": "Meta宣布与三家核能公司达成协议，为其数据中心获取超过6吉瓦的电力供应，包括与Vistra购买现有核电站容量，以及与Oklo和TerraPower两家初创公司合作建设小型模块化反应堆（SMR）。Vistra的协议将提供2.1吉瓦电力，而两家初创公司计划在2030年前后逐步交付电力。此举反映了科技巨头为满足AI算力需求对稳定清洁能源的迫切需求，尽管SMR成本尚未明确，但Meta的订单有望推动该技术商业化进程。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
+            "category": "其他"
+        },
+        {
+            "title": "WhatsApp可能因Channels功能受欧盟《数字服务法案》更严格监管",
+            "time": "2026-01-09",
+            "source": "Engadget",
+            "summary": "由于WhatsApp的Channels功能在欧盟地区月活跃用户达到5170万，超过欧盟《数字服务法案》（DSA）规定的4500万门槛，该功能可能被认定为“超大型在线平台”，从而面临更严格的监管和最高达全球年收入6%的罚款。该功能允许用户单向发布内容，类似社交媒体，引发欧盟委员会关注。Meta此前已因Facebook和Instagram的内容管理问题多次被欧盟处罚。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/TqvnujE_BCJuEvLoW.53Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05Mjc-/https://s.yimg.com/uu/api/res/1.2/RlF_9ttDg1PbJJbenr9wKg--~B/aD0xMjc1O3c9MTcwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/6bfa30fa-36c0-4484-a67d-2ead125097f9",
+            "url": "https://www.engadget.com/social-media/whatsapp-might-soon-be-subject-to-stricter-scrutiny-under-the-eus-digital-services-act-191000354.html",
+            "category": "社交"
+        },
+        {
+            "title": "Meta与三家核能公司签署协议，获取6吉瓦以上电力",
+            "time": "2026-01-09",
+            "source": "TechCrunch",
+            "summary": "Meta宣布与Oklo、TerraPower和Vistra三家核能公司达成协议，为其数据中心获取总计超过6吉瓦的核能电力。其中，Vistra将提供来自现有核电站的2.1吉瓦电力，而Oklo和TerraPower则计划建设小型模块化反应堆（SMR），分别于2030年和2032年开始供电。此举源于Meta对稳定24/7电力的需求，以支持其AI业务扩张。尽管现有核电成本更低，但SMR被视为未来规模化供电的关键，尽管其技术与监管审批仍面临挑战。",
             "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?w=1024",
             "url": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
             "category": "其他"
@@ -726,6 +870,33 @@
     ],
     "OpenAI": [
         {
+            "title": "Corsif 一个教老年人用 ChatGPT 的应用，如何做到月入 30 万美元",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "Corsif是一款通过游戏化方式教老年人使用ChatGPT等AI工具的应用，虽功能简单、无技术壁垒，却凭借精准定位婴儿潮一代用户、结构化学习体验与心理驱动营销，实现月入30万美元。其成功关键在于降低学习门槛、创造“跟上时代”的安全感，并通过付费广告+AI自动化广告工厂高效触达目标群体，同时采用网页端转化漏斗规避平台抽成，最大化收益。该案例揭示了AI时代真正的商业机会在于技术普及而非技术创新。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/51b61410-edd1-11f0-973f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21477",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI据称要求承包商上传过往工作真实文件",
+            "time": "2026-01-10",
+            "source": "TechCrunch",
+            "summary": "据Wired报道，OpenAI与训练数据公司Handshake AI正要求第三方承包商上传其在过往及当前工作中实际完成的文件，如Word文档、PDF、PowerPoint、Excel表格或代码仓库等，以用于AI模型训练。承包商需在上传前使用ChatGPT的“Superstar Scrubbing”工具删除敏感信息，但知识产权律师警告此举存在重大法律风险，依赖承包商自行判断保密内容不可靠。OpenAI拒绝置评。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek V4爆料：春节档GPT/Claude编程危",
+            "time": "2026-01-10",
+            "source": "量子位",
+            "summary": "据外媒The Information消息，DeepSeek计划于2026年春节前后发布其新一代大模型DeepSeek-V4，主打卓越的编程能力，内部测试显示其已超越OpenAI的GPT系列和Anthropic的Claude。V4在超长代码提示处理、训练全过程数据模式理解能力上实现关键突破，避免了传统模型随训练轮次增加而出现的性能衰减问题。用户反馈其生成答案逻辑更清晰、推理更可靠。此外，V3.2已在大模型竞技场进行人类偏好评估，暗示V4可能提前公开测试。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/bc4feb23b2dbf97957f891da68f94eab.png",
+            "url": "https://www.qbitai.com/2026/01/368820.html",
+            "category": "AI"
+        },
+        {
             "title": "谁说老实人赚不到钱？Claude用一张3500亿的支票打脸OpenAI",
             "time": "2026-01-09",
             "source": "AITNT",
@@ -741,6 +912,15 @@
             "summary": "MIT博士肖光烜刚毕业即加盟前OpenAI CTO创办的初创公司Thinking Machines，专注大模型预训练。他本科毕业于清华大学双学位，博士期间在MIT研究高效大模型算法，提出SmoothQuant、DuoAttention、XAttention等多项创新技术，显著提升推理效率与显存利用率。其博士论文构建了完整高效LLM框架，获业界高度评价。据称其入职年薪达50万美元（约350万元），远超OpenAI等公司同类岗位平均水平，凸显AI顶尖人才的稀缺与高价值。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/9/4a7c817d-ed26-11f0-837d-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=21445",
+            "category": "AI"
+        },
+        {
+            "title": "【收购】OpenAI收购高管教练AI初创企业Convogo的创始团队：领导力评估、360 反馈与 HR 工作流正在被重构",
+            "time": "2026-01-09",
+            "source": "HRTechChina",
+            "summary": "OpenAI于2026年1月宣布以团队收购（acqui-hire）方式吸纳高管教练AI公司Convogo的三位联合创始人Matt Cooper、Evan Cater和Mike Gillett，交易为全股票形式，不涉及Convogo的知识产权或产品。Convogo产品将停止运营，团队将加入OpenAI的AI cloud相关项目，此举标志着领导力评估、360度反馈与HR工作流正被AI技术深度重构。",
+            "image_url": "https://www.hrtechchina.com/wp-content/uploads/convogo-01-08_171540_345-720x340.png",
+            "url": "https://www.hrtechchina.com/74527.html",
             "category": "AI"
         },
         {
@@ -1249,6 +1429,15 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊计划在芝加哥附近开设超级购物中心",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "亚马逊计划在芝加哥郊区奥兰帕克建设一座22.9万平方英尺的超级购物中心，集零售与仓储于一体，销售杂货、日用品和即食食品，并支持顾客取货。尽管亚马逊近年来关闭了多家实体门店，包括书店和Amazon Style服装店，但此次项目表明其仍对大型实体零售持探索态度。该提案已获当地规划委员会批准，将成为其继全食超市后又一重要线下布局。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans",
+            "category": "其他"
+        },
+        {
             "title": "亚马逊为全食超市推出升级版智能购物车，容量增大40%并支持扫码支付",
             "time": "2026-01-08",
             "source": "The Verge",
@@ -1373,6 +1562,15 @@
     ],
     "Rockstar Games": [
         {
+            "title": "《GTA6》超写实画面引专家担忧：或损害心理健康！",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "《GTA6》计划于2026年底发售，其超写实画面引发心理学家与游戏开发者对玩家心理健康的担忧。专家认为，高度拟真的暴力场景可能削弱玩家与现实之间的安全距离，甚至趋近真实恐怖行为的观感。但也有学者指出，游戏通过夸张的物理效果与荒诞叙事仍明确传递虚构信号，整体体验仍属虚拟范畴。《GTA》系列一贯在讽刺与真实间保持平衡，未必必然导致心理危害。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_20260109114531418.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992527.html",
+            "category": "游戏"
+        },
+        {
             "title": "曝《GTA6》内容还没有做好！仍在设计关卡、润色任务",
             "time": "2026-01-08",
             "source": "游侠网",
@@ -1419,6 +1617,15 @@
         }
     ],
     "Epic Games": [
+        {
+            "title": "Epic喜加一：策略塔防游戏《气球塔防6》免费领取！",
+            "time": "2026-01-09",
+            "source": "游侠网",
+            "summary": "Epic平台本周免费游戏公布，休闲策略塔防游戏《气球塔防6》限时免费领取，截止日期为1月16日0点。该游戏由Ninja Kiwi开发，心动网络代理，于2018年登陆PC，突破传统塔防固定路线模式，提供超过60张风格各异的地图，玩家可自由组合防御塔与升级路线，体验猴子与气球的史诗对抗。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/09/584_2026010981803308.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992431.html",
+            "category": "游戏"
+        },
         {
             "title": "滑跪送游戏的Epic Games，为什么是玩家们的“赛博E父”？",
             "time": "2026-01-01",
@@ -1540,6 +1747,42 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克称下周将开源X新算法",
+            "time": "2026-01-11",
+            "source": "The Verge",
+            "summary": "埃隆·马斯克宣布，将在一周内开源X平台的新推荐算法，涵盖所有决定用户有机内容和广告推荐的代码，并承诺每四周更新一次，附带开发者说明。尽管他曾在2023年开源过Twitter算法，但相关GitHub仓库至今未更新，引发外界对其承诺可信度的质疑。此次发布正值X旗下AI模型Grok因生成深度伪造内容面临全球批评之际，外界普遍认为此举或为应对舆论压力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
+            "category": "社交"
+        },
+        {
+            "title": "马斯克称X的新算法将于下周开源",
+            "time": "2026-01-10",
+            "source": "Engadget",
+            "summary": "埃隆·马斯克在X平台上宣布，公司将在七天内开源X平台的新推荐算法，包括所有用于决定有机和广告内容推荐的代码，并承诺每四周更新一次，附带详细的开发者说明。此举旨在提高算法透明度，此前X的算法已受到法国和欧盟委员会的调查，同时其AI聊天机器人Grok因生成儿童性虐待内容和非自愿图像而备受争议。马斯克自2023年收购Twitter以来多次承诺开源算法，但此前发布的代码被认为不够完整且未及时更新。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/TAmMHojRdwAn67LRcl.nng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ0Nw--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-01-10_at_4.50.33%E2%80%AFPM.png",
+            "url": "https://www.engadget.com/big-tech/elon-musk-says-xs-new-algorithm-will-be-made-open-source-next-week-225721656.html",
+            "category": "社交"
+        },
+        {
+            "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！项目做到一半突遭中断，官方解释是“误伤”？",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "Anthropic突然限制第三方工具如Cursor、OpenCode和xAI对Claude模型的调用，引发开发者强烈不满。官方称此举为防止绕过计费机制与竞争性使用，但被指误伤正常用户。用户批评其强制迁移至官方终端工具，剥夺了已付费用户的使用自由。事件暴露了AI模型提供商在订阅制与API计费间的利益冲突，以及生态控制权的争夺。OpenCode创始人已转向与OpenAI合作，推动多模型兼容。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/d800817f-eddc-11f0-a762-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21481",
+            "category": "AI"
+        },
+        {
+            "title": "离开马斯克后，他把人形机器人做成了这样",
+            "time": "2026-01-10",
+            "source": "量子位",
+            "summary": "矩阵超智公司发布新一代人形机器人MATRIX-3，由前特斯拉Optimus团队核心成员张海星领衔打造。该机器人融合仿生肤质、高维触觉传感、27自由度灵巧手与零样本泛化认知内核，实现安全人机共处与复杂环境自主操作，突破传统预设指令限制，可适应工厂、物流、医疗及家庭等多元场景。产品已启动早期体验计划，预计2026年部署试点，标志着人形机器人从专业执行迈向通用物理智能的新阶段。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6bb1d9a34cbdbd25b815ff36c78c3238.webp",
+            "url": "https://www.qbitai.com/2026/01/368903.html",
+            "category": "AI"
+        },
+        {
             "title": "4680电池的大饼，马斯克不想画了",
             "time": "2026-01-09",
             "source": "36氪",
@@ -1615,6 +1858,15 @@
     "零一万物": [],
     "GameStop": [
         {
+            "title": "GameStop reportedly shuts down more than 400 US stores",
+            "time": "2026-01-10",
+            "source": "Engadget",
+            "summary": "GameStop计划关闭美国超过400家实体店，涉及从加利福尼亚到缅因州的多个地点，此举旨在削减成本。据追踪关闭信息的博客显示，已有410家门店确认关闭或正在关闭，另有11家即将关闭。这一行动与其2025年12月向SEC提交的文件一致，文件中提及将在财年结束前关闭大量门店。尽管GameStop在2021年曾因散户炒作股价飙升，但近年来其在加密货币和NFT领域的尝试均告失败，品牌方向持续受挫。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/tNpdmBWtrG2Y32v0iiTAFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/510b0340-ee61-11f0-b5e7-55d846559db6",
+            "url": "https://www.engadget.com/gaming/gamestop-reportedly-shuts-down-more-than-400-us-stores-210632743.html",
+            "category": "游戏"
+        },
+        {
             "title": "GameStop据报道将在美国关闭数百家门店",
             "time": "2026-01-09",
             "source": "GamesIndustry.biz",
@@ -1622,10 +1874,29 @@
             "image_url": "https://assetsio.gnwcdn.com/GameStop-00.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
             "url": "https://www.gamesindustry.biz/report-gamestop-closing-hundreds-of-stores-in-the-united-states",
             "category": "游戏"
+        },
+        {
+            "title": "报道：GameStop将在美国关闭数百家门店",
+            "time": "2026-01-09",
+            "source": "GamesIndustry.biz",
+            "summary": "GameStop据报道已在美国关闭数百家实体店，根据第三方统计已有390家门店关闭，另有10家待确认。公司2024财年已关闭590家门店，并计划在2025财年继续大幅缩减门店数量。同时，GameStop拟关闭新西兰子公司EB Games，并已退出爱尔兰、瑞士、奥地利和德国市场，正寻求出售法国和加拿大业务。尽管业务收缩，公司仍为CEO Ryan Cohen设定了3500万美元的绩效奖励，目标是将市值从95亿美元提升至1000亿美元。财报显示，公司近三年销售持续下滑，硬件、软件和收藏品销售额均大幅下降。",
+            "image_url": "https://assetsio.gnwcdn.com/GameStop-00.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/report-gamestop-closing-hundreds-of-stores-in-the-united-states",
+            "category": "游戏"
         }
     ],
     "Momenta": [],
-    "台积电": [],
+    "台积电": [
+        {
+            "title": "台积电的真正瓶颈",
+            "time": "2026-01-10",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHlicnhNZicXiaOyFAib1j443HBXQIlcHyDyI4ujW3lYf7pRDlMNxbgssMaXdjiaSsvmIx31rbPI5rSABQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/EBCoc-fZlPpuCaOl4tujtQ",
+            "category": "其他"
+        }
+    ],
     "三星": [
         {
             "title": "三星的“BB-8 机器人”缺席 CES，零售计划或已无限期搁置",
@@ -1769,6 +2040,15 @@
             "time": "2026-01-09",
             "source": "TechCrunch",
             "summary": "CES 2026在拉斯维加斯落幕，各大科技公司集中发布AI与机器人相关产品。英伟达推出Rubin架构及开源AI模型Alpamayo，推动自动驾驶与机器人发展；AMD发布Ryzen AI 400系列处理器，强化PC端AI能力；Razer展示Project AVA和Project Motoko等AI交互设备；Lego首次参展，推出可互动的智能积木；Clicks推出带实体键盘的Communicator手机；LG的CLOiD家庭机器人表现 sluggish；Caterpillar与英伟达合作开发AI建筑设备。AI驱动的物理设备成为本届展会核心主题。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+            "category": "AI"
+        },
+        {
+            "title": "CES 2026：从英伟达新品到AMD新芯片再到Razer的AI怪癖",
+            "time": "2026-01-09",
+            "source": "TechCrunch",
+            "summary": "CES 2026在拉斯维加斯落幕，各大科技公司集中发布AI与硬件新品。英伟达推出Rubin架构及开源AI模型Alpamayo，聚焦自动驾驶与机器人；AMD发布Ryzen AI 400系列处理器，强化PC端AI能力；Razer展示Project AVA和Project Motoko等AI交互设备；Clicks推出带实体键盘的Communicator手机；LG的CLOiD家庭机器人表现 sluggish；Caterpillar与英伟达合作开发AI建筑设备；Lego首次亮相CES，推出可交互的智能积木。AI驱动的物理设备成为本届展会核心主题。",
             "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
             "url": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
             "category": "AI"
@@ -1928,6 +2208,42 @@
         }
     ],
     "deepseek": [
+        {
+            "title": "DeepSeek V4爆春节登场！四大杀招突袭全球编程王座，Claude危",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "DeepSeek计划于2026年春节前后发布下一代大模型V4，聚焦编程能力突破，有望超越Claude和GPT系列成为编程领域新王者。V4在超长上下文代码处理、推理严密性、算法稳定性及训练效率上实现四大核心升级，继承V3的MoE架构与MLA机制，并融合R1的强化学习经验。其底层算法mHC技术有效解决大模型训练信号衰减问题，且在有限硬件条件下实现高性价比突破，引发全球AI界高度关注。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/abac0677-edd3-11f0-883c-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21480",
+            "category": "AI"
+        },
+        {
+            "title": "一年后，DeepSeek-R1的每token成本降到了原来的1/32",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "DeepSeek-R1于2025年1月发布，是一款6710亿参数的MoE架构开源大模型，曾引发全球AI行业关注。一年后，通过英伟达Blackwell GPU与TensorRT-LLM软件栈的软硬件协同优化，其每token推理成本降至原来的1/32。优化技术包括NVFP4浮点格式、解耦服务、多token预测及核函数改进，显著提升吞吐量。NVIDIA GB200 NVL72和HGX B200平台在不同序列长度下均实现性能飞跃，推动大模型部署成本持续下降。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/0bd53d6f-ee03-11f0-ba7b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21487",
+            "category": "AI"
+        },
+        {
+            "title": "曝DeepSeek V4模型春节前后发布！生成能力更强劲",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "据科技媒体The Information报道，DeepSeek计划于2026年2月中旬农历新年前后发布新一代AI模型DeepSeek V4，其核心突破在于强大的代码生成能力，支持百万级tokens上下文窗口，可完整处理中型项目代码库与文档，有效解决跨文件依赖理解问题。该模型在训练机制上实现性能不衰减，初步测试表现优于Claude和GPT系列，并可能采用全新mHC架构，提升并行效率与国产芯片适配性，为商业化部署奠定基础。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_2026011031725800.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992747.html",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek V4爆料：春节档GPT/Claude编程危",
+            "time": "2026-01-10",
+            "source": "量子位",
+            "summary": "据外媒The Information消息，DeepSeek计划于2026年春节前后发布其新一代大模型DeepSeek-V4，主打卓越的编程能力，内部测试显示其已超越OpenAI的GPT系列和Anthropic的Claude。V4在超长代码提示处理、训练全过程数据模式理解能力上实现关键突破，避免了传统模型随训练轮次增加而出现的性能衰减问题。用户反馈其生成答案逻辑更清晰、推理更可靠。此外，V3.2已在大模型竞技场进行人类偏好评估，暗示V4可能提前公开测试。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/bc4feb23b2dbf97957f891da68f94eab.png",
+            "url": "https://www.qbitai.com/2026/01/368820.html",
+            "category": "AI"
+        },
         {
             "title": "毫无征兆！DeepSeek R1爆更86页论文，这才是真正的Open",
             "time": "2026-01-08",
@@ -2252,6 +2568,15 @@
             "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6a99d1d2211326828a586b8d743edff5.webp",
             "url": "https://www.qbitai.com/2026/01/367789.html",
             "category": "AI"
+        },
+        {
+            "title": "MiniMax登陆港交所，成史上IPO规模最大的AI大模型公司",
+            "time": "2026-01-09",
+            "source": "动点科技",
+            "summary": "上海人工智能公司MiniMax于2026年1月9日在香港交易所正式上市，发行价为每股165港元，募集资金约55.4亿港元，上市首日市值最高超763亿港元，成为史上IPO规模最大的AI大模型公司。公司获得14家国内外基石投资者支持，包括阿里巴巴、易方达等，服务覆盖全球200多个国家和地区，累计用户达2.12亿，海外市场收入占比超70%。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/byd-linghui-miit-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2026-01-09/minimax-hkex-listing-largest-ai-model-ipo/",
+            "category": "AI"
         }
     ],
     "快手": [
@@ -2266,6 +2591,51 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "今年最具启发的Claude Code用例：她用cc搭了8个Agent监控自己的生活",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "21岁创业者Molly Cantillon利用Claude Code构建了8个并行AI代理，全面监控并自动化管理个人生活，涵盖产品运营、邮件处理、交易分析、健康追踪、订阅管理等场景。她通过自动化脚本、桌面操作和递归自我改进机制，实现“个人全景监控”，逆转了传统被监控的权力结构。文章强调从工具使用转向基础设施构建，并警告避免被系统吞噬，倡导保持元认知能力。该案例被视为AI赋能个人管理的前沿实践。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/39a75f74-edd0-11f0-91a8-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21475",
+            "category": "AI"
+        },
+        {
+            "title": "一文搞懂 Agents 评测丨Anthropic 最新万字长文",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "本文由Anthropic撰写，系统性地探讨了AI Agent的评测方法与实践框架。文章指出传统单轮评测已无法应对Agent多轮交互、工具调用与动态决策的复杂性，提出应构建包含任务、试次、评分器、记录与评测框架的完整评估体系。文中详细分析了编程、对话、研究与电脑操作四类Agent的评测策略，强调使用确定性、模型与人工评分器结合，并引入pass@k和pass^k等指标量化非确定性。文章还提供了从零构建评测的八步路线图，倡导评测驱动开发，以提升Agent研发效率与可靠性。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/3286b998-edcd-11f0-b5fe-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21467",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek V4爆春节登场！四大杀招突袭全球编程王座，Claude危",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "DeepSeek计划于2026年春节前后发布下一代大模型V4，聚焦编程能力突破，有望超越Claude和GPT系列成为编程领域新王者。V4在超长上下文代码处理、推理严密性、算法稳定性及训练效率上实现四大核心升级，继承V3的MoE架构与MLA机制，并融合R1的强化学习经验。其底层算法mHC技术有效解决大模型训练信号衰减问题，且在有限硬件条件下实现高性价比突破，引发全球AI界高度关注。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/abac0677-edd3-11f0-883c-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21480",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic突然封禁第三方工具调用Claude，Cursor、OpenCode、xAI 集体“中枪”！项目做到一半突遭中断，官方解释是“误伤”？",
+            "time": "2026-01-10",
+            "source": "AITNT",
+            "summary": "Anthropic突然限制第三方工具如Cursor、OpenCode和xAI对Claude模型的调用，引发开发者强烈不满。官方称此举为防止绕过计费机制与竞争性使用，但被指误伤正常用户。用户批评其强制迁移至官方终端工具，剥夺了已付费用户的使用自由。事件暴露了AI模型提供商在订阅制与API计费间的利益冲突，以及生态控制权的争夺。OpenCode创始人已转向与OpenAI合作，推动多模型兼容。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/10/d800817f-eddc-11f0-a762-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21481",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek V4爆料：春节档GPT/Claude编程危",
+            "time": "2026-01-10",
+            "source": "量子位",
+            "summary": "据外媒The Information消息，DeepSeek计划于2026年春节前后发布其新一代大模型DeepSeek-V4，主打卓越的编程能力，内部测试显示其已超越OpenAI的GPT系列和Anthropic的Claude。V4在超长代码提示处理、训练全过程数据模式理解能力上实现关键突破，避免了传统模型随训练轮次增加而出现的性能衰减问题。用户反馈其生成答案逻辑更清晰、推理更可靠。此外，V3.2已在大模型竞技场进行人类偏好评估，暗示V4可能提前公开测试。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/bc4feb23b2dbf97957f891da68f94eab.png",
+            "url": "https://www.qbitai.com/2026/01/368820.html",
+            "category": "AI"
+        },
         {
             "title": "谁说老实人赚不到钱？Claude用一张3500亿的支票打脸OpenAI",
             "time": "2026-01-09",
@@ -2291,6 +2661,15 @@
             "summary": "Claude Code官方开源了名为code-simplifier的插件，旨在解决AI生成代码后出现的“屎山”问题。该插件通过一套精心设计的提示词，自动重构代码以提升可读性、一致性和可维护性，同时严格保持原有功能不变。其核心原则包括：优先清晰而非简洁、强制执行项目编码规范、避免过度简化、聚焦近期修改代码。插件支持自定义配置，适用于各类AI编程场景，被评价为AI编程从“生成”走向“治理”的重要一步。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/9/120c2db0-ed33-11f0-9348-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=21450",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic将Allianz纳入企业客户名单",
+            "time": "2026-01-09",
+            "source": "TechCrunch",
+            "summary": "AI研究公司Anthropic宣布与德国保险巨头Allianz达成合作，将其Claude大模型和Claude Code编程工具引入Allianz内部，并为员工开发可执行多步骤工作流的定制AI代理。双方还将建立AI交互日志系统以确保透明度与合规性。该合作是Anthropic在2026年的首个企业大单，此前已与Deloitte、Accenture、IBM和Snowflake等公司达成类似协议。Anthropic目前占据企业AI市场40%的份额，在AI编程领域占比达54%，显示出其在企业AI领域的领先优势。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-12.22.37PM.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
             "category": "AI"
         },
         {
