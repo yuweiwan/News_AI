@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "一款仅13KiB的跨平台贪吃蛇游戏：单文件支持Windows、Linux和浏览器",
+            "time": "2026-01-11",
+            "source": "iczelia.net",
+            "summary": "Kamila Szewczyk开发了一款仅13.772字节的跨平台贪吃蛇游戏，单文件可同时在Windows、Linux和浏览器中运行。通过巧妙利用PE头、ELF压缩和HTML注入技术，将C语言和JavaScript三种实现合并为一个polyglot文件。游戏支持箭头键或WASD控制，含分数系统与关卡机制，每关随机生成迷宫。技术亮点在于利用操作系统对文件头部的解析差异，实现平台自适应执行，展现了极客级的二进制编程艺术。",
+            "image_url": "https://iczelia.net/static/snake/cover.png",
+            "url": "https://iczelia.net/posts/snake-polyglot/",
+            "category": "游戏"
+        },
+        {
+            "title": "曝微软暂无《虐杀原形》新项目计划! 神秘更新猜想落空",
+            "time": "2026-01-11",
+            "source": "游侠网",
+            "summary": "外媒Windows Central证实，微软目前没有计划开发《虐杀原形》系列的新项目，此前Steam平台出现的神秘更新引发玩家对系列复活的猜测，但该说法已被官方否认。该系列最后一部作品《虐杀原形2》发布于2012年，至今已沉寂十余年。尽管社区对重制或续作抱有期待，但微软方面明确表示无相关开发计划，令粉丝失望。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/11/584_2026011121348497.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992809.html",
+            "category": "游戏"
+        },
+        {
+            "title": "微软放大招！曝下一代Xbox将搭载Win 11大屏模式！",
+            "time": "2026-01-11",
+            "source": "游侠网",
+            "summary": "微软计划在下一代Xbox主机中深度整合Windows 11系统，打造融合主机简洁体验与PC扩展能力的统一平台，支持从初代Xbox到Series X|S的全世代游戏向下兼容，并探索将此界面推广至普通PC，实现跨平台无缝游玩。该策略旨在强化Xbox数字资产延续性与跨设备体验优势，但面临硬件兼容、系统平衡与内存成本等挑战。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/11/584_2026011115120284.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992805.html",
+            "category": "游戏"
+        },
+        {
             "title": "底裤也要没了！曝Xbox第一方《神鬼寓言》要登陆PS5",
             "time": "2026-01-10",
             "source": "游侠网",
@@ -35,6 +62,15 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
             "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
             "category": "其他"
+        },
+        {
+            "title": "《老滚6》要来了？Xbox称今年是尾数为6的游戏大年！",
+            "time": "2026-01-10",
+            "source": "游侠网",
+            "summary": "Xbox官方在社交媒体上回应玩家对《极限竞速：地平线6》的期待时，称“今年是尾数为6的游戏大年”，引发玩家对《上古卷轴6》（老滚6）即将公布的广泛猜测。尽管官方未明确提及《上古卷轴6》，但该言论在Reddit等社区引发热议，玩家纷纷解读为潜在暗示。目前贝塞斯达尚未公布任何正式消息，但相关传闻与开发动态持续发酵，令玩家期待值飙升。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/10/584_20260110843167.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992705.html",
+            "category": "游戏"
         },
         {
             "title": "微软将停用Word内置的发送到Kindle功能",
@@ -137,6 +173,24 @@
         }
     ],
     "索尼": [
+        {
+            "title": "PS提醒：PS5 Pro可玩超8500款PS4游戏 支持画质增强",
+            "time": "2026-01-11",
+            "source": "游侠网",
+            "summary": "索尼PlayStation官方提醒用户，PS5 Pro主机兼容超过8500款PS4游戏，并可通过启用“增强PS4游戏图像质量”功能提升画面表现。该功能需在设置中开启，且要求显示器支持2160p或1440p（60Hz）输出，仅适用于CFI-7000系列主机。部分玩家反馈更期待游戏稳定60帧性能，而非仅画面增强。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/11/584_20260111105625386.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992791.html",
+            "category": "游戏"
+        },
+        {
+            "title": "知名推主晒AI改造索尼游戏女主! 玩家集体直呼太违和",
+            "time": "2026-01-11",
+            "source": "游侠网",
+            "summary": "知名推主@Poliwar在社交平台分享了三张使用AI技术改造后的索尼游戏女主角图片，涉及《地平线》的埃洛伊、《漫威蜘蛛侠》的MJ和《最后生还者》的艾莉。改造后角色统一呈现欧美网红风妆容，丧失了原有角色的独特气质与游戏背景契合度，引发玩家广泛讨论。许多玩家认为这种过度美化与游戏世界观严重脱节，甚至质疑其对角色原有意象的破坏，反映出玩家对角色设计商业化与文化迎合的长期不满。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/11/584_20260111115313683.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992799.html",
+            "category": "AI"
+        },
         {
             "title": "PS5独占《Code Violet》OC站仅有40分：简直一团糟！",
             "time": "2026-01-10",
@@ -450,6 +504,51 @@
     ],
     "谷歌": [
         {
+            "title": "谷歌联合创始人为规避潜在财富税 将商业实体迁出加州丨视讯速递",
+            "time": "2026-01-12",
+            "source": "钛媒体",
+            "summary": "谷歌联合创始人为了规避潜在的财富税，决定将商业实体迁出加州。该举措反映了高净值人群在税务规划方面的策略调整，也凸显了加州高额税收政策对科技企业及创始人产生的影响。新闻通过视讯形式呈现，结合行业背景分析，强调了企业选址与税务政策之间的紧密关联，引发对区域经济与资本流动的深层思考。",
+            "image_url": "https://diantv.tmtpost.com/uploads/video_images/2026/01/20260112102535509.jpg",
+            "url": "https://www.tmtpost.com/video/7838943.html",
+            "category": "其他"
+        },
+        {
+            "title": "在谷歌深耕14年，华人研究员创立视觉AI公司Elorian，计划融资5000万美元",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "两名前谷歌资深研究员Andrew Dai（戴明博）和Yinfei Yang（杨寅飞）共同创立视觉AI公司Elorian，致力于开发能同时理解文本、图像、视频与音频的多模态AI模型。戴明博曾在Google DeepMind领导Gemini大模型数据团队，杨寅飞曾任Apple AI/ML多模态负责人，两人均在多模态学习领域有重要贡献。公司目前处于隐身模式，正与Striker Venture Partners洽谈约5000万美元种子轮融资，目标是构建面向现实世界视觉理解的前沿AI系统。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/a8895b0c-ee96-11f0-87f5-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21507",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌宣布新协议以促进AI代理驱动的商业",
+            "time": "2026-01-11",
+            "source": "TechCrunch",
+            "summary": "谷歌在NRF大会上发布了名为Universal Commerce Protocol（UCP）的开放标准，旨在让AI代理在购物全流程中跨平台协作，涵盖产品发现、支付与售后支持。该协议与Shopify、Walmart等企业合作，支持用户在Google搜索AI模式中直接通过Google Pay完成购买，并允许商家在用户搜索时推送个性化折扣。同时，谷歌还推出Gemini Enterprise for CX，支持商家部署AI客服代理，PayPal和OpenAI等公司也在推动AI购物生态发展。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌移除部分医疗查询的AI概览",
+            "time": "2026-01-11",
+            "source": "TechCrunch",
+            "summary": "继《卫报》调查发现谷歌AI概览在回答肝功能检测等医疗问题时提供不准确信息后，谷歌已移除部分相关查询的AI概览功能。例如，‘肝血检正常范围’等关键词不再显示AI生成摘要，但部分变体查询仍可能触发。谷歌称其内部临床团队审查后认为多数信息并无错误，并强调正在持续改进搜索系统。专家指出，此举仅为局部调整，未解决AI概览在医疗领域系统性风险的根本问题。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌推出新的商业框架，推动‘代理购物’发展",
+            "time": "2026-01-11",
+            "source": "Engadget",
+            "summary": "谷歌推出了名为通用商业协议（UCP）的开放标准，旨在通过AI代理技术减少在线购物的摩擦。该协议包含三大新功能：在Google搜索中直接完成AI模式购物、商家虚拟销售助手（Business Agent）以及面向意向买家的专属优惠（Direct Offers）。UCP已与Shopify、Etsy、Walmart等巨头合作，并兼容现有行业协议，支持Google Pay和即将加入的PayPal，提升购物全流程体验。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/UY3X4Z6HMOvEghwJhrElMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/293cfed0-ef2f-11f0-b738-76f9b5569039",
+            "url": "https://www.engadget.com/big-tech/googles-new-commerce-framework-cranks-up-the-heat-on-agentic-shopping-212433122.html",
+            "category": "其他"
+        },
+        {
             "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
             "time": "2026-01-08",
             "source": "AITNT",
@@ -623,6 +722,33 @@
     ],
     "Meta": [
         {
+            "title": "Instagram称已修复导致大量密码重置邮件发送的问题",
+            "time": "2026-01-12",
+            "source": "The Verge",
+            "summary": "Instagram声称已修复一个由外部方触发的漏洞，该漏洞导致大量用户收到未经授权的密码重置邮件。公司强调其系统并未遭到入侵，但这一说法与Malwarebytes报告的1750万Instagram账户信息泄露至暗网的指控相矛盾。目前尚不清楚漏洞具体成因，Instagram建议用户忽略这些邮件。作者Terrence O'Brien指出，Meta尚未就此事提供进一步澄清。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram称尽管出现密码重置请求，但并未发生数据泄露",
+            "time": "2026-01-11",
+            "source": "TechCrunch",
+            "summary": "Instagram否认发生数据泄露，尽管部分用户收到可疑的密码重置邮件。此前，安全公司Malwarebytes在Bluesky上声称有1750万Instagram账户信息被盗并流入暗网，但Instagram随后在X平台回应称，问题源于外部方利用系统漏洞发送密码重置请求，已修复该问题，并建议用户忽略相关邮件。公司未透露攻击者身份或具体漏洞细节，强调账户安全未受影响。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/11/instagram-says-theres-been-no-breach-despite-password-reset-requests/",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram称账户安全无虞，尽管出现大量可疑密码重置请求",
+            "time": "2026-01-11",
+            "source": "Engadget",
+            "summary": "近日，大量Instagram用户收到可疑的密码重置邮件，Malwarebytes称其在暗网发现包含1750万用户用户名、邮箱、电话和地址等信息的数据泄露，可能源于2024年Instagram API暴露。但Instagram官方回应称无系统被入侵，仅是外部人员利用技术漏洞发送重置请求，用户账户仍安全。建议用户启用双重验证并检查登录设备。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/MjdUTofNH5reR8TQGJVqaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/deb5df10-ee54-11f0-af5f-329814eac189",
+            "url": "https://www.engadget.com/cybersecurity/instagram-says-accounts-are-secure-after-wave-of-suspicious-password-reset-requests-192105188.html",
+            "category": "社交"
+        },
+        {
             "title": "Meta扩大核能计划，携手比尔·盖茨初创公司为AI数据中心供电",
             "time": "2026-01-10",
             "source": "The Verge",
@@ -645,6 +771,15 @@
             "time": "2026-01-10",
             "source": "The Verge",
             "summary": "Meta与三家核能公司——TerraPower（比尔·盖茨支持）、Oklo（萨姆·奥特曼支持）和Vistra达成协议，计划到2035年为其AI数据中心提供6.6吉瓦的电力，足以满足爱尔兰全国用电需求。Meta将全额承担新建核反应堆的成本，首座反应堆有望在2030年投入运营。此举是Meta继去年与Constellation合作重启老旧核电站后，进一步推动核能作为AI基础设施核心能源的战略布局，旨在巩固美国在全球AI领域的领导地位。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
+            "category": "其他"
+        },
+        {
+            "title": "Meta扩大核能野心，携手比尔·盖茨初创公司",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "Meta与三家核能公司——TerraPower（比尔·盖茨支持）、Oklo（萨姆·阿尔特曼支持）和Vistra达成协议，计划投资建设新型核反应堆，为AI数据中心提供总计6.6吉瓦的电力，预计到2035年完成。首个反应堆可能在2030年投运，以支持其Prometheus超级计算集群等项目。Meta承诺承担全部能源成本，避免转嫁给消费者，并称其成为美国历史上最重要的核能企业采购方之一。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
             "category": "其他"
@@ -869,6 +1004,24 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "a16z创始人：美国该对中国更乐观些！中国Kimi已基本复现了GPT5推理、DeepSeek是真正的超新星！押注Ilya、Mira、李飞飞会成为下一代新王！",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "a16z联合创始人Marc Andreessen在一场80分钟播客中高度评价中国AI发展，称Kimi K2模型推理能力已基本复现GPT-5水平，可在MacBook上运行，DeepSeek是全球“超新星”，并指出中国在大模型、芯片和机器人领域具备强大竞争力。他强调中美AI是“双马竞速”，而非单边领先，批评欧洲过度监管扼杀创新，同时看好开源模型推动技术民主化，并押注Ilya、Mira、李飞飞等人才将引领下一代AI巨头。他认为AI扩散速度远超互联网，未来五年人们将普遍感谢AI带来的变革。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/884c6b30-ef57-11f0-a2f5-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21519",
+            "category": "AI"
+        },
+        {
+            "title": "GPT-5.2考赢人类！OpenAI警告：大模型能力已过剩，AGI天花板不是AI",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "OpenAI联合创始人Greg Brockman透露，GPT-5.2通过Poetiq元系统在ARC-AGI-2基准测试中以75%准确率超越人类平均60%的水平，证明大模型推理能力已显著提升。该系统未对模型进行再训练，而是通过软件架构优化释放潜能。OpenAI据此提出“能力过剩”观点，认为未来AGI发展关键不在模型参数，而在人机协同、系统设计与实际应用落地。文章强调，AI的真正挑战是如何将强大能力转化为日常生产力，而非单纯追求模型规模。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/954905b4-ee92-11f0-b503-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21504",
+            "category": "AI"
+        },
         {
             "title": "Corsif 一个教老年人用 ChatGPT 的应用，如何做到月入 30 万美元",
             "time": "2026-01-10",
@@ -1151,6 +1304,24 @@
     ],
     "苹果": [
         {
+            "title": "Ilya卖掉SSI？特斯拉接盘xAI、苹果AI翻身…硅谷爽文「剧透」2026",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "本文基于《The Information》的预测，剧透2026年AI领域可能发生的重大事件：Ilya Sutskever或出售其神秘实验室SSI，特斯拉可能收购xAI以缓解其巨额烧钱压力，OpenAI拟收购Pinterest以增强图像与广告能力，苹果有望借Siri升级和抄底AI初创翻身，AI模型或将实现持续学习，微软或放弃Copilot收费并整合进365套件，AI客服赛道或迎来整合，聊天机器人趋向“更温暖”而非更聪明，州级AI监管将胜出联邦干预。文章同时提及Nvidia收购Groq、微软与Anthropic合作等2025年预测已部分实现。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/c4986761-ef5a-11f0-b396-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21523",
+            "category": "AI"
+        },
+        {
+            "title": "冲上苹果付费榜一的死了么，让我重新思考和AI相处的意义",
+            "time": "2026-01-12",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkVqsmRrSRqCFSicM5TRSgDiak5QV8B7HNZI75lrVHnxEDgmqY695PSErNfIfeTdsFicfcFFFzGJPusA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/khQ7UrRar5A8A-SDWbifXQ",
+            "category": "AI"
+        },
+        {
             "title": "苹果，硬刚印度380亿美元罚款",
             "time": "2026-01-09",
             "source": "36氪",
@@ -1260,6 +1431,15 @@
         }
     ],
     "华为": [
+        {
+            "title": "华为Momenta争夺保时捷，全球大厂智驾再度“投华”",
+            "time": "2026-01-12",
+            "source": "36氪",
+            "summary": "本文分析了全球主流车企如保时捷、丰田、Stellantis等纷纷转向中国智能驾驶技术供应商的趋势，华为乾崑ADS与Momenta成为核心争夺对象。华为凭借舱内激光雷达设计、全栈集成能力及在中国高端市场超50%的份额，赢得合资品牌青睐；Momenta则依靠多元股东背景与灵活方案拓展全球客户。文章指出，中国智驾的胜利不仅是技术优势，更是规模化工程能力的体现，标志着中国汽车产业从“大”到“强”的历史性转折。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260112/v2_988952387b0d4190afc18b01921ad4b5@5091053_oswg72376oswg1080oswg473_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3635737045517568",
+            "category": "AI"
+        },
         {
             "title": "华为小米蔚来抢爆新年新车申报！都很豪华",
             "time": "2026-01-09",
@@ -1438,6 +1618,15 @@
             "category": "其他"
         },
         {
+            "title": "亚马逊计划在芝加哥附近开设超大型综合商店",
+            "time": "2026-01-10",
+            "source": "The Verge",
+            "summary": "亚马逊计划在芝加哥郊区奥兰帕克建设一座22.9万平方英尺的综合零售中心，兼具超市、日用品销售与仓储配送功能，顾客可在此提货。尽管亚马逊近年来关闭了多家实体门店，包括书店和服装店，但此次项目表明其仍对实体零售保持兴趣。该提案已获当地规划委员会批准，门店将整合Amazon履约中心，形成类似沃尔玛的“超级商店”模式。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans",
+            "category": "其他"
+        },
+        {
             "title": "亚马逊为全食超市推出升级版智能购物车，容量增大40%并支持扫码支付",
             "time": "2026-01-08",
             "source": "The Verge",
@@ -1561,6 +1750,24 @@
         }
     ],
     "Rockstar Games": [
+        {
+            "title": "游侠早报：剑星新年开工福利 外媒总结GTA6开发慢原因",
+            "time": "2026-01-11",
+            "source": "游侠网",
+            "summary": "游侠早报汇总了今日游戏圈重要动态：《剑星》开发商Shift Up向员工发放包括Apple AirPods Max、Apple Watch及现金在内的高额新年奖励；外媒分析《GTA6》开发缓慢原因，涉及成本、技术升级与内容规模扩展，预计2026年11月19日发售；Level-5公布两款游戏将于1-2月推出免费更新；《勇者斗恶龙》系列全球销量突破9500万份；《饿狼传说：群狼之城》新预告疑似联动《北斗神拳》，引发玩家热议。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/11/584_20260111101658236.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/992785.html",
+            "category": "游戏"
+        },
+        {
+            "title": "外媒总结《GTA6》开发慢原因：投资成本、技术升级等",
+            "time": "2026-01-11",
+            "source": "游侠网",
+            "summary": "外媒TheGameVerse分析《GTA6》开发周期漫长的原因，主要包括创纪录的10亿美元以上开发预算、放弃跨世代兼容以追求次世代极限表现、引入动态天气与深度AI系统、核心编剧离职导致剧本重写、内部管理动荡与加班文化改善，以及为十年以上线上运营提前构建框架。这些因素共同导致项目延期至2026年11月19日发售。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/11/584_20260111100615593.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992781.html",
+            "category": "游戏"
+        },
         {
             "title": "《GTA6》超写实画面引专家担忧：或损害心理健康！",
             "time": "2026-01-09",
@@ -1747,6 +1954,15 @@
     ],
     "马斯克": [
         {
+            "title": "Ilya卖掉SSI？特斯拉接盘xAI、苹果AI翻身…硅谷爽文「剧透」2026",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "本文基于《The Information》的预测，剧透2026年AI领域可能发生的重大事件：Ilya Sutskever或出售其神秘实验室SSI，特斯拉可能收购xAI以缓解其巨额烧钱压力，OpenAI拟收购Pinterest以增强图像与广告能力，苹果有望借Siri升级和抄底AI初创翻身，AI模型或将实现持续学习，微软或放弃Copilot收费并整合进365套件，AI客服赛道或迎来整合，聊天机器人趋向“更温暖”而非更聪明，州级AI监管将胜出联邦干预。文章同时提及Nvidia收购Groq、微软与Anthropic合作等2025年预测已部分实现。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/c4986761-ef5a-11f0-b396-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21523",
+            "category": "AI"
+        },
+        {
             "title": "马斯克称下周将开源X新算法",
             "time": "2026-01-11",
             "source": "The Verge",
@@ -1754,6 +1970,24 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
             "category": "社交"
+        },
+        {
+            "title": "马斯克称将于下周开源X新算法",
+            "time": "2026-01-11",
+            "source": "The Verge",
+            "summary": "埃隆·马斯克宣布，将于一周内开源X平台（原Twitter）用于推荐用户内容的最新算法，包括有机内容和广告推荐的全部代码，并承诺每四周更新一次，附带开发者说明。尽管他曾在2023年开源过Twitter算法，但相关GitHub仓库至今未更新，引发外界对其承诺可信度的质疑。此次发布正值其AI模型Grok因生成不当内容面临全球批评之际，外界普遍持观望态度。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
+            "category": "社交"
+        },
+        {
+            "title": "笑死！xAI员工竟用Claude写代码？这回Anthropic反手拔了马斯克的网线",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "xAI员工长期依赖竞争对手Anthropic的Claude模型通过Cursor工具编写代码，引发Anthropic切断其API访问，引发AI圈震动。此举被视为Anthropic构建封闭生态、阻止竞争对手利用其技术加速发展的战略举措。与此同时，OpenAI迅速与第三方工具OpenCode整合Codex能力，抢占开发者生态。事件暴露了AI公司对第三方工具的依赖风险，倒逼xAI加速自研编程模型Grok-Code，也揭示AI工具正从中立基础设施演变为阵营武器，行业竞争加剧。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/cd1df481-ee92-11f0-8704-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21506",
+            "category": "AI"
         },
         {
             "title": "马斯克称X的新算法将于下周开源",
@@ -1781,6 +2015,15 @@
             "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6bb1d9a34cbdbd25b815ff36c78c3238.webp",
             "url": "https://www.qbitai.com/2026/01/368903.html",
             "category": "AI"
+        },
+        {
+            "title": "马斯克称X平台新算法将于下周开源",
+            "time": "2026-01-10",
+            "source": "Engadget",
+            "summary": "埃隆·马斯克在X平台上宣布，公司将在七天内开源X平台的新推荐算法，包括所有用于决定有机和广告内容推荐的代码，并承诺每四周更新一次，附带详细的开发者说明。此举旨在回应法国和欧盟对X算法透明度的调查，此前X的AI聊天机器人Grok曾被曝生成儿童性虐待内容及非自愿图像。尽管马斯克自2023年收购Twitter后曾发布过部分代码，但当时内容不完整且未持续更新。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/TAmMHojRdwAn67LRcl.nng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQ0Nw--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Screenshot_2026-01-10_at_4.50.33%E2%80%AFPM.png",
+            "url": "https://www.engadget.com/big-tech/elon-musk-says-xs-new-algorithm-will-be-made-open-source-next-week-225721656.html",
+            "category": "社交"
         },
         {
             "title": "4680电池的大饼，马斯克不想画了",
@@ -1885,7 +2128,17 @@
             "category": "游戏"
         }
     ],
-    "Momenta": [],
+    "Momenta": [
+        {
+            "title": "华为Momenta争夺保时捷，全球大厂智驾再度“投华”",
+            "time": "2026-01-12",
+            "source": "36氪",
+            "summary": "本文分析了全球主流车企如保时捷、丰田、Stellantis等纷纷转向中国智能驾驶技术供应商的趋势，华为乾崑ADS与Momenta成为核心争夺对象。华为凭借舱内激光雷达设计、全栈集成能力及在中国高端市场超50%的份额，赢得合资品牌青睐；Momenta则依靠多元股东背景与灵活方案拓展全球客户。文章指出，中国智驾的胜利不仅是技术优势，更是规模化工程能力的体现，标志着中国汽车产业从“大”到“强”的历史性转折。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260112/v2_988952387b0d4190afc18b01921ad4b5@5091053_oswg72376oswg1080oswg473_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3635737045517568",
+            "category": "AI"
+        }
+    ],
     "台积电": [
         {
             "title": "台积电的真正瓶颈",
@@ -2017,6 +2270,24 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "挑战GRPO，英伟达提出GDPO，专攻多奖励优化",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "英伟达提出一种新的多奖励强化学习优化方法GDPO（组奖励解耦归一化策略优化），以解决GRPO在多奖励场景下因归一化导致奖励信号被压缩、信息丢失的问题。GDPO通过分别对每个奖励信号进行归一化，保留不同奖励间的相对差异，显著提升训练稳定性和模型性能。实验表明，在工具调用、数学推理和代码推理任务中，GDPO在准确率、格式合规性等方面均优于GRPO，并有效避免了训练坍塌现象。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/d7d95c8f-ef56-11f0-8ad1-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21516",
+            "category": "AI"
+        },
+        {
+            "title": "30人团队震撼英伟达！Jim Fan自曝三个教训，重押世界模型",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "英伟达GEAR实验室负责人Jim Fan带领30人团队在机器人领域取得突破，重点推进GR00T系列视觉-语言-动作（VLA）基础模型与视频世界模型研究。团队发布GR00T N1至N1.6版本，提升机器人跨任务泛化能力，并开发SONIC通用运动系统、DoorMan开门策略、PLD自纠错框架等创新技术。Jim Fan反思三大教训：硬件可靠性拖累软件迭代、机器人基准混乱、VLA预训练目标错位，主张重押视频世界模型作为未来核心，通过仿真生成数据实现Scaling Law，推动物理图灵测试的实现。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/3f51ee7c-ee92-11f0-b80d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21503",
+            "category": "AI"
+        },
         {
             "title": "瞄准英伟达，国产算力产业走向“闭环”",
             "time": "2026-01-09",
@@ -2208,6 +2479,51 @@
         }
     ],
     "deepseek": [
+        {
+            "title": "a16z创始人：美国该对中国更乐观些！中国Kimi已基本复现了GPT5推理、DeepSeek是真正的超新星！押注Ilya、Mira、李飞飞会成为下一代新王！",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "a16z联合创始人Marc Andreessen在一场80分钟播客中高度评价中国AI发展，称Kimi K2模型推理能力已基本复现GPT-5水平，可在MacBook上运行，DeepSeek是全球“超新星”，并指出中国在大模型、芯片和机器人领域具备强大竞争力。他强调中美AI是“双马竞速”，而非单边领先，批评欧洲过度监管扼杀创新，同时看好开源模型推动技术民主化，并押注Ilya、Mira、李飞飞等人才将引领下一代AI巨头。他认为AI扩散速度远超互联网，未来五年人们将普遍感谢AI带来的变革。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/884c6b30-ef57-11f0-a2f5-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21519",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek等8大产品都是意外?! 改变世界的项目们，最初都没被“当个事儿办”",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "本文探讨了多个改变世界的人工智能产品，如DeepSeek、Qwen、ChatGPT、PyTorch等，最初均为公司内部的非核心支线项目（side project）。这些项目因不受KPI约束、决策灵活、试错成本低，反而在自由探索中快速迭代并最终成为行业标杆。文章分析了幻方量化、阿里、Anthropic等企业如何通过“放养”模式激发技术创新，并指出AI时代降低了个人探索门槛，支线项目正成为未来关键突破的重要来源，但并非所有支线都能成功逆袭。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/ddeed99c-ef5a-11f0-9fae-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21524",
+            "category": "AI"
+        },
+        {
+            "title": "具身智能DeepSeek时刻！千寻智能模型开源即登顶全球榜单",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "千寻智能开源自研VLA基础模型Spirit v1.5，在RoboChallenge全球具身智能评测中以66.09分、50.33%成功率登顶，成为唯一成功率超50%的模型，超越此前霸榜的Pi0.5。该模型通过高多样性、弱约束的开放式数据采集方式，显著提升机器人在真实非结构化场景中的泛化能力，并在贴胶带、物品拾取、插花等30项实操任务中表现优异。模型权重与代码已全面开源，标志着中国具身智能技术正式跻身全球第一梯队。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/db9cb534-ef55-11f0-ac40-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21514",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek-OCR是「长文本理解」未来方向？中科院新基准VTCBench给出答案",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "中科院团队推出首个针对视觉-文本压缩（VTC）范式的基准测试VTCBench，评估DeepSeek-OCR等技术在压缩长文本为2D图像后的理解能力。测试涵盖信息检索、关联推理与长期记忆三大任务，并引入99种现实渲染配置以检验鲁棒性。结果揭示VLM在长文本中间信息处理上存在显著注意力偏见，但Gemini-3-Pro表现优异，证明VTC是高效处理超长文本的可行路径。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/7f1fff13-ee91-11f0-8ddc-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21498",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek 还能这么玩? 我用它修仙、宫斗、末日求生，太上头了",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "本文探讨了利用DeepSeek大模型进行AI文字游戏（AI文游）的创新玩法，用户可通过简单指令让AI生成修仙、宫斗、末日求生等沉浸式文字剧情。AI能根据用户任意选择实时续写逻辑自洽的故事，甚至能处理离谱操作如摆摊卖烤串，形成网状而非树状的剧情结构。作者对比了DeepSeek、ChatGPT、Claude等模型的表现，发现DeepSeek在剧情创意和文化细节上表现突出。文章还提供了提示词编写指南与避坑建议，指出AI文游虽存在逻辑断裂风险，但已开启文字游戏新可能。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/d199b59a-ee91-11f0-9c74-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21500",
+            "category": "AI"
+        },
         {
             "title": "DeepSeek V4爆春节登场！四大杀招突袭全球编程王座，Claude危",
             "time": "2026-01-10",
@@ -2411,6 +2727,24 @@
     ],
     "智谱": [
         {
+            "title": "智谱IPO后唐杰首次公开亮相：「Chat之战」已结束，押注Coding的选择非常正确",
+            "time": "2026-01-12",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1blfoSkg7n8YibB0Vib99degGTlxhZwrQ2uUpRUwkjVwAhpia2KZHkHu5jInXQVibrsAKMWIsJQoVvzvA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/RK-shtbnePC2Ds0Kkci5kQ",
+            "category": "其他"
+        },
+        {
+            "title": "智谱与滴滴达成战略合作，将共同探索出行Agent场景落地",
+            "time": "2026-01-12",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1blfoSkg7n8YibB0Vib99degGW3YIYgTrF4aT0zKskic8JIvnOjG8swGumpIcUPvM41G2UmYWRkRJUOA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/OpMCJGo16vrgI8A4IkCkaw",
+            "category": "其他"
+        },
+        {
             "title": "智谱、MiniMax港股IPO，熬过孤独的人和500亿奖赏 | 深氪lite",
             "time": "2026-01-09",
             "source": "36氪",
@@ -2458,6 +2792,24 @@
     ],
     "百川智能": [],
     "月之暗面": [
+        {
+            "title": "a16z创始人：美国该对中国更乐观些！中国Kimi已基本复现了GPT5推理、DeepSeek是真正的超新星！押注Ilya、Mira、李飞飞会成为下一代新王！",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "a16z联合创始人Marc Andreessen在一场80分钟播客中高度评价中国AI发展，称Kimi K2模型推理能力已基本复现GPT-5水平，可在MacBook上运行，DeepSeek是全球“超新星”，并指出中国在大模型、芯片和机器人领域具备强大竞争力。他强调中美AI是“双马竞速”，而非单边领先，批评欧洲过度监管扼杀创新，同时看好开源模型推动技术民主化，并押注Ilya、Mira、李飞飞等人才将引领下一代AI巨头。他认为AI扩散速度远超互联网，未来五年人们将普遍感谢AI带来的变革。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/884c6b30-ef57-11f0-a2f5-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21519",
+            "category": "AI"
+        },
+        {
+            "title": "5亿美元融资之后，杨植麟首次深度分享Kimi的技术重点（含演讲全文）",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "月之暗面创始人杨植麟在一场行业论坛中首次公开分享Kimi的技术路线，聚焦Agentic智能时代的核心方向：提升Token Efficiency与扩展长上下文能力。他介绍了新型二阶优化器和KimiLinear架构，显著提升训练效率与长程任务表现，并宣称KimiK2在HLE等基准测试中超越OpenAI。杨植麟强调模型是创造世界观的过程，认为AGI是提升人类文明上限的关键，应持续探索而非因风险停滞。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/15493d87-ee90-11f0-945b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21495",
+            "category": "AI"
+        },
         {
             "title": "老黄开年演讲「含华量」爆表！直接拿DeepSeek、Kimi验货下一代芯片",
             "time": "2026-01-07",
@@ -2591,6 +2943,42 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "全球开发者狂喜，Claude Code史上最大更新，一次性1096次提交",
+            "time": "2026-01-12",
+            "source": "36氪",
+            "summary": "Claude Code迎来史上最大更新2.1版本，累计1096次提交，显著提升开发者体验。新增Shift+Enter多行输入、Skills系统升级（支持热重载、分叉上下文、生命周期钩子）、会话传送（/teleport）、多语言响应和智能权限管理等功能。其核心亮点在于AI自我迭代：创造者Boris Cherny完全用Claude Code编写其代码，实现工具自指性进化。文章还探讨了AI编程的终局——程序员角色从编码者转向问题定义者，自然语言成为新编程语言，技术平权加速实现。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260112/v2_037fc40e544346c182a18c4f7e7b54c3@5091053_oswg248054oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3635576510776583",
+            "category": "AI"
+        },
+        {
+            "title": "手把手教你用上开源版Claude Code，人人都可以体验编程Agent的魅力了。",
+            "time": "2026-01-12",
+            "source": "AITNT",
+            "summary": "本文介绍了开源编程Agent工具OpenCode及其插件oh-my-opencode的使用方法，旨在为普通用户提供替代封闭商业产品Claude Code的免费开源方案。作者详细讲解了如何安装OpenCode客户端、接入ChatGPT、Gemini等主流大模型，并通过插件实现多智能体协同编程，极大降低使用门槛。文章强调该组合可让非专业用户轻松体验AI编程魅力，尤其适合已有ChatGPT Pro和Gemini Ultra订阅的用户最大化利用现有资源。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/12/98fef6ef-ef5a-11f0-8bf6-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21522",
+            "category": "AI"
+        },
+        {
+            "title": "笑死！xAI员工竟用Claude写代码？这回Anthropic反手拔了马斯克的网线",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "xAI员工长期依赖竞争对手Anthropic的Claude模型通过Cursor工具编写代码，引发Anthropic切断其API访问，引发AI圈震动。此举被视为Anthropic构建封闭生态、阻止竞争对手利用其技术加速发展的战略举措。与此同时，OpenAI迅速与第三方工具OpenCode整合Codex能力，抢占开发者生态。事件暴露了AI公司对第三方工具的依赖风险，倒逼xAI加速自研编程模型Grok-Code，也揭示AI工具正从中立基础设施演变为阵营武器，行业竞争加剧。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/cd1df481-ee92-11f0-8704-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21506",
+            "category": "AI"
+        },
+        {
+            "title": "全球开发者狂喜！Claude Code史上最大更新，一次性1096次提交",
+            "time": "2026-01-11",
+            "source": "AITNT",
+            "summary": "Claude Code 2.1迎来史上最大更新，累计1096次提交，显著提升开发者体验。核心更新包括：Shift+Enter多行输入优化、Skills系统支持热重载与分叉上下文、会话传送（/teleport）功能实现网页与终端无缝切换、更智能的权限管理与多语言响应。其本质是AI自我迭代的典范——创造者Boris Cherny用Claude Code编写其自身代码。文章还探讨了AI编程的终局：程序员角色将从编码者转变为问题定义者，自然语言成为新编程语言，技术平权加速实现。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/11/b643f2ad-ee91-11f0-8d23-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21499",
+            "category": "AI"
+        },
         {
             "title": "今年最具启发的Claude Code用例：她用cc搭了8个Agent监控自己的生活",
             "time": "2026-01-10",
