@@ -293,7 +293,7 @@
     "category": "游戏"
   },
   {
-    "title": "GameStop reportedly shuts down more than 400 US stores",
+    "title": "GameStop正计划关闭美国境内超过400家实体店",
     "time": "2026-01-10",
     "source": "Engadget",
     "summary": "GameStop正计划关闭美国境内超过400家实体店，据追踪关闭信息的博客显示，已有410家门店确认关闭或正在关闭中，另有11家即将关闭。此举是公司为削减成本所采取的措施，与其2025年12月向SEC提交的文件中提及的“在2025财年关闭大量门店”计划一致。尽管GameStop在2021年因散户炒股热潮市值飙升，但近年来其在加密货币和NFT领域的尝试均告失败，品牌方向不明。公司同时计划缩减在欧洲和加拿大的业务。",
@@ -455,15 +455,6 @@
     "category": "AI"
   },
   {
-    "title": "GitHub 热榜项目 - 日榜(2026-1-10)",
-    "time": "2026-01-10",
-    "source": "CSDN",
-    "summary": "本期GitHub热榜显示AI智能体开发工具成为主流趋势，Chrome DevTools MCP、Claude Code、UI-TARS-desktop等项目推动开发者通过自然语言交互提升编码效率，TailwindCSS持续领跑前端工具链，NetBird提供安全网络方案。榜单反映出开发者对AI助手集成、多模态智能体、开发工具链优化及基础设施安全的强烈关注，开源项目在提升工程效率与开发体验方面发挥关键作用。",
-    "image_url": "https://i-blog.csdnimg.cn/img_convert/74195d95f0b3d33aef996539f49eceb3.png",
-    "url": "https://coderjia.blog.csdn.net/article/details/156792218",
-    "category": "AI"
-  },
-  {
     "title": "GitHub 热榜项目 - 日榜(2026-1-12)",
     "time": "2026-01-12",
     "source": "CSDN",
@@ -560,15 +551,6 @@
     "summary": "哈工大、鹏城实验室等联合发布一篇跨越认知神经科学与人工智能的重磅综述，系统整合400篇文献，首次统一人脑记忆机制与智能体（Agent）记忆系统的研究框架。文章提出记忆的双维度分类法（性质与范围），分析参数记忆、工作记忆与外部记忆在LLM中的表现，并构建Agent记忆的提取、更新、检索与应用闭环。强调记忆不仅是存储，更是认知进化的核心，推动Agent实现长期个性化与经验推理。同时探讨多模态记忆、跨Agent技能迁移等未来方向及记忆安全防御体系。",
     "image_url": "https://www.aitntnews.com/pictures/2026/1/11/58a9c275-ee91-11f0-9fc1-fa163e47d677.webp",
     "url": "https://m.aitntnews.com/newDetail.html?newId=21496",
-    "category": "AI"
-  },
-  {
-    "title": "全球开发者狂喜！Claude Code史上最大更新，一次性1096次提交",
-    "time": "2026-01-11",
-    "source": "AITNT",
-    "summary": "Claude Code 2.1迎来史上最大更新，累计1096次提交，显著提升开发者体验。核心更新包括：Shift+Enter多行输入优化、Skills系统支持热重载与分叉上下文、会话传送（/teleport）功能实现网页与终端无缝切换、更智能的权限管理与多语言响应。其本质是AI自我迭代的典范——创造者Boris Cherny用Claude Code编写其自身代码。文章还探讨了AI编程的终局：程序员角色将从编码者转变为问题定义者，自然语言成为新编程语言，技术平权加速实现。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/1/11/b643f2ad-ee91-11f0-8d23-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=21499",
     "category": "AI"
   },
   {
@@ -707,15 +689,6 @@
     "category": "AI"
   },
   {
-    "title": "AI赋能·智拓全球——AI+出海闭门会（2026-01-22）",
-    "time": "2026-01-22",
-    "source": "白鲸出海",
-    "summary": "本次活动由白鲸技术栈主办，聚焦AI技术在出海场景中的落地应用与实战策略，探讨AI+出海的破局之道、全球市场洞察及战略锚定。活动面向AI开发者及泛娱乐、游戏、社交、工具类APP开发者，规模仅20人，免费参与，地点位于福建省福州市（审核后告知具体地址）。活动提供闭门交流机会，旨在推动AI技术与出海企业的深度结合。",
-    "image_url": "https://www.baijing.cn/uploads/activity/12/122401/20251224/1766570305_pic_real.jpg",
-    "url": "https://www.baijing.cn/activity/2201",
-    "category": "AI"
-  },
-  {
     "title": "DeepSeek等8大产品都是意外?! 改变世界的项目们，最初都没被“当个事儿办”",
     "time": "2026-01-12",
     "source": "AITNT",
@@ -731,15 +704,6 @@
     "summary": "知名推主@Poliwar在社交平台分享了三张使用AI技术改造后的索尼游戏女主角图片，涉及《地平线》的埃洛伊、《漫威蜘蛛侠》的MJ和《最后生还者》的艾莉。改造后角色统一呈现欧美网红风妆容，丧失了原有角色的独特气质与游戏背景契合度，引发玩家广泛讨论。许多玩家认为这种过度美化与游戏世界观严重脱节，甚至质疑其对角色原有意象的破坏，反映出玩家对角色设计商业化与文化迎合的长期不满。",
     "image_url": "https://img2.ali213.net/picfile/News/2026/01/11/584_20260111115313683.png",
     "url": "https://www.ali213.net/news/html/2026-1/992799.html",
-    "category": "AI"
-  },
-  {
-    "title": "Wing将扩展无人机配送服务至另外150家沃尔玛门店",
-    "time": "2026-01-11",
-    "source": "TechCrunch",
-    "summary": "Alphabet旗下无人机配送公司Wing宣布将与沃尔玛扩大合作，计划在2026至2027年间将其无人机配送服务拓展至另外150家沃尔玛门店，使服务门店总数超过270家，覆盖约10%的美国人口。该服务已在达拉斯-沃斯堡和亚特兰大等地运营，热门商品包括鸡蛋、牛肉、牛油果和零食等。Wing正推进更大载重无人机的商业化飞行，并通过集中开店模式加速扩张，以提升运营规模和商业可行性。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/Wing-Drone-carrying-Walmart-delivery.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/01/11/wing-to-expand-drone-delivery-to-another-150-walmart-stores/",
     "category": "AI"
   },
   {
@@ -1120,4 +1084,5 @@
     "url": "https://mp.weixin.qq.com/s/OpMCJGo16vrgI8A4IkCkaw",
     "category": "其他"
   }
+
 ]
