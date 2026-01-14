@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "微软将退役Office Lens应用",
+            "time": "2026-01-13",
+            "source": "The Verge",
+            "summary": "微软宣布将于2026年2月9日起停止对Office Lens应用的支持，并于3月9日彻底关闭其功能。该应用自2015年推出以来，允许用户扫描文档、白板和收据并转换为可编辑的Word或PDF文件。如今，这些扫描功能已整合至OneDrive应用中，使得独立的Office Lens应用变得冗余。微软鼓励用户转向OneDrive继续使用相关功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/image-2.png?quality=90&strip=all&crop=0.02648305084746%2C0%2C99.947033898305%2C100&w=2400",
+            "url": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
+            "category": "其他"
+        },
+        {
             "title": "一款仅13KiB的跨平台贪吃蛇游戏：单文件支持Windows、Linux和浏览器",
             "time": "2026-01-11",
             "source": "iczelia.net",
@@ -173,6 +182,15 @@
         }
     ],
     "索尼": [
+        {
+            "title": "画质救星要来了？网传PS5 Pro的PSSR 2于1-3月上线！",
+            "time": "2026-01-14",
+            "source": "游侠网",
+            "summary": "据知名业内人士透露，索尼PS5 Pro专属图像增强技术PSSR 2.0预计将于2026年1月至3月上线，此次升级为架构级重构，重点提升画质重建能力，显著降低内存与GPU开销，解决初代PSSR的模糊与伪影问题。尽管PS5 Pro已支持FSR 3，但PSSR 2.0将不包含帧生成技术，专注于画质精进，同时PS5 Pro仍将获得独立的FSR 4支持。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/14/584_2026011482549171.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/993505.html",
+            "category": "游戏"
+        },
         {
             "title": "PS提醒：PS5 Pro可玩超8500款PS4游戏 支持画质增强",
             "time": "2026-01-11",
@@ -347,6 +365,33 @@
     ],
     "任天堂": [
         {
+            "title": "东京宝可梦乐园公开首个设施实体照 伊布旋转木马来了",
+            "time": "2026-01-14",
+            "source": "游侠网",
+            "summary": "日本东京近郊的读卖乐园将于2026年2月5日开放全球首座《宝可梦》主题常设户外乐园——‘宝可梦乐园：关都’，占地约2.6公顷，复刻游戏中的关都地区风貌，预计超600种宝可梦以互动形式亮相。乐园近日公布首张实拍图，曝光以伊布及其进化型为主题的‘布伊布伊旋转之旅’旋转木马设施，游客可乘坐气球座椅或迷你小车体验。门票已开放抽签，分为基础版和高级版，票价分别约7900日元和14000日元起，并计划推出限定‘小镇通行证’。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/14/584_2026011484714521.png",
+            "url": "https://www.ali213.net/news/html/2026-1/993521.html",
+            "category": "游戏"
+        },
+        {
+            "title": "向宝可梦宣战？《幻兽帕鲁》集换式卡牌游戏即将推出",
+            "time": "2026-01-12",
+            "source": "游侠网",
+            "summary": "Bushiroad正式宣布将推出《幻兽帕鲁》集换式卡牌游戏，计划于2026年7月30日发售并支持中文。游戏采用双人对战模式，玩家通过操控帕鲁卡牌进行战斗、资源收集与基地建造。自原作发售以来，《幻兽帕鲁》因高度借鉴宝可梦玩法引发争议，但其销量与玩家活跃度表现强劲，Steam月均在线玩家稳定在5万至7万，跻身2025年Steam年度榜前100名。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/12/584_2026011232939682.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/993045.html",
+            "category": "游戏"
+        },
+        {
+            "title": "乐高首款宝可梦套装现已开放预购",
+            "time": "2026-01-12",
+            "source": "Engadget",
+            "summary": "乐高与宝可梦合作推出首批三款官方套装，包括2050片的皮卡丘与精灵球套装（售价200美元）、587片的伊布套装（售价60美元）和6838片的妙蛙种子、喷火龙与水箭龟组合套装（售价650美元），预计2月27日发货。文章提及模型在比例上略显怪异，圆润轮廓难以用方块积木完美呈现，但整体仍具收藏价值，适合宝可梦与乐高爱好者预购。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/h4HNIT64BSOmOYhy6Asnqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY3NA--/https://s.yimg.com/os/creatr-uploaded-images/2026-01/22428cc0-eff8-11f0-bff5-4310bbcdcba3",
+            "url": "https://www.engadget.com/entertainment/legos-first-pokemon-sets-are-now-available-for-pre-order-205527102.html",
+            "category": "游戏"
+        },
+        {
             "title": "我测试了最新的Switch 2手柄，这款是最好的",
             "time": "2026-01-10",
             "source": "The Verge",
@@ -504,6 +549,60 @@
     ],
     "谷歌": [
         {
+            "title": "谷歌Veo现在可将竖屏图片转化为竖屏AI视频",
+            "time": "2026-01-14",
+            "source": "The Verge",
+            "summary": "谷歌更新了其AI视频模型Veo 3.1，增强了“图像到视频”功能，使生成的视频更能忠实还原参考图像的细节，尤其优化了竖屏（9:16）视频的生成能力，可直接适配TikTok和YouTube Shorts等平台。新版本还支持将视频分辨率从1080p提升至4K，并改进了人物与场景的一致性，允许用户跨场景复用角色、背景和纹理，提升创作自由度。该功能已集成至Gemini应用、YouTube Shorts和YouTube Create应用中。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Google-Veo-3.1-ingredients-update.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update",
+            "category": "AI"
+        },
+        {
+            "title": "当购物变成对话丨Google 推出 Agent 电商购物 UCP 协议",
+            "time": "2026-01-13",
+            "source": "AITNT",
+            "summary": "Google在国家零售联合会大会上推出开源的Universal Commerce Protocol（UCP）协议，旨在为AI智能体驱动的电商流程提供统一标准，覆盖商品发现、购买到售后支持全环节。该协议兼容现有零售系统与支付协议，支持通过Google AI Mode或Gemini应用直接完成购物流程，并与Shopify、Target等零售商合作。同时，Google推出Business Agent功能，推动对话式商业，并测试Direct Offers广告形式，强化其在AI电商领域的布局，与OpenAI、Perplexity和Amazon展开竞争。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/13/ac322a69-f034-11f0-a692-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21573",
+            "category": "社交"
+        },
+        {
+            "title": "消费者监察机构警告谷歌AI购物协议，谷歌称其说法错误",
+            "time": "2026-01-13",
+            "source": "TechCrunch",
+            "summary": "消费者经济学组织Groundwork Collaborative负责人Lindsay Owens警告，谷歌新推出的通用商业协议（Universal Commerce Protocol）可能利用AI购物代理通过分析用户聊天数据实施‘监视性定价’，导致消费者被收取更高价格。谷歌回应称该指控不实，强调其系统禁止商户在Google上显示高于官网的价格，‘upselling’仅指推荐更高档商品，且用户拥有完全选择权。尽管谷歌否认当前存在价格歧视功能，但外界仍担忧科技巨头在数据驱动的购物代理中存在利益冲突。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果谷歌官宣 AI 合作，新 Siri 将由 Gemini 驱动",
+            "time": "2026-01-13",
+            "source": "动点科技",
+            "summary": "苹果与谷歌正式宣布合作，苹果将采用谷歌的Gemini模型作为下一代Apple Foundation模型的基础，用于升级Siri及其他生成式AI功能。双方强调，新AI功能将在苹果设备和私有云上运行，严格遵守苹果的隐私保护标准。此举标志着苹果在AI领域的重要战略调整，原计划于2024年WWDC展示的Siri更新被推迟至2026年推出。苹果表示，经过评估，Gemini在技术能力上提供了最强大的支持，将为用户带来更智能、个性化的交互体验。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2026-01-13/apples-siri-ai-will-be-powered-by-gemini/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌更新Veo 3.1，支持通过参考图像生成竖屏视频",
+            "time": "2026-01-13",
+            "source": "TechCrunch",
+            "summary": "谷歌在其AI视频生成模型Veo 3.1中推出新功能，允许用户通过参考图像生成原生竖屏视频，专为YouTube Shorts、Instagram和TikTok等社交平台优化，避免裁剪问题。更新提升了角色表情、动作表现力及画面一致性，支持多元素融合生成，并可将视频提升至1080p和4K分辨率。该功能已集成至Gemini应用、Flow视频编辑器、Gemini API和Vertex AI等平台，进一步增强AI视频创作的灵活性与专业性。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-4.00.27-PM.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果与谷歌Gemini合作对双方意味着什么",
+            "time": "2026-01-13",
+            "source": "The Verge",
+            "summary": "苹果宣布与谷歌达成多年合作，将谷歌的Gemini人工智能模型作为新一代Siri的基础，以提升其个性化和智能代理能力。双方强调，AI处理将在苹果自有服务器和私有云计算环境中进行，以维持其领先的隐私标准。此举标志着苹果放弃此前考虑的OpenAI或Anthropic方案，转而与长期竞争对手谷歌联手，共同应对新兴AI公司的挑战。分析师认为，该合作有助于苹果在不牺牲隐私的前提下增强AI功能，同时强化谷歌在消费级AI市场的影响力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268247_What_Apple_and_Googles_Gemini_deal_means_for_both_companies_CVirginia7.gif?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means",
+            "category": "AI"
+        },
+        {
             "title": "谷歌联合创始人为规避潜在财富税 将商业实体迁出加州丨视讯速递",
             "time": "2026-01-12",
             "source": "钛媒体",
@@ -511,6 +610,15 @@
             "image_url": "https://diantv.tmtpost.com/uploads/video_images/2026/01/20260112102535509.jpg",
             "url": "https://www.tmtpost.com/video/7838943.html",
             "category": "其他"
+        },
+        {
+            "title": "谷歌移除部分存误导风险的健康类 AI 概览",
+            "time": "2026-01-12",
+            "source": "动点科技",
+            "summary": "谷歌在遭到《卫报》调查后，移除了部分健康相关搜索中的AI概览功能，因系统曾提供忽略国籍、性别、种族等因素的误导性肝功能检测参考值。尽管谷歌称信息本身并非不准确且有高质量网站支持，但专家批评其仅做局部调整，未解决AI在医疗领域更深层的风险。此举发生在谷歌去年大力推广健康AI模型之后，引发对AI医疗信息准确性和监管的广泛讨论。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2026-01-12/google-pulls-alarming-dangerous-medical-ai-overviews/",
+            "category": "AI"
         },
         {
             "title": "在谷歌深耕14年，华人研究员创立视觉AI公司Elorian，计划融资5000万美元",
@@ -721,6 +829,78 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Instagram希望你为2026年个性化Reels算法",
+            "time": "2026-01-14",
+            "source": "Engadget",
+            "summary": "Meta正在全球范围内向所有英语用户推出Instagram Reels的个性化算法控制功能，允许用户选择感兴趣的话题、屏蔽不感兴趣的内容，并指定2026年最关注的三个主题。用户反馈算法调整迅速，但AI在内容分类上仍有误差，例如将滑雪视频误标为“单板滑雪”。该功能不支持屏蔽广告，但可屏蔽“赞助内容”和“AI”等标签，不过后者可能影响AI相关资讯而非AI生成内容。",
+            "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/View_recent_photos.png",
+            "url": "https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html",
+            "category": "社交"
+        },
+        {
+            "title": "Meta关闭三家VR工作室以削减元宇宙投入",
+            "time": "2026-01-14",
+            "source": "The Verge",
+            "summary": "Meta宣布关闭其Reality Labs旗下的三家VR游戏工作室：Twisted Pixel Games、Sanzaru Games和Armature Studio，作为其元宇宙战略调整的一部分。这些工作室曾开发《漫威死侍VR》《阿斯加德的愤怒》和《生化危机4 VR》等热门作品。同时，VR健身应用Supernatural的开发团队也将停止新内容更新，但现有产品仍获支持。Meta此前于2020至2023年间收购了这些团队，此次裁员涉及约10%的Reality Labs员工，公司正将资源转向可穿戴设备领域。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/499617716_594315633136463_5741959247214869079_n.webp?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature",
+            "category": "其他"
+        },
+        {
+            "title": "Meta确认Reality Labs裁员并转向可穿戴设备投资",
+            "time": "2026-01-14",
+            "source": "The Verge",
+            "summary": "Meta宣布对其Reality Labs部门进行裁员，约1000名员工受到影响，标志着公司战略重心从元宇宙转向可穿戴设备。公司表示将把节省的资源用于扩大AI智能眼镜产品线，特别是Ray-Ban智能眼镜的生产。尽管元宇宙不再是优先方向，但Meta仍保留其移动优先的元宇宙策略。这一调整反映了市场对AR/VR可穿戴设备日益增长的需求，以及Meta对消费级硬件产品的重新聚焦。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25826092/257467_Meta_Quest_3S_AKrales_0140.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables",
+            "category": "其他"
+        },
+        {
+            "title": "Meta关闭三家VR工作室，停止Supernatural内容更新",
+            "time": "2026-01-13",
+            "source": "Engadget",
+            "summary": "Meta为聚焦可穿戴设备，关闭了旗下三家VR游戏工作室：Armature、Sanzaru和Twisted Pixel，并停止为热门VR健身应用Supernatural提供新内容更新。公司表示此举是为将资源重新投资于可穿戴设备领域，尽管仍承诺支持第三方开发者。此举引发外界对Meta是否正逐步退出VR生态的担忧，此前其已暂停与华硕、联想合作的VR头显计划，且自2024年Quest 3S后未发布新设备。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/OrAq8W_V5QeZLKO02Nl4dw--~B/aD0zMDcwO3c9NDYwNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/dc606693-424d-4783-8e56-a5a08cd81d9c",
+            "url": "https://www.engadget.com/ar-vr/meta-has-closed-three-vr-studios-as-part-of-its-metaverse-cuts-202720670.html",
+            "category": "游戏"
+        },
+        {
+            "title": "巴西要求Meta暂停禁止第三方AI聊天机器人接入WhatsApp的政策",
+            "time": "2026-01-13",
+            "source": "TechCrunch",
+            "summary": "巴西反垄断机构CADE下令WhatsApp暂停实施禁止第三方AI公司通过其商业API提供聊天机器人的政策，并启动调查以判断该政策是否具有反竞争性质。此举旨在防止Meta AI获得不公平优势，此前欧盟和意大利也已对此展开类似调查。Meta去年10月修改了WhatsApp商业API条款，禁止外部AI聊天机器人接入，但允许企业自行部署AI客服。Meta尚未就巴西的命令作出回应。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/WhatsApp-Bubble.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+            "category": "社交"
+        },
+        {
+            "title": "Meta据称将裁减Reality Labs元宇宙部门10%员工",
+            "time": "2026-01-13",
+            "source": "GamesIndustry.biz",
+            "summary": "Meta公司计划裁减其元宇宙部门Reality Labs约10%的员工，该部门目前约有15,000名员工。据《纽约时报》和《商业内幕》报道，此举可能于2026年1月13日宣布，CTO Andrew Bosworth已召集员工参加被视为“年度最重要”的面对面会议。Reality Labs自2021年以来累计亏损超700亿美元，2024年全年亏损达177亿美元，尽管收入有所增长，但市场对元宇宙前景持续质疑，公司正转向投资AI眼镜等新领域。",
+            "image_url": "https://assetsio.gnwcdn.com/Metas-Mark-Zuckerberg-1.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/meta-reportedly-set-to-cut-10-of-staff-in-reality-labs-metaverse-arm",
+            "category": "社交"
+        },
+        {
+            "title": "Converge Bio完成2500万美元A轮融资，获Bessemer及Meta、OpenAI、Wiz前高管支持",
+            "time": "2026-01-13",
+            "source": "TechCrunch",
+            "summary": "AI药物发现初创公司Converge Bio宣布完成2500万美元A轮融资，由Bessemer Venture Partners领投，TLV Partners、Saras Capital等跟投，并获得来自Meta、OpenAI和Wiz的前高管支持。该公司利用生成式AI分析DNA、RNA和蛋白质序列，为制药公司提供抗体设计、蛋白产量优化和靶点发现等即插即用系统。其平台已服务十余家客户，成功提升蛋白产量4至4.5倍，并生成纳摩尔级高亲和力抗体。创始人强调其技术不依赖文本型LLM，而是结合多种AI模型降低分子设计风险，目标是成为生命科学行业的生成式AI实验室。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2149039471.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+            "category": "AI"
+        },
+        {
+            "title": "巴西反垄断监管机构调查WhatsApp新条款禁止竞品AI聊天机器人",
+            "time": "2026-01-13",
+            "source": "The Verge",
+            "summary": "巴西经济保护委员会（CADE）正在调查WhatsApp新条款，该条款计划于1月15日起在巴西禁止集成ChatGPT、Copilot等第三方AI聊天机器人。为防止市场垄断，CADE已暂时中止该条款的实施。Meta公司则因意大利反垄断机构的干预，已排除意大利地区适用该禁令。此举引发全球对科技巨头控制通信平台AI生态的广泛关注，凸显监管机构在AI时代对竞争公平性的重视。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/861056/brazils-competition-regulator-is-investigating-whatsapps-new-terms-that-block-rival-chatbots",
+            "category": "AI"
+        },
         {
             "title": "Instagram称已修复导致大量密码重置邮件发送的问题",
             "time": "2026-01-12",
@@ -1005,6 +1185,24 @@
     ],
     "OpenAI": [
         {
+            "title": "Converge Bio完成2500万美元A轮融资，获Bessemer及Meta、OpenAI、Wiz前高管支持",
+            "time": "2026-01-13",
+            "source": "TechCrunch",
+            "summary": "AI药物发现初创公司Converge Bio宣布完成2500万美元A轮融资，由Bessemer Venture Partners领投，TLV Partners、Saras Capital等跟投，并获得来自Meta、OpenAI和Wiz的前高管支持。该公司利用生成式AI分析DNA、RNA和蛋白质序列，为制药公司提供抗体设计、蛋白产量优化和靶点发现等即插即用系统。其平台已服务十余家客户，成功提升蛋白产量4至4.5倍，并生成纳摩尔级高亲和力抗体。创始人强调其技术不依赖文本型LLM，而是结合多种AI模型降低分子设计风险，目标是成为生命科学行业的生成式AI实验室。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2149039471.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+            "category": "AI"
+        },
+        {
+            "title": "Signal创始人接下来要挑战ChatGPT",
+            "time": "2026-01-13",
+            "source": "The Verge",
+            "summary": "Signal消息应用的创始人Moxie Marlinspike推出了一款名为Confer的AI聊天机器人，旨在将Signal端到端加密的隐私理念引入AI领域。Confer宣称用户数据不会被开发者访问、出售或用于训练模型，与ChatGPT等主流AI服务形成鲜明对比。该项目由Ars Technica率先报道，体现了隐私倡导者对AI数据滥用的担忧。目前Confer仍处于早期阶段，但其理念引发了科技界对AI隐私保护的广泛关注。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/861180/the-creator-of-signal-messenger-is-taking-on-chatgpt-next",
+            "category": "AI"
+        },
+        {
             "title": "a16z创始人：美国该对中国更乐观些！中国Kimi已基本复现了GPT5推理、DeepSeek是真正的超新星！押注Ilya、Mira、李飞飞会成为下一代新王！",
             "time": "2026-01-12",
             "source": "AITNT",
@@ -1012,6 +1210,15 @@
             "image_url": "https://www.aitntnews.com/pictures/2026/1/12/884c6b30-ef57-11f0-a2f5-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=21519",
             "category": "AI"
+        },
+        {
+            "title": "OpenAI、SpaceX上市或助全球股权资本市场创纪录——播客",
+            "time": "2026-01-12",
+            "source": "ION Analytics",
+            "summary": "本播客探讨了生成式人工智能公司OpenAI和太空科技企业SpaceX潜在的首次公开募股（IPO）对全球股权资本市场（ECM）的潜在影响。OpenAI计划筹资600亿美元，估值或超1万亿美元，将检验市场对AI板块的信心；SpaceX则吸引众多投行争夺承销权。节目还提及国防支出增加与地缘政治冲突（如委内瑞拉）对行业的推动作用。内容由Mergermarket全球ECM编辑Samuel Kerr与Dealcast主持人Julie-Anna Needham共同探讨。",
+            "image_url": "https://ionanalytics.com/wp-content/uploads/2025/04/GettyImages-471080686_Offices-1024x576.jpg",
+            "url": "https://ionanalytics.com/insights/mergermarket/openai-spacex-ipos-could-help-global-ecm-break-records-podcast/",
+            "category": "其他"
         },
         {
             "title": "GPT-5.2考赢人类！OpenAI警告：大模型能力已过剩，AGI天花板不是AI",
@@ -1304,6 +1511,42 @@
     ],
     "苹果": [
         {
+            "title": "苹果推出Creator Studio套件挑战Adobe",
+            "time": "2026-01-14",
+            "source": "The Verge",
+            "summary": "苹果宣布推出Apple Creator Studio订阅服务，以$12.99/月的价格捆绑Final Cut Pro、Logic Pro、Pixelmator Pro等创意应用，直接对标Adobe Creative Cloud。该服务将于1月28日上线，提供一个月免费试用，学生和教育工作者可享优惠价。苹果仍保留这些应用的单次购买选项，不强制用户订阅。此举被视为对Adobe订阅模式的有力竞争，价格远低于Adobe的$69.99/月。此外，部分应用将支持iPad，而Motion、Compressor等仅限Mac使用。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Apple-Creator-Studio-hed.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/861279/apple-creator-studio-apps-subscription-price-availability",
+            "category": "AI"
+        },
+        {
+            "title": "苹果谷歌官宣 AI 合作，新 Siri 将由 Gemini 驱动",
+            "time": "2026-01-13",
+            "source": "动点科技",
+            "summary": "苹果与谷歌正式宣布合作，苹果将采用谷歌的Gemini模型作为下一代Apple Foundation模型的基础，用于升级Siri及其他生成式AI功能。双方强调，新AI功能将在苹果设备和私有云上运行，严格遵守苹果的隐私保护标准。此举标志着苹果在AI领域的重要战略调整，原计划于2024年WWDC展示的Siri更新被推迟至2026年推出。苹果表示，经过评估，Gemini在技术能力上提供了最强大的支持，将为用户带来更智能、个性化的交互体验。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2026-01-13/apples-siri-ai-will-be-powered-by-gemini/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果与谷歌Gemini合作对双方意味着什么",
+            "time": "2026-01-13",
+            "source": "The Verge",
+            "summary": "苹果宣布与谷歌达成多年合作，将谷歌的Gemini人工智能模型作为新一代Siri的基础，以提升其个性化和智能代理能力。双方强调，AI处理将在苹果自有服务器和私有云计算环境中进行，以维持其领先的隐私标准。此举标志着苹果放弃此前考虑的OpenAI或Anthropic方案，转而与长期竞争对手谷歌联手，共同应对新兴AI公司的挑战。分析师认为，该合作有助于苹果在不牺牲隐私的前提下增强AI功能，同时强化谷歌在消费级AI市场的影响力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268247_What_Apple_and_Googles_Gemini_deal_means_for_both_companies_CVirginia7.gif?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means",
+            "category": "AI"
+        },
+        {
+            "title": "苹果推出Creator Studio应用套件，月费12.99美元",
+            "time": "2026-01-13",
+            "source": "TechCrunch",
+            "summary": "苹果推出名为Creator Studio的订阅套件，月费12.99美元或年费129美元，包含Final Cut Pro、Logic Pro、Pixelmator Pro、Motion、Compressor和MainStage六款创意应用，并提供iWork套件（Keynote、Pages、Numbers）的高级内容与功能。该套件还将支持Freeform，学生和教育工作者可享优惠价。新功能包括Final Cut Pro的语音转录搜索、视觉搜索和节拍检测，Logic Pro新增合成器播放器与自然语言搜索等。Pixelmator Pro首次登陆iPad，支持Apple Pencil。所有应用仍保留单次购买选项，免费版基础应用继续提供。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-9.34.59-AM.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
+            "category": "其他"
+        },
+        {
             "title": "Ilya卖掉SSI？特斯拉接盘xAI、苹果AI翻身…硅谷爽文「剧透」2026",
             "time": "2026-01-12",
             "source": "AITNT",
@@ -1431,6 +1674,15 @@
         }
     ],
     "华为": [
+        {
+            "title": "智谱联合华为开源图像生成模型GLM-Image：首个在国产芯片完成全程训练的SOTA模型",
+            "time": "2026-01-14",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1auSPSN5wEmbuKwGd8k48Jw8NSObtSY8lGqK6kmpLCG6SbN0F4fzxZIK3vyd949Sc54FSWD9dia1AQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/EO6-JRTQx8XKMyeHrxuBZg",
+            "category": "其他"
+        },
         {
             "title": "华为Momenta争夺保时捷，全球大厂智驾再度“投华”",
             "time": "2026-01-12",
@@ -1665,6 +1917,15 @@
     ],
     "红杉资本": [
         {
+            "title": "具身智能开年最大融资，字节红杉领投10亿",
+            "time": "2026-01-12",
+            "source": "量子位",
+            "summary": "自变量机器人宣布完成10亿元A++轮融资，由字节跳动与红杉中国领投，美团、阿里等互联网大厂持续加码，成为国内唯一获三家巨头投资的具身智能公司。公司自2023年成立以来已完成9轮融资，总额超30亿元，聚焦自研通用具身智能大模型WALL-A系列，并推出量子一号、量子二号两代机器人，构建模型与硬件协同进化的闭环体系，其开源模型WALL-OSS在RoboChallenge榜单中位列全球第三。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/79401d508f47f55aa78a32e32e97e283.webp",
+            "url": "https://www.qbitai.com/2026/01/369147.html",
+            "category": "AI"
+        },
+        {
             "title": "红杉中国郑庆生：MiniMax成功的核心所在是对AGI的坚定信仰和长期主义精神",
             "time": "2026-01-09",
             "source": "IPO早知道",
@@ -1675,6 +1936,15 @@
         }
     ],
     "YC": [
+        {
+            "title": "Deepgram完成1.3亿美元融资并收购YC初创公司",
+            "time": "2026-01-13",
+            "source": "TechCrunch",
+            "summary": "AI语音技术公司Deepgram宣布完成1.3亿美元C轮融资，估值达13亿美元，由AVP领投，现有投资者如Y Combinator、Tiger等继续跟投，新投资者包括Twilio和SAP。公司已累计融资超2.15亿美元，计划扩展全球业务与多语言支持，并收购了YC孵化的餐厅语音AI初创公司OfOne，以提升语音点餐准确率。Deepgram称其技术已被1300多家企业采用，CEO表示公司已实现现金流正向，此次融资旨在加速增长而非急需资金。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+            "category": "AI"
+        },
         {
             "title": "喝点VC｜YC对话Cursor华人设计负责人：设计师将开始写代码，工程师将开始做设计，我们的共同语言就是代码",
             "time": "2025-12-29",
@@ -1739,6 +2009,15 @@
     "莉莉丝": [],
     "NEXON": [],
     "CD Projekt RED": [
+        {
+            "title": "玩家为《赛博朋克2077》女角色卸妆：素颜好像更美了！",
+            "time": "2026-01-12",
+            "source": "游侠网",
+            "summary": "近日，海外玩家在社区DTF上发布了一组经过处理的《赛博朋克2077》女性角色图片，移除了标志性的浓重妆容，呈现出素颜或淡妆状态。尽管此举削弱了角色原有的赛博朋克视觉风格，但让面部特征更显自然清晰，引发社区热议。该行为反映了玩家对游戏角色设计的深度关注与二次创作热情，也促使人们重新审视游戏美术中妆容与义体改造的美学意义。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/12/584_2026011255659778.png",
+            "url": "https://www.ali213.net/news/html/2026-1/992871.html",
+            "category": "游戏"
+        },
         {
             "title": "CD Projekt RED以2500万美元将GOG平台出售给联合创始人",
             "time": "2025-12-30",
@@ -1891,6 +2170,15 @@
         }
     ],
     "卡普空": [
+        {
+            "title": "卡普空1月16日举办《生化危机9》发布会！先导预告公开",
+            "time": "2026-01-13",
+            "source": "游侠网",
+            "summary": "卡普空宣布将于北京时间1月16日早上6点举办《生化危机》主题直面会，时长约12分钟，并公开了《生化危机9：安魂曲》的先导预告。本作预计为系列核心新作，采用双主角叙事结构，新主角格蕾丝被设定为系列史上最胆小的角色，剧情将回归经典生存恐怖风格，强调资源管理与沉浸式解谜。游戏定于2026年2月27日登陆PS5、Xbox Series X|S、PC（Steam）及Switch 2平台。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/13/584_20260113102633251.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/993275.html",
+            "category": "游戏"
+        },
         {
             "title": "《街头霸王6》新角色预告：经典摔角手阿里克斯归来！",
             "time": "2026-01-09",
@@ -2480,6 +2768,15 @@
     ],
     "deepseek": [
         {
+            "title": "DeepSeek母公司去年进账50亿，够烧2380个R1",
+            "time": "2026-01-13",
+            "source": "量子位",
+            "summary": "DeepSeek母公司幻方量化2025年实现超50亿人民币利润，为DeepSeek提供充足研发资金，使其无需融资或商业化即可全力冲刺AGI。DeepSeek坚持开源、专注底层训练，团队稳定，甚至出现核心成员回流现象。其技术报告间接带动国产芯片股上涨，展现出强大的产业影响力。相比OpenAI等依赖资本运作的公司，DeepSeek凭借母公司成熟业务实现内生造血，成为全球罕见的纯科研型AI实验室。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/35e943ee2bbf33c0e92b4a53272ba814.gif",
+            "url": "https://www.qbitai.com/2026/01/369302.html",
+            "category": "AI"
+        },
+        {
             "title": "a16z创始人：美国该对中国更乐观些！中国Kimi已基本复现了GPT5推理、DeepSeek是真正的超新星！押注Ilya、Mira、李飞飞会成为下一代新王！",
             "time": "2026-01-12",
             "source": "AITNT",
@@ -2626,6 +2923,24 @@
     ],
     "字节跳动": [
         {
+            "title": "我把新版Claude Code的上手门槛降到小学二年级，有豆包就行",
+            "time": "2026-01-14",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkpqbdoOanrbs1lRhKIjFwx0bxh9JTGbNIL7Wa7kPgwN1YoPk8hv91p764laMfLDJN6Laic4TbicX8g/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/kKU8otnN0l9kbaAj7pC24g",
+            "category": "AI"
+        },
+        {
+            "title": "具身智能开年最大融资，字节红杉领投10亿",
+            "time": "2026-01-12",
+            "source": "量子位",
+            "summary": "自变量机器人宣布完成10亿元A++轮融资，由字节跳动与红杉中国领投，美团、阿里等互联网大厂持续加码，成为国内唯一获三家巨头投资的具身智能公司。公司自2023年成立以来已完成9轮融资，总额超30亿元，聚焦自研通用具身智能大模型WALL-A系列，并推出量子一号、量子二号两代机器人，构建模型与硬件协同进化的闭环体系，其开源模型WALL-OSS在RoboChallenge榜单中位列全球第三。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/79401d508f47f55aa78a32e32e97e283.webp",
+            "url": "https://www.qbitai.com/2026/01/369147.html",
+            "category": "AI"
+        },
+        {
             "title": "火拼AI互联网：2026字节、阿里、腾讯三国杀要来了",
             "time": "2026-01-10",
             "source": "36氪",
@@ -2727,6 +3042,24 @@
     ],
     "智谱": [
         {
+            "title": "智谱和MiniMax上市表现亮眼，压力给到其他“小虎”？",
+            "time": "2026-01-14",
+            "source": "钛媒体",
+            "summary": "智谱与MiniMax于2026年1月先后在港交所上市，分别斩获“全球大模型第一股”和“最快IPO大模型企业”称号，股价首日大涨，市值突破千亿港元，反映资本市场对中国AI路径的积极认可。文章分析二者商业模式差异：智谱聚焦B端MaaS，MiniMax深耕C端垂直场景，并对比百川、月之暗面等“AI六小虎”的上市策略，指出月之暗面凭借高额私募融资具备战略自由度，无需急于上市。此次IPO为行业树立了估值锚点，推动中国大模型产业从技术赌注转向可衡量的商业价值评估。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2026/01/d82464fe80a50af0029c601592aa7ea0_1768355261.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x1547/gravity/center/crop/!1400x1547&ext=.png",
+            "url": "https://www.tmtpost.com/7841945.html",
+            "category": "AI"
+        },
+        {
+            "title": "智谱联合华为开源图像生成模型GLM-Image：首个在国产芯片完成全程训练的SOTA模型",
+            "time": "2026-01-14",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1auSPSN5wEmbuKwGd8k48Jw8NSObtSY8lGqK6kmpLCG6SbN0F4fzxZIK3vyd949Sc54FSWD9dia1AQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/EO6-JRTQx8XKMyeHrxuBZg",
+            "category": "其他"
+        },
+        {
             "title": "智谱IPO后唐杰首次公开亮相：「Chat之战」已结束，押注Coding的选择非常正确",
             "time": "2026-01-12",
             "source": "IPO早知道",
@@ -2790,7 +3123,17 @@
             "category": "AI"
         }
     ],
-    "百川智能": [],
+    "百川智能": [
+        {
+            "title": "百川开源全球最强医疗大模型M3，王小川：先把产品打磨好，IPO也在计划中",
+            "time": "2026-01-13",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1bFMIOCBWFnx0CUWbuN3h2Bq0knHrlbuyrgC28mVQ8yopNZPxmkQPI89By7ic21Dk1e6HlKa8TyW2A/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/PqhueiQYBznSCcjHihUFxA",
+            "category": "其他"
+        }
+    ],
     "月之暗面": [
         {
             "title": "a16z创始人：美国该对中国更乐观些！中国Kimi已基本复现了GPT5推理、DeepSeek是真正的超新星！押注Ilya、Mira、李飞飞会成为下一代新王！",
@@ -2858,6 +3201,15 @@
     ],
     "商汤科技": [],
     "MiniMax": [
+        {
+            "title": "智谱和MiniMax上市表现亮眼，压力给到其他“小虎”？",
+            "time": "2026-01-14",
+            "source": "钛媒体",
+            "summary": "智谱与MiniMax于2026年1月先后在港交所上市，分别斩获“全球大模型第一股”和“最快IPO大模型企业”称号，股价首日大涨，市值突破千亿港元，反映资本市场对中国AI路径的积极认可。文章分析二者商业模式差异：智谱聚焦B端MaaS，MiniMax深耕C端垂直场景，并对比百川、月之暗面等“AI六小虎”的上市策略，指出月之暗面凭借高额私募融资具备战略自由度，无需急于上市。此次IPO为行业树立了估值锚点，推动中国大模型产业从技术赌注转向可衡量的商业价值评估。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2026/01/d82464fe80a50af0029c601592aa7ea0_1768355261.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x1547/gravity/center/crop/!1400x1547&ext=.png",
+            "url": "https://www.tmtpost.com/7841945.html",
+            "category": "AI"
+        },
         {
             "title": "刚刚！MiniMax敲钟上市，盘中涨幅超过60%！市值高达827亿港元！闫俊杰爆料：内部代码80%都由AI完成，公司平均年龄29岁，账上超10亿美金",
             "time": "2026-01-09",
@@ -2943,6 +3295,24 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "我把新版Claude Code的上手门槛降到小学二年级，有豆包就行",
+            "time": "2026-01-14",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXkpqbdoOanrbs1lRhKIjFwx0bxh9JTGbNIL7Wa7kPgwN1YoPk8hv91p764laMfLDJN6Laic4TbicX8g/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/kKU8otnN0l9kbaAj7pC24g",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic推出Claude Cowork，让普通用户也能使用AI管理文件",
+            "time": "2026-01-13",
+            "source": "Engadget",
+            "summary": "Anthropic推出了名为Claude Cowork的AI代理工具，旨在让非开发者用户也能利用AI自动管理电脑文件。用户可授权Claude访问指定文件夹，实现自动整理下载文件、将收据截图转为电子表格等任务。该工具支持通过Chrome插件浏览网页，并可连接Canva等第三方应用。目前仅限Claude Max订阅用户及Mac用户试用，其他用户需排队等候。Anthropic强调AI仅能访问用户明确授权的文件，但仍提醒用户需提供清晰指令以避免误操作。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/MiMN4wOupqIlfXki8SBbMQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/claude-cowork.gif",
+            "url": "https://www.engadget.com/ai/anthropic-launches-claude-cowork-a-version-of-its-coding-ai-for-regular-people-193000849.html",
+            "category": "AI"
+        },
         {
             "title": "全球开发者狂喜，Claude Code史上最大更新，一次性1096次提交",
             "time": "2026-01-12",
