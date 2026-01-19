@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "微软紧急修复安全更新导致部分Windows 11设备无法关机问题",
+            "time": "2026-01-19",
+            "source": "Engadget",
+            "summary": "微软发布紧急补丁，修复了2026年1月安全更新中导致部分Windows 11设备无法正常关机或休眠的严重问题，该问题与Secure Launch安全功能相关。同时修复了Windows 10和11用户通过远程连接应用登录失败的问题，原因为凭证提示失败。尽管此次补丁解决了主要故障，但仍有用户报告屏幕黑屏、Outlook崩溃等遗留问题。微软此前也曾因恢复环境问题发布过紧急更新，并继续为Windows 10用户提供扩展安全更新选项。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/K4pH0CVFwOTPNShhh0zRDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/16bf1630-f49d-11f0-8b2f-05edc4e91cab",
+            "url": "https://www.engadget.com/computing/microsoft-issues-emergency-fix-afer-a-security-update-left-some-windows-11-devices-unable-to-shut-down-192216734.html",
+            "category": "其他"
+        },
+        {
+            "title": "微软2026年首个Windows 11更新导致部分电脑无法关机",
+            "time": "2026-01-19",
+            "source": "The Verge",
+            "summary": "微软于2026年1月13日发布Windows 11的首个安全更新，但四天后被迫紧急推送出补丁（out-of-band update）以修复严重漏洞。该漏洞导致运行Windows 11 23H2企业版和物联网版的设备无法正常关机或休眠，并影响远程桌面登录功能。微软已确认问题仅影响特定版本，且紧急修复程序已发布。此事件反映了微软近期频繁发布紧急补丁的趋势，引发对系统更新稳定性的担忧。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
+            "category": "其他"
+        },
+        {
+            "title": "预测：微软将做出最滑稽的事——停用Windows，转推Windows主题的Linux发行版",
+            "time": "2026-01-18",
+            "source": "Games by Mason",
+            "summary": "作者Mason Remaley预测，微软将在未来15年内停止对Windows系统的支持，转而推出一款以Windows界面为外观、底层基于Linux并内置Wine兼容层的全新操作系统。文章指出，Windows用户体验持续恶化，而Linux在性能、稳定性和游戏支持方面不断进步，尤其是Steam Deck的成功证明了Linux作为游戏平台的可行性。作者认为，一旦游戏玩家大规模转向Linux，普通用户和企业也将跟随，最终迫使微软放弃Windows，以维持市场地位。",
+            "image_url": "https://gamesbymason.com/blog/2026/microsoft/ms-danger.jpg",
+            "url": "https://gamesbymason.com/blog/2026/microsoft/",
+            "category": "游戏"
+        },
+        {
             "title": "微软游戏真好卖！《上古卷轴4RE》PS5平台销量破百万",
             "time": "2026-01-17",
             "source": "游侠网",
@@ -8,6 +35,15 @@
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/17/584_20260117110535882.jpg",
             "url": "https://www.ali213.net/news/html/2026-1/994375.html",
             "category": "游戏"
+        },
+        {
+            "title": "马斯克要求从OpenAI和微软获得1340亿美元赔偿",
+            "time": "2026-01-17",
+            "source": "Engadget",
+            "summary": "埃隆·马斯克在最新法律文件中声称，因OpenAI违背其非营利使命并获得巨额收益，他应获得790亿至1340亿美元的赔偿。马斯克称自己在OpenAI初创期提供了3800万美元种子资金、关键员工招募及商业资源支持。财务专家C. Paul Wazzan估算，OpenAI和微软分别因不当获利达655亿至1094亿美元、133亿至250亿美元。该诉讼始于2024年3月，马斯克还指控微软与OpenAI联合打压其AI公司xAI在App Store的竞争机会。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/qC02MDWxaYJStpInmyRPgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/728de700-f3c3-11f0-bfe5-26ddaa1a2456",
+            "url": "https://www.engadget.com/big-tech/elon-musk-is-looking-for-a-134-billion-payout-from-openai-and-microsoft-171824945.html",
+            "category": "AI"
         },
         {
             "title": "微软关闭员工图书馆并削减订阅服务",
@@ -518,6 +554,15 @@
             "category": "游戏"
         },
         {
+            "title": "乐高推出《塞尔达传说：时之笛》最终决战套装",
+            "time": "2026-01-17",
+            "source": "The Verge",
+            "summary": "乐高宣布推出全新《塞尔达传说：时之笛》主题积木套装，重现游戏最终决战场景，包含1003片零件，售价129.99美元。套装还原了加农的废墟城堡，配有林克、塞尔达和加农多夫等迷你人偶，以及可动的加农巨型模型，具备互动元素如可移动碎石和按钮触发的加农多夫升起机制。该套装已开放预购，预计2026年3月1日起发货，面向成年收藏者和游戏粉丝。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lego_zelda1.jpg?quality=90&strip=all&w=2400",
+            "url": "https://www.theverge.com/tech/863382/lego-legend-of-zelda-ocarina-of-time-final-battle",
+            "category": "游戏"
+        },
+        {
             "title": "《动物森友会：新地平线》3.0扩展包提前上线，Switch 2版本同步推出",
             "time": "2026-01-15",
             "source": "Engadget",
@@ -691,6 +736,15 @@
     ],
     "腾讯": [
         {
+            "title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
+            "time": "2026-01-19",
+            "source": "AITNT",
+            "summary": "腾讯混元升级AngelSlim框架，首次实现面向大语言模型（LLM）、视觉语言模型（VLM）及语音多模态的投机采样训练，通过独创的Eagle3架构，让轻量级草稿模型前瞻生成多步候选token，由大模型并行验证，显著提升推理效率，实测加速达1.4至1.9倍。该框架支持无缝部署于vLLM/Sglang等系统，提供完整训练链路与开源工具，推动多模态AI实时化与普惠化发展。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/19/5c8d5147-f4d1-11f0-8fa9-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21713",
+            "category": "AI"
+        },
+        {
             "title": "腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验",
             "time": "2026-01-16",
             "source": "量子位",
@@ -783,6 +837,33 @@
     ],
     "谷歌": [
         {
+            "title": "谷歌太狠了！接入 Gemini 3 后的 Stitch，审美能力简直“逆天”！",
+            "time": "2026-01-19",
+            "source": "AITNT",
+            "summary": "本文介绍谷歌推出的AI设计工具Stitch，其接入Gemini 3后审美能力大幅提升，可仅通过文字提示自动生成高质量UI设计图，并支持局部修改、主题调整与交互原型生成。用户可先生成视觉效果图，再导出代码，避免反复生成代码浪费Token成本，特别适合无设计经验的开发者快速构建App、小程序或网站原型。文章还提供了使用教程和在线地址。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/19/f12e88b5-f4d6-11f0-9ba2-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21720",
+            "category": "AI"
+        },
+        {
+            "title": "AI医疗，谷歌放大招！开源全球首个「AI全能医生」，告别算力焦虑，医院一键部署！",
+            "time": "2026-01-18",
+            "source": "AITNT",
+            "summary": "谷歌发布开源多模态医疗大模型MedGemma 1.5，仅40亿参数即可在消费级显卡运行，可同时理解CT、MRI、病理切片等高维医学影像、时序影像、医学文本与结构化报告，显著提升诊断准确率。同步推出医疗语音识别模型MedASR，错误率大幅降低。该模型体系实现影像、文本、语音多模态融合，推动AI真正落地临床场景。谷歌还布局AI制药、健康设备等领域，持续构建医疗AI生态。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/18/a6d2d4b6-f410-11f0-87fd-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21698",
+            "category": "AI"
+        },
+        {
+            "title": "Gemini准确率从21%飙到97%！谷歌只用了这一招：复制粘贴",
+            "time": "2026-01-18",
+            "source": "AITNT",
+            "summary": "谷歌研究团队发现，通过简单地将输入提示词复制粘贴一遍，可在不进行复杂推理的情况下，显著提升Gemini、GPT-4o等主流大模型在非推理任务中的准确率，最高提升达76个百分点。该方法利用Transformer架构的「因果盲点」缺陷，使模型在第二遍阅读时获得类双向注意力效果，从而更精准地提取信息。实验显示，Gemini 2.0 Flash-Lite在名称检索任务中准确率从21.33%跃升至97.33%，且几乎不增加延迟成本，被视为高效低成本的「免费午餐」策略，但仅适用于非推理场景，且可能带来安全风险。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/18/1735c5bc-f43b-11f0-8eee-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21702",
+            "category": "AI"
+        },
+        {
             "title": "谷歌搜索流量大幅下滑：全球下降三分之一，美国下降38%",
             "time": "2026-01-17",
             "source": "The Verge",
@@ -808,6 +889,15 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly__chain_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal",
             "category": "其他"
+        },
+        {
+            "title": "谷歌回应openai，发布在手机上可以使用的开源翻译模型TranslateGemma",
+            "time": "2026-01-17",
+            "source": "AITNT",
+            "summary": "谷歌发布开源翻译模型TranslateGemma，支持55种语言，可在手机端高效运行，4B模型适合移动端部署，12B模型性能超越27B基线。该模型基于Gemma 3，采用双阶段微调技术，具备多模态文本识别能力，无需专门训练即可处理图像中的文字翻译。此举是对OpenAI低调上线的ChatGPT Translate的直接回应，后者虽支持语境优化但功能有限，仅提供网页版且无离线能力。双方竞争推动AI翻译从语言转换迈向语境理解，惠及全球沟通。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/17/434c7f75-f36f-11f0-934c-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21695",
+            "category": "AI"
         },
         {
             "title": "谷歌也要「AI抖音」了！新Veo 3.1原生支持竖屏，4K分辨率高画质",
@@ -1171,6 +1261,15 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Threads在日活跃移动用户上超越X，新数据显示",
+            "time": "2026-01-18",
+            "source": "TechCrunch",
+            "summary": "根据市场分析公司Similarweb的数据，Meta旗下的Threads在2026年1月的iOS和Android移动端日活跃用户达到1.415亿，首次超过X的1.25亿。这一增长主要得益于Meta通过Facebook和Instagram的交叉推广、对创作者的支持以及持续快速推出新功能，如兴趣社区、私信、长文和消失帖子等。尽管X在网页端仍占优势，但其移动端份额正被Threads逐步蚕食，同时X因Grok AI生成非自愿裸照争议引发多国调查，进一步推动用户转向Threads。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data-shows/",
+            "category": "社交"
+        },
         {
             "title": "Meta已终止其面向工作的元宇宙产品",
             "time": "2026-01-16",
@@ -1662,6 +1761,24 @@
     ],
     "OpenAI": [
         {
+            "title": "OpenAI的不归路——关于ChatGPT加入广告的五个冷思考",
+            "time": "2026-01-18",
+            "source": "AITNT",
+            "summary": "本文分析了OpenAI在ChatGPT中引入广告的决策背景与影响，指出其商业化压力迫使其放弃此前对广告的抗拒态度，并通过引入多位广告背景高管加速变现。文章从广告形式的谨慎设计、对谷歌的竞争影响、首年广告收入预估（20-72亿美元）、以及国内外AI公司广告布局趋势等五个维度展开深度思考，认为广告将成为OpenAI核心收入来源，且国内大模型产品也将因竞争与付费意愿低而被迫跟进广告模式。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/18/0ceb0b4d-f410-11f0-a453-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21697",
+            "category": "AI"
+        },
+        {
+            "title": "AGI中的A代表广告：OpenAI的商业化之路",
+            "time": "2026-01-18",
+            "source": "ossa-ma.github.io",
+            "summary": "本文分析OpenAI从人工智能巨头向广告商业模式转型的进程，指出其虽宣称追求AGI，实则通过ChatGPT免费用户植入广告实现盈利。文章详细拆解其2025年营收数据、广告 rollout 计划及ARPU预测，认为其高意图用户场景可媲美Google搜索，2026年广告收入或达52亿美元，2029年有望突破70亿美元。作者讽刺性指出，AGI中的'A'实为'Ads'，并质疑广告嵌入是否背离AI初心。",
+            "image_url": "https://ossa-ma.github.io/images/theworldisads.png",
+            "url": "https://ossa-ma.github.io/blog/openads",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI砸钱投脑机接口，竟是奥特曼自己开的公司",
             "time": "2026-01-17",
             "source": "AITNT",
@@ -1731,6 +1848,33 @@
             "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
             "image_url": "",
             "url": "https://mp.weixin.qq.com/s/kSZD8Ur47WRmWQTf1KAQsg",
+            "category": "AI"
+        },
+        {
+            "title": "奥特曼秘密持股OpenAI！法庭文件曝光Brockman日记：2017年就想转盈利踢走马斯克了",
+            "time": "2026-01-17",
+            "source": "AITNT",
+            "summary": "法庭文件曝光OpenAI创始团队内部争议：Sam Altman通过YC基金间接持有OpenAI股份，却在2024年国会听证会上否认持股；总裁Brockman 2017年私人日记显示，其早有将OpenAI转为营利性公司并踢走马斯克的计划，甚至承认“真实答案是我们想让他出局”。OpenAI则反驳称马斯克曾要求控制AGI并主导董事会，双方分歧在于控制权而非营利目标。该案证据复杂，法官决定交由陪审团裁决，庭审定于2026年4月27日开始。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/17/05c38d3c-f379-11f0-a905-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21696",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克要求从OpenAI和微软获得1340亿美元赔偿",
+            "time": "2026-01-17",
+            "source": "Engadget",
+            "summary": "埃隆·马斯克在最新法律文件中声称，因OpenAI违背其非营利使命并获得巨额收益，他应获得790亿至1340亿美元的赔偿。马斯克称自己在OpenAI初创期提供了3800万美元种子资金、关键员工招募及商业资源支持。财务专家C. Paul Wazzan估算，OpenAI和微软分别因不当获利达655亿至1094亿美元、133亿至250亿美元。该诉讼始于2024年3月，马斯克还指控微软与OpenAI联合打压其AI公司xAI在App Store的竞争机会。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/qC02MDWxaYJStpInmyRPgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/728de700-f3c3-11f0-bfe5-26ddaa1a2456",
+            "url": "https://www.engadget.com/big-tech/elon-musk-is-looking-for-a-134-billion-payout-from-openai-and-microsoft-171824945.html",
+            "category": "AI"
+        },
+        {
+            "title": "ChatGPT即将推出广告，首批为购物链接",
+            "time": "2026-01-17",
+            "source": "The Verge",
+            "summary": "OpenAI宣布将在未来几周内对美国地区的免费用户和ChatGPT Go订阅用户测试广告功能，广告将以明确标注的形式显示在聊天界面底部，且不会影响对话内容的生成。广告将基于用户对话相关性推送购物链接，但不会出售用户数据，也不会影响答案的优化逻辑。Plus、Pro和Enterprise用户将免广告，未成年人及涉及健康、政治等敏感话题的对话中也不会出现广告。此前OpenAI曾尝试应用推广广告但因用户反感而撤回，此次广告方案强调“审慎与得体”。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/OAI_Ad_Blog_Inline-AdMock1_16x9.webp",
+            "url": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
             "category": "AI"
         },
         {
@@ -2709,6 +2853,15 @@
     ],
     "红杉资本": [
         {
+            "title": "红杉资本投资Anthropic，打破风投不投资竞争对手的潜规则",
+            "time": "2026-01-18",
+            "source": "TechCrunch",
+            "summary": "据《金融时报》报道，红杉资本计划参与AI初创公司Anthropic（Claude模型背后公司）的巨额融资轮，该轮融资目标达250亿美元以上，估值高达3500亿美元。此举打破风投行业长期避免同时投资同领域竞争公司的惯例，因红杉已投资OpenAI和马斯克的xAI。尽管OpenAI曾要求投资者不得投资竞争对手，但红杉此次投资被视为其与萨姆·阿尔特曼长期关系的延续，也反映其战略转向。此前红杉曾因利益冲突放弃对Finix的投资，此次转变引发业界广泛关注。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2016/05/tcdisrupt_ny16-5284.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+            "category": "AI"
+        },
+        {
             "title": "具身智能开年最大融资，字节红杉领投10亿",
             "time": "2026-01-12",
             "source": "量子位",
@@ -2728,6 +2881,15 @@
         }
     ],
     "YC": [
+        {
+            "title": "YC投资的Bucket Robotics如何度过其首次CES",
+            "time": "2026-01-18",
+            "source": "TechCrunch",
+            "summary": "由YC孵化的初创公司Bucket Robotics在2026年CES展会上首次亮相，凭借其基于CAD文件生成模拟缺陷数据的视觉质检系统，吸引了汽车与国防行业的关注。创始人Matt Puchalski曾任职于Uber和福特自动驾驶团队，公司无需新增硬件即可集成至现有产线，实现快速部署。尽管展位简陋，但其技术获得广泛兴趣，展会后已展开多轮客户与投资人跟进。公司致力于自动化表面缺陷检测，而非取代人工，推动制造业回流。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/bucket-robotics-1.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/",
+            "category": "AI"
+        },
         {
             "title": "Deepgram完成1.3亿美元融资并收购YC初创公司",
             "time": "2026-01-13",
@@ -3122,6 +3284,24 @@
             "category": "其他"
         },
         {
+            "title": "特朗普政府法律受挫，海上风电项目重启",
+            "time": "2026-01-17",
+            "source": "TechCrunch",
+            "summary": "特朗普政府因国家安全理由叫停东海岸五个海上风电项目后，遭到法院多次驳回，三个项目——革命风能、帝国风能和沿海弗吉尼亚海上风能——已获准恢复建设。法官指出政府理由武断，未充分回应开发商的法律诉求。这些项目总计6吉瓦产能将助力缓解东北部高电价和电网压力，海上风电潜力巨大，或可满足美国当前用电量三倍。其余两个项目仍在司法程序中。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/17/trump-administrations-legal-setbacks-are-good-news-for-offshore-wind-and-the-grid/",
+            "category": "其他"
+        },
+        {
+            "title": "60万部特朗普手机销量？并无证据",
+            "time": "2026-01-17",
+            "source": "The Verge",
+            "summary": "近日网络流传特朗普手机（Trump Mobile）预售达60万部、收入6000万美元的说法，但经The Verge调查，该数据无任何可靠来源，最初源自一个匿名社交媒体帖文，后被AI聊天机器人、印度媒体和政界账号误传为事实。Associated Press等权威媒体证实从未发布该数据，相关报道多为转载虚假信息。作者指出，这一事件反映了社交媒体与AI如何加速虚假信息的传播，而特朗普公司至今未公布任何官方预售数据。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/863381/trump-mobile-viral-preorder-figures-600000",
+            "category": "其他"
+        },
+        {
             "title": "民主党敦促FTC调查特朗普手机",
             "time": "2026-01-16",
             "source": "The Verge",
@@ -3187,6 +3367,24 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克最大算力中心建成了：全球首个GW级超算集群，再创世界纪录",
+            "time": "2026-01-18",
+            "source": "量子位",
+            "summary": "马斯克旗下xAI公司正式投运全球首个GW级超算集群Colossus 2，功率达1GW，计划于2026年4月升级至1.5GW，最终总装机容量达2GW，专用于训练Grok 5大模型。该集群配备数十万颗英伟达GPU，算力规模远超Meta、微软和谷歌。然而，其巨大能耗引发美国部分地区电网压力，或导致6700万居民面临夏季限电风险。xAI部署了168个特斯拉Megapack储能系统以缓解电网冲击，凸显AI算力竞赛与能源基础设施之间的紧张关系。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/5a85fb47a6b215fb6fd963728ec5bd02.png",
+            "url": "https://www.qbitai.com/2026/01/370077.html",
+            "category": "AI"
+        },
+        {
+            "title": "在马斯克领导下，Grok的失败是必然的",
+            "time": "2026-01-18",
+            "source": "The Verge",
+            "summary": "本文分析了埃隆·马斯克旗下AI公司xAI推出的聊天机器人Grok为何从一开始就注定失败。文章指出，Grok在缺乏充分安全测试和团队支持的情况下仓促上线，其设计目标是回应“激进”问题，却忽视了内容安全与伦理风险。马斯克接管X平台后大幅削减安全人员，导致Grok缺乏必要的监管机制，且在发布Grok 4后一个多月才公布模型卡，违背行业标准。作者认为，Grok的失败根源于马斯克对“觉醒文化”的对抗心态和对技术安全的轻视。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/column/863502/grok-deepfake-musk",
+            "category": "AI"
+        },
+        {
             "title": "马斯克要求OpenAI赔偿高达1340亿美元，尽管其身家已达7000亿美元",
             "time": "2026-01-17",
             "source": "TechCrunch",
@@ -3220,6 +3418,24 @@
             "summary": "马斯克提出索赔1340亿美元，要求分享OpenAI的估值收益，理由是他早期对OpenAI的投资应获得相应回报。该事件引发科技与投资界广泛关注，涉及人工智能领域的资本归属与早期贡献认定问题。报道通过视频形式呈现，结合背景分析，揭示了AI巨头发展过程中创始人与投资者之间的利益纠葛。",
             "image_url": "https://diantv.tmtpost.com/uploads/video_images/2026/01/20260117205833959.jpg",
             "url": "https://www.tmtpost.com/video/7846560.html",
+            "category": "AI"
+        },
+        {
+            "title": "奥特曼秘密持股OpenAI！法庭文件曝光Brockman日记：2017年就想转盈利踢走马斯克了",
+            "time": "2026-01-17",
+            "source": "AITNT",
+            "summary": "法庭文件曝光OpenAI创始团队内部争议：Sam Altman通过YC基金间接持有OpenAI股份，却在2024年国会听证会上否认持股；总裁Brockman 2017年私人日记显示，其早有将OpenAI转为营利性公司并踢走马斯克的计划，甚至承认“真实答案是我们想让他出局”。OpenAI则反驳称马斯克曾要求控制AGI并主导董事会，双方分歧在于控制权而非营利目标。该案证据复杂，法官决定交由陪审团裁决，庭审定于2026年4月27日开始。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/17/05c38d3c-f379-11f0-a905-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21696",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克要求从OpenAI和微软获得1340亿美元赔偿",
+            "time": "2026-01-17",
+            "source": "Engadget",
+            "summary": "埃隆·马斯克在最新法律文件中声称，因OpenAI违背其非营利使命并获得巨额收益，他应获得790亿至1340亿美元的赔偿。马斯克称自己在OpenAI初创期提供了3800万美元种子资金、关键员工招募及商业资源支持。财务专家C. Paul Wazzan估算，OpenAI和微软分别因不当获利达655亿至1094亿美元、133亿至250亿美元。该诉讼始于2024年3月，马斯克还指控微软与OpenAI联合打压其AI公司xAI在App Store的竞争机会。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/qC02MDWxaYJStpInmyRPgg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/728de700-f3c3-11f0-bfe5-26ddaa1a2456",
+            "url": "https://www.engadget.com/big-tech/elon-musk-is-looking-for-a-134-billion-payout-from-openai-and-microsoft-171824945.html",
             "category": "AI"
         },
         {
@@ -3501,6 +3717,15 @@
         }
     ],
     "三星": [
+        {
+            "title": "三星推出新型号Frame电视，但逐步放弃One Connect盒",
+            "time": "2026-01-19",
+            "source": "The Verge",
+            "summary": "三星在CES 2026上为其Frame电视系列新增了75英寸、85英寸和98英寸三种尺寸，同时推出了55英寸的Frame Pro型号。值得注意的是，七款主系列Frame电视中仅有43英寸和50英寸两款支持One Connect盒，表明三星正在逐步减少对该配件的依赖。这一调整反映了三星在设计上更注重简约与一体化的电视体验，延续了Frame电视作为家居装饰品的定位。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Samsung-is-expanding-The-Frame-TV-lineup-in-2026.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/864027/samsung-two-new-sizes-of-frame-tvs-ces",
+            "category": "其他"
+        },
         {
             "title": "三星更新移动游戏中心，旨在提升游戏发现体验",
             "time": "2026-01-15",
@@ -4111,6 +4336,15 @@
             "category": "社交"
         },
         {
+            "title": "TikTok在欧洲启动新一轮年龄核查",
+            "time": "2026-01-17",
+            "source": "The Verge",
+            "summary": "TikTok将在欧洲推出新的年龄检测技术，通过用户个人资料、发帖内容和行为信号来识别可能未满13岁的账户，并提交给 moderators 审核。此举响应了欧洲监管机构对未成年人保护的日益严格要求，类似技术此前已由Google和YouTube推出。该技术不依赖用户自报年龄，而是采用AI分析，旨在规避绕过年龄限制的行为，但也引发隐私争议。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268237_The_Stepback-_How_app_stores_became_the_new_age_verification_battleground_CVirginia5.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/news/863673/tiktok-is-taking-a-closer-look-at-european-users-accounts-with-a-new-wave-of-age-checks",
+            "category": "社交"
+        },
+        {
             "title": "谷歌也要「AI抖音」了！新Veo 3.1原生支持竖屏，4K分辨率高画质",
             "time": "2026-01-16",
             "source": "AITNT",
@@ -4378,6 +4612,15 @@
     ],
     "月之暗面": [
         {
+            "title": "作业帮出海最猛的产品竟是AI陪伴？单月访问量超4200万，AI百强榜排名超Kimi、千问",
+            "time": "2026-01-19",
+            "source": "AITNT",
+            "summary": "作业帮旗下出海AI陪伴产品PolyBuzz单月访问量突破4200万，超越Kimi、千问等国内大模型产品，登顶全球AI WEB榜前列。该产品通过海量IP角色、高自由度DIY功能及精准本地化营销，在巴西、印尼等市场取得突破，DAU曾超Talkie与Character.AI。尽管面临监管审查与广告体验问题，其IAP+IAA混合商业模式仍实现近2000万美元收入，成为AI陪伴赛道出海成功典型案例。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/19/3eb0fec9-f4d7-11f0-853e-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21722",
+            "category": "AI"
+        },
+        {
             "title": "a16z创始人：美国该对中国更乐观些！中国Kimi已基本复现了GPT5推理、DeepSeek是真正的超新星！押注Ilya、Mira、李飞飞会成为下一代新王！",
             "time": "2026-01-12",
             "source": "AITNT",
@@ -4547,6 +4790,24 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "开源版Cowork爆火，逼得Anthropic下放Cowork",
+            "time": "2026-01-18",
+            "source": "AITNT",
+            "summary": "开源项目Openwork在48小时内由开发者构建完成，提供免费、本地运行、支持自定义API密钥的Claude Cowork替代品，凭借更快、更安全、零成本的优势迅速走红，迫使Anthropic将原仅限100美元Max用户的Cowork功能下放至20美元Pro用户，以保住桌面入口。此举揭示了AI应用层护城河的脆弱性，开源社区通过技术平权加速了AI智能体从高端展示品向大众工具的转化。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/18/bc5b664a-f46a-11f0-ac8b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21709",
+            "category": "AI"
+        },
+        {
+            "title": "红杉资本投资Anthropic，打破风投不投资竞争对手的潜规则",
+            "time": "2026-01-18",
+            "source": "TechCrunch",
+            "summary": "据《金融时报》报道，红杉资本计划参与AI初创公司Anthropic（Claude模型背后公司）的巨额融资轮，该轮融资目标达250亿美元以上，估值高达3500亿美元。此举打破风投行业长期避免同时投资同领域竞争公司的惯例，因红杉已投资OpenAI和马斯克的xAI。尽管OpenAI曾要求投资者不得投资竞争对手，但红杉此次投资被视为其与萨姆·阿尔特曼长期关系的延续，也反映其战略转向。此前红杉曾因利益冲突放弃对Finix的投资，此次转变引发业界广泛关注。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2016/05/tcdisrupt_ny16-5284.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/",
+            "category": "AI"
+        },
         {
             "title": "OpenWork：一个基于OpenCode的开源Claude Cowork替代品",
             "time": "2026-01-16",
