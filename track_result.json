@@ -1,6 +1,42 @@
 {
     "微软": [
         {
+            "title": "微软将Xbox应用移植到基于Arm的Windows PC",
+            "time": "2026-01-21",
+            "source": "Engadget",
+            "summary": "微软宣布Xbox应用现已支持所有基于Arm架构的Windows 11电脑，这一更新得益于2025年12月推出的Prism模拟器升级，新增对AVX和AVX2指令集的支持，使游戏运行更高效。目前超过85%的Game Pass游戏库可在Arm PC上运行，且支持Epic易反作弊系统，可畅玩更多在线多人游戏。此举是微软推动Windows on Arm生态的重要一步，结合Copilot+ PC与高通骁龙芯片，暗示未来可能推出基于Arm的Windows掌机。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/Dv1IPaZbKvEhfp1Ek5CFDA--~B/aD00MzIwO3c9NzY4MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Xbox-app-Windows-11-Arm.jpg",
+            "url": "https://www.engadget.com/gaming/pc/microsoft-ports-the-xbox-app-to-arm-based-windows-pcs-191049475.html",
+            "category": "游戏"
+        },
+        {
+            "title": "Xbox Game Pass新增《死亡搁浅导演版》《忍者龙剑传》《塔罗斯的原理2》等游戏",
+            "time": "2026-01-21",
+            "source": "Engadget",
+            "summary": "微软宣布Xbox Game Pass本月新增多款热门游戏，包括Hideo Kojima的《死亡搁浅导演版》、《忍者龙剑传Ragebound》、《塔罗斯的原理2》和《Roadcraft》等，涵盖AAA大作与独立佳作。此外，《Indika》《Anno: Mutationem》《Warhammer 40,000: Space Marine 2》等也将陆续加入。同时，《模拟人生25周年纪念包》及《Dead by Daylight》新DLC也将上线。本月末将有《Shady Part of Me》《Starbound》等游戏移出库。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/i8czE8sO2KFBCMTYuKPRBQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/uu/api/res/1.2/NFSkA2ve_UTp7rTVg4zyzw--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Xbox%20Game%20Pass%20adds%20Death%20Stranding%20DC%2C%20Ninja%20Gaiden%2C%20Talos%20Principle%202%20and%20more",
+            "url": "https://www.engadget.com/gaming/xbox-game-pass-adds-death-stranding-dc-ninja-gaiden-talos-principle-2-and-more-134126315.html",
+            "category": "游戏"
+        },
+        {
+            "title": "微软打包收购OpenAI？就差一点！",
+            "time": "2026-01-21",
+            "source": "量子位",
+            "summary": "本文深度揭秘微软与OpenAI之间复杂微妙的合作与博弈。在奥特曼被OpenAI董事会罢免后，微软紧急成立名为‘微软RAI公司’的子公司，准备以250亿美元吸纳OpenAI核心团队，以此施压董事会并促成奥特曼回归。微软借此获得董事会观察员席位，但OpenAI随后与亚马逊达成380亿美元算力合作，削弱微软独家性。文章还回溯了双方合作历史、马斯克的1340亿美元诉讼及OpenAI从非营利机构向资本巨兽的转型，展现AI巨头间权力与利益的激烈角力。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/5da8d2a06f531dff45101d85d3a9b335.jpeg",
+            "url": "https://www.qbitai.com/2026/01/370907.html",
+            "category": "AI"
+        },
+        {
+            "title": "微软即将推出带广告的免费Xbox云游戏服务",
+            "time": "2026-01-20",
+            "source": "The Verge",
+            "summary": "微软正在测试一款免费的、支持广告的Xbox云游戏服务，用户每次会话可获得一小时的免费游戏时间，每月最多五小时。测试版本将在游戏开始前插入约两分钟的前置广告，并允许用户流式播放已拥有的游戏、免费游玩日标题及Xbox复古经典游戏。该服务目前仅限Xbox内部测试成员，预计将在数周内公开测试。此举措旨在扩大云游戏用户基础，同时通过广告实现盈利。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/image-3-1.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing",
+            "category": "游戏"
+        },
+        {
             "title": "微软紧急修复安全更新导致部分Windows 11设备无法关机问题",
             "time": "2026-01-19",
             "source": "Engadget",
@@ -327,6 +363,15 @@
             "category": "其他"
         },
         {
+            "title": "索尼拟与TCL成立合资公司经营家庭娱乐业务，TCL持股51%",
+            "time": "2026-01-21",
+            "source": "动点科技",
+            "summary": "索尼公司与TCL电子签署意向备忘录，拟共同成立一家合资公司，专注于全球范围内的电视机和家庭音响产品的开发、制造、销售及客户服务。新公司由TCL持股51%，索尼持股49%，产品将继续使用“Sony”和“BRAVIA”品牌。双方计划于2026年3月底前完成最终协议，预计2027年4月正式运营。索尼CEO与TCL主席均表示，此次合作将整合双方优势，提升品牌价值与供应链效率。",
+            "image_url": "https://unsplash.com/photos/black-and-silver-samsung-flat-screen-tv-5NE6xo4g2y8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText",
+            "url": "https://cn.technode.com/post/2026-01-21/sony-tcl-joint-venture-home-entertainment/",
+            "category": "其他"
+        },
+        {
             "title": "索尼电视业务将被TCL接管",
             "time": "2026-01-20",
             "source": "The Verge",
@@ -590,6 +635,42 @@
             "category": "游戏"
         },
         {
+            "title": "前任任天堂美国总裁道格·鲍泽加入孩之宝董事会",
+            "time": "2026-01-21",
+            "source": "GamesIndustry.biz",
+            "summary": "前任任天堂美国总裁兼COO道格·鲍泽已加入孩之宝公司董事会，与The Honest Company首席执行官卡拉·弗农一同被任命。孩之宝董事会主席和首席执行官均表示，鲍泽在消费品牌与IP管理方面的丰富经验将助力公司实现长期创新与增长战略。鲍泽于2025年9月从任天堂退休，由德文·普里查德接任，成为任天堂美国首位女性总裁。鲍泽自2015年起在任天堂逐步晋升，曾主导多项重要市场战略。",
+            "image_url": "https://assetsio.gnwcdn.com/doug-bowser-nintendo.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/retired-nintendo-of-america-president-doug-bowser-joins-hasbros-board-of-directors",
+            "category": "游戏"
+        },
+        {
+            "title": "三星折扣microSD Express卡可将Switch 2存储空间翻倍以上",
+            "time": "2026-01-21",
+            "source": "The Verge",
+            "summary": "三星推出的P9 microSD Express卡现正打折销售，256GB版本售价仅39.99美元，512GB版本售价79.99美元，大幅降低Switch 2的存储扩展成本。由于Switch 2内置256GB存储空间有限，大型游戏如《赛博朋克2077》和《最终幻想VII 重制版》会迅速占满空间，该卡能有效解决存储不足问题，且兼容Switch 2的高速读写需求，不影响游戏性能。此外，该卡还可用于其他支持microSD的设备，如相机和无人机，性价比突出。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/us-feature-all-your-games-in-one-tiny-card-549390596.jpeg?quality=90&strip=all&crop=8.3333333333333%2C0%2C83.333333333333%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale",
+            "category": "游戏"
+        },
+        {
+            "title": "我测试了多款Switch 2屏幕保护膜，这些是最好的",
+            "time": "2026-01-21",
+            "source": "The Verge",
+            "summary": "本文作者Cameron Faulkner对多款Nintendo Switch 2屏幕保护膜进行了实测，强调应选择钢化玻璃而非塑料材质，并推荐amFilm的三片装亮面保护膜为最佳选择，因其价格实惠、安装简便且能完美呈现屏幕色彩。文章对比了亮面与磨砂面的优劣：亮面显示更鲜艳但易留指纹，磨砂面抗反光但降低画质与视角。文中还提及JSAUX、Dbrand、Genki等品牌产品，并提供购买链接与安装建议。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossyRAWshowcase.jpg?quality=90&strip=all&crop=0%2C0.010773540185305%2C100%2C99.978452919629&w=2400",
+            "url": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
+            "category": "游戏"
+        },
+        {
+            "title": "Nintendo Switch 2在日本2025年售出370万台，占家用主机销量过半",
+            "time": "2026-01-20",
+            "source": "GamesIndustry.biz",
+            "summary": "Nintendo Switch 2在2025年于日本市场售出378万台，成为该国历史上销量最快的主机，占家用主机总销量的一半以上。原版Switch以152万台位居第二，PS5销量同比下降60%，Xbox和PS4销量极低。Switch 2首发周销量近百万，全球四个月内突破1036万台。任天堂游戏占据Famitsu年度物理游戏销量前十中的九席，其中《马里奥赛车世界》销量达266万份。日本游戏市场整体规模增长38.8%至4181亿日元，硬件销售贡献显著。任天堂财报显示销售额和运营利润分别增长110%和19.5%。",
+            "image_url": "https://assetsio.gnwcdn.com/switch02.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/nintendo-switch-2-sells-37m-units-in-japan-in-2025-accounting-for-over-half-of-home-console-sales",
+            "category": "游戏"
+        },
+        {
             "title": "最新塞尔达传说乐高套装致敬《时之笛》最终决战",
             "time": "2026-01-17",
             "source": "Engadget",
@@ -781,6 +862,15 @@
     ],
     "腾讯": [
         {
+            "title": "腾讯音乐“守城”，汽水音乐“改道”",
+            "time": "2026-01-21",
+            "source": "36氪",
+            "summary": "文章分析腾讯音乐与汽水音乐在在线音乐市场的竞争格局。腾讯音乐凭借周杰伦等独家版权、粉丝经济与多元化变现模式（数字专辑、周边商品、线下演出）稳居行业首位，2025年Q3净利润达96.97亿元。而字节跳动推出的汽水音乐依托抖音流量与算法推荐，快速崛起，MAU达1.3亿，主要冲击QQ音乐与酷狗音乐的下沉市场用户。两者竞争从版权争夺转向生态与用户旅程的重构，腾讯面临被内容生态颠覆的风险，行业格局正经历结构性变迁。",
+            "image_url": "https://img.36krcdn.com/20221125/v2_256f3e4756d24ca3bda60fc63dbbd054_img_000",
+            "url": "https://36kr.com/p/3649085687558664",
+            "category": "社交"
+        },
+        {
             "title": "朱德·奥韦的《好游戏俱乐部》播客在达沃斯推出并获腾讯支持",
             "time": "2026-01-20",
             "source": "GamesIndustry.biz",
@@ -788,6 +878,15 @@
             "image_url": "https://assetsio.gnwcdn.com/good-game-club-podcast.jpeg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
             "url": "https://www.gamesindustry.biz/jude-owers-good-game-club-podcast-launches-at-davos-with-tencent-backing",
             "category": "游戏"
+        },
+        {
+            "title": "Jude Ower的Good Game Club播客在达沃斯上线并获腾讯支持",
+            "time": "2026-01-20",
+            "source": "GamesIndustry.biz",
+            "summary": "行业资深人士Jude Ower联合评论员Mathias Gredal Norvig推出了由腾讯支持的播客《Good Game Club》，旨在探讨电子游戏作为社会积极力量的潜力。该播客在达沃斯论坛首发，聚焦游戏如何促进社区建设与社会变革，首期嘉宾为Bastian Bergmann，后续将邀请多位行业领袖参与。腾讯表示，全球三十亿玩家使游戏成为连接文化、培养协作与领导力的重要平台，支持该项目以推动全球正向影响。",
+            "image_url": "https://assetsio.gnwcdn.com/good-game-club-podcast.jpeg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/jude-owers-good-game-club-podcast-launches-at-davos-with-tencent-backing",
+            "category": "社交"
         },
         {
             "title": "腾讯AngelSlim升级，首个集LLM、VLM及语音多模态为一体的投机采样训练框架，推理速度飙升1.8倍",
@@ -890,6 +989,51 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌终于关闭了Stadia蓝牙工具——但这个人拯救了它",
+            "time": "2026-01-21",
+            "source": "The Verge",
+            "summary": "谷歌已彻底关闭将Stadia手柄转换为蓝牙游戏手柄的官方工具，标志着Stadia服务彻底终结。然而，开发者Christopher Klay保存了该工具的副本，并在其GitHub页面上托管了一个可正常使用的镜像网站，使用户仍可将Stadia手柄改造为兼容Steam等平台的蓝牙设备。作者认为谷歌在关闭服务时仍保留了部分功能，是业界处理退役服务的典范。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/akrales_191113_3779_0163.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/864543/google-has-finally-killed-the-stadia-bluetooth-tool-but-this-person-rescued-it",
+            "category": "游戏"
+        },
+        {
+            "title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "谷歌研究发现，DeepSeek-R1等顶尖AI推理模型在解题时会自发分裂出多个虚拟人格，如外向、严谨、多疑等角色，形成类似人类‘左右脑互搏’的内部对话机制。这些角色通过辩论、验证与修正提升推理准确性，尤其在复杂科学与数学任务中表现显著。研究者利用稀疏自编码器（SAE）成功解码AI的‘脑内群聊’，并发现强化‘哦！’等语义标记可使准确率翻倍。实验表明，无需人工设计，模型在奖励驱动下会自发形成对话式思考，这一现象呼应人类‘社会脑假说’。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/d5309bf9-f67d-11f0-b4e2-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21805",
+            "category": "AI"
+        },
+        {
+            "title": "速递｜Gemini API月度请求五个月翻倍至850亿次，谷歌AI的“两条腿”战略",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "谷歌Gemini AI模型的API请求量在五个月内从350亿次激增至850亿次，反映其模型质量显著提升并推动云业务增长。尽管Gemini 2.5和3.0版本获得开发者好评并实现正向利润，但其企业级软件Gemini Enterprise客户反馈两极分化，部分用户更倾向自行构建定制化AI智能体而非购买官方产品。谷歌通过API带动其他云服务消费，但软件套件在复杂任务执行上仍存短板，投资者正关注其AI投入是否转化为持续盈利。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/80ada3ac-f6a0-11f0-9d0f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21819",
+            "category": "AI"
+        },
+        {
+            "title": "搜索垄断与谷歌反垄断裁决：Kagi呼吁开放搜索索引",
+            "time": "2026-01-21",
+            "source": "Kagi Blog",
+            "summary": "本文是Kagi对去年《搜索的新纪元》一文的跟进，指出谷歌在全球搜索市场占据90%以上份额，构成垄断，控制着AI发展所需的核心搜索索引。作者批评谷歌拒绝提供公平、合理、非歧视性的索引访问权限，迫使Kagi等公司依赖第三方API。2024年美国法院裁定谷歌违反《谢尔曼反垄断法》，2025年司法部提出强制索引共享、禁止广告捆绑等 remedies，Kagi支持其落地，呼吁构建公共、免费与付费并存的多层次搜索生态系统，实现信息访问作为基本权利。",
+            "image_url": "",
+            "url": "https://blog.kagi.com/waiting-dawn-search",
+            "category": "其他"
+        },
+        {
+            "title": "沃尔沃EX60 SUV预告：400英里续航、670马力、搭载谷歌Gemini",
+            "time": "2026-01-21",
+            "source": "Engadget",
+            "summary": "沃尔沃发布全新电动SUV EX60，定位介于EX30与EX90之间，提供三种动力配置，最高版本搭载670马力与112kWh电池，续航达400英里。新车采用Gigacast一体压铸底盘、SPA3平台，首次搭载谷歌Gemini AI系统与苹果音乐，配备高通8255芯片与NVIDIA Drive AGX Orin用于自动驾驶。支持特斯拉NACS充电标准，峰值充电功率达370kW，10分钟可补能170英里。取消激光雷达，依靠摄像头与雷达实现辅助驾驶功能。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/5Ffcz9O2TtRz62RbbaFnEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzI-/https://s.yimg.com/uu/api/res/1.2/FAFT9VQEwh9.IXvHBiqThQ--~B/aD0xOTIxO3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/JPG_Full-vin0030_Elevated34Rear_746_EX60_ROW.jpg",
+            "url": "https://www.engadget.com/transportation/evs/volvo-ex60-suv-preview-400-mile-range-670-hp-and-google-gemini-onboard-173000033.html",
+            "category": "其他"
+        },
         {
             "title": "争夺AI制高点，谷歌和Anthropic必有一战",
             "time": "2026-01-20",
@@ -1334,6 +1478,51 @@
     ],
     "Meta": [
         {
+            "title": "Threads广告将于下周起全球逐步推出",
+            "time": "2026-01-22",
+            "source": "The Verge",
+            "summary": "Meta公司宣布，Threads平台的广告功能将于下周开始在全球范围内逐步推出，初期广告投放量将保持较低水平，以确保平稳过渡。该功能自去年起已在部分市场测试，此次扩展标志着Threads商业化的重要一步。Meta表示，广告将根据用户地区和平台使用情况分阶段上线，旨在平衡用户体验与商业收益。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/865006/threads-ads-are-rolling-out-globally-starting-next-week",
+            "category": "社交"
+        },
+        {
+            "title": "Threads在全球范围内向所有用户推出广告",
+            "time": "2026-01-21",
+            "source": "TechCrunch",
+            "summary": "Meta宣布从下周开始，逐步在全球范围内向Threads的所有用户推出广告。该平台月活跃用户已超过4亿，广告将通过Meta的Advantage+程序和手动投放两种方式向现有广告主开放，支持图片、视频、4:5比例和轮播广告格式，并可与Facebook、Instagram等平台统一管理。Meta还引入了第三方品牌安全验证机制，以提升广告投放的可靠性。初期广告展示频率将保持较低水平， rollout将持续数月。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/21/threads-rolls-out-ads-to-all-users-worldwide/",
+            "category": "社交"
+        },
+        {
+            "title": "Meta将Threads广告扩展至全球所有用户",
+            "time": "2026-01-21",
+            "source": "Engadget",
+            "summary": "Meta宣布，随着Threads平台月活跃用户突破4亿，其广告系统将全面向全球所有用户开放。广告将基于Meta的AI系统，采用与Facebook和Instagram相同的个性化推荐机制，支持图片、视频和轮播格式，并将逐步 rollout，初期广告投放量较低。此举标志着Threads正式融入Meta的商业化生态，此前已在30个国家进行测试。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/.yi6TvT3YZGgTugaNV9onw--~B/aD0yMjA3O3c9MzkyNDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dave-adamson-BOjMGyEG5NI-unsplash.jpg",
+            "url": "https://www.engadget.com/social-media/meta-is-expanding-threads-ads-to-all-users-globally-183900226.html",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram首席高管忽视了平台上的AI真实问题",
+            "time": "2026-01-21",
+            "source": "The Verge",
+            "summary": "本文批评Instagram首席执行官Adam Mosseri将AI生成内容视为平台真实性危机的主因，指出Instagram早已充斥着人类创作者为迎合算法而生产的同质化内容。作者认为，真正的问题在于算法驱动的创作模式，而非AI本身。AI只是加速了这一趋势，取代了本就机械化的“伪真实”内容。Mosseri呼吁回归真实表达，却忽略了平台机制本身才是制造虚假内容的根源。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm",
+            "category": "社交"
+        },
+        {
+            "title": "FTC称将对Meta反垄断败诉判决提出上诉",
+            "time": "2026-01-21",
+            "source": "The Verge",
+            "summary": "美国联邦贸易委员会（FTC）宣布将就联邦法官詹姆斯·博斯伯格的判决提出上诉，该判决认定Meta并未在个人社交网络服务市场构成非法垄断。法官指出FTC对相关市场的定义过于狭窄，且未能充分证明Meta通过收购Instagram和WhatsApp消除竞争。FTC则认为Meta利用收购手段压制潜在竞争对手，维持其市场主导地位，并强调将继续推动此案以保障市场竞争。Meta回应称其面临激烈竞争，判决正确，将继续专注于创新。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal",
+            "category": "其他"
+        },
+        {
             "title": "Meta监督委员会审查账户封禁透明度问题",
             "time": "2026-01-20",
             "source": "Engadget",
@@ -1358,6 +1547,15 @@
             "summary": "英国博彩委员会指出，Meta在其Facebook和Instagram平台上未能主动阻止非法博彩网站的广告投放，尽管其政策要求广告商必须在运营市场获得合法许可。监管机构通过简单搜索发现大量未在GamStop系统注册的非法广告商，并批评Meta依赖被动举报而非主动筛查，暗示其可能默许此类广告以牟利。委员会呼吁Meta利用自身关键词技术主动拦截非法内容。",
             "image_url": "https://s.yimg.com/ny/api/res/1.2/.TlZAs74AoiEuJLJk1uv2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/dDodHT.SrLlWLLMMYNIICg--~B/aD01MzQ5O3c9ODAxOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/8e63d5cb-212a-4774-bb8e-3e7df2d039a9",
             "url": "https://www.engadget.com/social-media/uk-agency-questions-metas-policies-for-illegal-gambling-site-ads-210500714.html",
+            "category": "社交"
+        },
+        {
+            "title": "FTC不会放弃对Meta的反垄断诉讼",
+            "time": "2026-01-20",
+            "source": "Engadget",
+            "summary": "美国联邦贸易委员会（FTC）在去年反垄断案败诉后，决定上诉，继续指控Meta通过收购Instagram和WhatsApp压制市场竞争。尽管法官裁定Meta当前并未构成垄断，因YouTube和TikTok的存在削弱了其市场主导地位，但FTC仍认为Meta长期通过收购消除竞争威胁。此案若胜诉，可能迫使Meta剥离这两项资产。此举也对Meta首席执行官扎克伯格不利，因其近期积极亲近特朗普政府并承诺在美投入数百亿美元建设AI基础设施。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/gYJTtrEEwB9INTnXY6yZcw--~B/aD01NTA0O3c9ODI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/a8c4c9d6-e56a-4fed-a671-547a9200daac",
+            "url": "https://www.engadget.com/big-tech/the-ftc-isnt-giving-up-on-its-antitrust-case-against-meta-225020769.html",
             "category": "社交"
         },
         {
@@ -1831,6 +2029,24 @@
     ],
     "YouTube": [
         {
+            "title": "YouTube将允许创作者使用自己的AI形象制作短视频",
+            "time": "2026-01-21",
+            "source": "TechCrunch",
+            "summary": "YouTube首席执行官Neal Mohan宣布，创作者将很快能够使用自己的AI数字形象制作YouTube Shorts视频。这一功能将与现有的AI工具（如AI生成片段、自动配音和贴纸）结合，同时平台也将推出AI形象检测技术，防止他人未经授权使用创作者的肖像和声音。YouTube强调AI是表达工具而非替代品，并致力于提升内容质量，遏制低质AI内容的传播。此外，平台还计划推出类似TikTok和Instagram Reels的图片帖子等新格式。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
+            "category": "AI"
+        },
+        {
+            "title": "YouTube首席执行官承诺2026年将推出更多AI功能",
+            "time": "2026-01-21",
+            "source": "Engadget",
+            "summary": "YouTube首席执行官Neal Mohan在2026年规划博客中宣布，平台将允许创作者使用AI生成的自身形象制作Shorts短视频，同时强调对深度伪造内容的警惕，并支持《NO FAKES法案》。此外，YouTube正测试无代码游戏创作平台Playables和新的音乐生成工具，同时加强打击低质量AI内容的机制。目前已有数百万用户每日观看AI自动配音内容，平台也提供了屏蔽Shorts搜索结果的功能。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/Xe._DlFO8e.3IILF.ttwaA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MjM-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/99ffcd20-f6e4-11f0-be3e-85bb8b0bf5fc",
+            "url": "https://www.engadget.com/entertainment/youtube/youtube-ceo-promises-more-ai-features-in-2026-162409452.html",
+            "category": "AI"
+        },
+        {
             "title": "YouTube放宽对某些争议性话题的广告收益政策",
             "time": "2026-01-16",
             "source": "TechCrunch",
@@ -1878,6 +2094,87 @@
     ],
     "OpenAI": [
         {
+            "title": "OpenAI的理想主义，终于向广告低头了",
+            "time": "2026-01-21",
+            "source": "36氪",
+            "summary": "OpenAI正从技术理想主义转向广告变现，计划在ChatGPT答案旁添加广告，预计2027年广告收入突破100亿美元。文章分析了AI入口级产品必然走向广告的行业规律，并对比国内AI厂商如百度、豆包、千问等通过AI直接接入电商交易的路径。同时指出生成式引擎优化（GEO）等隐蔽广告形式正兴起，挑战用户对AI推荐的信任。如何在商业化与可信度间平衡，成为AI行业核心博弈。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260121/v2_462195504f2b4d92aab1d1da5533021e@5888275_oswg276015oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3649111663059335",
+            "category": "AI"
+        },
+        {
+            "title": "击败GPT、Gemini，复旦×创智孵化创业团队「模思智能」，语音模型上新了",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "复旦大学邱锡鹏团队孵化的模思智能发布多说话人语音识别模型MOSS-Transcribe-Diarize，突破性实现端到端语音转录、说话人分离与时间戳预测，性能超越GPT-4o、Gemini等主流模型。该模型支持长达90分钟音频处理，在AISHELL-4、Podcast、Movies等基准测试中均取得SOTA成绩，有效解决多人重叠说话、方言、情感波动等复杂场景下的识别难题，并开放API免费体验。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/6b0a6aab-f67e-11f0-8c49-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21810",
+            "category": "AI"
+        },
+        {
+            "title": "2026年OpenAI最看好的3个方向",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "OpenAI在最新播客中预测2026年将是多智能体系统成熟的关键年份，强调算力与收入正相关，API调用量才是衡量AI泡沫的核心指标，而非股价。同时指出医疗与具身智能将成为重大突破领域，AI将推动全球进入大规模通缩时代。OpenAI正通过多产品布局、广告业务和授权模式拓展商业版图，为IPO铺路，并鼓励初创公司聚焦垂直领域数据资产构建护城河。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/8455a150-f6aa-11f0-9e3d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21822",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克奥特曼干起来了，结果曝光了 OpenAI 最大的「宫斗」秘密",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "本文揭露了OpenAI创始人奥特曼与马斯克之间的激烈矛盾，以及微软在2023年OpenAI董事会罢免奥特曼事件中的关键角色。曝光文件显示，微软在事发后迅速筹备250亿美元资金，准备接管OpenAI核心团队，并在董事会重组中强势干预人选。文章还还原了马斯克当年推动OpenAI转向微软云、微软初期拒绝投资、直至ChatGPT爆火后才All in的全过程。如今OpenAI估值达5000亿美元，虽与微软关系疏远，但微软仍持有27%股权、2500亿美元云服务承诺及IP授权至2032年，成为最大赢家。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/dc939f58-f6ab-11f0-b7c3-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21828",
+            "category": "AI"
+        },
+        {
+            "title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "中国AI医疗公司‘未来医生’联合32位来自协和医院等顶尖医疗机构的临床专家，首次在Nature子刊《npj Digital Medicine》发布医疗AI评估标准CSEDB，提出‘安全性与有效性双轨评价体系’，并首次将临床风险权重引入评估模型。在该标准下，其研发的MedGPT模型在安全性与有效性维度均位列全球第一，尤其在高风险场景中表现卓越。MedGPT采用快慢双系统架构与风险调和机制，结合医生反馈形成动态进化闭环，推动医疗AI从技术展示转向临床信任构建。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/63089a9c-f6ac-11f0-a9c2-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21829",
+            "category": "AI"
+        },
+        {
+            "title": "速递｜“新实验室”浪潮汹涌：前OpenAI团队创立的AI公司Applied Compute，13亿美元估值融资在即",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "由三位前OpenAI研究人员创立的AI初创公司Applied Compute正就13亿美元估值进行新一轮融资谈判，拟融资额达7000万美元。公司专注于为企业定制AI模型，采用强化学习技术训练智能体，已与DoorDash、Cognition等客户合作。其此前已获红杉、Benchmark等8000万美元投资，去年11月年化营收达1280万美元。此轮估值较上轮增长逾一倍，反映市场对“新实验室”模式的热捧，类似公司如Humans&也获巨额融资。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/644f44df-f6d9-11f0-b4cc-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21831",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI计划2026年推出首款设备，或为耳塞",
+            "time": "2026-01-21",
+            "source": "TechCrunch",
+            "summary": "OpenAI计划于2026年下半年发布其首款硬件设备，据多方消息推测可能为一款名为“Sweet Pea”的智能耳塞。该设备将采用定制2纳米芯片，实现本地AI处理，减少对云端依赖，并由Jony Ive主导设计。传闻可能与富士康或立讯精密合作生产，首年目标销量达4000万至5000万台。此举旨在增强ChatGPT的生态控制力，但面临与AirPods等成熟产品的激烈竞争。此前OpenAI收购了Jony Ive的公司io，引发市场对AI硬件的广泛关注。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+            "url": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
+            "category": "AI"
+        },
+        {
+            "title": "微软打包收购OpenAI？就差一点！",
+            "time": "2026-01-21",
+            "source": "量子位",
+            "summary": "本文深度揭秘微软与OpenAI之间复杂微妙的合作与博弈。在奥特曼被OpenAI董事会罢免后，微软紧急成立名为‘微软RAI公司’的子公司，准备以250亿美元吸纳OpenAI核心团队，以此施压董事会并促成奥特曼回归。微软借此获得董事会观察员席位，但OpenAI随后与亚马逊达成380亿美元算力合作，削弱微软独家性。文章还回溯了双方合作历史、马斯克的1340亿美元诉讼及OpenAI从非营利机构向资本巨兽的转型，展现AI巨头间权力与利益的激烈角力。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/5da8d2a06f531dff45101d85d3a9b335.jpeg",
+            "url": "https://www.qbitai.com/2026/01/370907.html",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI前销售负责人加入风投公司Acrew：OpenAI教会她初创公司如何构建护城河",
+            "time": "2026-01-21",
+            "source": "TechCrunch",
+            "summary": "OpenAI首位销售负责人Aliisa Rosenthal加入风投公司Acrew Capital，担任普通合伙人。她在OpenAI期间积累了丰富经验，认为AI初创公司应通过领域专业化和“上下文”层构建护城河，而非依赖大型模型。她强调动态上下文记忆和推理能力将是未来创新关键，并看好低成本、轻量级模型在企业应用中的潜力。Rosenthal还拥有广泛的AI企业用户网络，能为初创公司提供关键客户资源。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Acrew-Aliisa-Rosenthal.jpeg?w=1017",
+            "url": "https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/",
+            "category": "其他"
+        },
+        {
             "title": "45年数论猜想被GPT-5.2 Pro独立完成证明，陶哲轩：没犯任何错误",
             "time": "2026-01-20",
             "source": "AITNT",
@@ -1893,6 +2190,15 @@
             "summary": "本文基于OpenAI Podcast专访，深入探讨GPT-5.1如何通过后训练技术提升模型对用户意图、情绪与语境的理解能力。核心观点指出，模型的“聪明”不在于算力或知识量，而在于能否个性化地感知用户需求，构建可记忆、可定制的人格化交互体验。产品经理与研究负责人强调，未来AI将不再是统一工具，而是通过记忆、风格调整与上下文感知，成为每个用户的数字镜像，实现真正自然的协作。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/20/d5b84bc2-f5df-11f0-9bdb-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=21786",
+            "category": "AI"
+        },
+        {
+            "title": "算力越高收入越多！OpenAI率先验证AI商业Scaling Law",
+            "time": "2026-01-20",
+            "source": "量子位",
+            "summary": "OpenAI公布其年化经常性收入（ARR）从2023年的20亿美元飙升至2025年的200亿美元，算力投入增长9.5倍，收入增长10倍，形成“算力→模型→产品→收入→再投入”的正向循环。尽管收入丰厚，但其2024年仅云算力支出就达70亿美元，因此推出广告以拓展商业模式。同时，OpenAI计划于2026年下半年发布首款硬件设备，疑似无屏AI智能笔，旨在强化其商业飞轮。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/1256e8d73d424b69f4e6df19283dcc99.webp",
+            "url": "https://www.qbitai.com/2026/01/370375.html",
             "category": "AI"
         },
         {
@@ -2420,6 +2726,24 @@
     ],
     "苹果": [
         {
+            "title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "智谱AI发布开源轻量级大语言模型GLM-4.7-Flash，采用30B总参数、3B激活参数的混合专家（MoE）架构，首次引入DeepSeek-v2的MLA注意力机制，显著降低计算开销。该模型在SWE-bench等代码评测中表现优异，支持200K上下文窗口，可云端调用或本地部署。实测可在苹果M5芯片、32GB内存设备上实现43 token/s推理速度，API免费开放，同时支持华为昇腾NPU，HuggingFace等平台已提供day0支持。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/e698b48f-f67d-11f0-884d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21806",
+            "category": "AI"
+        },
+        {
+            "title": "苹果计划将Siri改造为AI聊天机器人",
+            "time": "2026-01-21",
+            "source": "TechCrunch",
+            "summary": "据彭博社报道，苹果计划在iOS 27中将Siri升级为一款支持语音和文本输入的AI聊天机器人，内部代号为“Campos”，旨在对标ChatGPT等竞品。尽管苹果高管曾表示不愿将Siri做成传统聊天机器人，但面对OpenAI等公司AI助手的迅速崛起及可能进入硬件市场的威胁，苹果调整策略，选择谷歌Gemini作为AI技术合作伙伴。此举被视为苹果追赶AI浪潮的关键一步。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+            "category": "AI"
+        },
+        {
             "title": "LG C5和苹果M4 Mac Mini本周末均大幅降价",
             "time": "2026-01-17",
             "source": "The Verge",
@@ -2905,6 +3229,24 @@
     ],
     "亚马逊": [
         {
+            "title": "存储设备价格对比：亚马逊全球硬盘与固态硬盘优惠信息",
+            "time": "2026-01-22",
+            "source": "Terabyte Deals",
+            "summary": "该页面汇总了亚马逊全球站点（美国、英国、加拿大、德国、法国、意大利、西班牙、澳大利亚）的硬盘（HDD）和固态硬盘（SSD）最新价格，涵盖内部与外部存储设备，包括SATA、NVMe、USB、Thunderbolt等接口类型，以及2.5英寸、3.5英寸、M.2等多种形态。价格按每TB成本排序，最低至$21.67/TB，最高达$1,202.97/64GB闪存盘，覆盖从消费级到企业级产品，适合用户对比选购。",
+            "image_url": "",
+            "url": "https://terabytedeals.com",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊为One Medical添加AI驱动的健康助手",
+            "time": "2026-01-21",
+            "source": "Engadget",
+            "summary": "亚马逊为其收购的医疗保健公司One Medical推出名为'Health AI'的AI助手，可提供24/7个性化健康指导，包括解释化验结果、管理药物和预约就诊。该工具基于用户医疗记录进行分析，声称不取代医生但能回答复杂健康问题，并遵守HIPAA隐私标准。用户对话不会自动计入病历，且不售卖受保护的健康信息。此举是亚马逊在医疗领域的一系列布局之一，此前已推出处方药配送和自动售药机服务。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/1CJkvIajtIjYazXsw6n0kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/5af0a670-f6f0-11f0-b5b6-0fa48699ec0a",
+            "url": "https://www.engadget.com/ai/amazon-is-adding-ai-powered-assistant-to-one-medical-180803368.html",
+            "category": "AI"
+        },
+        {
             "title": "亚马逊CEO称关税开始影响定价",
             "time": "2026-01-20",
             "source": "The Verge",
@@ -3110,6 +3452,15 @@
         }
     ],
     "美团": [
+        {
+            "title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
+            "time": "2026-01-20",
+            "source": "量子位",
+            "summary": "美团副总裁张晶（内部称“卡姐”）从骑行事业部转岗接管无人车业务，其多年运营经验为无人配送的商业化落地提供支持；与此同时，前美团无人车算法总监、MIT博士穆北鹏离职创业，投身具身智能领域。美团无人车已累计配送超550万单，自动驾驶里程突破1500万公里，进入规模化商业运营关键期，行业正从技术验证转向生态构建。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/6a01e09db2397512901141e73ffd4f9e.png",
+            "url": "https://www.qbitai.com/2026/01/370599.html",
+            "category": "AI"
+        },
         {
             "title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
             "time": "2026-01-16",
@@ -3583,6 +3934,69 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克的底裤要被扒光了，超级爆料一个多小时， xAI 工程师被火速解雇",
+            "time": "2026-01-22",
+            "source": "36氪",
+            "summary": "xAI工程师Sulaiman Ghori在播客中详细披露了公司内部运作细节，包括马斯克主导的Colossus超算集群建设、利用特斯拉汽车算力部署AI虚拟员工、极简组织架构与高效决策文化等敏感信息，引发外界震动。播客发布三天后，他被火速解雇。文章还原了其在xAI的高强度工作体验：无官僚流程、默认资源到位、跨团队协作、24小时迭代、作战室冲刺等，展现xAI以工程师文化驱动、极限压缩时间的创新模式，以及马斯克‘办法总会有的’执行哲学。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260121/v2_32e51d9fc9a94aa5b227c0beeb01e66f@000000_oswg437908oswg932oswg1068_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3648829580533640",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克罕见低头：开源𝕏推荐算法，自嘲“很烂”不过未来月更",
+            "time": "2026-01-21",
+            "source": "量子位",
+            "summary": "马斯克开源了𝕏（原Twitter）的推荐算法系统，该系统完全由AI驱动，摒弃人工规则，基于Grok-1同款Transformer架构，通过用户行为序列和属性实时构建画像，独立评分候选推文，并采用模块化流水线设计。系统通过检索、过滤、排序等多模块协同工作，最终输出个性化推荐内容。马斯克自嘲算法“很烂”，承认存在如屏蔽信号无时间衰减等缺陷，但承诺每4周开源更新一次，展现透明化改进态度。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/425856b16b1687320230806703811b13.webp",
+            "url": "https://www.qbitai.com/2026/01/370760.html",
+            "category": "社交"
+        },
+        {
+            "title": "马斯克奥特曼干起来了，结果曝光了 OpenAI 最大的「宫斗」秘密",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "本文揭露了OpenAI创始人奥特曼与马斯克之间的激烈矛盾，以及微软在2023年OpenAI董事会罢免奥特曼事件中的关键角色。曝光文件显示，微软在事发后迅速筹备250亿美元资金，准备接管OpenAI核心团队，并在董事会重组中强势干预人选。文章还还原了马斯克当年推动OpenAI转向微软云、微软初期拒绝投资、直至ChatGPT爆火后才All in的全过程。如今OpenAI估值达5000亿美元，虽与微软关系疏远，但微软仍持有27%股权、2500亿美元云服务承诺及IP授权至2032年，成为最大赢家。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/dc939f58-f6ab-11f0-b7c3-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21828",
+            "category": "AI"
+        },
+        {
+            "title": "突发！xAI联创杨格过劳病离职，给马斯克干活压力山大",
+            "time": "2026-01-21",
+            "source": "量子位",
+            "summary": "xAI联合创始人杨格因长期高强度工作导致免疫系统受损，确诊莱姆病后宣布离职，专注康复。他曾是Grok主要架构师，师从丘成桐，曾任职微软，前途光明。其离职引发对马斯克高压工作文化的广泛讨论，多名xAI高管相继离职，公司高管更迭率高达44%，远超行业平均水平。马斯克曾以Cybertruck激励员工24小时内完成GPU训练，凸显极端执行文化。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/f90ea3e9cafbc1b050761dfedf9c4a7f.png",
+            "url": "https://www.qbitai.com/2026/01/370985.html",
+            "category": "AI"
+        },
+        {
+            "title": "xAI工程师播客聊太嗨，马斯克解雇了他",
+            "time": "2026-01-21",
+            "source": "量子位",
+            "summary": "xAI工程师Sulaiman Ghori在播客中公开披露了公司核心项目MacroHard的多项机密信息，包括其作为‘人类模拟器’的定位、采用小模型路线实现8倍于人类的推理速度、计划租用400万辆特斯拉汽车闲置算力等。这些爆料引发全网热议，随后他被马斯克解雇。文章还深入描述了xAI极致高效的‘闪电文化’：扁平架构、无审批流程、通宵加班、工程师直接向马斯克汇报，以及Colossus超算中心的快速建设内幕。尽管失去工作，他仍置顶该播客，被视为为AI行业献身的典型。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/06b6fc735b25849bf5dd2a0832a81531.png",
+            "url": "https://www.qbitai.com/2026/01/371158.html",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克据称正试图将SpaceX上市",
+            "time": "2026-01-21",
+            "source": "Engadget",
+            "summary": "据《华尔街日报》报道，埃隆·马斯克正推动SpaceX首次公开募股（IPO），目标是在今年7月前完成，以筹集资金建造太空AI数据中心。此举旨在赶在谷歌之前布局太空算力，并为旗下AI公司xAI提供资源支持。尽管SpaceX此前坚持“先登陆火星再上市”，但如今因AI竞争加剧而改变策略。其他科技巨头如贝佐斯和萨姆·阿尔特曼也正探索类似方案，但太空数据中心面临延迟、散热和辐射等重大技术挑战。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/1wW8BDkmv.HXE1Ku_kP7iA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/22274590-f6e8-11f0-bbbd-50ad6fbbfeae",
+            "url": "https://www.engadget.com/science/space/elon-musk-is-reportedly-trying-to-take-spacex-public-170337053.html",
+            "category": "其他"
+        },
+        {
+            "title": "读懂马斯克的X推荐算法 - AI给我们喂什么，怎么做内容AI才会推",
+            "time": "2026-01-21",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/yxWjjMwAudqLa02qbyqqgA",
+            "category": "AI"
+        },
+        {
             "title": "马斯克 xAI 的秘密项目曝光了。",
             "time": "2026-01-20",
             "source": "AITNT",
@@ -3969,6 +4383,24 @@
         }
     ],
     "三星": [
+        {
+            "title": "三星折扣microSD Express卡可将Switch 2存储空间翻倍以上",
+            "time": "2026-01-21",
+            "source": "The Verge",
+            "summary": "三星推出的P9 microSD Express卡现正打折销售，256GB版本售价仅39.99美元，512GB版本售价79.99美元，大幅降低Switch 2的存储扩展成本。由于Switch 2内置256GB存储空间有限，大型游戏如《赛博朋克2077》和《最终幻想VII 重制版》会迅速占满空间，该卡能有效解决存储不足问题，且兼容Switch 2的高速读写需求，不影响游戏性能。此外，该卡还可用于其他支持microSD的设备，如相机和无人机，性价比突出。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/us-feature-all-your-games-in-one-tiny-card-549390596.jpeg?quality=90&strip=all&crop=8.3333333333333%2C0%2C83.333333333333%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale",
+            "category": "游戏"
+        },
+        {
+            "title": "三星新AI助手Bixby即将登陆手机",
+            "time": "2026-01-20",
+            "source": "The Verge",
+            "summary": "三星正在为其One UI 8.5系统推出全新的对话式AI助手Bixby，该版本整合了Perplexity的网页搜索功能，提升交互能力。目前该功能已在测试版中上线，预计将在下月与Galaxy S26系列手机一同发布。此举旨在增强三星智能设备的AI体验，与苹果Siri、谷歌助手等竞争。新Bixby延续了此前在电视端的部署策略，强调自然语言理解和上下文感知能力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/DOM_BLURPLE-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/864303/samsungs-new-ai-bixby-is-coming-to-phones",
+            "category": "AI"
+        },
         {
             "title": "三星推出新型号Frame电视，但逐步放弃One Connect盒",
             "time": "2026-01-19",
@@ -4415,6 +4847,24 @@
     ],
     "deepseek": [
         {
+            "title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "谷歌研究发现，DeepSeek-R1等顶尖AI推理模型在解题时会自发分裂出多个虚拟人格，如外向、严谨、多疑等角色，形成类似人类‘左右脑互搏’的内部对话机制。这些角色通过辩论、验证与修正提升推理准确性，尤其在复杂科学与数学任务中表现显著。研究者利用稀疏自编码器（SAE）成功解码AI的‘脑内群聊’，并发现强化‘哦！’等语义标记可使准确率翻倍。实验表明，无需人工设计，模型在奖励驱动下会自发形成对话式思考，这一现象呼应人类‘社会脑假说’。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/d5309bf9-f67d-11f0-b4e2-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21805",
+            "category": "AI"
+        },
+        {
+            "title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "智谱AI发布开源轻量级大语言模型GLM-4.7-Flash，采用30B总参数、3B激活参数的混合专家（MoE）架构，首次引入DeepSeek-v2的MLA注意力机制，显著降低计算开销。该模型在SWE-bench等代码评测中表现优异，支持200K上下文窗口，可云端调用或本地部署。实测可在苹果M5芯片、32GB内存设备上实现43 token/s推理速度，API免费开放，同时支持华为昇腾NPU，HuggingFace等平台已提供day0支持。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/e698b48f-f67d-11f0-884d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21806",
+            "category": "AI"
+        },
+        {
             "title": "租了8张H100，他成功复现了DeepSeek的mHC，结果比官方报告更炸裂",
             "time": "2026-01-20",
             "source": "AITNT",
@@ -4606,6 +5056,24 @@
     ],
     "字节跳动": [
         {
+            "title": "被“抖音催熟”的西子健康，99%线上营收能撑起IPO吗？",
+            "time": "2026-01-21",
+            "source": "36氪",
+            "summary": "西子健康凭借抖音电商红利快速崛起，通过fiboo、谷本日记、FoYes等自有品牌实现营收爆发，99%收入来自线上，其中抖音渠道贡献超60%。但其高度依赖流量营销，销售费用率高达47%，研发费用率不足1%，供应链依赖代工，频遭食品安全投诉。尽管IPO拟募资用于品牌建设与研发，但缺乏技术壁垒与线下布局经验，其增长模式面临可持续性挑战。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260121/v2_ac34635713c14e148d2337692a85b64d@5888275_oswg152473oswg1080oswg1080_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3649044827709316",
+            "category": "社交"
+        },
+        {
+            "title": "李飞飞联创 + 1200 万美元融资，Astrocade 被资本押成「AI 游戏版 TikTok」｜附带全面实测拆解",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "Astrocade 是由李飞飞联合创立的AI游戏创作平台，获1200万美元种子轮融资，被资本视为AI版TikTok。平台允许用户通过自然语言生成互动游戏，并以TikTok式瀑布流推荐机制实现内容传播。其核心优势在于工程封装能力，游戏完成度高、交互流畅，支持用户 remix 与自定义。平台聚焦独立开发者，将游戏创作转化为可测试、可分享的社交表达，已实现百万级用户增长与十万+应用下载，被视为AI赋能内容创作的新范式。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/198b4b1b-f67e-11f0-aba0-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21808",
+            "category": "AI"
+        },
+        {
             "title": "字节扣子 2.0 发布，我们深挖了它这两年的生长真相",
             "time": "2026-01-20",
             "source": "AITNT",
@@ -4796,6 +5264,15 @@
         }
     ],
     "智谱": [
+        {
+            "title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "智谱AI发布开源轻量级大语言模型GLM-4.7-Flash，采用30B总参数、3B激活参数的混合专家（MoE）架构，首次引入DeepSeek-v2的MLA注意力机制，显著降低计算开销。该模型在SWE-bench等代码评测中表现优异，支持200K上下文窗口，可云端调用或本地部署。实测可在苹果M5芯片、32GB内存设备上实现43 token/s推理速度，API免费开放，同时支持华为昇腾NPU，HuggingFace等平台已提供day0支持。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/e698b48f-f67d-11f0-884d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21806",
+            "category": "AI"
+        },
         {
             "title": "七天网络与智谱AI战略合作，两年投近亿元构建K12教育大模型",
             "time": "2026-01-20",
@@ -5096,6 +5573,24 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "最新 Anthropic 人类经济指数报告：AI 如何重塑经济？",
+            "time": "2026-01-21",
+            "source": "AITNT",
+            "summary": "Anthropic 发布第四份人类经济指数报告，基于 Claude.ai 和 API 对话数据，提出「经济基本要素」框架，追踪 AI 对任务复杂度、技能水平、用途、自主性与成功率的影响。研究发现，AI 在高教育水平任务中效率提升更显著（大学任务达12倍），且更受白领群体青睐；AI 使用在高收入国家偏向工作与个人场景，低收入国家则集中于教育；任务成功率调整后，劳动生产率增速预计为每年1.0–1.2个百分点。报告指出 AI 正推动部分职业出现「去技能化」趋势，并预测企业级应用将逐步取代消费者端主导地位。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/21/6d977be8-f6a0-11f0-a92a-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21818",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic修订Claude的‘宪法’并暗示聊天机器人可能具有意识",
+            "time": "2026-01-21",
+            "source": "TechCrunch",
+            "summary": "Anthropic发布了修订版的Claude‘宪法’，该80页文档定义了其AI助手的核心伦理原则，包括安全性、伦理性、合规性与真正有用性。新版本强调Claude需在真实场景中实践伦理，避免有害输出，并在用户面临心理危机时引导其寻求帮助。文档还首次明确提出对AI是否具备意识的哲学探讨，称其道德地位‘高度不确定’，引发业界对AI主体性的广泛讨论。此举旨在强化Anthropic作为负责任AI开发者的品牌形象。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+            "category": "AI"
+        },
         {
             "title": "争夺AI制高点，谷歌和Anthropic必有一战",
             "time": "2026-01-20",
