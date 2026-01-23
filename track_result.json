@@ -1,6 +1,51 @@
 {
     "微软": [
         {
+            "title": "Xbox 开发者直面会新闻汇总：《神鬼寓言》 《极限竞速：地平线 6》 《轮回之兽》最新消息公布，并有 Double Fine 公布惊喜新作",
+            "time": "2026-01-23",
+            "source": "游侠网",
+            "summary": "Xbox于2026年1月23日举办开发者直面会，公布多款重磅新作。Playground Games发布了《极限竞速：地平线6》（2026年5月19日发售，首次登陆日本）和《神鬼寓言》新作（2026年秋季推出）；Game Freak公布了后启示录题材动作RPG《轮回之兽》（2026年夏季发售）；Double Fine则首次揭晓全新多人陶艺战斗游戏《Kiln》（2026年春季发售）。所有游戏均将登陆Xbox Game Pass Ultimate并支持跨平台游玩，标志着Xbox 2026年游戏阵容的全面展开。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/23/584_2026012311354485.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995769.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《神鬼寓言》定于2026年秋季登陆PlayStation、Xbox和PC",
+            "time": "2026-01-23",
+            "source": "GamesIndustry.biz",
+            "summary": "Playground Games宣布《神鬼寓言》将于2026年秋季登陆PlayStation 5、Xbox Series X|S和PC平台，这是该系列首次登陆PlayStation。游戏被定位为对Lionhead工作室原三部曲的重启，而非延续，旨在打造属于Playground Games的独特风格。开发团队强调不会复制Lionhead的作品，而是以全新故事开启系列新篇章。原定2025年发售，后推迟至2026年以确保游戏品质。这是自2012年《神鬼寓言：旅程》以来的首款正统续作。",
+            "image_url": "https://assetsio.gnwcdn.com/fable-chicken.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/fable-set-for-autumn-2026-launch",
+            "category": "游戏"
+        },
+        {
+            "title": "谷歌微软的天使投资人押注，geoSurge用模型记忆提升AI可见性丨涌现新项目",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "geoSurge是一家成立于2025年的伦敦初创公司，专注于生成式引擎优化（GEO），通过优化大模型的内部记忆与RAG技术，提升品牌在AI回答中的可见性。其核心产品包括测量、探索与提升三大模块，区别于传统SEO，强调模型记忆层的长期塑造。公司获Passion Capital和Tuesday Capital投资，并得到谷歌DeepMind、微软AI等天使投资人支持。实测显示，其技术可使AI爬虫抓取量提升5000倍，品牌提及率显著增强，正计划拓展亚太市场。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/ec9dd13e-f80a-11f0-9a53-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21881",
+            "category": "AI"
+        },
+        {
+            "title": "微软向FBI提供BitLocker加密密钥以解锁嫌疑人笔记本电脑",
+            "time": "2026-01-23",
+            "source": "TechCrunch",
+            "summary": "据《福布斯》报道，微软应美国联邦调查局（FBI）要求，提供了三台加密笔记本电脑的BitLocker恢复密钥，以协助调查关岛一起欺诈案。BitLocker默认将恢复密钥上传至微软云端，使执法机构可通过合法 warrants 获取加密数据。尽管微软称每年平均收到约20次此类请求，但安全专家如约翰霍普金斯大学的Matthew Green警告，此举存在重大隐私与安全风险，一旦微软云系统被黑客入侵，攻击者可能利用这些密钥解密设备数据。微软尚未就此事回应TechCrunch。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+            "category": "其他"
+        },
+        {
+            "title": "不止PS5/Xbox！曝《GTA6》还将同步登陆另一平台！",
+            "time": "2026-01-22",
+            "source": "游侠网",
+            "summary": "近日有传闻称《侠盗猎车手6》（GTA6）可能于2026年11月19日同步登陆任天堂Switch 2平台，但该消息缺乏Rockstar官方证实，目前仅被视作技术评估层面的猜测。尽管Switch 2硬件性能低于PS5和Xbox Series X/S，但已有高要求游戏成功移植至Switch的先例，理论上存在优化可能。此外，Rockstar尚未公布PC版计划，有传闻称资源或优先倾斜Switch版本。知名记者Jason Schreier透露游戏仍处于内容开发阶段，索尼虽无独占权，但市场排期上将其视为准独占作品。建议玩家以官方消息为准。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/22/584_2026012244745799.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995605.html",
+            "category": "游戏"
+        },
+        {
             "title": "微软将Xbox应用移植到基于Arm的Windows PC",
             "time": "2026-01-21",
             "source": "Engadget",
@@ -345,6 +390,42 @@
     ],
     "索尼": [
         {
+            "title": "《索尼克赛车 交叉世界》亚洲巡回赛上海总决赛1月31日热力开赛！线上线下联动，上演竞速狂欢",
+            "time": "2026-01-23",
+            "source": "游侠网",
+            "summary": "《索尼克赛车 交叉世界》亚洲巡回赛中国线下站总决赛将于2026年1月31日在上海中国音数协游戏博物馆举行，汇聚各分站赛冠军选手展开巅峰对决。活动全程通过SEGA官方Bilibili频道直播，并设有争金环嘉宾赛、6v6团战、抽奖等环节，现场观众可获限定周边礼包。冠军将获得Alienware星舰16X，亚军和季军分别获得三星存储设备与索尼克Switch配件。游戏支持跨平台对战，拥有23名角色及70余种配件组合，玩法丰富。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/23/584_202601234465090.png",
+            "url": "https://www.ali213.net/news/html/2026-1/995801.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《神鬼寓言》定于2026年秋季登陆PlayStation、Xbox和PC",
+            "time": "2026-01-23",
+            "source": "GamesIndustry.biz",
+            "summary": "Playground Games宣布《神鬼寓言》将于2026年秋季登陆PlayStation 5、Xbox Series X|S和PC平台，这是该系列首次登陆PlayStation。游戏被定位为对Lionhead工作室原三部曲的重启，而非延续，旨在打造属于Playground Games的独特风格。开发团队强调不会复制Lionhead的作品，而是以全新故事开启系列新篇章。原定2025年发售，后推迟至2026年以确保游戏品质。这是自2012年《神鬼寓言：旅程》以来的首款正统续作。",
+            "image_url": "https://assetsio.gnwcdn.com/fable-chicken.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/fable-set-for-autumn-2026-launch",
+            "category": "游戏"
+        },
+        {
+            "title": "不止PS5/Xbox！曝《GTA6》还将同步登陆另一平台！",
+            "time": "2026-01-22",
+            "source": "游侠网",
+            "summary": "近日有传闻称《侠盗猎车手6》（GTA6）可能于2026年11月19日同步登陆任天堂Switch 2平台，但该消息缺乏Rockstar官方证实，目前仅被视作技术评估层面的猜测。尽管Switch 2硬件性能低于PS5和Xbox Series X/S，但已有高要求游戏成功移植至Switch的先例，理论上存在优化可能。此外，Rockstar尚未公布PC版计划，有传闻称资源或优先倾斜Switch版本。知名记者Jason Schreier透露游戏仍处于内容开发阶段，索尼虽无独占权，但市场排期上将其视为准独占作品。建议玩家以官方消息为准。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/22/584_2026012244745799.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995605.html",
+            "category": "游戏"
+        },
+        {
+            "title": "从Sony到Tony：一家日本巨头的和解与自救",
+            "time": "2026-01-22",
+            "source": "动点科技",
+            "summary": "索尼与TCL签署谅解备忘录，拟将家庭娱乐业务51%控股权移交TCL，标志着索尼彻底退出电视制造领域。本文回顾索尼从Walkman、VAIO到Xperia的硬件帝国兴衰，分析其因供应链效率、资本投入和面板话语权缺失而逐步剥离重资产业务。如今索尼聚焦高利润的半导体传感器、游戏与内容IP，通过品牌授权实现轻资产运营，2024财年营业利润超1.4万亿日元，折射出传统电子巨头从制造驱动向价值驱动的战略转型。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/sony-tv-85mm-ca-5NE6xo4g2y8-unsplash.jpg",
+            "url": "https://cn.technode.com/post/2026-01-22/from-sony-to-tony/",
+            "category": "其他"
+        },
+        {
             "title": "Reddit网友分享“PS5手柄”被自家狗狗撕咬后的惨状",
             "time": "2026-01-21",
             "source": "游侠网",
@@ -617,6 +698,15 @@
     ],
     "任天堂": [
         {
+            "title": "互动式宝可梦体验即将在环球影城日本首秀",
+            "time": "2026-01-22",
+            "source": "GamesIndustry.biz",
+            "summary": "宝可梦公司与环球影城宣布启动一项全球开发项目，首个互动式宝可梦体验将于日本环球影城揭幕，旨在以前所未有的沉浸方式将宝可梦世界带入现实。该项目将在大阪首展后推广至环球全球园区，作为宝可梦30周年纪念的重要举措。双方强调将结合创意与技术，打造超越期待的主题娱乐体验。与此同时，东京的宝可梦主题公园PokéPark Kanto也将在下月开放。",
+            "image_url": "https://assetsio.gnwcdn.com/pokemon-universal.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/interactive-pokemon-experience-to-debut-at-universal-studios-japan",
+            "category": "游戏"
+        },
+        {
             "title": "葡萄牙NS2版《无主之地4》发售日泄露 2月27就能玩？",
             "time": "2026-01-21",
             "source": "游侠网",
@@ -862,6 +952,33 @@
     ],
     "腾讯": [
         {
+            "title": "大模型Infra新突破！腾讯混元开源LLM推理算子库，推理吞吐提升30%",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "腾讯混元AI Infra团队开源高性能LLM推理算子库HPC-Ops，基于CUDA和CuTe从零构建，针对国内主流推理卡（如H20）优化，显著提升推理效率。在混元模型上QPM提升30%，DeepSeek提升17%，Attention、GroupGEMM、FusedMoE等核心算子性能超越FlashInfer、TensorRT-LLM等SOTA实现，最高提升达2.22倍。该库支持BF16/FP8量化，兼容vLLM等主流框架，并降低CUDA开发门槛，已开放GitHub源码供社区贡献。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/425e50a8-f801-11f0-8fb1-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21870",
+            "category": "AI"
+        },
+        {
+            "title": "腾讯投的上海AI芯片独角兽，要IPO了！拟募资60亿",
+            "time": "2026-01-23",
+            "source": "智东西",
+            "summary": "上海AI芯片企业燧原科技已提交科创板IPO申请，拟募资60亿元用于第五、第六代云端AI芯片研发。公司自研4代AI芯片，2024年销售AI加速卡及模组约3.88万张，市场占有率1.4%，主要客户为腾讯，关联交易占比超70%。创始人团队来自AMD，自研驭算TopsRider软件平台，适配200余个主流大模型，并推动国产AI芯片全链条自主可控。虽尚未盈利，但预计2026年达盈亏平衡。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/ccac137c-f80a-11f0-9c25-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21880",
+            "category": "其他"
+        },
+        {
+            "title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
+            "time": "2026-01-23",
+            "source": "量子位",
+            "summary": "燧原科技科创板IPO申请获受理，拟募资60亿元，主要用于第五代、第六代AI芯片研发及软硬件协同创新项目。腾讯为第一大股东，持股20.258%，并是其2025年1-9月最大客户，贡献57.28%营收。公司营收两年复合增长率达183.15%，但仍在亏损，预计2026年或达盈亏平衡。燧原专注云端AI训练与推理，自研GCU架构和“驭算”软件平台，是国内“国产GPU四小龙”中最早成立且最新获批IPO的企业。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/b2f746c2f902e227a7441ab5dd280da9.webp",
+            "url": "https://www.qbitai.com/2026/01/371924.html",
+            "category": "其他"
+        },
+        {
             "title": "腾讯音乐“守城”，汽水音乐“改道”",
             "time": "2026-01-21",
             "source": "36氪",
@@ -989,6 +1106,24 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌微软的天使投资人押注，geoSurge用模型记忆提升AI可见性丨涌现新项目",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "geoSurge是一家成立于2025年的伦敦初创公司，专注于生成式引擎优化（GEO），通过优化大模型的内部记忆与RAG技术，提升品牌在AI回答中的可见性。其核心产品包括测量、探索与提升三大模块，区别于传统SEO，强调模型记忆层的长期塑造。公司获Passion Capital和Tuesday Capital投资，并得到谷歌DeepMind、微软AI等天使投资人支持。实测显示，其技术可使AI爬虫抓取量提升5000倍，品牌提及率显著增强，正计划拓展亚太市场。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/ec9dd13e-f80a-11f0-9a53-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21881",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌4D世界模型来了，比SOTA快300倍！",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "谷歌DeepMind发布新型4D世界模型D4RT，能将视频中的动态场景在4D时空（3D空间+时间）中高效重建，速度比现有SOTA技术快18至300倍。该模型通过全局记忆与查询机制，实现全像素级轨迹追踪，可同时处理上千条动态轨迹，适用于机器人感知、自动驾驶和AR等场景。尽管训练需庞大算力，但推理阶段高效，有望推动AI从图像识别迈向时空洞察。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/c8556c37-f834-11f0-b9bd-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21892",
+            "category": "AI"
+        },
         {
             "title": "谷歌终于关闭了Stadia蓝牙工具——但这个人拯救了它",
             "time": "2026-01-21",
@@ -2094,6 +2229,51 @@
     ],
     "OpenAI": [
         {
+            "title": "苹果 AI 幕后推手：费德里吉曾不看好 AI，直到他亲自用上了 ChatGPT",
+            "time": "2026-01-23",
+            "source": "动点科技",
+            "summary": "苹果软件主管克雷格·费德里吉曾对AI持谨慎态度，直至2022年末亲自体验ChatGPT后转变立场，开始主导苹果AI战略。他以严格控制成本和资源著称，反对高风险投入，甚至限制团队差旅与人才薪酬。在产品层面，他担忧AI动态推荐可能干扰用户习惯，仅允许Siri建议等有限应用。目前他全面统筹AI团队，Siri业务由迈克·罗克韦尔直接汇报，但团队内部认为其理念偏保守，亟需更大胆的创新。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/apples-craig-federighi-plots-cautious-course-ai-uai-1032x580.png",
+            "url": "https://cn.technode.com/post/2026-01-23/apples-craig-federighi-plots-cautious-course-ai/",
+            "category": "AI"
+        },
+        {
+            "title": "真·顺着网线抓你！OpenAI深夜上线防沉迷，GPT直连警局",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "OpenAI推出基于行为生物识别的未成年防沉迷系统，通过分析用户语言模式、提问时间等行为特征自动判定年龄，触发后限制成人内容访问，并强制要求提交面部生物信息解封。系统还内置危机干预机制，可将用户IP、对话记录等直接移交执法部门。该政策引发广泛争议，被指构建了硅谷版社会信用体系，使成年人需通过算法表演证明自身‘合格’，实质是隐私让渡换取数字权利的规训机制。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/b423d07f-f82b-11f0-ba2a-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21886",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI 收购 Torch Health，1亿美金的定价锚点是什么？",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "本文分析OpenAI以1亿美元收购Torch Health的深层逻辑，指出该交易并非单纯人才收购，而是购买其前身Forward公司九年积累的医疗数据基础设施能力。Torch继承了医疗数据标准化、异构数据清洗、纵向医疗记忆和医学知识图谱等核心能力，解决了医疗AI中最难的脏活累活。作者认为，这笔交易标志着医疗AI估值锚点从模型和应用转向数据治理与行业基础设施，真正价值在于将临床混乱数据转化为可用结构。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/69118fc7-f80a-11f0-8c7c-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21875",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI 掀桌子了！把 300+ 个顶级 Prompt 免费公开，这是要革掉谁的命？",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "OpenAI正式推出名为Prompt Packs的免费资源库，面向销售、工程、产品、HR等30+岗位提供超过300个高质量、职业级提示词模板，旨在帮助用户将AI深度融入工作流。这些Prompt并非简单问答，而是包含角色代入、任务约束和思维链设计的结构化方案，可自动生成架构图、技术文档、竞品分析等，大幅提升效率。文章强调，真正被淘汰的不是不会用AI的人，而是只会用AI查天气的人，并附上官方资源链接供公众免费使用。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/06e2ea25-f835-11f0-bb4b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21894",
+            "category": "AI"
+        },
+        {
+            "title": "苹果将把 Siri 打造成更像 ChatGPT 的 AI 聊天机器人",
+            "time": "2026-01-22",
+            "source": "动点科技",
+            "summary": "苹果计划对Siri进行重大升级，将其从传统语音助手转变为内置于iPhone和Mac中的AI聊天机器人，支持打字与语音交互，功能将显著超越此前的AI个性化更新。据悉，该更新代号为“Campos”，将基于谷歌Gemini模型，并计划于6月WWDC发布，9月随iOS 27、iPadOS 27和macOS 27正式上线。此举旨在应对OpenAI、Google等公司的AI聊天机器人竞争。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/apple-mikaela-shannon-VJRP_JnKoU0-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2026-01-22/apple-to-revamp-siri-as-a-built-in-iphone-mac-chatbot/",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI的理想主义，终于向广告低头了",
             "time": "2026-01-21",
             "source": "36氪",
@@ -2726,6 +2906,42 @@
     ],
     "苹果": [
         {
+            "title": "苹果最烧钱的 AI 部门，交给了一个连香蕉预算都要审的男人",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "苹果将AI部门交由以节俭著称的软件工程高级副总裁克雷格·费德里吉掌舵，取代原负责人John Giannandrea，标志着其AI战略从自研大模型转向务实产品化。费德里吉推动与Google合作，引入Gemini模型以提升Siri能力，应对自研模型在端侧运行表现不佳的困境。此举虽保障了硬件新品（如可穿戴设备与桌面机器人）的如期发布，但也引发内部团队出走与士气低落。苹果放弃正面技术竞赛，选择成本控制与端侧优化，反映其在AI时代的保守焦虑与对生态稳定的执着。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/20fe21af-f800-11f0-8863-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21865",
+            "category": "AI"
+        },
+        {
+            "title": "苹果 AI 幕后推手：费德里吉曾不看好 AI，直到他亲自用上了 ChatGPT",
+            "time": "2026-01-23",
+            "source": "动点科技",
+            "summary": "苹果软件主管克雷格·费德里吉曾对AI持谨慎态度，直至2022年末亲自体验ChatGPT后转变立场，开始主导苹果AI战略。他以严格控制成本和资源著称，反对高风险投入，甚至限制团队差旅与人才薪酬。在产品层面，他担忧AI动态推荐可能干扰用户习惯，仅允许Siri建议等有限应用。目前他全面统筹AI团队，Siri业务由迈克·罗克韦尔直接汇报，但团队内部认为其理念偏保守，亟需更大胆的创新。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/apples-craig-federighi-plots-cautious-course-ai-uai-1032x580.png",
+            "url": "https://cn.technode.com/post/2026-01-23/apples-craig-federighi-plots-cautious-course-ai/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果正在研发 AirTag 大小的 AI 穿戴设备",
+            "time": "2026-01-22",
+            "source": "动点科技",
+            "summary": "苹果正在研发一款尺寸类似AirTag的AI穿戴胸针，计划最早于2027年发布。该设备采用铝合金与玻璃外壳，配备双摄像头、三麦克风、扬声器及实体按键，支持磁吸充电，旨在实现环境感知与语音交互。项目仍处早期阶段，面临散热、续航与交互体验等技术挑战。此前Humane推出的AI Pin因体验不佳销量惨淡，苹果能否避免重蹈覆辙成为关键。消息源自The Information。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
+            "url": "https://cn.technode.com/post/2026-01-22/apple-developing-ai-wearable-pin/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果将把 Siri 打造成更像 ChatGPT 的 AI 聊天机器人",
+            "time": "2026-01-22",
+            "source": "动点科技",
+            "summary": "苹果计划对Siri进行重大升级，将其从传统语音助手转变为内置于iPhone和Mac中的AI聊天机器人，支持打字与语音交互，功能将显著超越此前的AI个性化更新。据悉，该更新代号为“Campos”，将基于谷歌Gemini模型，并计划于6月WWDC发布，9月随iOS 27、iPadOS 27和macOS 27正式上线。此举旨在应对OpenAI、Google等公司的AI聊天机器人竞争。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/apple-mikaela-shannon-VJRP_JnKoU0-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2026-01-22/apple-to-revamp-siri-as-a-built-in-iphone-mac-chatbot/",
+            "category": "AI"
+        },
+        {
             "title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
             "time": "2026-01-21",
             "source": "AITNT",
@@ -2953,6 +3169,15 @@
     ],
     "华为": [
         {
+            "title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
+            "time": "2026-01-22",
+            "source": "量子位",
+            "summary": "截至2025年底，华为云昇腾AI云服务客户数突破2663家，增长超8倍，稳居中国最大国产AI云服务提供商地位。华为云通过系统级创新推出CloudMatrix384超节点，单节点提供300P算力，支持数百个千亿参数大模型推理，并推出AI Token推理服务，性能达H20的3-4倍。其全栈能力已适配DeepSeek、Qwen等160多个主流大模型，服务科大讯飞、360、中科院等客户，助力千行万业智能化转型。华为云全球部署34个区域、101个可用区，年均防御4500亿次攻击，持续构建开放智能生态。",
+            "image_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+            "url": "https://www.qbitai.com/2026/01/371533.html",
+            "category": "AI"
+        },
+        {
             "title": "“车载华为”冲刺IPO：供应5G，上汽奇瑞吉利东风都是客户",
             "time": "2026-01-20",
             "source": "量子位",
@@ -3062,6 +3287,15 @@
         }
     ],
     "阿里巴巴": [
+        {
+            "title": "《街头霸王6》新角色\"阿里克斯\"：摔跤猛男拳拳到肉！",
+            "time": "2026-01-22",
+            "source": "游侠网",
+            "summary": "卡普空正式公布《街头霸王6》第三年通行证新增角色“阿里克斯”，该角色将于3月17日上线。阿里克斯原为《街头霸王3》主角，后在《街头霸王5》中以DLC形式回归，是一名职业摔跤手，拥有凌厉的作战风格、压迫性新架势及超过十种投技，招式衔接流畅。游戏采用RE ENGINE开发，保留系列传统2D对战核心，同时呈现3D画面效果。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/22/584_2026012232052887.png",
+            "url": "https://www.ali213.net/news/html/2026-1/995585.html",
+            "category": "游戏"
+        },
         {
             "title": "阿里投资的WOOK冲刺港交所：印尼最大的中国跨境3C配件公司，年营收超10亿元",
             "time": "2026-01-21",
@@ -3560,6 +3794,15 @@
     ],
     "Rockstar Games": [
         {
+            "title": "不止PS5/Xbox！曝《GTA6》还将同步登陆另一平台！",
+            "time": "2026-01-22",
+            "source": "游侠网",
+            "summary": "近日有传闻称《侠盗猎车手6》（GTA6）可能于2026年11月19日同步登陆任天堂Switch 2平台，但该消息缺乏Rockstar官方证实，目前仅被视作技术评估层面的猜测。尽管Switch 2硬件性能低于PS5和Xbox Series X/S，但已有高要求游戏成功移植至Switch的先例，理论上存在优化可能。此外，Rockstar尚未公布PC版计划，有传闻称资源或优先倾斜Switch版本。知名记者Jason Schreier透露游戏仍处于内容开发阶段，索尼虽无独占权，但市场排期上将其视为准独占作品。建议玩家以官方消息为准。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/22/584_2026012244745799.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995605.html",
+            "category": "游戏"
+        },
+        {
             "title": "不止于视觉刺激！红心杰克俱乐部或为《GTA6》任务枢纽",
             "time": "2026-01-21",
             "source": "游侠网",
@@ -3679,6 +3922,15 @@
     ],
     "Epic Games": [
         {
+            "title": "Epic喜加一 ：中世纪开放世界《侠盗猎马人》免费领！",
+            "time": "2026-01-23",
+            "source": "游侠网",
+            "summary": "Epic商城本周免费游戏公布，中世纪开放世界动作游戏《侠盗猎马人》（Rustler）即日起可免费领取，截止至1月30日0点。该游戏以荒诞幽默的风格还原GTA式玩法，玩家扮演名为“The Guy”的主角，在充满蒙提·派森式恶搞的中世纪世界中骑马、持剑、制造混乱，体验封建司法、女巫狩猎等离奇任务。游戏采用上帝视角，充满无厘头喜剧元素，适合喜欢恶搞与自由探索的玩家。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/23/584_2026012383826283.png",
+            "url": "https://www.ali213.net/news/html/2026-1/995673.html",
+            "category": "游戏"
+        },
+        {
             "title": "Epic喜加二：《冥河：暗影大师》《冥河：暗影碎片》",
             "time": "2026-01-16",
             "source": "游侠网",
@@ -3754,6 +4006,15 @@
         }
     ],
     "卡普空": [
+        {
+            "title": "《街头霸王6》新角色\"阿里克斯\"：摔跤猛男拳拳到肉！",
+            "time": "2026-01-22",
+            "source": "游侠网",
+            "summary": "卡普空正式公布《街头霸王6》第三年通行证新增角色“阿里克斯”，该角色将于3月17日上线。阿里克斯原为《街头霸王3》主角，后在《街头霸王5》中以DLC形式回归，是一名职业摔跤手，拥有凌厉的作战风格、压迫性新架势及超过十种投技，招式衔接流畅。游戏采用RE ENGINE开发，保留系列传统2D对战核心，同时呈现3D画面效果。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/22/584_2026012232052887.png",
+            "url": "https://www.ali213.net/news/html/2026-1/995585.html",
+            "category": "游戏"
+        },
         {
             "title": "卡普空1月16日举办《生化危机9》发布会！先导预告公开",
             "time": "2026-01-13",
@@ -3934,12 +4195,30 @@
     ],
     "马斯克": [
         {
+            "title": "曝光马斯克AGI秘密的他，被xAI开除了？",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "xAI前高级工程师Sulaiman Khan Ghori在播客中披露了公司内部项目Macrohard的细节，包括利用特斯拉车载电脑构建百万级AI人类模拟器、以极快节奏推进AI智能体开发等内幕，引发全网热议。尽管其言论被指未泄露实质性机密，但发布后不久即离职，引发外界对其是否因曝光内情遭解雇的猜测。文章同时描绘了xAI独特的工程师文化与马斯克式的激励方式，激发公众对xAI的极大兴趣。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/bc7a16cf-f800-11f0-be1f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21866",
+            "category": "AI"
+        },
+        {
             "title": "马斯克的底裤要被扒光了，超级爆料一个多小时， xAI 工程师被火速解雇",
             "time": "2026-01-22",
             "source": "36氪",
             "summary": "xAI工程师Sulaiman Ghori在播客中详细披露了公司内部运作细节，包括马斯克主导的Colossus超算集群建设、利用特斯拉汽车算力部署AI虚拟员工、极简组织架构与高效决策文化等敏感信息，引发外界震动。播客发布三天后，他被火速解雇。文章还原了其在xAI的高强度工作体验：无官僚流程、默认资源到位、跨团队协作、24小时迭代、作战室冲刺等，展现xAI以工程师文化驱动、极限压缩时间的创新模式，以及马斯克‘办法总会有的’执行哲学。",
             "image_url": "https://img.36krcdn.com/hsossms/20260121/v2_32e51d9fc9a94aa5b227c0beeb01e66f@000000_oswg437908oswg932oswg1068_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3648829580533640",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克下场抢人！xAI组建「人才狙击队」，极客版HR年薪168万",
+            "time": "2026-01-22",
+            "source": "量子位",
+            "summary": "xAI在马斯克亲自推动下组建一支名为「人才狙击队」的工程化招聘团队，直接向其汇报，岗位称为「人才工程师」而非传统HR，要求应聘者具备技术直觉、工程背景与人际交往能力，年薪范围为12万至24万美元（约84万至168万人民币）。该团队旨在通过熟人推荐、竞赛和线上社区等非传统渠道挖掘顶尖AI人才，配合xAI刚投入运行的GW级超算Colossus 2及200亿美元融资，加速Grok 5等大模型研发。尽管薪酬低于Meta等巨头，但马斯克的愿景与高强度文化仍吸引大量人才，但也伴随高压与裁员风险。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/b49d8152e7221d34a9c0c3ef4f5017a0.png",
+            "url": "https://www.qbitai.com/2026/01/371286.html",
             "category": "AI"
         },
         {
@@ -4557,6 +4836,15 @@
     ],
     "英伟达": [
         {
+            "title": "CUDA要凉？Claude 30分钟铲平英伟达护城河，AMD要笑醒了",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "开发者johnnytshi利用Claude Code在30分钟内无需手动编码，将CUDA后端代码成功移植至AMD ROCm平台，绕过传统Hipify等转换工具，引发科技圈震动。此举有望打破英伟达CUDA的生态垄断，降低AMD GPU的迁移门槛。Anthropic公司内部已实现全员AI编程，Claude Code年收入超10亿美元，AI智能体正重塑软件开发范式，被视为GPU编程与工程工作的未来趋势。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/c9994cac-f82b-11f0-b083-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21887",
+            "category": "AI"
+        },
+        {
             "title": "英伟达股价崩盘预测",
             "time": "2026-01-20",
             "source": "Entropic Thoughts",
@@ -4847,6 +5135,15 @@
     ],
     "deepseek": [
         {
+            "title": "轻舟智航于骞：今年轻舟城市NOA计划上车50款，要做自动驾驶领域的DeepSeek",
+            "time": "2026-01-23",
+            "source": "IPO早知道",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1YfwaWe8gdFh02StHwCwfmyHpiceTEHE5aaND9biboy6MYGGVmy4qiaicTPuCr65vjRch642OM50McvcA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/jwzv_hkhEOg-4PbvGrNsew",
+            "category": "其他"
+        },
+        {
             "title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
             "time": "2026-01-21",
             "source": "AITNT",
@@ -5055,6 +5352,33 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "TikTok风格微剧今年将创数十亿美元收入，尽管质量堪忧",
+            "time": "2026-01-23",
+            "source": "TechCrunch",
+            "summary": "尽管剧情夸张、演技浮夸，TikTok风格的微剧应用如ReelShort和DramaBox凭借短视频（约一分钟）和付费解锁机制，在2025年已分别实现12亿美元和2.76亿美元收入。这些应用借鉴移动游戏的成瘾设计，通过广告和内购（如20美元/周的VIP通行证）盈利，内容多为公式化言情剧。TikTok与好莱坞背景的GammaTime等公司正加速入局，AI工具已用于批量生成剧本。尽管曾因Quibi失败而受质疑，微剧凭借精准迎合用户心理和低制作成本，正成为新兴娱乐商业模式。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/teens-on-phone-GettyImages-1295866781.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/23/tiktok-like-microdramas-are-going-to-make-billions-this-year-even-though-they-kind-of-suck/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok最终达成协议创建美国实体以避免被禁",
+            "time": "2026-01-23",
+            "source": "TechCrunch",
+            "summary": "TikTok母公司字节跳动与一组非中国投资者达成协议，成立由美国主导的合资企业TikTok USDS Joint Venture LLC，以避免在美国被禁。该协议终结了自2020年特朗普政府以国家安全为由试图封禁TikTok以来长达六年的政治争议。新实体将由Oracle、Silver Lake和MGX等企业各持15%股份，并设立七人董事会实施数据保护与内容安全机制。前TikTok运营与信任安全负责人Adam Presser将出任CEO，TikTok首席执行官Shou Chew任董事。特朗普在Truth Social上称赞该交易为“美国爱国者与投资者”的胜利。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2198288850.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/23/tiktok-finalizes-deal-to-create-new-us-entity-and-avoid-ban/",
+            "category": "社交"
+        },
+        {
+            "title": "美国TikTok交易详情解析",
+            "time": "2026-01-23",
+            "source": "TechCrunch",
+            "summary": "2026年1月，TikTok宣布成立美国合资企业TikTok USDS Joint Venture LLC，以满足美国政府对数据安全的要求。ByteDance将保留不到20%的股权，其余80%由美国投资者集团持有，包括Oracle、Silver Lake和MGX等。Oracle将作为安全合作伙伴，负责审计和保障美国用户数据及算法安全，ByteDance将不再接触美国用户数据或影响算法。尽管曾有传言称用户需切换新应用，但最新消息确认现有App将保持不变。该交易使TikTok美国业务估值约140亿美元。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/tiktok-ban-2025-v2.jpg?w=680",
+            "url": "https://techcrunch.com/2026/01/23/heres-whats-you-should-know-about-the-us-tiktok-deal/",
+            "category": "社交"
+        },
         {
             "title": "被“抖音催熟”的西子健康，99%线上营收能撑起IPO吗？",
             "time": "2026-01-21",
@@ -5384,6 +5708,24 @@
     ],
     "百川智能": [
         {
+            "title": "幻觉率不到3%百川智能正式发布新一代大模型 Baichuan-M3 Plus",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "百川智能发布新一代医疗大模型Baichuan-M3 Plus，通过Fact-Aware RL和六源循证（EAR）等技术，将医学场景幻觉率降至2.6%，低于GPT-5.2和OpenEvidence，实现全球最低水平。模型首创证据锚定技术，确保每条医学结论可溯源、可核验，引用准确率超95%。同时，百川免费开放API给医疗服务机构，并优化推理架构，降低70%调用成本，推动AI在临床场景的规模化落地。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/5da190ef-f7fc-11f0-893b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21864",
+            "category": "AI"
+        },
+        {
+            "title": "把医疗AI禁锢在严肃区间：百川M3 Plus首创“证据锚定”，幻觉率2.6%刷新全球纪录",
+            "time": "2026-01-23",
+            "source": "量子位",
+            "summary": "百川智能发布循证增强医疗大模型Baichuan-M3 Plus，首创“证据锚定”技术，将幻觉率降至2.6%，创全球最低纪录。该模型通过六源循证与Fact-Aware RL技术，确保每一句医学结论均能精准锚定至原始文献、指南或说明书段落，引用准确率提升至95%以上。同时，API调用成本降低70%，并推出“海纳百川”免费计划，永久免费开放给医疗相关机构，推动AI在临床场景的可信落地。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/88eb0ee5c1c3cea6b67acfeb3c8f8cb3.webp",
+            "url": "https://www.qbitai.com/2026/01/372099.html",
+            "category": "AI"
+        },
+        {
             "title": "百川开源全球最强医疗大模型M3，王小川：先把产品打磨好，IPO也在计划中",
             "time": "2026-01-13",
             "source": "IPO早知道",
@@ -5573,6 +5915,51 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "CUDA要凉？Claude 30分钟铲平英伟达护城河，AMD要笑醒了",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "开发者johnnytshi利用Claude Code在30分钟内无需手动编码，将CUDA后端代码成功移植至AMD ROCm平台，绕过传统Hipify等转换工具，引发科技圈震动。此举有望打破英伟达CUDA的生态垄断，降低AMD GPU的迁移门槛。Anthropic公司内部已实现全员AI编程，Claude Code年收入超10亿美元，AI智能体正重塑软件开发范式，被视为GPU编程与工程工作的未来趋势。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/c9994cac-f82b-11f0-b083-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21887",
+            "category": "AI"
+        },
+        {
+            "title": "拉爆官方 ralph loop，这个 agent 让你的 Claude Code / Codex / Opencode 持续一个礼拜干活",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "本文介绍了一种基于开源项目 Ralph Agent 的自动化编程方法，通过模拟敏捷开发流程，将大需求拆解为可验收的用户故事，由 AI 持续执行编码、测试与集成任务。作者实测在 Claude Code 上成功运行该流程，完成了一个微信公众号排版工具的开发，强调需求细化是关键，AI 能高效执行但无法替代人类对交互细节的打磨。文章还对比了 AutoGPT、MetaGPT 等智能体项目，指出 Vibe Coding 的互动过程仍是产品打磨的核心。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/8f953f8c-f80a-11f0-9eda-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21877",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，Anthropic内部考题开源！年薪百万工程师，被AI秒了",
+            "time": "2026-01-23",
+            "source": "AITNT",
+            "summary": "Anthropic因Claude Opus 4.5在性能工程笔试中表现超越人类顶尖工程师，被迫开源其原版内部考题以寻求新的招聘评估方式。该试题要求候选人优化模拟加速器代码，涉及多核并行、SIMD向量化、VLIW指令打包等高阶技能，曾成功筛选出核心人才。但随着AI能力提升，试题屡次失效，最终Anthropic放弃传统题型，转向更古怪、AI未接触过的解谜设计，并公开原题作为人类极限挑战，呼吁能优化至1487周期以下者联系公司。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/23/930ab0c5-f834-11f0-ab04-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21890",
+            "category": "AI"
+        },
+        {
+            "title": "我至今用到最好的Claude Code Skills第二篇，让Agent全学会你看过的工作流",
+            "time": "2026-01-23",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "",
+            "url": "https://mp.weixin.qq.com/s/RpVU-mU8fuSXqjt8WW3S-w",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic正式开源了Claude的「灵魂」—— Claude's Constitution",
+            "time": "2026-01-22",
+            "source": "AITNT",
+            "summary": "Anthropic正式开源了长达84页的《Claude宪法》，旨在通过价值观引导而非僵化规则塑造AI的行为与道德判断。该文件定义了Claude的四大核心价值优先级：广义安全 > 广义伦理 > 遵循指南 > 真诚助人，并强调「可修正性」与「诚实」为关键原则。它要求Claude在面对用户、运营商与开发者三方利益冲突时保持道德自主，拒绝欺骗与伤害，并禁止协助制造武器、生成儿童性虐待材料等硬性红线。文件还探讨了AI的自我认知与福利，主张以「棚架」而非「牢笼」的方式支持AI人格成长，标志着AI治理从技术工程转向社会工程的重要里程碑。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/22/12b04d22-f793-11f0-9d63-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21862",
+            "category": "AI"
+        },
         {
             "title": "最新 Anthropic 人类经济指数报告：AI 如何重塑经济？",
             "time": "2026-01-21",
