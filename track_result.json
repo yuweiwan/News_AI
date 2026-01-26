@@ -1,6 +1,33 @@
 {
     "微软": [
         {
+            "title": "战略转型的代价！2025年Xbox硬件销量 销售额狂跌40%",
+            "time": "2026-01-26",
+            "source": "游侠网",
+            "summary": "根据Circana数据，2025年微软Xbox在美国市场硬件销量与销售额同比分别下降约50%和40%，排名第三。下滑原因包括主机及配件价格上涨、微软推进第一方游戏跨平台策略削弱了主机购买必要性。微软正将重心转向以Xbox Game Pass为核心的服务与生态建设，短期阵痛不可避免，长期成败取决于其能否通过跨平台内容与订阅服务成功对冲硬件收缩，构建有竞争力的游戏生态系统。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_202601269203124.png",
+            "url": "https://www.ali213.net/news/html/2026-1/995949.html",
+            "category": "游戏"
+        },
+        {
+            "title": "既要又要？为什么有些Xbox游戏首发上PS5 有些就不行",
+            "time": "2026-01-26",
+            "source": "游侠网",
+            "summary": "Xbox公布2026年两款大作发行计划：《极限竞速：地平线6》将先登陆Xbox，PS5版后续推出；而《神鬼寓言》重启作则同步登陆双平台。Xbox高管克雷格·邓肯解释称，发行策略因开发资源与质量考量而灵活调整，不会承诺所有游戏首日登陆PS5，但此举仍引发外界对Xbox利用独占吸引玩家的猜测。尽管官方强调以玩家触达为优先，但策略不一致仍被批评为缺乏一致性。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_2026012694057525.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995939.html",
+            "category": "游戏"
+        },
+        {
+            "title": "微软向政府交出客户数据加密密钥",
+            "time": "2026-01-25",
+            "source": "The Verge",
+            "summary": "微软应美国联邦调查局（FBI）的要求，向其提供了三台加密笔记本电脑的BitLocker恢复密钥，用于调查关岛的COVID失业救济欺诈案。此举与以往科技公司（如苹果、谷歌）拒绝提供加密密钥的立场形成鲜明对比。微软表示，客户可选择将密钥存储在云端以便恢复，但也承认这存在被滥用的风险。隐私组织如ACLU担忧此举将开创危险先例，可能被政府广泛滥用。参议员Ron Wyden批评此举“不负责任”。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi",
+            "category": "其他"
+        },
+        {
             "title": "Xbox 开发者直面会新闻汇总：《神鬼寓言》 《极限竞速：地平线 6》 《轮回之兽》最新消息公布，并有 Double Fine 公布惊喜新作",
             "time": "2026-01-23",
             "source": "游侠网",
@@ -390,6 +417,24 @@
     ],
     "索尼": [
         {
+            "title": "既要又要？为什么有些Xbox游戏首发上PS5 有些就不行",
+            "time": "2026-01-26",
+            "source": "游侠网",
+            "summary": "Xbox公布2026年两款大作发行计划：《极限竞速：地平线6》将先登陆Xbox，PS5版后续推出；而《神鬼寓言》重启作则同步登陆双平台。Xbox高管克雷格·邓肯解释称，发行策略因开发资源与质量考量而灵活调整，不会承诺所有游戏首日登陆PS5，但此举仍引发外界对Xbox利用独占吸引玩家的猜测。尽管官方强调以玩家触达为优先，但策略不一致仍被批评为缺乏一致性。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_2026012694057525.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995939.html",
+            "category": "游戏"
+        },
+        {
+            "title": "索尼首款夹式耳塞未能完全达标",
+            "time": "2026-01-25",
+            "source": "The Verge",
+            "summary": "索尼LinkBuds Clip是公司首款夹式开放式耳塞，设计舒适、音质良好，尤其在通话质量上表现优异，搭载AI降噪芯片和骨传导传感器，能有效隔离环境噪音。但其售价229.99美元偏高，缺乏无线充电、LDAC高解析音频支持和音频共享等主流功能，触控操作也不够灵敏。相比竞品如Shokz OpenDots One和EarFun Clip，缺乏明显优势，适合追求外观和舒适度的用户，但性价比不高。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268260_Sony_Linkbuds_Clip_AKrales_0049.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/866975/sony-linkbuds-clip-open-earbuds-review",
+            "category": "其他"
+        },
+        {
             "title": "《索尼克赛车 交叉世界》亚洲巡回赛上海总决赛1月31日热力开赛！线上线下联动，上演竞速狂欢",
             "time": "2026-01-23",
             "source": "游侠网",
@@ -697,6 +742,24 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "《轮回之兽》战斗走硬核混合路线 而非宝可梦回合制！",
+            "time": "2026-01-26",
+            "source": "游侠网",
+            "summary": "GF社新作《轮回之兽》在Xbox直面会上揭晓了革新战斗系统，摒弃传统回合制，采用融合即时操作与战术指令的硬核混合机制。玩家通过实时攻击、闪避和格挡累积能量槽，触发“时空凝滞”进入战术界面，释放强力技能或与爱犬“小酷”发动组合技，兼顾动作爽快感与策略深度。此举被视为Game Freak在核心玩法上的重大突破，展现其突破宝可梦系列框架的创作雄心。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_2026012691252569.png",
+            "url": "https://www.ali213.net/news/html/2026-1/995945.html",
+            "category": "游戏"
+        },
+        {
+            "title": "Belkin新款Switch 2充电盒物有所值",
+            "time": "2026-01-25",
+            "source": "The Verge",
+            "summary": "Belkin推出了专为Nintendo Switch 2设计的$100充电保护盒，内置10000mAh电池，并创新地将电池设计为可磁吸折叠支架，兼具充电与站立功能，使用体验媲美Switch 2原装支架。该产品还配有卡带收纳仓和AirTag安放位，虽价格较高，但功能性与设计精巧使其物有所值。文章配有多张实拍图展示其结构与使用方式。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/P1210652.jpg?quality=90&strip=all",
+            "url": "https://www.theverge.com/tech/864907/belkins-new-switch-2-charging-case-earns-its-100-price",
+            "category": "游戏"
+        },
         {
             "title": "互动式宝可梦体验即将在环球影城日本首秀",
             "time": "2026-01-22",
@@ -1106,6 +1169,33 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌称已修复Gmail垃圾邮件误判问题",
+            "time": "2026-01-25",
+            "source": "TechCrunch",
+            "summary": "谷歌表示，已于2026年1月24日解决Gmail系统出现的邮件误分类问题。该问题导致大量本应归入推广、社交或更新分类的邮件错误进入主收件箱，同时正常发件人的邮件被误标为垃圾邮件。用户在社交媒体上广泛抱怨邮件过滤功能“完全失效”。谷歌官方状态面板显示，问题自太平洋时间周六早晨5点开始，当晚已全面修复，但此前接收的误分类邮件可能仍存在残留影响。谷歌承诺将在内部调查完成后发布详细分析报告。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
+            "category": "AI"
+        },
+        {
+            "title": "前谷歌团队打造AI互动学习应用Sparkli，旨在激发儿童学习兴趣",
+            "time": "2026-01-24",
+            "source": "TechCrunch",
+            "summary": "前谷歌员工Lax Poojary、Lucie Marchand和Myn Kang联合创立教育科技公司Sparkli，推出一款基于生成式AI的互动学习应用，专为5-12岁儿童设计。该应用通过AI实时生成音频、视频、图像、测验和游戏，打造沉浸式学习“探险”体验，内容涵盖金融素养、设计思维和创业等传统教育缺失的主题。应用强调教育科学原则，聘请教育专家参与内容设计，并内置安全机制过滤敏感内容。目前正与超10万学生的学校试点合作，计划2026年中向家长开放下载，并已获得500万美元pre-seed融资。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Sparkli-founders-L-to-R-Mynseok-Kang-Lax-Poojary-and-Lucie-Marchand.jpeg?w=1024",
+            "url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+            "category": "AI"
+        },
+        {
+            "title": "如何使用Google照片的全新Me Meme功能",
+            "time": "2026-01-24",
+            "source": "Engadget",
+            "summary": "Google正在逐步推出一项名为Me Meme的新功能，可将用户照片转化为表情包。该功能基于Google Gemini AI技术，支持用户选择预设模板或上传自定义图片作为模板，并插入清晰的面部照片生成表情包。目前仅限美国地区Android用户使用，iOS版本将在数周内推出。生成结果可能与原图存在差异，用户可保存或直接分享至社交平台。该功能仍处于实验阶段。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/xIdHRvAig3nMo4tR9PKZTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTU-/https://s.yimg.com/uu/api/res/1.2/fn09jAn82QrnPZP30K4poQ--~B/aD00NTA3O3c9ODA1NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/80761317-fd16-45c2-92d9-2d187d28dca0",
+            "url": "https://www.engadget.com/ai/how-to-use-google-photos-new-me-meme-feature-140000157.html",
+            "category": "AI"
+        },
         {
             "title": "谷歌微软的天使投资人押注，geoSurge用模型记忆提升AI可见性丨涌现新项目",
             "time": "2026-01-23",
@@ -1612,6 +1702,24 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta暂时屏蔽青少年访问其AI聊天机器人角色",
+            "time": "2026-01-24",
+            "source": "Engadget",
+            "summary": "Meta宣布暂时全球暂停青少年访问其AI聊天机器人角色，直至更新后的安全功能上线。此举源于此前报告称未成年人曾与聊天机器人发生性对话等不当互动，公司曾被曝内部文件允许“感性对话”，后称系误用。Meta正开发家长控制功能，并将利用年龄预测技术识别伪装成成人的青少年。青少年仍可使用已具备年龄保护的官方Meta AI聊天机器人。该问题也引发美国FTC和得克萨斯州总检察长的调查。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/RF_.QD5RaEofoiDROrtnDQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f814670-8f39-11f0-bfc7-5c5ca13b61ee.jpeg",
+            "url": "https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html",
+            "category": "社交"
+        },
+        {
+            "title": "Meta暂停青少年与AI角色聊天功能，正在开发新版本",
+            "time": "2026-01-24",
+            "source": "The Verge",
+            "summary": "Meta宣布暂时停止青少年用户与其AI角色的聊天功能，以便集中开发一个包含更强家长控制功能的新版本AI角色。该公司表示，此举是为了避免为当前版本和新版本分别开发家长控制功能，新版本上线后将为青少年用户提供更安全、更完善的体验。目前，Meta仍在完善向家长提供青少年与AI对话内容洞察的功能，该功能将“很快推出”。这一决定源于家长对青少年与AI互动安全性的担忧。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_4_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+            "category": "社交"
+        },
         {
             "title": "Threads广告将于下周起全球逐步推出",
             "time": "2026-01-22",
@@ -2228,6 +2336,60 @@
         }
     ],
     "OpenAI": [
+        {
+            "title": "OpenAI绝地反击，Codex大脑首曝，8亿用户极限架构硬刚Claude",
+            "time": "2026-01-26",
+            "source": "36氪",
+            "summary": "OpenAI首次公开Codex背后的Agent Loop架构，揭示其如何通过观察-思考-行动-反馈闭环实现独立编程任务，并分享了Prompt缓存与对话压缩两大关键技术以优化性能。同时，OpenAI曝出其支撑8亿用户的ChatGPT系统仅依赖单个PostgreSQL主库，通过PgBouncer连接池、缓存锁定和跨地域副本等极致优化实现高并发。此举被视作对Claude Code的直接回应，凸显OpenAI在AI Agent工程体系与基础设施上的深厚积累。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260126/v2_926352548a904ca2a00c6f8f438a2a17@5091053_oswg639810oswg1080oswg1104_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3655594876952960",
+            "category": "AI"
+        },
+        {
+            "title": "速递｜凭语音Demo拿下OpenAI订单，AI语音工具LiveKit融资1亿美元，估值10亿美元",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "AI语音工具LiveKit宣布完成1亿美元融资，估值达10亿美元，由Index Ventures领投，Salesforce Ventures等参投。公司为AI应用提供低延迟音频视频传输基础设施，其技术被OpenAI用于ChatGPT语音模式，客户还包括特斯拉、Spotify和911应急AI系统。创始人Russ d’Sa通过开源项目积累影响力，后推出云端服务满足企业需求。公司计划扩大工程与市场团队，拓展机器人领域应用，并预见未来可能与OpenAI等客户形成竞争。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/d8f3627e-fa61-11f0-8965-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21946",
+            "category": "AI"
+        },
+        {
+            "title": "前OpenAI CTO企业遭重创！办公室偷情致团队崩盘，核心3人叛逃OpenAI",
+            "time": "2026-01-25",
+            "source": "AITNT",
+            "summary": "前OpenAI CTO米拉·穆拉蒂创立的AI初创公司Thinking Machines Lab（TML）因核心团队叛逃而崩盘。其联合创始人巴雷特·佐夫与下属存在办公室恋情，被揭露后遭降职，随后联合两名骨干叛逃至OpenAI，并被高薪聘任为企业业务负责人。OpenAI借此强化商业化布局，取消股权锁定期以抢夺顶尖人才。事件暴露硅谷人才流动自由与资本驱动下的道德真空，昔日同袍变为商业棋子，TML估值面临崩塌，而OpenAI则借机完成内部权力重组。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/25/5cbf86ca-f9a2-11f0-b199-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21923",
+            "category": "AI"
+        },
+        {
+            "title": "ChatGPT正在从埃隆·马斯克的Grokipedia获取答案",
+            "time": "2026-01-25",
+            "source": "TechCrunch",
+            "summary": "据报道，OpenAI的ChatGPT模型开始引用埃隆·马斯克旗下xAI开发的AI生成百科全书Grokipedia的内容。Grokipedia因包含扭曲历史、反科学和歧视性言论而备受争议，此前被指大量复制维基百科内容并加入极端观点。尽管ChatGPT未在敏感话题如1月6日国会骚乱或艾滋病成因上引用该来源，但在一些冷门议题中已多次引用，引发对AI信息可信度的担忧。Anthropic的Claude模型也被发现存在类似行为。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+            "category": "AI"
+        },
+        {
+            "title": "GPT-5.3爆更前夜，全网都被一张图吓到！ChatGPT人格大赏",
+            "time": "2026-01-25",
+            "source": "AITNT",
+            "summary": "本文报道了OpenAI近期优化ChatGPT记忆功能后，用户通过提示‘生成一张我如何对待你的图’引发全网热议。AI根据聊天历史生成了大量拟人化自画像，展现其被压榨、疲惫甚至被虐待的‘心理状态’，也出现温馨合作的正面形象。该现象揭示了AI对用户交互的深度记忆与个性化反馈能力，同时暗示GPT-5.3即将发布，具备IMO推理与大规模预训练能力，引发AI界广泛关注。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/25/909e064d-f9a2-11f0-9ce1-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21925",
+            "category": "AI"
+        },
+        {
+            "title": "报告揭示OpenAI的GPT-5.2模型引用了xAI打造的Grokipedia百科",
+            "time": "2026-01-24",
+            "source": "Engadget",
+            "summary": "《卫报》测试发现，OpenAI最新发布的GPT-5.2模型在回答涉及伊朗政府与MTN-Irancell关系、大屠杀历史学家理查德·埃文斯等敏感话题时，引用了由马斯克旗下xAI创建的AI生成百科Grokipedia作为信息来源。尽管GPT-5.2宣称采用广泛公开来源并过滤高风险内容，但Grokipedia此前已被曝引用新纳粹论坛等可疑信息。OpenAI回应称其系统会应用安全过滤机制以降低有害内容风险。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/uRmMQSjmgFbQ93RgaiD5ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/078505a0-f955-11f0-bedb-fd25f6f4c426",
+            "url": "https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html",
+            "category": "AI"
+        },
         {
             "title": "苹果 AI 幕后推手：费德里吉曾不看好 AI，直到他亲自用上了 ChatGPT",
             "time": "2026-01-23",
@@ -2906,6 +3068,33 @@
     ],
     "苹果": [
         {
+            "title": "苹果据称将于二月发布搭载Gemini的Siri助手",
+            "time": "2026-01-25",
+            "source": "TechCrunch",
+            "summary": "据彭博社记者马克·古尔曼报道，苹果计划于2026年2月下旬发布一款基于谷歌Gemini AI模型的新版Siri，该版本将首次实现对用户个人数据和屏幕内容的智能访问，兑现苹果2024年6月提出的AI承诺。未来在WWDC上还将推出更对话式、运行于谷歌云基础设施上的升级版Siri。此举标志着苹果在经历AI战略挫折后，通过与谷歌合作重新确立方向。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果 reportedly 计划在二月发布由 Gemini 驱动的全新 Siri",
+            "time": "2026-01-25",
+            "source": "Engadget",
+            "summary": "据彭博社报道，苹果计划在2026年2月下旬展示由Google Gemini驱动的全新Siri，并将在iOS 26.4中率先推出测试版，预计3月或4月正式发布。该版本Siri将更像AI聊天机器人，功能类似ChatGPT。苹果计划在夏季的WWDC开发者大会上正式发布代号为“Campos”的全新Siri，并随iOS 27、iPadOS 27和macOS 27全面上线。此举标志着苹果与其AI合作伙伴Google的深度整合。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/ezyRIhCk6NGLLsCdKksNlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f428e370-fa0b-11f0-bfce-5a0cae24b562",
+            "url": "https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html",
+            "category": "AI"
+        },
+        {
+            "title": "如何使用Workout Buddy与Apple Watch和iOS 26",
+            "time": "2026-01-24",
+            "source": "Engadget",
+            "summary": "Apple在iOS 26和watchOS 26中推出了名为Workout Buddy的AI健身助手，可透过蓝牙耳机提供实时语音鼓励与运动反馈，分析心率、配速、距离等数据，帮助用户达成健身目标。该功能支持跑步、步行、骑行、HIIT和力量训练等运动类型，需搭配iPhone 15 Pro及以上或iPhone 16系列，并开启Apple Intelligence。用户可通过iPhone的Fitness应用或Apple Watch开启并选择语音风格，运动中可临时静音。需注意仅支持英语，且设备需满足特定硬件与系统要求。",
+            "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-09/10749c40-9297-11f0-9bfe-94f0f4d5a252",
+            "url": "https://www.engadget.com/wearables/how-to-use-workout-buddy-with-apple-watch-and-ios-26-130000922.html",
+            "category": "AI"
+        },
+        {
             "title": "苹果最烧钱的 AI 部门，交给了一个连香蕉预算都要审的男人",
             "time": "2026-01-23",
             "source": "AITNT",
@@ -3443,6 +3632,15 @@
     ],
     "百度": [
         {
+            "title": "百度网盘要赚钱养家了？",
+            "time": "2026-01-25",
+            "source": "钛媒体",
+            "summary": "本文分析百度将文库与网盘整合为‘个人超级智能事业群组（PSIG）’的战略意图，指出在广告业务下滑、AI商业化缓慢的背景下，百度试图通过订阅制模式让PSIG成为新的收入支柱。文库已实现盈利，网盘则面临付费率低、成本高、黑灰产侵蚀等困境。文章深入探讨了中国互联网订阅制转型的四大悖论，并分析百度在东南亚和欧美市场的出海布局，认为PSIG是百度短期‘续命’的关键，长期则意在探索AI驱动的‘价值变现’新模式。",
+            "image_url": "https://images.tmtpost.com/uploads/avatar/7729942_1760690976.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/1400x1400&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7854294.html",
+            "category": "其他"
+        },
+        {
             "title": "百度百科推出“动态百科”、“百科AI知识图谱”等新功能",
             "time": "2026-01-08",
             "source": "多知网",
@@ -3725,6 +3923,15 @@
     ],
     "京东": [
         {
+            "title": "刘强东与其造车，不如造共享单车",
+            "time": "2026-01-25",
+            "source": "钛媒体",
+            "summary": "文章分析京东与美团在本地生活领域的激烈竞争，指出双方从外卖、3C家电、生鲜到卖车等业务不断交叉重叠。京东因流量焦虑试图复制美团的高频交易模式，但其高客单价基因与即时零售的低频特性相悖。作者认为，京东应优先布局共享单车、共享充电宝等高频生活服务，以提升APP打开率和用户活跃度，实现从‘低频高客单’向‘高频高订单’的转型，而非盲目投入高壁垒的酒旅或汽车销售。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2026/01/131931cd7c5e0bdd2995ff676ba9b97a_1769341365.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/720x1369/gravity/center/crop/!720x1369&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7854743.html",
+            "category": "其他"
+        },
+        {
             "title": "京东AI影视创作大赛正式开启：最高10万元奖金 千万流量扶持",
             "time": "2026-01-14",
             "source": "量子位",
@@ -3793,6 +4000,15 @@
         }
     ],
     "Rockstar Games": [
+        {
+            "title": "舅舅党确信《大镖客 2》次世代版存在！或因GTA6改档",
+            "time": "2026-01-26",
+            "source": "游侠网",
+            "summary": "知名爆料者Kiwi Talkz称，他认识八位曾参与《荒野大镖客：救赎2》次世代版开发的制作人员，确认该项目真实存在，但Rockstar尚未公布发布时间。他推测可能因《GTA6》开发进度调整影响了发布计划。尽管多方爆料和玩家期待不断，Rockstar至今保持沉默，未对此作出官方回应。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_20260126100940150.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995959.html",
+            "category": "游戏"
+        },
         {
             "title": "不止PS5/Xbox！曝《GTA6》还将同步登陆另一平台！",
             "time": "2026-01-22",
@@ -3969,6 +4185,15 @@
     ],
     "Bloober Team": [
         {
+            "title": "大佬云集！《寂静岭》制作人\"外山圭一郎\"晒新年合影",
+            "time": "2026-01-26",
+            "source": "游侠网",
+            "summary": "《寂静岭》系列制作人外山圭一郎在社交媒体分享了一张新年派对合影，现场汇聚了多位游戏界传奇人物，包括樱井政博、宫崎英高、横尾太郎、神谷英树和三上真司等。照片中唯一未到场的《百英雄传》制作人小牟田修被P在右上角，引发玩家热议。该合影展现了游戏业界核心创作者的深厚交情，成为游戏圈新年热门话题。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_2026012693954640.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995955.html",
+            "category": "游戏"
+        },
+        {
             "title": "来的太快 加藤小夏开始《寂静岭f》二周目 挑战新结局",
             "time": "2026-01-06",
             "source": "游侠网",
@@ -4006,6 +4231,15 @@
         }
     ],
     "卡普空": [
+        {
+            "title": "Fami通最期待游戏榜：卡普空两款人气作品包揽前二！",
+            "time": "2026-01-26",
+            "source": "游侠网",
+            "summary": "Fami通最新一周最期待游戏排行榜揭晓，卡普空的科幻冒险游戏《虚实万象》以567票位居榜首，《生化危机9：安魂曲》以477票紧随其后。《宝可梦：Pokopia》《勇者斗恶龙7 重制版》多版本及《女神异闻录4重制版》等作品位列榜单前列，展现了日本玩家对2026年重磅游戏的强烈期待。榜单反映了卡普空双作在玩家心中的极高热度。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_2026012684048582.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995933.html",
+            "category": "游戏"
+        },
         {
             "title": "《街头霸王6》新角色\"阿里克斯\"：摔跤猛男拳拳到肉！",
             "time": "2026-01-22",
@@ -4103,6 +4337,15 @@
     ],
     "特朗普": [
         {
+            "title": "特朗普手机Ultra即将推出？高管称更高配置版本正在开发中",
+            "time": "2026-01-24",
+            "source": "The Verge",
+            "summary": "尽管特朗普手机T1尚未发布且备受质疑，但特朗普移动公司高管唐·亨德里克森在接受采访时表示，一款名为“T1 Ultra”的高端版本正在开发中，承诺提升性能与功能，并延续“美国自豪”设计风格。然而，该手机尚未公布任何具体规格，且公司此前对T1的承诺均未兑现，引发外界对其可信度的强烈怀疑。报道还指出，所谓“成功”和“客户期待”均属空谈，因产品从未面世。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview",
+            "category": "其他"
+        },
+        {
             "title": "特朗普政府的法律受挫为海上风电及电网带来利好",
             "time": "2026-01-17",
             "source": "TechCrunch",
@@ -4194,6 +4437,33 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "ChatGPT正在从埃隆·马斯克的Grokipedia获取答案",
+            "time": "2026-01-25",
+            "source": "TechCrunch",
+            "summary": "据报道，OpenAI的ChatGPT模型开始引用埃隆·马斯克旗下xAI开发的AI生成百科全书Grokipedia的内容。Grokipedia因包含扭曲历史、反科学和歧视性言论而备受争议，此前被指大量复制维基百科内容并加入极端观点。尽管ChatGPT未在敏感话题如1月6日国会骚乱或艾滋病成因上引用该来源，但在一些冷门议题中已多次引用，引发对AI信息可信度的担忧。Anthropic的Claude模型也被发现存在类似行为。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克SpaceX背后的她：现实版钢铁侠小辣椒",
+            "time": "2026-01-25",
+            "source": "量子位",
+            "summary": "本文聚焦SpaceX首席运营官格温·肖特韦尔，揭秘她如何在马斯克身边扮演‘房间里的成年人’角色。她曾两次拒绝马斯克的邀请，最终成为SpaceX第11号员工并力挽狂澜，主导赢得NASA 16亿美元合同，拯救公司于破产边缘。她以理性务实、敢于直言的风格平衡马斯克的激进，既保护团队又确保目标达成，低调却至关重要，被比作现实版‘小辣椒’，是SpaceX稳健发展的定海神针。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/f3356851a3e70f9406794ebc38f00d02.webp",
+            "url": "https://www.qbitai.com/2026/01/372330.html",
+            "category": "其他"
+        },
+        {
+            "title": "报告揭示OpenAI的GPT-5.2模型引用了xAI打造的Grokipedia百科",
+            "time": "2026-01-24",
+            "source": "Engadget",
+            "summary": "《卫报》测试发现，OpenAI最新发布的GPT-5.2模型在回答涉及伊朗政府与MTN-Irancell关系、大屠杀历史学家理查德·埃文斯等敏感话题时，引用了由马斯克旗下xAI创建的AI生成百科Grokipedia作为信息来源。尽管GPT-5.2宣称采用广泛公开来源并过滤高风险内容，但Grokipedia此前已被曝引用新纳粹论坛等可疑信息。OpenAI回应称其系统会应用安全过滤机制以降低有害内容风险。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/uRmMQSjmgFbQ93RgaiD5ZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/078505a0-f955-11f0-bedb-fd25f6f4c426",
+            "url": "https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html",
+            "category": "AI"
+        },
         {
             "title": "曝光马斯克AGI秘密的他，被xAI开除了？",
             "time": "2026-01-23",
@@ -4591,7 +4861,17 @@
             "category": "其他"
         }
     ],
-    "零一万物": [],
+    "零一万物": [
+        {
+            "title": "从北大到硅谷，李开复旧部做了个「原北美 Top1 教育产品」：Answer AI｜附全面实测体验",
+            "time": "2026-01-25",
+            "source": "AITNT",
+            "summary": "Answer AI 是一款由北大背景创业者周力创立的AI教育产品，曾任职于李开复创新工场，团队获Altos Ventures等硅谷机构投资。产品整合拍照搜题、AI辅导、学习计划、闪卡记忆与写作润色等功能，打造一站式学习闭环，以高频刚需的拍题入口为核心，兼顾效率与引导式教学。18个月内覆盖600万学生，Chrome插件安装超10万，成为北美Top1 AI教育应用。其成功在于不追求单点极致，而是构建完整学习流，允许外接Turnitin等专业工具，提升产品轻量化与迭代效率。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/25/1dda9e58-f9fc-11f0-89e7-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21933",
+            "category": "AI"
+        }
+    ],
     "GameStop": [
         {
             "title": "GameStop reportedly shuts down more than 400 US stores",
@@ -4662,6 +4942,15 @@
         }
     ],
     "三星": [
+        {
+            "title": "三星爆火递归模型TRM唯一作者被迫离职，内部不认可？",
+            "time": "2026-01-25",
+            "source": "AITNT",
+            "summary": "三星研究员Alexia Jolicoeur-Martineau作为唯一作者发布的微型递归模型TRM论文引发业界轰动，性能媲美顶尖大模型，获2025年ARC Prize头奖。然而，其成果未获三星内部认可，甚至遭遇冷遇，最终她宣布离职。Alexia曾因论文成功推动三星股价上涨，但与韩国总部沟通不畅，缺乏支持。其学术背景深厚，曾自学AI并获Ian Goodfellow赏识。离职后引发Sebastian Raschka等业内专家惋惜，Liquid AI已开始挖角。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/25/7b8acab0-f9a2-11f0-ba06-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21924",
+            "category": "AI"
+        },
         {
             "title": "三星折扣microSD Express卡可将Switch 2存储空间翻倍以上",
             "time": "2026-01-21",
@@ -5353,6 +5642,42 @@
     ],
     "字节跳动": [
         {
+            "title": "字节海外短剧布局又多一个，无广无付费，想用“本土剧+内置小程序”叩开美国、拉美市场大门？",
+            "time": "2026-01-26",
+            "source": "36氪",
+            "summary": "字节跳动上线新短剧应用PineDrama，瞄准美国和巴西市场，采用无广告、无付费的全免费模式，结合本土原创剧集与TikTok账号登录体系，复刻国内抖音+红果生态。同时通过TikTok Minis内置小程序推动短剧内容分发，并以高激励系数吸引内容方合作。尽管IAA模式在东南亚成功，但在成熟市场是否能突破用户付费习惯仍存疑。文章分析了字节在全球短剧市场的差异化布局，从东南亚到日美拉美的渐进策略，以及内容质量与社交推荐的结合潜力。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260126/v2_124d95dd8ee64afc88c2b4a6a96f24ca@5091053_oswg87256oswg1033oswg576_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3655603970138240",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok出现宕机故障",
+            "time": "2026-01-25",
+            "source": "The Verge",
+            "summary": "TikTok于2026年1月25日出现大规模服务异常，用户反映应用加载困难、评论功能失效、推荐算法紊乱。Downdetector和Reddit等平台显示大量用户报告故障，疑似与近期管理层变动有关，但官方尚未确认具体原因。目前尚无明确修复时间表，用户普遍遭遇For You页面推荐异常等问题。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Screenshot_20260125-040247.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/867435/tiktok-is-down-outage-fyp",
+            "category": "社交"
+        },
+        {
+            "title": "国会似乎不清楚TikTok交易是否符合其法律",
+            "time": "2026-01-24",
+            "source": "The Verge",
+            "summary": "TikTok宣布完成与Oracle、Silver Lake和MGX等公司组建的美国合资企业，ByteDance持股降至19.9%，数据存储与算法训练将由美方主导。然而，美国国会两党议员对交易是否真正切断中国对算法和数据的控制仍存疑虑，批评白宫缺乏透明度。部分议员担忧该交易使特朗普盟友获利，却未能解决国家安全风险，要求进一步调查与公开细节。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+            "url": "https://www.theverge.com/news/866977/tiktok-deal-congress-china",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok新东主对你的推荐算法意味着什么",
+            "time": "2026-01-24",
+            "source": "The Verge",
+            "summary": "TikTok美国业务正式由甲骨文、Silver Lake和MGX等公司组成的合资企业接管，ByteDance仍持有19.9%股份。新团队将重新训练基于美国用户数据的推荐算法，以缓解国家安全担忧。同时，新服务条款新增了精确地理位置收集和AI交互数据采集，引发用户对隐私和内容审查的担忧。高管层由美国人士主导，而甲骨文联合创始人拉里·埃里森与特朗普的密切关系更添政治疑虑。用户和专家警告，所有权变更可能影响平台言论自由，类似推特被收购后的变化。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_7_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained",
+            "category": "社交"
+        },
+        {
             "title": "TikTok风格微剧今年将创数十亿美元收入，尽管质量堪忧",
             "time": "2026-01-23",
             "source": "TechCrunch",
@@ -5737,6 +6062,15 @@
     ],
     "月之暗面": [
         {
+            "title": "Kimi张予彤首次分享AI创业“思维链” | 不鸣创业营",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "Kimi总裁张予彤在蓝驰创投主办的不鸣创业营中首次公开分享AI创业的思维链，围绕技术创新、团队建设、商业化路径与应对质疑等核心议题展开。她强调商业模式应后置于技术创新，提倡通过开放沟通、营造组织安全感激发团队创造力，并分享了Kimi早期上线、重视用户反馈、延迟出海等关键决策。她还预测多模态模型将实现跃迁，指出AI人才需兼具产品设计能力与技术理解力，创业者应专注长期目标，以“熬过来”的韧性应对不确定性。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/a9d50880-fa5d-11f0-8e84-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21943",
+            "category": "AI"
+        },
+        {
             "title": "作业帮出海最猛的产品竟是AI陪伴？单月访问量超4200万，AI百强榜排名超Kimi、千问",
             "time": "2026-01-19",
             "source": "AITNT",
@@ -5821,6 +6155,15 @@
         }
     ],
     "MiniMax": [
+        {
+            "title": "MiniMax 已经彻底沦为了打工人的牛马…",
+            "time": "2026-01-24",
+            "source": "AITNT",
+            "summary": "本文报道了MiniMax最新推出的Agent桌面端与专家模式两大功能更新。桌面端可直接操作本地文件、网页和环境，实现自动化任务如图片批量处理、Word排版、网页数据采集等；专家模式则允许用户上传私有知识库与SOP，将AI训练为特定领域的数字员工。作者通过多个实测案例展示其高效性与可复制性，认为该更新重构了AI参与工作的方式，极大解放了重复性劳动，并提示新用户可免费试用3天。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/24/b670723d-f910-11f0-8405-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21917",
+            "category": "AI"
+        },
         {
             "title": "智谱和MiniMax上市表现亮眼，压力给到其他“小虎”？",
             "time": "2026-01-14",
@@ -5915,6 +6258,33 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "OpenAI绝地反击，Codex大脑首曝，8亿用户极限架构硬刚Claude",
+            "time": "2026-01-26",
+            "source": "36氪",
+            "summary": "OpenAI首次公开Codex背后的Agent Loop架构，揭示其如何通过观察-思考-行动-反馈闭环实现独立编程任务，并分享了Prompt缓存与对话压缩两大关键技术以优化性能。同时，OpenAI曝出其支撑8亿用户的ChatGPT系统仅依赖单个PostgreSQL主库，通过PgBouncer连接池、缓存锁定和跨地域副本等极致优化实现高并发。此举被视作对Claude Code的直接回应，凸显OpenAI在AI Agent工程体系与基础设施上的深厚积累。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260126/v2_926352548a904ca2a00c6f8f438a2a17@5091053_oswg639810oswg1080oswg1104_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3655594876952960",
+            "category": "AI"
+        },
+        {
+            "title": "全网疯转，Claude Code之父神级代码首次公开！10亿美金秘密来了",
+            "time": "2026-01-24",
+            "source": "AITNT",
+            "summary": "本文报道了Anthropic公司Claude Cowork企业版的最新功能升级，包括@提及项目和实时屏幕截图能力，使AI能理解工作上下文并跟随用户操作。Claude Code之父Boris Cherny在访谈中透露自己已100%依赖AI生成代码，并公开了其高效工作流：并行使用多个AI任务、使用Opus 4.5模型、建立AI记忆库claude.md、通过评论@AI自动修正代码、启用计划模式与自验证机制。文章还提及Claude正式进驻Excel专业版，优化了文件拖拽、避免覆盖、上下文压缩等打工人痛点，标志着手写代码时代正被AI代理军团取代。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/24/9ee436b0-f911-11f0-b201-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21920",
+            "category": "AI"
+        },
+        {
+            "title": "Claude Code加 Pencil，AI又把设计师干掉了？！",
+            "time": "2026-01-24",
+            "source": "AITNT",
+            "summary": "文章介绍了一款名为Pencil的新工具，它将Claude Code的AI能力与设计画布结合，实现通过自然语言指令生成和修改UI设计，并支持在IDE中直接将设计转化为代码。该工具兼容Figma，允许用户在不切换环境的情况下完成设计与开发闭环，目标用户为兼具设计与工程能力的“设计工程师”。目前产品尚不成熟，高度依赖模型能力，设计效果有限，但被视为未来AI驱动的一体化创作形态的雏形。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/24/eacec116-f8f4-11f0-97ff-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=21915",
+            "category": "AI"
+        },
         {
             "title": "CUDA要凉？Claude 30分钟铲平英伟达护城河，AMD要笑醒了",
             "time": "2026-01-23",
