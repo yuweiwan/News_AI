@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "Xbox老大盛赞《神鬼寓言》新作动态人口系统:很震撼!",
+            "time": "2026-01-27",
+            "source": "游侠网",
+            "summary": "Xbox游戏工作室负责人克雷格·邓肯在专访中高度评价《神鬼寓言》重启作，称其RPG品质达到全新高度，尤其赞赏创新的“动态人口系统”——驱动约1000名NPC构建真实互动生态，令他感叹“令人震撼”。他指出开发团队Playground Games延续了《极限竞速：地平线》的匠人精神，以现代技术重构经典RPG内核，预言本作将带来非凡的沉浸式体验。游戏计划于2026年秋季登陆Xbox及PC平台，引发玩家广泛期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/27/584_20260127100600819.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996095.html",
+            "category": "游戏"
+        },
+        {
             "title": "战略转型的代价！2025年Xbox硬件销量 销售额狂跌40%",
             "time": "2026-01-26",
             "source": "游侠网",
@@ -17,6 +26,24 @@
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/26/584_2026012694057525.jpg",
             "url": "https://www.ali213.net/news/html/2026-1/995939.html",
             "category": "游戏"
+        },
+        {
+            "title": "微软发布专为AI推理设计的强劲新芯片Maia 200",
+            "time": "2026-01-26",
+            "source": "TechCrunch",
+            "summary": "微软发布了专为AI推理优化的全新芯片Maia 200，搭载超1000亿个晶体管，提供超过10 petaflops的4位精度性能和约5 petaflops的8位性能，显著超越前代产品Maia 100。该芯片旨在降低AI模型运行成本，提升能效，并已用于Copilot等内部AI服务。微软还将其与亚马逊Trainium和谷歌TPU对比，宣称在FP4和FP8性能上均占优势，同时开放SDK供开发者和研究机构使用，进一步推动自研芯片生态，减少对NVIDIA的依赖。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Maia200-Hero-Image.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+            "category": "AI"
+        },
+        {
+            "title": "微软发布第二个紧急Windows 11更新以修复Outlook崩溃问题",
+            "time": "2026-01-26",
+            "source": "Engadget",
+            "summary": "微软再次发布紧急补丁，修复因1月安全更新导致的Windows 11用户Outlook崩溃问题。该补丁解决云存储文件（如OneDrive中的PST文件）打开或保存时应用无响应或报错的故障，是今年第二次为同一安全更新发布紧急修复。此次更新为累积性补丁，安装后即可解决此前问题，无需重复更新。微软通常仅在严重故障无法等待常规更新周期时才发布此类出带外更新。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/TxuoKcnG.APpFoAdyn8r3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04OTE-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/6b459a70-fa1b-11f0-9bbc-f746844105b6",
+            "url": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html",
+            "category": "其他"
         },
         {
             "title": "微软向政府交出客户数据加密密钥",
@@ -416,6 +443,15 @@
         }
     ],
     "索尼": [
+        {
+            "title": "《生化危机9》PS5有专属强化：从撕咬感到子弹上膛声",
+            "time": "2026-01-27",
+            "source": "游侠网",
+            "summary": "《生化危机9：安魂曲》总监中西晃史在接受PlayStation.Blog采访时表示，游戏充分利用PS5与PS5 Pro的硬件特性提升沉浸感，包括DualSense手柄的触觉反馈模拟丧尸撕咬、自适应扳机模拟不同枪械阻力、手柄扬声器播放上弹音效等；音效方面采用12声道垂直空间录音，增强环境临场感；PS5 Pro版本支持开启或关闭光线追踪，在4K 60帧与120帧间灵活切换，兼顾画质与流畅度。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/27/584_2026012784730585.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/996091.html",
+            "category": "游戏"
+        },
         {
             "title": "既要又要？为什么有些Xbox游戏首发上PS5 有些就不行",
             "time": "2026-01-26",
@@ -1015,6 +1051,78 @@
     ],
     "腾讯": [
         {
+            "title": "腾讯需要一场胜利",
+            "time": "2026-01-27",
+            "source": "钛媒体",
+            "summary": "文章分析腾讯在大模型竞争中的战略转型，指出其通过元宝App发放10亿现金红包、推出AI社交功能“元宝派”、马化腾亲自督战等方式，试图复制微信红包的成功，打破在AI赛道的被动局面。文章指出腾讯依赖外部模型（如DeepSeek）的困境，以及整合内部AI团队、强化生态融合的努力，并强调腾讯需在AI时代完成自我革新，以赢得下一个十年的主动权。",
+            "image_url": "https://images.tmtpost.com/uploads/avatar/6028583_1768579528.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x1400&ext=.png",
+            "url": "https://www.tmtpost.com/7856563.html",
+            "category": "社交"
+        },
+        {
+            "title": "腾讯终于开始发力，这次还能后来居上吗",
+            "time": "2026-01-27",
+            "source": "36氪",
+            "summary": "文章分析腾讯在AI赛道的滞后表现，指出其AI产品元宝用户规模远低于字节豆包和阿里千问，面临垂直AI玩家和创业军团的双重挤压。为扭转局面，腾讯斥资10亿补贴红包推广元宝，并高薪引进前OpenAI研究员姚顺雨，但专家认为短期补贴难以形成粘性，技术与生态协同才是破局关键。文章呼吁腾讯明确战略定位，打通微信流量与AI产品联动，真正实现从流量优势到技术优势的转化。",
+            "image_url": "https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png",
+            "url": "https://36kr.com/p/3656442449092998",
+            "category": "AI"
+        },
+        {
+            "title": "腾讯重构AI的1000天",
+            "time": "2026-01-27",
+            "source": "36氪",
+            "summary": "本文梳理了腾讯近三年在AI领域的战略转型，从早期组织分散、混元大模型发展滞后，到2025年通过挖角姚顺雨等AI大牛、重组TEG与CSIG部门、集中资源打造AI Infra体系，加速追赶AI赛道。腾讯重点布局C端AI助手“元宝”及Agent方向，内测“元宝派”社交功能，并试图将AI深度融入微信生态。尽管在大语言模型上仍落后于字节、阿里，但通过组织重构与人才加码，腾讯正试图在AI时代实现翻身。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260127/v2_e85059838a36413194dc838b99795ff6@5091053_oswg911487oswg1080oswg1548_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3657023959015811",
+            "category": "AI"
+        },
+        {
+            "title": "Clawdbot爆火，我看到了腾讯元宝的通天路",
+            "time": "2026-01-27",
+            "source": "36氪",
+            "summary": "文章分析了开源AI助手Clawdbot为何在短时间内爆火，其核心在于将AI嵌入日常通讯工具（如WhatsApp、Telegram），实现无需切换应用的本地化智能操作，并通过会话隔离保障安全。作者认为，腾讯元宝若能类似地接入微信生态，利用其支付、小程序与社交关系链，可打造更强大的个人AI助手，但需解决隐私信任、开放生态与商业模式三大挑战。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260127/v2_a1179b9de53e43e0973966173dcb5abf@6119835_oswg610557oswg1080oswg532_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3657099142951424",
+            "category": "AI"
+        },
+        {
+            "title": "又是偷家时刻，腾讯 AI 上群聊 “王炸”，豆包会危吗？",
+            "time": "2026-01-27",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHkbxrRKaOrUyTqON2odpbw4aickko7ju6AficQwoW9JRgVViaicshX2NEEOTcBmWFbPB7eMRUEm7x5ibw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/2gCT4IO55XZciQFi3mMIuw",
+            "category": "其他"
+        },
+        {
+            "title": "「元宝派」开启腾讯社交实验：当 AI 混进人类「群聊」",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "腾讯旗下AI助手元宝上线内测功能「元宝派」，尝试将AI融入微信、QQ等社交群聊中，扮演气氛组、监督员与共创伙伴角色。用户可邀请好友入群，AI能总结聊天、发起打卡、生成梗图，并接入腾讯会议音视频能力支持「一起看」「一起听」。该功能旨在打破AI使用孤岛，推动AI从工具转向社交关系中的「硅基群友」，并计划春节投入10亿红包推动用户习惯迁移，探索AI在真实社交场景中的基础设施化可能。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/c298e9c1-faa3-11f0-a017-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21974",
+            "category": "社交"
+        },
+        {
+            "title": "腾讯发力社交AI赛道，元宝开启“元宝派”内测",
+            "time": "2026-01-26",
+            "source": "量子位",
+            "summary": "腾讯旗下AI助手元宝低调开启“元宝派”内测，探索AI在多人社交场景中的深度融合。用户可创建或加入“派”，让元宝AI担任监督员，总结聊天、发起打卡活动，并支持图片二创生成梗图。后续将接入腾讯会议音视频能力，实现“一起看”“一起听”等同步娱乐功能。元宝派打通微信、QQ，支持一键邀请，同时腾讯宣布在元宝APP派发10亿现金红包，彰显其在AI社交赛道的坚定投入，试图突破传统Chatbot的工具属性，构建人机共生的社交新形态。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/0c0649b50b39246fc1541fce75376d7c.jpeg",
+            "url": "https://www.qbitai.com/2026/01/372540.html",
+            "category": "社交"
+        },
+        {
+            "title": "AI三国杀，腾讯上“王炸”了！",
+            "time": "2026-01-26",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHkbxrRKaOrUyTqON2odpbw4aickko7ju6AficQwoW9JRgVViaicshX2NEEOTcBmWFbPB7eMRUEm7x5ibw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/dyNGih0CDBxXTGfRhZ0NTw",
+            "category": "其他"
+        },
+        {
             "title": "大模型Infra新突破！腾讯混元开源LLM推理算子库，推理吞吐提升30%",
             "time": "2026-01-23",
             "source": "AITNT",
@@ -1170,6 +1278,42 @@
     ],
     "谷歌": [
         {
+            "title": "DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "谷歌与芝加哥大学等机构的研究发现，DeepSeek-R1等推理模型的高性能并非仅因计算步数增加，而是源于其内部模拟了多智能体交互的「思维社会」结构。模型在推理中会自发产生角色对话、观点冲突、视角切换与整合等类社交行为，类似人类群体智慧的协作机制。实验表明，通过强化对话式行为（如惊讶、质疑、调和）可显著提升推理准确率，甚至翻倍。该研究为AI推理提供了新范式：结构化多样性比单纯延长思考时间更有效。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/fa32f647-fa84-11f0-baf5-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21969",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌同意支付6800万美元和解语音助手隐私诉讼",
+            "time": "2026-01-26",
+            "source": "Engadget",
+            "summary": "谷歌同意支付6800万美元和解一起集体诉讼，原告指控其语音助手Google Assistant在误听用户对话后，将不应获取的私人信息用于推送定向广告。尽管谷歌否认有过错，但为避免诉讼风险和成本达成和解。此案与2019年苹果Siri隐私诉讼类似，后者最终以9500万美元和解。目前谷歌正逐步用Gemini替代Google Assistant，但AI助手的隐私问题仍受关注。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/0BOmni7BlPcECoEb6AixCQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-01/52b8424d-7c46-4b26-956d-d1338144c52a",
+            "url": "https://www.engadget.com/big-tech/google-agrees-to-68-million-settlement-in-voice-assistant-privacy-lawsuit-222405727.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌推出新Gemini功能，智能安排会议时间",
+            "time": "2026-01-26",
+            "source": "Engadget",
+            "summary": "谷歌正在为Google Workspace付费用户推出一项基于Gemini的智能会议安排功能，可自动分析与会者日历并推荐最佳会议时间。该功能仅适用于Business、Enterprise计划及教育版AI Pro用户，需拥有对与会者日历的访问权限。用户可在创建会议时选择“建议时间”，若多人拒绝，系统还会提供全员可用的新时段以快速重排。该功能已在快速发布域上线，预计2月2日起逐步推广至计划发布域。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/jUdhfG14xfJFu_fMRXjo6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/s.gfJct1qk4sL79h_9kWzg--~B/aD01NTA0O3c9ODI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/b1c992da-05ca-4485-80ce-207c1cf9317d",
+            "url": "https://www.engadget.com/ai/google-aims-to-take-the-sting-out-of-scheduling-meetings-with-a-new-gemini-feature-204853761.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌支付6800万美元和解语音助手窃听用户指控",
+            "time": "2026-01-26",
+            "source": "TechCrunch",
+            "summary": "谷歌同意支付6800万美元和解一起集体诉讼，该诉讼指控其语音助手Google Assistant在未经用户同意的情况下，通过“误激活”机制录制并传输用户的私人对话，用于定向广告等商业目的。谷歌在和解中未承认 wrongdoing。诉讼聚焦于设备在无唤醒词情况下误触发录音的问题，类似事件此前也曾发生在苹果Siri上。此事件再次引发公众对智能设备隐私安全的担忧。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+            "category": "AI"
+        },
+        {
             "title": "谷歌称已修复Gmail垃圾邮件误判问题",
             "time": "2026-01-25",
             "source": "TechCrunch",
@@ -1177,6 +1321,15 @@
             "image_url": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?w=1024",
             "url": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
             "category": "AI"
+        },
+        {
+            "title": "谷歌称已修复导致收件箱泛滥和垃圾邮件警告增加的Gmail问题",
+            "time": "2026-01-25",
+            "source": "Engadget",
+            "summary": "谷歌于周六晚间确认，此前导致Gmail用户收件箱被促销邮件淹没、垃圾邮件警告频发的自动过滤系统故障已全面修复。受影响用户报告主收件箱出现未分类邮件、未扫描垃圾邮件的警告提示，部分用户还遭遇消息延迟，影响双因素认证登录。谷歌在Workspace状态面板中表示正在调查事件原因，并将发布完整分析报告，同时提醒用户对未知发件人保持警惕。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/Ehk12Ss_eKhCJ4XA7ng9wQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gmail2.jpg",
+            "url": "https://www.engadget.com/apps/google-says-its-working-to-fix-gmail-issue-thats-led-to-flooded-inboxes-and-increased-spam-warnings-183358654.html",
+            "category": "其他"
         },
         {
             "title": "前谷歌团队打造AI互动学习应用Sparkli，旨在激发儿童学习兴趣",
@@ -1702,6 +1855,24 @@
         }
     ],
     "Meta": [
+        {
+            "title": "Meta计划在Instagram、Facebook和WhatsApp上测试高级订阅服务",
+            "time": "2026-01-26",
+            "source": "TechCrunch",
+            "summary": "Meta计划在Instagram、Facebook和WhatsApp上推出新的付费订阅服务，为用户提供专属功能，如无限观众列表、查看非关注者列表、匿名浏览故事等，同时保留核心功能免费。订阅还将整合其收购的AI代理Manus和AI视频生成工具Vibes，提供增强的AI创作能力。该服务将区别于现有的Meta Verified，面向更广泛的普通用户群体，而非仅限创作者和企业。Meta将通过用户反馈逐步调整订阅策略，以应对日益严重的订阅疲劳问题。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/",
+            "category": "社交"
+        },
+        {
+            "title": "VR专家称Meta的收缩在短期内令人担忧",
+            "time": "2026-01-26",
+            "source": "GamesIndustry.biz",
+            "summary": "VR行业专家对Meta关闭三家VR工作室并削减Reality Labs部门员工的决定表示担忧，认为其商业目标与游戏开发者的利益不一致。Meta追求的是类似iPhone的市场规模，而非任天堂Switch那样的游戏主机生态，而其平台占据VR收入的70%-80%，因此其战略调整对开发者影响重大。尽管短期前景堪忧，专家们仍对长期持乐观态度，指出Google、Valve等公司正在开发新一代VR设备，且VR在青少年群体中已有深厚市场渗透，VR游戏“太酷了，不会消亡”。",
+            "image_url": "https://assetsio.gnwcdn.com/zuckquest3.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/vr-experts-say-that-metas-pullback-concerning-in-the-short-term",
+            "category": "其他"
+        },
         {
             "title": "Meta暂时屏蔽青少年访问其AI聊天机器人角色",
             "time": "2026-01-24",
@@ -2272,6 +2443,15 @@
     ],
     "YouTube": [
         {
+            "title": "YouTuber起诉Snap在训练AI模型时侵犯版权",
+            "time": "2026-01-26",
+            "source": "TechCrunch",
+            "summary": "一群YouTube内容创作者起诉Snap公司未经许可使用其视频内容训练AI模型，特别是用于其“Imagine Lens”功能。原告称Snap非法利用了为学术研究设计的HD-VILA-100M等数据集，绕过了YouTube的使用限制。此案是继针对NVIDIA、Meta和字节跳动之后的又一类似诉讼，目前正寻求法定赔偿和永久禁令。诉讼由拥有550万订阅者的h3h3频道主导，反映了AI行业与内容创作者之间日益加剧的版权争议。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/evan-spiegel.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+            "category": "AI"
+        },
+        {
             "title": "YouTube将允许创作者使用自己的AI形象制作短视频",
             "time": "2026-01-21",
             "source": "TechCrunch",
@@ -2337,6 +2517,15 @@
     ],
     "OpenAI": [
         {
+            "title": "机器人ChatGPT时刻将至：全球首个具身智能数据工厂诞生！",
+            "time": "2026-01-27",
+            "source": "AITNT",
+            "summary": "OpenAI悄然建成全球首个具身智能数据工厂，通过近百名工人在旧金山办公楼中持续采集机械臂执行折衣、抓取等基础动作的数据，构建可规模化、工业化生产的训练样本。此举绕开人形机器人形态竞争，聚焦底层数据基础设施建设，类比当年Scale AI对大模型数据的掌控，旨在为机器人智能建立可泛化的动作学习接口。行业竞争正从算法与硬件转向数据产能，具身智能由此进入工业化阶段。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/27/2b997a93-fb21-11f0-b0e5-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21978",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI绝地反击，Codex大脑首曝，8亿用户极限架构硬刚Claude",
             "time": "2026-01-26",
             "source": "36氪",
@@ -2352,6 +2541,33 @@
             "summary": "AI语音工具LiveKit宣布完成1亿美元融资，估值达10亿美元，由Index Ventures领投，Salesforce Ventures等参投。公司为AI应用提供低延迟音频视频传输基础设施，其技术被OpenAI用于ChatGPT语音模式，客户还包括特斯拉、Spotify和911应急AI系统。创始人Russ d’Sa通过开源项目积累影响力，后推出云端服务满足企业需求。公司计划扩大工程与市场团队，拓展机器人领域应用，并预见未来可能与OpenAI等客户形成竞争。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/26/d8f3627e-fa61-11f0-8965-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=21946",
+            "category": "AI"
+        },
+        {
+            "title": "“DeepSeek-V3基于我们的架构打造”，欧版OpenAI CEO逆天发言被喷了",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "欧洲AI公司Mistral CEO Arthur Mensch声称DeepSeek-V3基于其提出的MoE架构，引发网友激烈反驳。事实上，DeepSeek-V3与Mistral的MoE模型发布时间仅差3天，且在专家设计、路由机制和知识解耦上存在显著算法创新，而非简单复用。更有证据显示Mistral 3 Large反向借鉴了DeepSeek-V3架构。网友批评Mistral试图“岁月史书”抹杀中国团队的原创贡献，这场技术话语权之争凸显了开源AI领域日益激烈的竞争。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/0ee4bb88-fa85-11f0-8fbc-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21970",
+            "category": "AI"
+        },
+        {
+            "title": "再见，人类程序员！OpenAI自曝：一行代码都不写了，100%用Codex",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "OpenAI研究员Roon爆料，其代码编写工作已100%由Codex完成，人类程序员或已退出核心开发流程。Codex不仅在三天内搭建服务器、三周推出Sora安卓应用，还上线了Plan模式，实现意图理解与技术规划分离，大幅提升开发效率。与此同时，AI生成代码的审查难题浮现，人类面临注意力过载与隐蔽性代码风险。文章指出，编程正从‘写代码’转向‘指挥AI写代码’，开发者需重构核心价值，而非仅做代码搬运工。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/dc18608d-fa84-11f0-b15f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21968",
+            "category": "AI"
+        },
+        {
+            "title": "ChatGPT容器现在可以运行bash、安装pip/npm包并下载文件",
+            "time": "2026-01-26",
+            "source": "Simon Willison’s Weblog",
+            "summary": "Simon Willison 揭露了ChatGPT代码解释器的重大升级：现在支持直接运行Bash命令，可执行JavaScript、Ruby、Go、Java等10余种编程语言，并能通过自定义代理安装pip和npm包。新增的container.download工具允许从公网下载文件至隔离容器中，但受安全限制，仅允许访问用户显式浏览过的URL，防止数据外泄。该功能显著增强AI的自主编程与数据处理能力，但官方尚未发布相关文档。",
+            "image_url": "https://static.simonwillison.net/static/2026/container-download.jpg",
+            "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
             "category": "AI"
         },
         {
@@ -3068,6 +3284,51 @@
     ],
     "苹果": [
         {
+            "title": "苹果上新 AirTag，扬声器更响、查找范围更远",
+            "time": "2026-01-27",
+            "source": "动点科技",
+            "summary": "苹果近日发布新一代AirTag，主要升级包括采用iPhone 17同款第二代超宽带芯片，使查找范围提升最高50%，并支持通过Apple Watch Series 9及Ultra 2等新款设备进行精确查找。同时，扬声器音量较前代提升50%，可在更远距离听到提示音。新品单件售价249元，四件装849元，现已上市销售。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/10/apple-mikaela-shannon-VJRP_JnKoU0-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2026-01-27/apple-introduces-new-airtag/",
+            "category": "其他"
+        },
+        {
+            "title": "寻找AirTag替代品？这些蓝牙追踪器适合苹果和安卓用户",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "本文介绍了适用于苹果和安卓混合家庭的蓝牙追踪器替代方案，重点推荐了Pebblebee Clip 5，因其同时支持Apple的Find My和Google的Find Hub网络，提升了跨平台查找设备的实用性。文章还引导读者参考其完整的蓝牙追踪器购买指南，涵盖多种主流产品，并提醒读者通过Verge链接购买可能获得佣金。内容聚焦于实用购物建议，而非单纯产品评测。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/257621_Bluetooth_trackers_guide_CVirginia2.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/868155/apple-airtag-tile-pebblebee-clip-5-bluetooth-tracker-guide",
+            "category": "其他"
+        },
+        {
+            "title": "苹果奢华AirPods Max降至历史最低价之一",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "苹果的高端头戴式耳机AirPods Max（USB-C版本）正在Best Buy以429.99美元的限时折扣出售，较原价550美元直降120美元，接近历史最低价。这款耳机以其豪华材质、卓越降噪性能、与苹果设备的无缝协同以及支持24-bit/48kHz无损音频播放而著称，是苹果生态用户的理想选择。促销活动截至1月27日，其他平台如亚马逊和沃尔玛售价仍高于此价。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Sleeping_on_AirPods_Max.webp?quality=90&strip=all&crop=0%2C0.038542010791765%2C100%2C99.922915978416&w=2400",
+            "url": "https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale",
+            "category": "其他"
+        },
+        {
+            "title": "苹果推出新型AirTag，扩展连接范围并提升查找功能",
+            "time": "2026-01-26",
+            "source": "Apple Newsroom",
+            "summary": "苹果发布新一代AirTag，配备第二代超宽带芯片，使精准查找范围提升50%，蓝牙连接距离更远，扬声器音量提升50%，用户可通过Apple Watch进行精准定位。新增“共享物品位置”功能，与50多家航空公司合作协助找回托运行李，并通过端到端加密和频繁更换蓝牙标识保障隐私安全。产品采用85%再生塑料、100%再生稀土元素和黄金镀层，环保设计兼容现有配件，售价仍为单个29美元、四件套99美元。",
+            "image_url": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/article/Apple-AirTag-FineWoven-Key-Ring_inline.jpg.large.jpg",
+            "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+            "category": "其他"
+        },
+        {
+            "title": "苹果新款AirTag具有更远范围和更响亮的扬声器",
+            "time": "2026-01-26",
+            "source": "The Verge",
+            "summary": "苹果发布了新一代AirTag，搭载升级的超宽带（UWB）芯片，使精准定位范围提升50%，并配备音量提高50%的扬声器，增强蓝牙定位距离。新AirTag保持原价29美元单个或99美元四件套，支持Apple Watch Series 9及Ultra 2以上型号的Precision Finding功能。设备不存储位置数据，采用端到端加密，并具备防跟踪机制，与谷歌合作制定行业标准以减少滥用。兼容现有配件，延续隐私保护设计。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Untitled-2.png?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
+            "url": "https://www.theverge.com/news/867757/apple-airtag-new-uwb-bluetooth-range-speaker",
+            "category": "其他"
+        },
+        {
             "title": "苹果据称将于二月发布搭载Gemini的Siri助手",
             "time": "2026-01-25",
             "source": "TechCrunch",
@@ -3081,6 +3342,15 @@
             "time": "2026-01-25",
             "source": "Engadget",
             "summary": "据彭博社报道，苹果计划在2026年2月下旬展示由Google Gemini驱动的全新Siri，并将在iOS 26.4中率先推出测试版，预计3月或4月正式发布。该版本Siri将更像AI聊天机器人，功能类似ChatGPT。苹果计划在夏季的WWDC开发者大会上正式发布代号为“Campos”的全新Siri，并随iOS 27、iPadOS 27和macOS 27全面上线。此举标志着苹果与其AI合作伙伴Google的深度整合。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/ezyRIhCk6NGLLsCdKksNlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f428e370-fa0b-11f0-bfce-5a0cae24b562",
+            "url": "https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html",
+            "category": "AI"
+        },
+        {
+            "title": "苹果 reportedly 计划在二月发布搭载 Gemini 的新版 Siri",
+            "time": "2026-01-25",
+            "source": "Engadget",
+            "summary": "据彭博社报道，苹果计划在2026年2月下旬展示其全新搭载Google Gemini AI技术的Siri，该版本将具备类似ChatGPT的对话能力，并率先在iOS 26.4中进行测试，预计3月或4月正式推送。苹果将在夏季的WWDC开发者大会上正式发布代号为“Campos”的新版Siri，并随iOS 27、iPadOS 27和macOS 27全面上线。此举标志着苹果与谷歌在AI领域的深度合作，旨在提升Siri的智能交互体验。",
             "image_url": "https://s.yimg.com/ny/api/res/1.2/ezyRIhCk6NGLLsCdKksNlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f428e370-fa0b-11f0-bfce-5a0cae24b562",
             "url": "https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html",
             "category": "AI"
@@ -3358,6 +3628,15 @@
     ],
     "华为": [
         {
+            "title": "清华女博士造芯7年，冲刺106亿港股IPO，华为海思17年老将加盟",
+            "time": "2026-01-26",
+            "source": "量子位",
+            "summary": "爱芯元智成立于2019年，由清华女博士仇肖莘创立，专注于端侧与边缘AI芯片研发，已通过港交所聆讯，拟冲刺港股IPO，估值达106.3亿元。公司累计出货超1.57亿颗视觉终端芯片，智能汽车SoC出货51.8万颗，位居国产智能驾驶SoC供应商第二。核心技术包括爱芯通元NPU与爱芯智眸AI-ISP，客户涵盖吉利、零跑、福特等。虽持续亏损，但营收年复合增长率达206.8%，股东包括腾讯、美团、启明创投等明星机构。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/899d93e6132c96c0161f6bcf03458ec9.png",
+            "url": "https://www.qbitai.com/2026/01/372633.html",
+            "category": "其他"
+        },
+        {
             "title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
             "time": "2026-01-22",
             "source": "量子位",
@@ -3476,6 +3755,15 @@
         }
     ],
     "阿里巴巴": [
+        {
+            "title": "阿里入局核电，三股力量强推，全球核电迎来全面复兴",
+            "time": "2026-01-27",
+            "source": "钛媒体",
+            "summary": "文章指出，阿里巴巴通过旗下阿里云子公司入局核电，引发科技巨头纷纷投资核电的热潮。全球核电复兴由三股力量推动：各国政府重新拥抱核电以保障能源安全；科技企业为满足AI数据中心巨大电力需求而捆绑核能；核聚变技术突破带来未来能源革命。目前全球在建核电装机超7000万千瓦，中国、美国、欧洲多国均大幅增加核电规划，核聚变领域2024年获超80亿美元投资，核电正成为人工智能时代关键基础设施。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2026/01/8bba8e385f769fff54d453676050521b_1769478946.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/720x395/gravity/center/crop/!720x395&ext=.jpeg",
+            "url": "https://www.tmtpost.com/7856499.html",
+            "category": "其他"
+        },
         {
             "title": "《街头霸王6》新角色\"阿里克斯\"：摔跤猛男拳拳到肉！",
             "time": "2026-01-22",
@@ -3962,6 +4250,15 @@
     "莉莉丝": [],
     "NEXON": [],
     "CD Projekt RED": [
+        {
+            "title": "怕翻车？玩家警告《巫师4》技术演示或已“过度承诺”",
+            "time": "2026-01-25",
+            "source": "游侠网",
+            "summary": "知名推主NikTek指出，CDPR在虚幻引擎2025大会上发布的《巫师4》技术演示虽非正式游戏内容，但已为玩家设定了过高的期待。若最终游戏无法实现演示中的高精度画面、多角色动作匹配、肌肉变形、高密度植被渲染及流畅NPC互动等核心功能，恐重蹈《赛博朋克2077》‘过度承诺’的覆辙，引发玩家强烈不满。尽管开发尚在进行中，玩家仍期待核心技术表现能被保留。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/25/584_20260125111526440.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/995897.html",
+            "category": "游戏"
+        },
         {
             "title": "CD Projekt发布DMCA通知下架《赛博朋克2077》VR模组",
             "time": "2026-01-20",
@@ -5125,6 +5422,15 @@
     ],
     "英伟达": [
         {
+            "title": "斯坦福×英伟达发布AI推理新范式，刷新了多领域SOTA",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "斯坦福大学与英伟达联合发布TTT-Discover新范式，突破传统AI推理阶段参数冻结的限制，允许模型在测试时通过强化学习动态调整参数，针对特定问题进行‘现场进化’。该方法在数学猜想优化、GPU内核代码生成和算法竞赛中均刷新SOTA，但代价高昂（单题约500美元）且仅适用于有明确奖励信号的任务，属于一次性专用工具。研究者Yu Sun历时七年推动TTT从修补工具演变为智能进化范式，重新定义了AI发现的边界。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/8a5f8b4b-fa7f-11f0-83c4-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21960",
+            "category": "AI"
+        },
+        {
             "title": "CUDA要凉？Claude 30分钟铲平英伟达护城河，AMD要笑醒了",
             "time": "2026-01-23",
             "source": "AITNT",
@@ -5424,6 +5730,33 @@
     ],
     "deepseek": [
         {
+            "title": "又是中国团队！一条链接出片，电商AI视频迎来「DeepSeek时刻」",
+            "time": "2026-01-27",
+            "source": "AITNT",
+            "summary": "本文报道了中国团队推出的AI视频生成工具Hilight，它通过多智能体架构与「慢思考」逻辑，解决电商AI视频中长期存在的跨帧一致性差、商品变形、数字人穿模等问题。用户只需粘贴商品链接，系统即可自动生成高质感、可直接投放的营销视频，显著提升效率并降低成本。其核心技术包括商品知识图谱、多视角N宫格输入和智能体协同校验，被类比为AI视频领域的「DeepSeek时刻」，标志着电商视频生成从「抽卡」走向工业化交付。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/27/7d034068-fb26-11f0-ae0f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21989",
+            "category": "AI"
+        },
+        {
+            "title": "“DeepSeek-V3基于我们的架构打造”，欧版OpenAI CEO逆天发言被喷了",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "欧洲AI公司Mistral CEO Arthur Mensch声称DeepSeek-V3基于其提出的MoE架构，引发网友激烈反驳。事实上，DeepSeek-V3与Mistral的MoE模型发布时间仅差3天，且在专家设计、路由机制和知识解耦上存在显著算法创新，而非简单复用。更有证据显示Mistral 3 Large反向借鉴了DeepSeek-V3架构。网友批评Mistral试图“岁月史书”抹杀中国团队的原创贡献，这场技术话语权之争凸显了开源AI领域日益激烈的竞争。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/0ee4bb88-fa85-11f0-8fbc-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21970",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "谷歌与芝加哥大学等机构的研究发现，DeepSeek-R1等推理模型的高性能并非仅因计算步数增加，而是源于其内部模拟了多智能体交互的「思维社会」结构。模型在推理中会自发产生角色对话、观点冲突、视角切换与整合等类社交行为，类似人类群体智慧的协作机制。实验表明，通过强化对话式行为（如惊讶、质疑、调和）可显著提升推理准确率，甚至翻倍。该研究为AI推理提供了新范式：结构化多样性比单纯延长思考时间更有效。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/fa32f647-fa84-11f0-baf5-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21969",
+            "category": "AI"
+        },
+        {
             "title": "轻舟智航于骞：今年轻舟城市NOA计划上车50款，要做自动驾驶领域的DeepSeek",
             "time": "2026-01-23",
             "source": "IPO早知道",
@@ -5642,6 +5975,51 @@
     ],
     "字节跳动": [
         {
+            "title": "TikTok美国断电引发系统级故障，导致多重应用异常",
+            "time": "2026-01-27",
+            "source": "Engadget",
+            "summary": "TikTok因美国一数据中心断电引发级联系统故障，导致用户无法登录、视频上传失败、推荐算法异常及点赞/观看数显示错误。公司承认问题源于服务器超时，实际数据未丢失，但未解释推荐内容泛化现象。此次故障发生于TikTok刚完成美国业务分拆协议后，引发用户对其数据控制与算法重训计划的担忧。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/P8Iir1wZbQF_h_RSw2PFlQ--~B/aD00NjA0O3c9NjkwNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/7d1055d4-44ff-4243-bc39-05f5277dadd7",
+            "url": "https://www.engadget.com/social-media/a-tiktok-us-power-outage-caused-a-cascading-systems-failure-leading-to-multiple-bugs-173426490.html",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok美国版全面故障：真相与谣言解析",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "TikTok美国区在新所有权交接后遭遇严重技术故障，服务大面积中断，用户无法上传视频、评论加载缓慢、推荐算法异常。TikTok USDS官方承认问题源于美国某数据中心的电力中断，而非外界猜测的内容审查。尽管社交媒体流传“封禁‘Epstein’等关键词”的谣言，但测试表明仅单个词被屏蔽，完整句子仍可发送。该事件发生在Oracle等公司接管美国业务后不久，引发公众对平台稳定性和政治干预的广泛担忧。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406816/STK051_TIKTOK_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok用户转向UpScrolled平台应对美国接管",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "在美国政府主导下，TikTok的美国业务被Oracle及投资集团接管，引发用户对内容审查的担忧。大量TikTok用户转投新兴社交平台UpScrolled，导致其下载量激增29倍，服务器一度超载。UpScrolled由巴勒斯坦-约旦-澳大利亚技术专家Issam Hijazi于2025年创立，宣称保持政治中立、不屏蔽内容，并提供类似Instagram与X的混合界面，允许用户分享图文与视频。该平台正努力应对流量激增带来的技术挑战。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/upscrolled.png?quality=90&strip=all&crop=0%2C7.1428571428571%2C100%2C85.714285714286&w=2400",
+            "url": "https://www.theverge.com/news/867958/tiktok-upscrolled-app-us-takeover",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok将美国服务问题归咎于电力中断",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "TikTok美国业务新所有者称，本周日开始的美国地区服务中断是由于一个数据中心发生电力故障所致。该公司通过其新成立的TikTok USDS账户发布声明，表示正在与数据中心合作伙伴合作恢复服务，并对用户造成的不便致歉。此次中断导致美国用户无法上传视频或加载新内容，部分用户算法出现重置。尽管未明确指出是否与Oracle的数据中心或周末大规模暴风雪有关，但此次事件发生在TikTok美国业务由Oracle和亲特朗普投资者接管后不久，引发外界对其数据安全和算法独立性的进一步担忧。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406816/STK051_TIKTOK_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/867873/tiktok-down-outage-us-data-center-power-outage",
+            "category": "社交"
+        },
+        {
+            "title": "又是偷家时刻，腾讯 AI 上群聊 “王炸”，豆包会危吗？",
+            "time": "2026-01-27",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHkbxrRKaOrUyTqON2odpbw4aickko7ju6AficQwoW9JRgVViaicshX2NEEOTcBmWFbPB7eMRUEm7x5ibw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/2gCT4IO55XZciQFi3mMIuw",
+            "category": "其他"
+        },
+        {
             "title": "字节海外短剧布局又多一个，无广无付费，想用“本土剧+内置小程序”叩开美国、拉美市场大门？",
             "time": "2026-01-26",
             "source": "36氪",
@@ -5651,10 +6029,55 @@
             "category": "社交"
         },
         {
+            "title": "社交网络UpScrolled在TikTok被美国接管后下载量激增",
+            "time": "2026-01-26",
+            "source": "TechCrunch",
+            "summary": "在TikTok宣布与非中国投资者达成协议、成立美国主导的合资企业后，部分用户转向替代社交平台。UpScrolled作为一款承诺政治中立、融合Instagram与X功能的社交应用，下载量在短短三天内激增2850%，新增约4.1万次安装，总下载量达14万次，其中7.5万次来自美国。该应用由Palestinian-Jordanian-Australian技术专家Issam Hijazi创立，强调去中心化与用户自主权，目前在苹果应用商店社交类排名第二。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/upscrolled.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/26/social-network-upscrolled-sees-surge-in-downloads-following-tiktoks-us-takeover/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok替代品Skylight在美国TikTok交易完成后用户激增至38万以上",
+            "time": "2026-01-26",
+            "source": "TechCrunch",
+            "summary": "TikTok替代应用Skylight在TikTok美国业务所有权变更后用户数量迅速增长，突破38万，并在周末单日视频播放量达140万次，新增用户超150%。该应用基于开源AT协议，提供内置视频编辑器、用户资料、点赞评论和社区策展功能，强调去中心化与用户自主权。其增长得益于用户对TikTok新美国所有者及隐私政策的担忧，尽管仍远小于TikTok的2亿月活用户，但创始人认为其开放架构为长期发展提供了独特优势。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Three-Screens.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/",
+            "category": "社交"
+        },
+        {
+            "title": "用户卸载TikTok转投独立竞品UpScrolled",
+            "time": "2026-01-26",
+            "source": "Engadget",
+            "summary": "随着TikTok美国合资企业运营初期遭遇技术故障，包括推荐算法异常和加载缓慢等问题，美国用户卸载量激增150%。与此同时，独立短视频应用UpScrolled迅速走红，成为美国App Store下载量第九的App，社交类第二。该应用由澳大利亚开发者创建，主打无广告、时间轴优先的公平内容分发机制，强调用户声音不被压制。尽管此前类似竞品如RedNote曾短暂崛起后迅速沉寂，但此次用户对去中心化平台的期待或为UpScrolled带来更持久机会。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/KygzFOCMOcaFRpD_Yh7wyg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/upscrolled.jpg",
+            "url": "https://www.engadget.com/social-media/people-are-uninstalling-tiktok-and-downloading-an-indie-competitor-233345222.html",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok USA是崩溃的",
+            "time": "2026-01-26",
+            "source": "The Verge",
+            "summary": "TikTok美国区自周日凌晨起出现大面积服务故障，包括视频无法上传、For You Page算法失效、登录困难及CapCut编辑器异常。新所有者TikTok USDS将问题归咎于美国数据中心断电，并正在与合作伙伴修复服务。用户发现仅美国地区受影响，海外上传内容正常，引发对内容审查和政治干预的猜测，但目前无证据表明是人为操控。此次故障发生在TikTok美国业务由Oracle等财团接管后不久，引发广泛关注。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25829977/STK051_TIKTOKBAN_B_CVirginia_C.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+            "url": "https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review",
+            "category": "社交"
+        },
+        {
             "title": "TikTok出现宕机故障",
             "time": "2026-01-25",
             "source": "The Verge",
             "summary": "TikTok于2026年1月25日出现大规模服务异常，用户反映应用加载困难、评论功能失效、推荐算法紊乱。Downdetector和Reddit等平台显示大量用户报告故障，疑似与近期管理层变动有关，但官方尚未确认具体原因。目前尚无明确修复时间表，用户普遍遭遇For You页面推荐异常等问题。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Screenshot_20260125-040247.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/867435/tiktok-is-down-outage-fyp",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok出现大规模故障",
+            "time": "2026-01-25",
+            "source": "The Verge",
+            "summary": "TikTok于2026年1月25日出现全球性服务中断，用户反映应用加载缓慢、评论功能失效、推荐算法异常。Downdetector数据显示故障报告激增，Reddit用户也大量反馈问题。次日更新称，故障源于美国境内一个数据中心的电力中断，影响了平台核心服务。尽管部分用户可正常使用，但整体体验严重受损，引发对TikTok基础设施稳定性的关注。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Screenshot_20260125-040247.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/867435/tiktok-is-down-outage-fyp",
             "category": "社交"
@@ -5913,6 +6336,24 @@
         }
     ],
     "智谱": [
+        {
+            "title": "智谱飙升13%，冲刺A股IPO",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "智谱于2026年1月8日在港交所上市后股价飙升13%，市值达955亿港元，同时继续推进A股IPO计划，已由中金公司提交第三期辅导报告。公司成立于2019年，源自清华大学，专注AGI研发，近三年半亏损超62亿元，主要因高额研发支出，2025年上半年研发成本达15.95亿元。收入来源以大模型本地部署为主，正加速提升MaaS平台占比。公司计划2026年推出GLM-5模型，并布局在线学习与持续学习等前沿方向。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/e16cd003-faa2-11f0-8832-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21973",
+            "category": "AI"
+        },
+        {
+            "title": "深扒Minimax与智谱：大模型，一场算力强度与融资耐力的残酷绝杀？",
+            "time": "2026-01-26",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHkbxrRKaOrUyTqON2odpbwpdgzlSTEcHnYo0SP8OacdwmBaqhdQaUAO9iaGsGm2pg5icBgTlCtApxQ/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/05On4Gh6Wi7EQDn2YMBaIg",
+            "category": "其他"
+        },
         {
             "title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
             "time": "2026-01-21",
@@ -6265,6 +6706,42 @@
             "summary": "OpenAI首次公开Codex背后的Agent Loop架构，揭示其如何通过观察-思考-行动-反馈闭环实现独立编程任务，并分享了Prompt缓存与对话压缩两大关键技术以优化性能。同时，OpenAI曝出其支撑8亿用户的ChatGPT系统仅依赖单个PostgreSQL主库，通过PgBouncer连接池、缓存锁定和跨地域副本等极致优化实现高并发。此举被视作对Claude Code的直接回应，凸显OpenAI在AI Agent工程体系与基础设施上的深厚积累。",
             "image_url": "https://img.36krcdn.com/hsossms/20260126/v2_926352548a904ca2a00c6f8f438a2a17@5091053_oswg639810oswg1080oswg1104_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3655594876952960",
+            "category": "AI"
+        },
+        {
+            "title": "这套X+Claude Skill+Obsidian工作流，干掉了我90%的选题焦虑",
+            "time": "2026-01-26",
+            "source": "AITNT",
+            "summary": "作者分享了一套结合Twitter API、Claude Skill和Obsidian的自动化工作流，用于自动收集、分析并归档每日点赞的推文内容。该流程每日清晨自动拉取点赞记录，通过AI进行内容总结、选题推荐和高互动推文拆解，并将结果结构化存入Obsidian笔记系统，实现信息的主动沉淀。作者强调该方案无需高深技术，核心在于优化提示词与流程设计，有效缓解了信息过载和选题焦虑，让点赞内容真正转化为个人知识资产。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/26/a0b313be-fa85-11f0-91d8-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21964",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic推出交互式Claude应用，集成Slack等办公工具",
+            "time": "2026-01-26",
+            "source": "TechCrunch",
+            "summary": "Anthropic于2026年1月26日推出交互式Claude应用功能，允许Pro、Max、Team和Enterprise用户在聊天界面中直接调用Slack、Canva、Figma、Box和Clay等办公工具，实现发送消息、生成图表和访问云文件等操作。该功能基于开放标准Model Context Protocol（MCP），并与上周发布的Claude Cowork代理工具即将整合，未来可自动执行跨平台任务。目前免费用户不可用，且公司提醒用户谨慎授予敏感数据访问权限。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/mcp-asana-crop.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+            "category": "AI"
+        },
+        {
+            "title": "Claude现在支持与Canva和Slack等应用的深度集成",
+            "time": "2026-01-26",
+            "source": "Engadget",
+            "summary": "Anthropic公司宣布其AI助手Claude现已通过Model Context Protocol（MCP）与包括Canva、Slack、Asana和Box在内的九家第三方平台实现深度集成。用户可通过Claude直接在这些应用中搜索文件、生成任务、预览文档并执行自动化操作。MCP协议已成行业标准，OpenAI等公司也已采用，且Anthropic已将该协议捐赠给Linux基金会，推动AI代理生态的开放发展。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/i0MSu1CanwOK8xYr7WKIOg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/claude-mcp-asana.jpg",
+            "url": "https://www.engadget.com/ai/claude-now-offers-deeper-integrations-with-apps-like-canva-and-slack-180000604.html",
+            "category": "AI"
+        },
+        {
+            "title": "用Claude Code一个月内将10万行TypeScript代码移植到Rust",
+            "time": "2026-01-25",
+            "source": "Vjeux",
+            "summary": "作者利用Claude Code在一个月内将Pokemon Showdown项目约10万行JavaScript代码完整移植到Rust，过程中克服了沙箱限制、编译权限、AI自动中断等技术难题，通过自动化脚本和结构化提示工程实现无人值守持续运行。最终代码在功能上与原版高度一致，仅存在0.003%的微小差异，且性能显著优于原JavaScript版本。该项目展示了AI编程助手的强大潜力，但也凸显了人类工程师在架构设计与错误调试中的不可替代性。",
+            "image_url": "https://blog.vjeux.com/wp-content/uploads/2026/01/image-1.png",
+            "url": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
             "category": "AI"
         },
         {
