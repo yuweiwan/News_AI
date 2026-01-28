@@ -1,6 +1,15 @@
 {
     "微软": [
         {
+            "title": "微软获准在威斯康星州芒特普莱森特建造15个数据中心",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "微软已获得批准，在威斯康星州芒特普莱森特前富士康地块上建设15个新的数据中心。该地块此前曾因富士康的制造项目引发关注，但项目最终未能实现。此次扩建将显著增强微软在中西部地区的云计算基础设施能力，支持其AI和云服务的持续增长。该项目预计带来大量就业和地方经济投资，同时也引发对能源消耗和环境影响的讨论。相关报道指出，该地块的土地用途变更已通过当地政府审批。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252647807.jpg?quality=90&strip=all&crop=0%2C5.7291666666667%2C100%2C88.541666666667&w=2400",
+            "url": "https://www.theverge.com/news/869047/microsoft-gets-approval-to-build-15-data-centers-in-mount-pleasant-wisconsin",
+            "category": "其他"
+        },
+        {
             "title": "Xbox老大盛赞《神鬼寓言》新作动态人口系统:很震撼!",
             "time": "2026-01-27",
             "source": "游侠网",
@@ -44,6 +53,15 @@
             "image_url": "https://s.yimg.com/ny/api/res/1.2/TxuoKcnG.APpFoAdyn8r3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04OTE-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/6b459a70-fa1b-11f0-9bbc-f746844105b6",
             "url": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html",
             "category": "其他"
+        },
+        {
+            "title": "Xbox旨在更一致地在PlayStation 5上发布第一方游戏",
+            "time": "2026-01-26",
+            "source": "GamesIndustry.biz",
+            "summary": "Xbox游戏工作室负责人Craig Duncan表示，公司计划在未来更一致地在PlayStation 5上发布第一方游戏，尽管受开发资源和项目规划限制，目前存在发布节奏不一致的问题。他举例称，《Fable》和《Kiln》将跨平台同步推出，而《Forza Horizon 6》则会延迟登陆PS5。同时，他强调Xbox会根据每款游戏的特点灵活选择首发平台，并肯定了Playground Games对《Fable》的现代化重构。此外，他也谈及了《Perfect Dark》重启和《Everwild》等项目取消的背景，归因于公司整体资源调整与裁员决策。",
+            "image_url": "https://assetsio.gnwcdn.com/ps5___xbox.jpeg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/xbox-aims-to-be-more-consistent-with-launching-first-party-titles-on-playstation-5",
+            "category": "游戏"
         },
         {
             "title": "微软向政府交出客户数据加密密钥",
@@ -462,6 +480,15 @@
             "category": "游戏"
         },
         {
+            "title": "Xbox旨在更一致地在PlayStation 5上发布第一方游戏",
+            "time": "2026-01-26",
+            "source": "GamesIndustry.biz",
+            "summary": "Xbox游戏工作室负责人Craig Duncan表示，公司计划在未来更一致地在PlayStation 5上发布第一方游戏，尽管受开发资源和项目规划限制，目前存在发布节奏不一致的问题。他举例称，《Fable》和《Kiln》将跨平台同步推出，而《Forza Horizon 6》则会延迟登陆PS5。同时，他强调Xbox会根据每款游戏的特点灵活选择首发平台，并肯定了Playground Games对《Fable》的现代化重构。此外，他也谈及了《Perfect Dark》重启和《Everwild》等项目取消的背景，归因于公司整体资源调整与裁员决策。",
+            "image_url": "https://assetsio.gnwcdn.com/ps5___xbox.jpeg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/xbox-aims-to-be-more-consistent-with-launching-first-party-titles-on-playstation-5",
+            "category": "游戏"
+        },
+        {
             "title": "索尼首款夹式耳塞未能完全达标",
             "time": "2026-01-25",
             "source": "The Verge",
@@ -779,6 +806,24 @@
     ],
     "任天堂": [
         {
+            "title": "广受好评的《Orwell》监控惊悚系列现已登陆 Nintendo Switch，并完全兼容 Nintendo Switch 2",
+            "time": "2026-01-27",
+            "source": "游侠网",
+            "summary": "Daedalic Entertainment 与 Osmotic Studios 宣布监控题材惊悚游戏《Orwell: Keeping an Eye On You》与续作《Orwell: Ignorance is Strength》正式登陆 Nintendo Switch，并支持 Nintendo Switch 2。该系列自2016年首发以来，凭借对数字监控社会的深刻描绘与道德抉择机制，在Steam上保持90%特别好评。游戏通过玩家监控公民数据影响事件走向，探讨隐私与安全的边界，主题在当下更具现实意义。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/27/584_2026012732357314.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996193.html",
+            "category": "游戏"
+        },
+        {
+            "title": "任天堂Switch Online将推出虚拟男孩游戏，支持颜色自定义",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "任天堂宣布将于2月17日通过Switch Online服务推出七款虚拟男孩（Virtual Boy）经典游戏，包括《Wario Land》《3D俄罗斯方块》等，并计划在2026年内追加更多游戏。新功能允许用户通过专属头戴设备改变游戏原本仅限红色的显示颜色，但该功能仅适用于售价99.99美元的高级版头盔。此外，玩家可使用重播与自定义控制功能，弥补原控制器缺失的缺陷。两款配件均需插入Switch或Switch 2主机才能运行游戏。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/nintendo_vb_wario1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/868569/nintendo-switch-online-virtual-boy-3d-lineup-launch",
+            "category": "游戏"
+        },
+        {
             "title": "《轮回之兽》战斗走硬核混合路线 而非宝可梦回合制！",
             "time": "2026-01-26",
             "source": "游侠网",
@@ -1051,6 +1096,15 @@
     ],
     "腾讯": [
         {
+            "title": "刚刚腾讯云上线Clawdbot一键部署保姆级教程，一个月仅需40元",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "Clawdbot是一款由AI自动生成代码的个人AI助手，支持在本地或云服务器运行，强调数据自主与隐私保护。其核心优势在于与常用聊天软件无缝对接、交互自然、权限完整。腾讯云轻量应用服务器Lighthouse已上线Clawdbot一键部署模板，用户可通过2核2G配置以每月约40元成本快速部署，无需复杂环境配置。文章详细指导了如何通过应用模板购买或重装服务器，并完成Clawdbot的初始化配置，推荐使用海外地域以优化网络连接。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/d54e045c-fb9f-11f0-b583-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22011",
+            "category": "AI"
+        },
+        {
             "title": "腾讯需要一场胜利",
             "time": "2026-01-27",
             "source": "钛媒体",
@@ -1094,6 +1148,15 @@
             "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHkbxrRKaOrUyTqON2odpbw4aickko7ju6AficQwoW9JRgVViaicshX2NEEOTcBmWFbPB7eMRUEm7x5ibw/0?wx_fmt=jpeg",
             "url": "https://mp.weixin.qq.com/s/2gCT4IO55XZciQFi3mMIuw",
             "category": "其他"
+        },
+        {
+            "title": "实测腾讯元宝派：AI的尽头是“QQ群管家”？",
+            "time": "2026-01-27",
+            "source": "钛媒体",
+            "summary": "本文实测腾讯AI助手“元宝”新功能“元宝派”，分析其作为群聊AI管家的实用功能与局限。元宝派可实现群内智能问答、文生图、任务调度等，显著提升群聊效率，但尚未打通QQ音乐、微信公众号等腾讯生态服务，且受限于百人上限与无表情包功能。文章指出，腾讯放弃打造独立AI应用，转而将AI嵌入社交场景，以“连接”为核心优势巩固基本盘，反映出巨头在AI时代回归自身生态、深耕场景的务实战略。",
+            "image_url": "https://images.tmtpost.com/uploads/images/2026/01/7100933887503848aa1df00427cb8711_1769511560.webp?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/720x1260&ext=.webp",
+            "url": "https://www.tmtpost.com/7857769.html",
+            "category": "社交"
         },
         {
             "title": "「元宝派」开启腾讯社交实验：当 AI 混进人类「群聊」",
@@ -1277,6 +1340,78 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "谷歌搜索现在允许用户对AI概览提出后续问题",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "谷歌正在升级其AI搜索功能，将Gemini 3模型作为AI概览的默认引擎，并允许用户在生成摘要后直接提出后续问题，实现更流畅的对话式搜索体验。此举标志着谷歌从传统链接式搜索向AI驱动交互的转型，用户可无缝切换简要摘要与深度对话模式。尽管此前AI概览曾出现医疗误导等问题，但新模型旨在提供更准确、高质量的回答。该更新已全球上线，强化了搜索作为AI聊天助手的角色。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868497/google-ai-search-follow-up-questions-gemini-3",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌更实惠的AI Plus计划现已在美国上线",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "谷歌正式在美国推出更实惠的AI Plus订阅计划，月费为7.99美元，仅为AI Pro计划的一半，新用户可享受首两个月半价优惠。该计划提供Gemini 3 Pro访问权限、Nano Banana Pro图像生成模型以及200GB云存储空间，并将在35个新国家和地区陆续上线。此举旨在扩大其AI服务的用户基础，增强与竞争对手的市场竞争力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868488/googles-more-affordable-ai-plus-plan-is-now-available-in-the-us",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌更实惠的AI Plus计划现已在全球所有市场推出，包括美国",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "谷歌宣布其价格更亲民的AI Plus计划现已在全球所有市场上线，包括美国，月费为7.99美元。该计划提供Gemini 3 Pro、Nano Banana Pro、FlowAI视频制作工具、NotebookLM写作辅助等功能，并包含200GB存储空间和最多五人共享权益。此前该计划已在数十个国家推出，主要面向新兴市场，旨在与OpenAI的ChatGPT Go计划竞争，吸引更广泛的普通用户群体。现有Google One Premium用户将自动获得该计划权益。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2169339854.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌允许用户从AI概览跳转至AI模式对话",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "谷歌宣布允许用户在搜索结果页的AI概览基础上，直接进入AI模式进行多轮对话式交互，提升复杂问题的探索体验。同时，谷歌将Gemini 3设为全球AI概览的默认模型，以提供更优质的AI响应。此次更新是谷歌推动搜索从静态结果向智能对话演进的一部分，此前已将AI概览功能扩展至Gmail，并引入基于用户Gmail和照片的个性化AI响应功能（Personal Intelligence），进一步整合其生态系统。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌照片现在允许用户通过文本提示将图片转换为视频",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "谷歌已为其照片应用的生成式AI功能新增文本提示支持，允许用户通过描述具体动作、风格或效果来定制静态图片转视频的过程，取代了此前仅有的“微妙运动”和“随缘”等预设选项。该功能仅限18岁以上用户使用，同时支持默认添加音频，生成可直接发布的视频。此举使谷歌照片与竞品如xAI的Grok功能靠拢，但强调了年龄限制以应对潜在滥用风险。该功能尚未在全球所有地区上线，具体可用性因地区而异。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Google-ai-photo-to-video.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support",
+            "category": "AI"
+        },
+        {
+            "title": "Google AI Plus现已在美国上线，月费8美元",
+            "time": "2026-01-27",
+            "source": "Engadget",
+            "summary": "谷歌正式在美国推出AI Plus订阅服务，月费为8美元，首两个月优惠价4美元。该计划提供200GB云存储、Gemini 3 Pro模型访问权限、Deep Research功能以及新型图像生成工具Nano Banana Pro，后者可生成高度逼真的图片。此外，用户还可使用AI视频工具Flow、Whisk和研究助手NotebookLM。AI Plus现已覆盖全球所有销售谷歌AI服务的地区，价格仅为AI Pro的一半，而更高端的AI Ultra计划则定价250美元/月。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/o2XVNZ_XLH.hljrnxkKr8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjk-/https://s.yimg.com/os/creatr-uploaded-images/2025-06/f82c1320-52bd-11f0-8bfb-f7492469908e",
+            "url": "https://www.engadget.com/ai/google-ai-plus-is-now-available-in-the-us-for-8-a-month-180000175.html",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌日历新增Gemini功能，智能推荐适合所有人的会议时间",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "谷歌在其日历应用中推出一项基于Gemini AI的新功能，能够根据与会者日历的空闲时间自动推荐合适的会议时段，类似此前在Gmail中推出的智能调度功能。该功能目前仅向Google Business、Enterprise和AI Pro for Education用户开放。文章配图展示了Gemini在日历界面中生成建议时间的样例，旨在提升多人会议安排的效率，减少沟通成本。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-calendar-gemini-suggested-meeting-times.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868175/a-new-gemini-feature-in-google-calendar-will-help-find-meeting-times-that-work-for-everyone",
+            "category": "AI"
+        },
+        {
+            "title": "Gemini 3 现已成为 Google AI 概述的默认模型",
+            "time": "2026-01-27",
+            "source": "Engadget",
+            "summary": "Google 已将 Gemini 3 设为 AI 概述的默认模型，取代此前的旧版本，旨在提供更可信和相关的摘要内容。同时，用户现在可直接从 AI 概述跳转至 AI Mode 进行连续对话，实现无缝交互体验。该功能已在移动端上线，用户可在获取摘要后继续追问，提升搜索的实用性与流畅性。此更新是 Google 在搜索中深化 AI 集成的重要一步。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/S6HkCIpxPONNT5cZktP7Qw--~B/aD00MDM4O3c9NjA1NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/664a70a1-32a5-4c9f-abc0-f923cfd4d168",
+            "url": "https://www.engadget.com/ai/gemini-3-is-now-googles-default-model-for-ai-overviews-170000302.html",
+            "category": "AI"
+        },
         {
             "title": "DeepSeek-R1推理智能从哪儿来？谷歌新研究：模型内心多个角色吵翻了",
             "time": "2026-01-26",
@@ -1856,6 +1991,42 @@
     ],
     "Meta": [
         {
+            "title": "WhatsApp推出全新‘严格账户设置’以增强对抗网络攻击的保护",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "WhatsApp推出名为‘严格账户设置’的新功能，旨在为记者、公众人物等高风险用户提供更强的安全防护。该功能自动屏蔽未知联系人的媒体附件与通话，关闭链接预览，限制非联系人查看个人资料、状态和群组添加权限。该设置仅能在主设备上启用，不支持网页版。WhatsApp强调此功能仅适用于面临复杂网络攻击的用户，普通用户无需开启。此举延续了其在Pegasus间谍软件事件后强化安全的策略，尽管Meta仍面临隐私泄露的法律诉讼。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/meta-strict-account-settings.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868722/whatsapp-strict-account-settings-cyberattacks",
+            "category": "社交"
+        },
+        {
+            "title": "Meta花费数百万美元说服公众认为数据中心很酷且值得支持",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "Meta在过去几个月投入640万美元开展广告活动，试图改善公众对数据中心建设的负面观感，强调其为爱荷华州阿尔图纳和新墨西哥州洛斯卢纳斯等农村地区创造就业、振兴社区。广告以温情叙事呈现员工家庭生活，但现实面临能源消耗和电网压力等质疑。类似地，Digital Realty、QTS等数据中心运营商也计划展开游说应对公众抵制，多地因能源成本飙升和用水担忧已取消数十亿美元的数据中心项目。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951355/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+            "category": "其他"
+        },
+        {
+            "title": "WhatsApp推出更严格的安全设置以保护用户免受网络攻击",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "WhatsApp在Meta因涉嫌虚假隐私声明被起诉后，推出名为“严格账户设置”的新安全功能，旨在减少用户遭受网络攻击的风险。该功能默认阻止来自未知发件人的媒体和附件，静音未知号码来电，关闭链接预览，并限制个人资料信息（如在线状态、头像等）仅对联系人可见。同时自动启用两步验证和安全通知，并仅允许联系人将用户加入群组。该功能仅可通过主设备启用，不支持网页或Windows等辅助平台，特别适用于记者和公众人物。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/01_WhatsApp-Strict-Account-Settings.gif?w=680",
+            "url": "https://techcrunch.com/2026/01/27/whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts/",
+            "category": "社交"
+        },
+        {
+            "title": "Instagram、Facebook和WhatsApp将测试付费订阅服务",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "Meta计划在Instagram、Facebook和WhatsApp上测试新的付费订阅服务，旨在为用户提供增强的AI功能和额外社交工具，如无限观众列表、查看谁未关注你、匿名查看故事等。这些功能将与现有的Meta Verified服务分开，核心应用仍免费。AI功能如Vibes和Manus将被整合进订阅体系，采用免费增值模式。此举意在弥补Meta在AI领域巨额投资带来的收入压力，但用户是否愿为社交平台的AI功能付费仍是挑战。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp",
+            "category": "社交"
+        },
+        {
             "title": "Meta计划在Instagram、Facebook和WhatsApp上测试高级订阅服务",
             "time": "2026-01-26",
             "source": "TechCrunch",
@@ -1869,6 +2040,15 @@
             "time": "2026-01-26",
             "source": "GamesIndustry.biz",
             "summary": "VR行业专家对Meta关闭三家VR工作室并削减Reality Labs部门员工的决定表示担忧，认为其商业目标与游戏开发者的利益不一致。Meta追求的是类似iPhone的市场规模，而非任天堂Switch那样的游戏主机生态，而其平台占据VR收入的70%-80%，因此其战略调整对开发者影响重大。尽管短期前景堪忧，专家们仍对长期持乐观态度，指出Google、Valve等公司正在开发新一代VR设备，且VR在青少年群体中已有深厚市场渗透，VR游戏“太酷了，不会消亡”。",
+            "image_url": "https://assetsio.gnwcdn.com/zuckquest3.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/vr-experts-say-that-metas-pullback-concerning-in-the-short-term",
+            "category": "其他"
+        },
+        {
+            "title": "VR专家称Meta的收缩举措在短期内令人担忧",
+            "time": "2026-01-26",
+            "source": "GamesIndustry.biz",
+            "summary": "VR行业专家对Meta关闭三家VR工作室并削减Reality Labs部门的举措表示担忧，认为其商业目标与游戏开发需求不一致，过于追求iPhone规模而非主机级市场。尽管短期内对开发者造成冲击，专家们仍对VR长期前景持乐观态度，指出Google、Valve等公司正在开发新一代VR设备，且VR在青少年群体中已有深厚市场渗透。专家强调，VR技术本身“太酷了，不会消亡”。",
             "image_url": "https://assetsio.gnwcdn.com/zuckquest3.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
             "url": "https://www.gamesindustry.biz/vr-experts-say-that-metas-pullback-concerning-in-the-short-term",
             "category": "其他"
@@ -2517,12 +2697,48 @@
     ],
     "OpenAI": [
         {
+            "title": "OpenAI凌晨放大招，免费Prism颠覆科研！从摘要到致谢，GPT-5.2包圆",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "OpenAI发布全新AI科研工具Prism，基于GPT-5.2构建的云端LaTeX工作区，全面整合论文起草、公式编辑、文献管理、图表转换与实时协作功能，支持无限协作者且完全免费。Prism深度嵌入写作流程，可自动处理摘要、致谢、参考文献及TikZ图生成，显著提升科研效率，被指将取代Overleaf，推动科研工作流进入AI原生时代。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/141fd5bc-fbdc-11f0-9f93-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22012",
+            "category": "AI"
+        },
+        {
             "title": "机器人ChatGPT时刻将至：全球首个具身智能数据工厂诞生！",
             "time": "2026-01-27",
             "source": "AITNT",
             "summary": "OpenAI悄然建成全球首个具身智能数据工厂，通过近百名工人在旧金山办公楼中持续采集机械臂执行折衣、抓取等基础动作的数据，构建可规模化、工业化生产的训练样本。此举绕开人形机器人形态竞争，聚焦底层数据基础设施建设，类比当年Scale AI对大模型数据的掌控，旨在为机器人智能建立可泛化的动作学习接口。行业竞争正从算法与硬件转向数据产能，具身智能由此进入工业化阶段。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/27/2b997a93-fb21-11f0-b0e5-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=21978",
+            "category": "AI"
+        },
+        {
+            "title": "持续怒斩53K星！狠人揭秘Clawdbot反行业记忆系统！跟ChatGPT大不同：不靠狂塞上下文，而是一个个md文件！网友：AI记忆第一次被工程化了",
+            "time": "2026-01-27",
+            "source": "AITNT",
+            "summary": "Clawdbot是一个开源个人AI助手，颠覆传统AI记忆方式，不依赖云端上下文注入，而是将所有记忆以Markdown文件形式存储于用户本地硬盘。其核心设计为双层记忆系统：每日流水笔记与长期沉淀知识库，通过SQLite+sqlite-vec+FTS5实现本地混合语义与关键词搜索，支持多Agent隔离记忆。该方案强调用户对数据的完全掌控，使AI记忆从黑盒功能变为可读、可编辑、可迁移的个人资产，被网友誉为‘AI记忆第一次被工程化’。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/27/70f3c009-fb5d-11f0-bb9d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22004",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出Prism，为科学家打造AI工作空间",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "OpenAI推出了名为Prism的AI工作空间，专为科学家设计，集成GPT-5.2模型，辅助科研论文撰写、主张评估与文献检索。Prism不替代人类研究，而是通过深度整合LaTeX排版、可视化图表生成和项目上下文管理，提升科研效率。该工具免费向ChatGPT用户开放，被视为AI在科学领域的重要突破，类似此前AI在软件工程中的应用。OpenAI还引用了AI协助证明统计学公理的案例，强调人机协作的潜力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/Prism-Graphic-1x1-1.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI发布Prism，一款类似Claude Code的科研辅助应用",
+            "time": "2026-01-27",
+            "source": "Engadget",
+            "summary": "OpenAI发布了名为Prism的新应用，旨在为科学研究提供类似Claude Code对编程的辅助功能。Prism基于OpenAI收购的LaTeX平台Crixet，整合了GPT-5.2模型，可帮助科研人员自动生成、编辑和格式化科学论文，包括处理LaTeX代码、生成参考文献、设计课程与习题等。该应用免费向所有个人ChatGPT用户开放，支持无限项目与协作者，未来将扩展至企业及教育版。OpenAI强调AI在科研中的作用应增强效率而非取代责任，确保研究人员保持控制权。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/E7YfGGrdfFJmbEKVrJZ1EA--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Prism_Graphic_16x9.png",
+            "url": "https://www.engadget.com/ai/openai-releases-prism-a-claude-code-like-app-for-scientific-research-180000454.html",
             "category": "AI"
         },
         {
@@ -3284,6 +3500,24 @@
     ],
     "苹果": [
         {
+            "title": "应用开发商起诉苹果利用Continuity Camera打压Camo产品",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "应用开发商Reincubate起诉苹果公司涉嫌反竞争行为和专利侵权，指控苹果抄袭其Camo应用技术并推出仅限苹果生态的Continuity Camera功能，同时通过系统限制和App Store政策打压Camo的跨平台兼容性。Reincubate称苹果曾积极支持Camo内部测试，但一旦看到其市场潜力便复制功能并切断其发展路径。该公司CEO表示，此举暴露了苹果对生态闭环的维护意图，而非服务用户需求。苹果尚未对此作出回应。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/camo-apple%402x.png?quality=90&strip=all&crop=3.4464285714286%2C0%2C93.107142857143%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868740/apple-reincubate-lawsuit-camo-continuity-camera",
+            "category": "其他"
+        },
+        {
+            "title": "苹果AirTag皮革挂绳正在打折，可低价绑定钥匙",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "The Verge报道，苹果的AirTag皮革挂绳和皮革钥匙圈目前在Woot平台打折，价格分别降至14.99美元，原价分别为40美元和35美元。尽管这些配件已停产，但其耐用性和设计仍被推荐为实用选择。文章还提及苹果近期发布了新款AirTag，但用户仍需配件将其固定在钥匙等物品上。此次折扣为消费者提供了性价比高的购买机会。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24952884/Apple_Leather_AirTag_Loop_Official_Press_Image.jpg?quality=90&strip=all&crop=16.714285714286%2C0%2C66.571428571429%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/868890/apple-airtag-leather-loop-deal-sale",
+            "category": "其他"
+        },
+        {
             "title": "苹果上新 AirTag，扬声器更响、查找范围更远",
             "time": "2026-01-27",
             "source": "动点科技",
@@ -3308,6 +3542,24 @@
             "summary": "苹果的高端头戴式耳机AirPods Max（USB-C版本）正在Best Buy以429.99美元的限时折扣出售，较原价550美元直降120美元，接近历史最低价。这款耳机以其豪华材质、卓越降噪性能、与苹果设备的无缝协同以及支持24-bit/48kHz无损音频播放而著称，是苹果生态用户的理想选择。促销活动截至1月27日，其他平台如亚马逊和沃尔玛售价仍高于此价。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Sleeping_on_AirPods_Max.webp?quality=90&strip=all&crop=0%2C0.038542010791765%2C100%2C99.922915978416&w=2400",
             "url": "https://www.theverge.com/gadgets/868017/apple-airpods-max-usb-c-best-buy-flash-deal-sale",
+            "category": "其他"
+        },
+        {
+            "title": "最佳蓝牙追踪器：适用于苹果和安卓手机",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "本文为蓝牙追踪器购买指南，推荐了适用于iPhone和安卓用户的最佳产品。苹果AirTag凭借超宽带（UWB）技术和Find My网络成为iPhone用户的首选，而Tile Pro则因广泛的网络支持和可更换电池成为安卓用户的最佳选择。Pebblebee Clip 5和Card 5作为替代品，支持双平台网络并配备可充电电池。文章还分析了防追踪、电池寿命、订阅费用等关键因素，并提及了三星SmartTag2、Moto Tag等其他选项，强调了隐私安全与实用性的平衡。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/257621_Bluetooth_trackers_guide_CVirginia2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+            "category": "其他"
+        },
+        {
+            "title": "Strava和Komoot终于为Apple Watch带来离线地图功能",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "Strava和Komoot两款热门户外运动应用现已为Apple Watch推出离线地图功能，用户无需携带iPhone即可查看路线并记录运动数据。Komoot提供免费的全功能离线导航，包括转弯提示，而Strava的离线地图仅限订阅用户，且不支持转弯导航。此举弥补了Apple Watch长期以来依赖手机的短板，增强了其与Garmin等专业设备的竞争能力。Komoot产品负责人表示，目标是让用户在户外彻底脱离手机束缚。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/639907-Apple-Watch-Promo-1-2b0afe-original-1768811008.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868418/strava-and-komoot-finally-bring-offline-maps-to-apple-watch",
             "category": "其他"
         },
         {
@@ -3765,6 +4017,33 @@
             "category": "其他"
         },
         {
+            "title": "阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用",
+            "time": "2026-01-27",
+            "source": "量子位",
+            "summary": "阿里健康旗下医学AI应用‘氢离子’上线‘动态证据定位’功能，通过‘三维循证架构’实现对医学结论的时效性、权威性与逻辑一致性的实时校验。该功能不再仅提供静态文献引用，而是精准定位支撑结论的具体语句，并每日更新全球权威指南与文献，确保信息实时有效。用户点击引用标签即可追溯原始文献，显著降低临床与科研中的信息验证成本，提升AI在医疗决策中的可信度与实用性。",
+            "image_url": "http://www.qbitai.com/wp-content/uploads/2026/01/%E6%88%AA%E5%B1%8F2026-01-27-14.18.11.png",
+            "url": "https://www.qbitai.com/2026/01/373020.html",
+            "category": "AI"
+        },
+        {
+            "title": "复旦中山医院联合阿里达摩院用AI检测喉癌、下咽癌转移，准确性远超人类专家",
+            "time": "2026-01-26",
+            "source": "量子位",
+            "summary": "复旦大学附属中山医院联合阿里达摩院研发出AI模型DeepENE，可精准识别喉癌和下咽癌患者的淋巴结转移及包膜外侵犯（ENE），在多个外部测试集中AUC达0.87-0.96，显著优于5位医学专家。该模型基于双流2.5D多尺度特征融合技术，利用289例喉癌和下咽癌患者共1954枚病理证实淋巴结数据训练，有效解决人工判读准确性波动大的难题，有望辅助临床制定个性化治疗方案。相关成果已发表于国际顶级医学期刊《放射学》。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/e665f437ffb706cda908a6d358ebd860.png",
+            "url": "https://www.qbitai.com/2026/01/372685.html",
+            "category": "AI"
+        },
+        {
+            "title": "那个用半成品刷爆SOTA的Qwen3超大杯推理版，现在正式上线",
+            "time": "2026-01-26",
+            "source": "量子位",
+            "summary": "阿里千问正式发布Qwen3-Max-Thinking超大杯推理模型，参数超万亿，预训练数据达36T Tokens，刷新多项SOTA基准，超越GPT-5.2-Thinking、Claude-Opus-4.5等闭源模型。该模型通过自适应工具调用与测试时扩展技术，显著提升推理能力与Agent工具调用能力，可自主完成代码生成、数据分析、网页游戏开发等复杂任务，并已在千问APP和API中开放免费体验。中国开源模型下载量已超美国，千问系列成为全球首个衍生模型超20万、下载量破10亿的开源大模型。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/b583c850e11c966ee80aafaa735f833b.webp",
+            "url": "https://www.qbitai.com/2026/01/372824.html",
+            "category": "AI"
+        },
+        {
             "title": "《街头霸王6》新角色\"阿里克斯\"：摔跤猛男拳拳到肉！",
             "time": "2026-01-22",
             "source": "游侠网",
@@ -3948,6 +4227,33 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "亚马逊关闭所有实体Go和Fresh商店",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "亚马逊宣布关闭其大部分Amazon Go和Amazon Fresh实体门店，并将部分门店改造为Whole Foods Market门店，以集中资源扩展Whole Foods业务。尽管线下门店将陆续关闭，但Amazon Fresh的在线订购和当日配送服务仍将继续，并计划在未来一年内扩展至更多城市。同时，亚马逊还计划在未来几年开设超过100家新的Whole Foods门店，并推出自有品牌Amazon Grocery，提供逾千种高性价比商品。前Amazon Fresh首席商人John Farrell已离职。亚马逊仍将继续测试新型实体零售体验，如芝加哥的Amazon Grocery店和宾夕法尼亚的Whole Foods概念店。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252647807.jpg?quality=90&strip=all&crop=0%2C5.7291666666667%2C100%2C88.541666666667&w=2400",
+            "url": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊同意支付3.09亿美元解决退货政策纠纷",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "亚马逊同意支付3.095亿美元设立共同基金，以解决消费者提起的集体诉讼，指控其在退货后未正确退款，导致消费者遭受不当经济损失。此前亚马逊已发放约5.7亿美元退款，另有3400万美元待支付。此外，亚马逊还将提供超3.63亿美元的非金钱救济，以改进退货与退款流程。公司否认存在不当行为，称2025年内审发现少数退款异常并已主动补发。此事件是继去年25亿美元FTC和解案后，亚马逊再次因消费者政策面临重大法律和财务压力。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/amazon-logo.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊将支付3.09亿美元以解决“无 hassle 退货”诉讼",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "亚马逊同意支付逾10亿美元解决一起集体诉讼，指控其在宣称“免费无 hassle 退货”时未能及时退款或重复收费。该和解方案包括6亿美元退款和3.095亿美元额外赔偿，并承诺投入3.63亿美元改善退货流程。亚马逊否认存在不当行为，称仅少数退货因系统问题未处理，并已在2025年起主动补发退款。此案尚待法院批准，受影响用户可申请赔偿。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868547/amazon-1-billion-settlement-return-refunds",
+            "category": "其他"
+        },
         {
             "title": "存储设备价格对比：亚马逊全球硬盘与固态硬盘优惠信息",
             "time": "2026-01-22",
@@ -4210,6 +4516,15 @@
         }
     ],
     "京东": [
+        {
+            "title": "独家！京东连上两款AI社交APP，一款可外卖，一款可问诊",
+            "time": "2026-01-27",
+            "source": "AITNT",
+            "summary": "京东上线两款AI社交APP“东东”和“JoyAI”，分别聚焦银发青年与泛大众用户，深度融合京东生态服务。东东APP主打适老化服务，提供快速问诊、老黄历等功能；JoyAI则整合外卖、AI播客、数字人分身创作及智能硬件联动，打造沉浸式智能生活体验。两款产品均基于言犀大模型，突破传统AI聊天边界，以解决实际生活问题为核心，推动AI与生活服务深度融合，但面临用户教育、技术适配与市场竞争等挑战。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/27/2c4b3ca6-fb2f-11f0-b1b7-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21990",
+            "category": "社交"
+        },
         {
             "title": "刘强东与其造车，不如造共享单车",
             "time": "2026-01-25",
@@ -4529,6 +4844,24 @@
     ],
     "卡普空": [
         {
+            "title": "卡普空宣布《怪物猎人：荒野》全球销量突破1100万份",
+            "time": "2026-01-27",
+            "source": "游侠网",
+            "summary": "卡普空于2026年1月27日宣布，开放世界狩猎游戏《怪物猎人：荒野》截至2025年12月31日全球销量突破1100万份，较2025年9月的1070万份新增30万份。该游戏于2025年2月28日登陆PS5、Xbox Series X|S及PC平台，上市首月销量即突破1000万份，创下卡普空历史最快销售纪录，展现出强劲的市场吸引力与持续增长势头。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/27/584_2026012741032379.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/996207.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《生化危机》和《街头霸王》系列推动卡普空最新财务业绩",
+            "time": "2026-01-27",
+            "source": "GamesIndustry.biz",
+            "summary": "卡普空公布截至2025年12月31日的九个月财务报告，运营收入同比增长75.1%至3.526亿美元，净销售额增长29.8%至7.488亿美元。主要增长动力来自《生化危机》和《街头霸王》系列，其中《生化危机4》和《生化危机：村庄》销量受益于新作《生化危机：重述》的发布预告，移动游戏《生化危机：生存单位》下载量超300万；《街头霸王6》全球销量突破600万份，得益于Switch 2版本发布。此外，《鬼泣5》和《怪物猎人》系列也贡献显著，数字内容总销量达3464万份。",
+            "image_url": "https://assetsio.gnwcdn.com/resident-evil_tGHV5Ee.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/resident-evil-and-street-fighter-franchises-boost-capcoms-latest-financials",
+            "category": "游戏"
+        },
+        {
             "title": "Fami通最期待游戏榜：卡普空两款人气作品包揽前二！",
             "time": "2026-01-26",
             "source": "游侠网",
@@ -4633,6 +4966,15 @@
         }
     ],
     "特朗普": [
+        {
+            "title": "特朗普攻击与制裁下，欧洲寻求减少对美国科技依赖",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "随着特朗普政府实施针对国际刑事法院法官等个人的经济制裁，并威胁侵犯北约盟国，欧洲国家日益担忧对美国科技巨头的过度依赖。比利时网络安全官员承认欧洲已“失去互联网”，法国宣布将用国产Visio替代Zoom和Microsoft Teams。欧盟议会投票推动减少对非欧盟数字产品的依赖，呼吁提升数字主权。这一趋势源于自2001年《爱国者法案》以来美国对跨境数据的监控能力，以及斯诺登曝光的监听丑闻，促使欧洲加速发展本土替代技术。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/tech-ceos-trump-2194358551.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
+            "category": "其他"
+        },
         {
             "title": "特朗普手机Ultra即将推出？高管称更高配置版本正在开发中",
             "time": "2026-01-24",
@@ -5240,6 +5582,15 @@
     ],
     "三星": [
         {
+            "title": "三星Trifold手机售价近三千美元",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "三星备受期待的Galaxy Z Trifold于2026年1月30日在美国上市，售价2899美元，配备512GB存储空间。这款三折手机被形容为“想成为平板电脑的手机”，是目前市场上罕见的三折叠设备，且在美国仅此一款。文章指出其高价虽令人震惊，但考虑到其创新设计和市场稀缺性，仍在预期之中。作者为资深科技评论员Allison Johnson，并配有其亲自拍摄的实物图。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02025_processed.jpg?quality=90&strip=all&crop=0.012500000000003%2C0%2C99.975%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868190/samsung-galaxy-z-trifold-us-price-release-date-availability",
+            "category": "其他"
+        },
+        {
             "title": "三星爆火递归模型TRM唯一作者被迫离职，内部不认可？",
             "time": "2026-01-25",
             "source": "AITNT",
@@ -5421,6 +5772,15 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "斯坦福英伟达推出测试时强化学习：微调开源模型胜过顶级闭源模型，仅需几百美元",
+            "time": "2026-01-27",
+            "source": "AITNT",
+            "summary": "斯坦福大学与英伟达研究团队提出名为TTT-Discover的测试时强化学习方法，通过在测试阶段对开源模型gpt-oss-120b进行权重微调，使其在数学、算法、生物和内核工程等复杂科学问题上超越顶级闭源模型。该方法利用熵目标函数与PUCT重用机制，在单个问题上通过不断生成、评估与更新，构建私有数据集实现定向进化，单问题成本仅数百美元，部分任务性能超越人类专家。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/27/545f5009-fb58-11f0-821f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21994",
+            "category": "AI"
+        },
         {
             "title": "斯坦福×英伟达发布AI推理新范式，刷新了多领域SOTA",
             "time": "2026-01-26",
@@ -5739,6 +6099,24 @@
             "category": "AI"
         },
         {
+            "title": "DeepSeek又拿第一！首创「因果流」视觉推理，超越Gemini",
+            "time": "2026-01-27",
+            "source": "AITNT",
+            "summary": "DeepSeek发布DeepSeek-OCR2，首创「因果流」视觉推理架构DeepEncoder V2，突破传统光栅扫描限制，模仿人类阅读逻辑动态调整图像处理顺序。该模型采用Qwen2-0.5B作为视觉编码器，结合因果注意力机制，在OmniDocBench等基准测试中以更少视觉Token实现91.09%综合得分，显著优于前代及Gemini-3 Pro，并在实际文档处理中降低文本重复率。项目全开源，被视为迈向原生多模态智能的重要一步。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/27/5af00ab1-fb5d-11f0-b0eb-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22003",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek最新王炸模型：VLM架构重磅突破，AI像人一样读图",
+            "time": "2026-01-27",
+            "source": "智东西",
+            "summary": "DeepSeek开源了面向OCR场景的升级模型DeepSeek-OCR 2，采用新型VLM架构DeepEncoder V2，通过因果流查询机制实现视觉标记的语义重排序，使AI读图更接近人类阅读习惯。该模型在OmniDocBench v1.5基准上取得91.09%的得分，较前代提升3.73%，编辑距离低于Gemini-3 Pro，且保持视觉token高压缩率。其架构具备扩展至多模态统一编码器的潜力，为未来全模态AI研究提供新方向。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/27/422a2005-fb58-11f0-b47e-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=21993",
+            "category": "AI"
+        },
+        {
             "title": "“DeepSeek-V3基于我们的架构打造”，欧版OpenAI CEO逆天发言被喷了",
             "time": "2026-01-26",
             "source": "AITNT",
@@ -5975,6 +6353,42 @@
     ],
     "字节跳动": [
         {
+            "title": "TikTok仍处于宕机状态，最新进展汇总",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "TikTok美国区自1月25日以来持续出现服务中断，主要原因为其数据合作伙伴Oracle的一个数据中心遭遇天气引发的断电，导致系统级连锁故障。用户面临视频无法上传、点赞和评论加载失败、算法紊乱等问题。尽管TikTok USDS称已取得重大恢复进展，部分功能恢复正常，但仍有bug残留。Oracle承认是其数据中心故障所致，同时谣言称平台屏蔽“Epstein”等词被证实为误传。部分用户转向替代平台UpScrolled，下载量激增近30倍。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_2_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
+            "category": "社交"
+        },
+        {
+            "title": "甲骨文承认其导致TikTok崩溃",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "甲骨文承认其位于美国的数据中心在上周末遭遇天气相关的断电事故，导致TikTok US的服务中断，用户无法发布视频，算法也受到影响数日。尽管甲骨文的云状态页面未显示任何故障，但其发言人确认此次技术问题源于断电，并表示正与TikTok团队紧急修复。该事件暴露了TikTok在美国数据基础设施上对甲骨文的依赖，引发外界对其稳定性和安全性的关注。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_2_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869037/oracle-admits-it-broke-tiktok",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok美国版基本恢复运行",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "TikTok美国版在经历周日开始的严重服务中断后，于周二基本恢复正常，用户可稳定发布和观看视频。其新运营商TikTok USDS称，故障源于数据中心断电引发的系统级连锁崩溃，目前仍在修复部分功能问题，如内容发布异常。尽管服务恢复，用户对新运营方的算法操控、内容审查及平台未来走向仍存疑虑，部分用户已转向UpScrolled等替代应用。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_2_tiktok.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868679/tiktok-down-outage-us-usds",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok在庭审前寻求解决重大社交媒体成瘾诉讼",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "TikTok在即将开庭前寻求与一起涉及社交媒体成瘾的集体诉讼达成和解，成为继Snapchat之后第二家就此类案件达成协议的社交平台。该诉讼由一名19岁原告提起，指控TikTok的设计机制导致用户成瘾并造成心理伤害。目前，Meta和YouTube仍是该系列诉讼中即将进入陪审团遴选阶段的主要被告。此案被视为2026年社交媒体法律问责潮的标志性事件之一，凸显了科技公司面临日益增长的监管与司法压力。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_D_506f43.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868619/tiktok-moves-to-settle-a-major-social-media-addiction-case-shortly-before-trial",
+            "category": "社交"
+        },
+        {
             "title": "TikTok美国断电引发系统级故障，导致多重应用异常",
             "time": "2026-01-27",
             "source": "Engadget",
@@ -6018,6 +6432,51 @@
             "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VHkbxrRKaOrUyTqON2odpbw4aickko7ju6AficQwoW9JRgVViaicshX2NEEOTcBmWFbPB7eMRUEm7x5ibw/0?wx_fmt=jpeg",
             "url": "https://mp.weixin.qq.com/s/2gCT4IO55XZciQFi3mMIuw",
             "category": "其他"
+        },
+        {
+            "title": "TikTok并未在私信中封禁“Epstein”一词，传言不实",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "尽管社交媒体上流传TikTok在美国的私信功能已封禁“Epstein”一词，但The Verge实测发现，该词单独出现时会被系统拦截，但作为句子的一部分则可正常发送。这一现象实为平台对单个单词的泛化过滤机制所致，并非专门针对“Epstein”。同时，TikTok美国服务当时仍因数据中心断电问题大面积瘫痪，加剧了谣言传播。文章澄清了误解，并指出相关传言缺乏事实依据。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Screenshot_20260126-202820.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868362/tiktok-epstein-ban-hoax-rumor-not-true-stop-it",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok加入Snap共同解决社交媒体成瘾诉讼",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "TikTok于周一晚间与Snap一同达成和解，以解决一项指控社交媒体平台故意设计产品成瘾并伤害用户的高调诉讼。该诉讼以19岁原告K.G.M.为中心，是同类案件中的首例。Meta和YouTube未参与和解，将于下周二开始陪审团遴选。尽管和解不等于承认指控，但此举可能影响其他数十起类似诉讼的走向。TikTok和Snap均未公布和解条款。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/parental-controls-evergreen.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok美国数据中心断电引发系统级故障，导致多重bug",
+            "time": "2026-01-27",
+            "source": "Engadget",
+            "summary": "TikTok因美国一数据中心断电引发级联系统故障，导致应用出现多重技术问题，包括用户无法登录、视频上传失败、点赞和播放量显示为零、创作者收入数据异常等。公司称问题源于服务器超时，实际数据未丢失，但推荐算法异常引发用户反馈内容重复、泛化。该事件发生于TikTok刚完成美国业务拆分交易后，引发用户对其数据控制与算法重训计划的担忧。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/P8Iir1wZbQF_h_RSw2PFlQ--~B/aD00NjA0O3c9NjkwNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-01/7d1055d4-44ff-4243-bc39-05f5277dadd7",
+            "url": "https://www.engadget.com/social-media/a-tiktok-us-power-outage-caused-a-cascading-systems-failure-leading-to-multiple-bugs-173426490.html",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok称仍在努力恢复其美国基础设施",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "TikTok表示，尽管在最近的数据中心断电事件后其美国基础设施已取得显著恢复进展，但部分用户仍面临发布内容、加载视频和算法推荐等技术问题。此次故障发生在美国政府与TikTok达成分离运营协议后不久，恰逢美国遭遇大规模冬季风暴，引发部分用户对故障原因的质疑。TikTok承诺将持续更新修复进展，并保证用户数据与互动记录安全无损。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2193244774.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/tiktok-says-its-still-working-to-recover-its-u-s-infrastructure/",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok系统故障导致用户零点赞零观看",
+            "time": "2026-01-27",
+            "source": "The Verge",
+            "summary": "TikTok美国服务因合作伙伴数据中心停电引发级联系统故障，自周日早晨宕机后仍未完全恢复。尽管网络连接已修复，但用户仍面临视频加载缓慢、发布失败、点赞和观看数显示为零等异常问题。TikTok官方澄清，这些是服务器超时导致的显示错误，实际数据并未丢失。目前尚无全面修复时间表，用户被呼吁耐心等待。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/G_oLVI3WsAAA7B5.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/868402/tiktok-system-failure-0-views-0-likes-down-outage",
+            "category": "社交"
         },
         {
             "title": "字节海外短剧布局又多一个，无广无付费，想用“本土剧+内置小程序”叩开美国、拉美市场大门？",
@@ -6503,6 +6962,15 @@
     ],
     "月之暗面": [
         {
+            "title": "录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了",
+            "time": "2026-01-28",
+            "source": "量子位",
+            "summary": "Moonshot AI推出新一代Agentic模型Kimi K2.5，首次实现视觉与代码的深度融合，支持通过录屏或截图自动识别并生成专业前端代码，具备设计审美与可视化编辑能力。其Agent集群模式可调度多个智能体并行协作，大幅提升复杂任务效率，在SWE-bench等编程测试中表现超越前代模型，甚至接近顶级闭源模型。同时支持Office文档智能转换，显著降低AI使用门槛，让普通用户仅凭一张图或一句话即可生成高质量产品。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/ca95a167fd4d8a4a3db5a8dcb264903f.jpeg",
+            "url": "https://www.qbitai.com/2026/01/373117.html",
+            "category": "AI"
+        },
+        {
             "title": "Kimi张予彤首次分享AI创业“思维链” | 不鸣创业营",
             "time": "2026-01-26",
             "source": "AITNT",
@@ -6699,6 +7167,33 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "被Anthropic指控侵权，Clawdbot改名Moltbot",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "AI开源项目Clawdbot因被AI巨头Anthropic指控商标侵权，被迫更名为Moltbot。项目开发者Peter Steinberger在GitHub上获得近7万星，但更名后遭遇平台故障、账号被抢注及币圈诈骗骚扰。尽管资金匮乏、安全风险高，项目仍获自闭症与ADHD用户认可，被视为个性化AI助手。一用户让Moltbot管理投资组合，虽执行高效却导致全盘亏损，成为AI代理盲目执行的典型案例。项目初衷是赋能非典型用户，突破大厂交互限制。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/a60ebb94-fbe8-11f0-92a3-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22013",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic据称将其最新融资目标提升至200亿美元",
+            "time": "2026-01-27",
+            "source": "TechCrunch",
+            "summary": "据《金融时报》报道，人工智能公司Anthropic已将其最新一轮融资目标从100亿美元提高至200亿美元，估值预计达到3500亿美元。该轮融资预计很快完成，主要投资者包括红杉资本、新加坡主权财富基金和Coatue。此前，Anthropic在2025年9月曾完成130亿美元融资，估值为1830亿美元。公司同时正为可能在今年进行的IPO做准备，其开发的AI模型Claude和Claude Code广受市场欢迎。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?w=1024",
+            "url": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI发布Prism，一款类似Claude Code的科研辅助应用",
+            "time": "2026-01-27",
+            "source": "Engadget",
+            "summary": "OpenAI发布了名为Prism的新应用，旨在为科学研究提供类似Claude Code对编程的辅助功能。Prism基于OpenAI收购的LaTeX平台Crixet，整合了GPT-5.2模型，可帮助科研人员自动生成、编辑和格式化科学论文，包括处理LaTeX代码、生成参考文献、设计课程与习题等。该应用免费向所有个人ChatGPT用户开放，支持无限项目与协作者，未来将扩展至企业及教育版。OpenAI强调AI在科研中的作用应增强效率而非取代责任，确保研究人员保持控制权。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/E7YfGGrdfFJmbEKVrJZ1EA--~B/aD0yMTYwO3c9Mzg0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Prism_Graphic_16x9.png",
+            "url": "https://www.engadget.com/ai/openai-releases-prism-a-claude-code-like-app-for-scientific-research-180000454.html",
+            "category": "AI"
+        },
         {
             "title": "OpenAI绝地反击，Codex大脑首曝，8亿用户极限架构硬刚Claude",
             "time": "2026-01-26",
