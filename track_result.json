@@ -1,12 +1,57 @@
 {
     "微软": [
         {
+            "title": "微软Q2财报：云业务强劲增长，游戏业务下滑",
+            "time": "2026-01-29",
+            "source": "The Verge",
+            "summary": "微软2026财年第二季度财报显示，云业务收入突破500亿美元，同比增长26%，其中Azure等云服务收入增长39%。AI芯片Maia 200发布，助力GPT-5.2等模型部署。Windows 11用户突破10亿，推动OEM收入增长。但个人计算业务整体下滑3%，Xbox硬件收入暴跌32%，游戏整体收入下降9%，主要受前一年内容表现强劲影响。Surface设备未发布新品，Game Pass订阅数未更新。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/maia200hero.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
+            "category": "游戏"
+        },
+        {
+            "title": "目前最好的Xbox控制器购买指南",
+            "time": "2026-01-29",
+            "source": "The Verge",
+            "summary": "本文详细评测了多款Xbox控制器，推荐Xbox无线控制器为最全面性价比之选，适合大多数玩家；8BitDo有线控制器是预算友好型首选，具备霍尔效应摇杆和可编程按键；Xbox Elite系列2为高端专业玩家提供深度自定义功能，但存在质量不稳定问题；Razer Wolverine V3 Pro和GameSir G7 Pro等替代品则以霍尔效应或TMR技术提供抗漂移优势。文章还提及Hyperkin Competitor等适合多平台用户的控制器，并分析了各型号的连接方式、自定义功能与价格。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Best-Xbox-Controller.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s",
+            "category": "游戏"
+        },
+        {
             "title": "微软获准在威斯康星州芒特普莱森特建造15个数据中心",
             "time": "2026-01-28",
             "source": "The Verge",
             "summary": "微软已获得批准，在威斯康星州芒特普莱森特前富士康地块上建设15个新的数据中心。该地块此前曾因富士康的制造项目引发关注，但项目最终未能实现。此次扩建将显著增强微软在中西部地区的云计算基础设施能力，支持其AI和云服务的持续增长。该项目预计带来大量就业和地方经济投资，同时也引发对能源消耗和环境影响的讨论。相关报道指出，该地块的土地用途变更已通过当地政府审批。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252647807.jpg?quality=90&strip=all&crop=0%2C5.7291666666667%2C100%2C88.541666666667&w=2400",
             "url": "https://www.theverge.com/news/869047/microsoft-gets-approval-to-build-15-data-centers-in-mount-pleasant-wisconsin",
+            "category": "其他"
+        },
+        {
+            "title": "微软上季度从OpenAI获得76亿美元收益",
+            "time": "2026-01-28",
+            "source": "TechCrunch",
+            "summary": "微软在其最新财季财报中披露，因投资OpenAI获得76亿美元净收益。作为OpenAI的主要投资者，微软通过其20%的收入分成协议及巨额Azure云服务采购承诺（2500亿美元）从中获益。OpenAI正寻求高达8300亿美元估值的新一轮融资。此外，微软在本季度资本支出达375亿美元，主要用于AI算力基础设施。同时，微软与Anthropic的合作也推动了其未来收入增长，云计算收入首次突破500亿美元。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI 的最强对手，离「AI Windows」又近了一步",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "Anthropic 推出 Model Context Protocol (MCP) 协议，使 Claude 模型能安全、深度集成 Figma、GitHub、Canva 等生产力工具，实现自然语言直接调度外部应用，突破传统 AI 聊天机器人的局限。该协议以精选方式优先保障体验，强调权限控制与数据安全，被视为构建 AI 时代「操作系统」的关键一步，与 OpenAI 的开放平台策略形成鲜明对比，有望重塑 AI 工作流生态。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/77052eab-fc16-11f0-8bab-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22035",
+            "category": "AI"
+        },
+        {
+            "title": "Windows 11即将支持跨设备恢复Android应用",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "微软正在为Windows 11推出增强版跨设备恢复功能，允许用户在PC上继续手机上的Spotify播放、Office文档编辑和Edge浏览器会话。该功能作为Windows 11最新发布预览版的一部分已开始推送，类似苹果的Handoff功能。此前该功能仅支持OneDrive会话恢复，此次扩展至更多主流应用，标志着微软在设备协同体验上的重要进展。此外，更新还包含MIDI 2.0支持、语音输入优化和Windows Hello增强登录功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Resume-Taskbar-Alert-Spotify-Launch.png?quality=90&strip=all&crop=0,0,100,100",
+            "url": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
             "category": "其他"
         },
         {
@@ -462,6 +507,33 @@
     ],
     "索尼": [
         {
+            "title": "《马拉松》PS5新主题上线遭玩家吐槽：太不用心了！",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "索尼为《失落星船：马拉松》上线PS5游戏主题，但因仅使用静态游戏美术图、无任何动画效果，遭到玩家广泛吐槽，被称为“最不用心的主题作品”。玩家指出，官方主题应具备专属动画与独特素材，而当前设计远逊于玩家自制主题，期待游戏3月发售后能推出更优质内容。此外，索尼同步推送了PS5/PS4系统固件更新，但采用分阶段推送，部分用户尚未收到通知。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012985312672.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996427.html",
+            "category": "游戏"
+        },
+        {
+            "title": "《天国：拯救》PS5强化版或将上线！支持4K高帧率",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "尽管战马工作室尚未正式确认，但《天国：拯救》PS5强化版已现明确迹象，PlayStation商店页面更新了“已为PlayStation 5更新”的标注，预计将支持4K分辨率、高清晰度纹理与优化帧率，属技术适配而非内容重制，无新增剧情或系统重构。该版本或将于2026年2月随索尼State of Show亮相，PC版预计无变化。系列新作《天国：拯救2》销量已突破400万份，口碑优异，为强化版带来极高关注度。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012992836302.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/996469.html",
+            "category": "游戏"
+        },
+        {
+            "title": "PS5现已支持消息已读回执功能",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "索尼今日开始为PlayStation 5推送系统更新，新增消息已读回执功能，允许玩家确认是否已阅读好友消息。此次更新还优化了好友动态小部件与欢迎中心之间的导航体验，并包含常规的性能与稳定性改进。该功能旨在提升社交互动体验，用户可在设置中自主开启或关闭。索尼官方已发布相关更新说明，适用于所有PS5主机。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Tom_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869151/sony-ps5-update-read-receipts-features",
+            "category": "游戏"
+        },
+        {
             "title": "《生化危机9》PS5有专属强化：从撕咬感到子弹上膛声",
             "time": "2026-01-27",
             "source": "游侠网",
@@ -806,6 +878,15 @@
     ],
     "任天堂": [
         {
+            "title": "还能打？XSS《最终幻想7 RE》纹理质量比Switch2更好",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "近日，《最终幻想7：重制过渡版》登陆Xbox Series S/X与任天堂Switch 2平台。技术分析显示，尽管Xbox Series S内存低于Switch 2，但其通过定制化AMD Zen 2处理器与高效纹理加载技术，在纹理细节上反超Switch 2，表现接近Xbox Series X与PS5水准。Switch 2版本采用PS4/PS5素材混合方案，虽获DLSS支持，但整体画质略逊。Xbox Series S提供1080P/60帧与1440P/30帧两种性能模式，形成与Series X、PS5的差异化画质阶梯。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012991119602.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996455.html",
+            "category": "游戏"
+        },
+        {
             "title": "广受好评的《Orwell》监控惊悚系列现已登陆 Nintendo Switch，并完全兼容 Nintendo Switch 2",
             "time": "2026-01-27",
             "source": "游侠网",
@@ -1096,12 +1177,30 @@
     ],
     "腾讯": [
         {
+            "title": "首批 H200 AI 芯片字节跳动、阿里、腾讯获采购资格",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "中国正式批准首批NVIDIA H200 AI芯片入境，字节跳动、阿里巴巴、腾讯成为首批获准采购企业，合计可购入超40万颗。此举被视为中美科技博弈中的阶段性妥协，既满足国内算力需求，又控制进口依赖。H200性能仅次于B200，约为中国特供版H20的6倍。审批虽开放，但附带未公开合规条件，部分企业仍无法立即下单。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012990008624.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996425.html",
+            "category": "AI"
+        },
+        {
             "title": "刚刚腾讯云上线Clawdbot一键部署保姆级教程，一个月仅需40元",
             "time": "2026-01-28",
             "source": "AITNT",
             "summary": "Clawdbot是一款由AI自动生成代码的个人AI助手，支持在本地或云服务器运行，强调数据自主与隐私保护。其核心优势在于与常用聊天软件无缝对接、交互自然、权限完整。腾讯云轻量应用服务器Lighthouse已上线Clawdbot一键部署模板，用户可通过2核2G配置以每月约40元成本快速部署，无需复杂环境配置。文章详细指导了如何通过应用模板购买或重装服务器，并完成Clawdbot的初始化配置，推荐使用海外地域以优化网络连接。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/28/d54e045c-fb9f-11f0-b583-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=22011",
+            "category": "AI"
+        },
+        {
+            "title": "腾讯混元图像3.0图生图开源，LMArena跻身全球第一梯队，开源最强",
+            "time": "2026-01-28",
+            "source": "量子位",
+            "summary": "腾讯混元团队开源混元图像3.0图生图模型（HunyuanImage 3.0-Instruct），在权威大模型竞技场LMArena的图像编辑榜单中位列全球第七，成为前七名中唯一开源的模型。该模型基于80B参数混合专家架构，支持增删改、风格变换、多图融合等复杂编辑功能，并采用“先思考，后编辑”工作流程，显著提升编辑精准度。模型已在腾讯元宝平台上线，用户可上传图片并输入指令进行创意编辑，广泛适用于社交、电商、游戏设计等场景。开源代码已发布于GitHub和Hugging Face，助力全球开发者二次开发。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/b05020be62f8bd67d9210a46566e5bf9.jpeg",
+            "url": "https://www.qbitai.com/2026/01/373580.html",
             "category": "AI"
         },
         {
@@ -1357,6 +1456,24 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/868488/googles-more-affordable-ai-plus-plan-is-now-available-in-the-us",
             "category": "AI"
+        },
+        {
+            "title": "Gemini 3「开眼」像素级操控！谷歌回应DeepSeek-OCR2",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "谷歌DeepMind推出Gemini 3 Flash的Agentic Vision新能力，通过「思考-行动-观察」闭环，使模型能主动编写Python代码对图像进行像素级操控，如裁剪、标注、视觉数学计算等，显著提升视觉理解准确率。该技术突破传统AI被动看图模式，实现主动交互式视觉推理，已在Google AI Studio和Vertex AI上线。文章推测此举是对DeepSeek-OCR2的回应，双方分别以「用手算」和「用心看」两种路径争夺视觉AI定义权。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/008042bd-fc31-11f0-b071-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22044",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌Android for PC界面泄露，代号Aluminium OS",
+            "time": "2026-01-28",
+            "source": "Engadget",
+            "summary": "谷歌正在开发名为Aluminium OS的Android桌面系统，其界面融合了ChromeOS与Android的设计元素，包括底部任务栏、顶部状态栏、窗口化应用、分屏多任务及桌面版Chrome扩展按钮。该泄露信息源自一份Google Issue Tracker中的bug报告，由9to5Google率先发现，报告中包含HP Elite Dragonfly Chromebook的屏幕录制视频，显示系统标识为Android 16，且系统代号为ALOS。目前谷歌尚未对此作出回应，预计将在未来Android 16更新中正式公布。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/Xqr9m7YkRIaaU.KnqIgDOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/d697b400-fc43-11f0-beff-48ed3a57f6d3",
+            "url": "https://www.engadget.com/computing/our-first-look-at-googles-android-for-pc-interface-leaks-in-a-bug-report-133006008.html",
+            "category": "其他"
         },
         {
             "title": "谷歌更实惠的AI Plus计划现已在全球所有市场推出，包括美国",
@@ -2006,6 +2123,15 @@
             "summary": "Meta在过去几个月投入640万美元开展广告活动，试图改善公众对数据中心建设的负面观感，强调其为爱荷华州阿尔图纳和新墨西哥州洛斯卢纳斯等农村地区创造就业、振兴社区。广告以温情叙事呈现员工家庭生活，但现实面临能源消耗和电网压力等质疑。类似地，Digital Realty、QTS等数据中心运营商也计划展开游说应对公众抵制，多地因能源成本飙升和用水担忧已取消数十亿美元的数据中心项目。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951355/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+            "category": "其他"
+        },
+        {
+            "title": "Meta去年在VR上亏损190亿美元，2026年前景依旧黯淡",
+            "time": "2026-01-28",
+            "source": "TechCrunch",
+            "summary": "Meta旗下虚拟现实部门Reality Labs在2025年亏损高达191亿美元，略高于2024年的177亿美元，第四季度单季亏损达62亿美元，而同期营收仅为22亿美元。尽管CEO扎克伯格表示未来将聚焦智能眼镜和Horizon平台，并称2026年或为亏损峰值，但公司已裁撤VR团队约10%员工、关闭多个VR工作室，并退役Workrooms应用，显示出对VR业务兴趣减弱。市场对元宇宙愿景的质疑持续存在，Meta正逐步将资源转向AI领域。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/",
             "category": "其他"
         },
         {
@@ -2697,12 +2823,57 @@
     ],
     "OpenAI": [
         {
+            "title": "斯坦福实测GPT-5与Claude 4.5“双盲实验”。AI编程，没有协作类产品的原因找到了",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "斯坦福大学发布CooperBench基准测试，揭示当前主流AI模型（如GPT-5、Claude 4.5）在AI编程协作中存在严重“协作诅咒”：双盲协作成功率较单兵作战下降30%-50%。研究发现，AI缺乏“心智理论”，无法进行语义协调，虽能避免代码行冲突，却无法理解逻辑依赖与意图，导致合并后功能错误。沟通无效、承诺失效与预期错位是三大失败主因，表明社会智能是独立于代码能力的另一关键维度。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/a901868a-fcb7-11f0-a1c2-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22054",
+            "category": "AI"
+        },
+        {
             "title": "OpenAI凌晨放大招，免费Prism颠覆科研！从摘要到致谢，GPT-5.2包圆",
             "time": "2026-01-28",
             "source": "AITNT",
             "summary": "OpenAI发布全新AI科研工具Prism，基于GPT-5.2构建的云端LaTeX工作区，全面整合论文起草、公式编辑、文献管理、图表转换与实时协作功能，支持无限协作者且完全免费。Prism深度嵌入写作流程，可自动处理摘要、致谢、参考文献及TikZ图生成，显著提升科研效率，被指将取代Overleaf，推动科研工作流进入AI原生时代。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/28/141fd5bc-fbdc-11f0-9f93-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=22012",
+            "category": "AI"
+        },
+        {
+            "title": "微软上季度从OpenAI获得76亿美元收益",
+            "time": "2026-01-28",
+            "source": "TechCrunch",
+            "summary": "微软在其最新财季财报中披露，因投资OpenAI获得76亿美元净收益。作为OpenAI的主要投资者，微软通过其20%的收入分成协议及巨额Azure云服务采购承诺（2500亿美元）从中获益。OpenAI正寻求高达8300亿美元估值的新一轮融资。此外，微软在本季度资本支出达375亿美元，主要用于AI算力基础设施。同时，微软与Anthropic的合作也推动了其未来收入增长，云计算收入首次突破500亿美元。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI 的最强对手，离「AI Windows」又近了一步",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "Anthropic 推出 Model Context Protocol (MCP) 协议，使 Claude 模型能安全、深度集成 Figma、GitHub、Canva 等生产力工具，实现自然语言直接调度外部应用，突破传统 AI 聊天机器人的局限。该协议以精选方式优先保障体验，强调权限控制与数据安全，被视为构建 AI 时代「操作系统」的关键一步，与 OpenAI 的开放平台策略形成鲜明对比，有望重塑 AI 工作流生态。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/77052eab-fc16-11f0-8bab-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22035",
+            "category": "AI"
+        },
+        {
+            "title": "像Vibe Coding一样写论文！OpenAI发布免费科研写作平台",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "OpenAI发布免费科研写作平台Prism，集成GPT-5.2模型于在线LaTeX编辑器，支持一键生成公式代码、自动识别手写推导、文献检索与BibTeX插入，并具备数学推导校验与实时协作功能。该平台旨在通过AI接管科研中的重复性任务，提升科学写作效率，被评价为可能取代Overleaf。OpenAI还透露其AI4S战略，计划推动2026年成为科学界的AI变革年，强调模型需具备‘认识论谦逊’以减少幻觉。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/6ed50544-fc07-11f0-9fd4-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22028",
+            "category": "AI"
+        },
+        {
+            "title": "奥特曼亲口承认 GPT-5.2 搞砸了，这是 OpenAI CEO 最特别的一次直播",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "OpenAI CEO 奥特曼在一场与AI开发者闭门研讨会中坦承GPT-5.2为强化编码能力牺牲了写作性能，并表示后续版本将修复。他展望未来个人定制化AI应用将成为主流，强调人类创造力与独特视角在AI时代的核心价值。同时，他预测GPT-5.2级别智能成本将在2027年底降低百倍，并认为学历在AI创业中不再关键，而高能动性、适应力与创意生成能力才是核心技能。他还透露记忆共享与Token跨应用流通是未来目标，但隐私安全仍需谨慎权衡。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/d69cfe1f-fc1a-11f0-b717-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22038",
             "category": "AI"
         },
         {
@@ -3500,6 +3671,15 @@
     ],
     "苹果": [
         {
+            "title": "传苹果、英伟达考虑2028非核心芯片转单英特尔代工",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "受地缘政治风险、美国政府施压及台积电产能紧张影响，苹果与英伟达正考虑在2028年将部分非核心芯片交由英特尔美国工厂代工生产与封装。苹果拟将入门级M系列处理器转由英特尔18A或14A制程生产，以分散供应链风险；英伟达则计划在英特尔工厂生产Feynman GPU的部分I/O裸晶，并采用EMIB技术进行封装。目前两家公司尚未确认该计划，英特尔能否在2028年前实现量产、技术适配与性能达标仍是关键挑战。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012983819583.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/996421.html",
+            "category": "其他"
+        },
+        {
             "title": "应用开发商起诉苹果利用Continuity Camera打压Camo产品",
             "time": "2026-01-28",
             "source": "The Verge",
@@ -3515,6 +3695,60 @@
             "summary": "The Verge报道，苹果的AirTag皮革挂绳和皮革钥匙圈目前在Woot平台打折，价格分别降至14.99美元，原价分别为40美元和35美元。尽管这些配件已停产，但其耐用性和设计仍被推荐为实用选择。文章还提及苹果近期发布了新款AirTag，但用户仍需配件将其固定在钥匙等物品上。此次折扣为消费者提供了性价比高的购买机会。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24952884/Apple_Leather_AirTag_Loop_Official_Press_Image.jpg?quality=90&strip=all&crop=16.714285714286%2C0%2C66.571428571429%2C100&w=2400",
             "url": "https://www.theverge.com/gadgets/868890/apple-airtag-leather-loop-deal-sale",
+            "category": "其他"
+        },
+        {
+            "title": "苹果要求Patreon在11月前将创作者迁移至应用内购买订阅系统",
+            "time": "2026-01-28",
+            "source": "TechCrunch",
+            "summary": "苹果要求Patreon在2026年11月1日前，将其所有仍使用旧版计费系统的创作者迁移至苹果应用内购买系统，以确保苹果收取30%的佣金。Patreon虽表示将遵守该规定，但批评苹果政策反复无常，过去18个月内已三次更改规则，给创作者带来巨大不确定性。Patreon已推出多项工具协助创作者过渡，包括计价调整、赠品和年度订阅选项，但强调苹果应提供更稳定的政策环境。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/",
+            "category": "社交"
+        },
+        {
+            "title": "Apple Creator Studio 现已上线，月费13美元，含专业创意应用套件",
+            "time": "2026-01-28",
+            "source": "Engadget",
+            "summary": "苹果公司推出Apple Creator Studio订阅服务，月费12.99美元或年费129美元，整合Final Cut Pro、Logic Pro、Pixelmator Pro等六大专业创意应用。该服务在Mac上提供完整功能，在iPad上仅限核心三款应用，iPhone则仅解锁Keynote、Pages等应用的高级模板与AI功能。教育用户享大幅折扣，且购买新设备可获三个月免费。部分应用在iPad上仅可通过订阅获取，Mac端仍保留一次性购买选项。新功能包括AI辅助的节拍检测、智能素材库和图像修复工具。",
+            "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Apple-Creator-Studio-hero_571x321.jpg.large.jpg",
+            "url": "https://www.engadget.com/apps/apple-creator-studio-is-now-available-for-13-per-month-whats-included-and-what-it-means-for-creators-130000475.html",
+            "category": "社交"
+        },
+        {
+            "title": "因苹果要求，Patreon创作者须在11月前切换至订阅计费系统",
+            "time": "2026-01-28",
+            "source": "Engadget",
+            "summary": "苹果公司要求Patreon所有创作者必须在2026年11月1日前切换至其App Store订阅计费系统，否则将面临应用下架风险。Patreon对此表示强烈反对，称这是过去18个月内苹果第三次政策反转，给创作者带来巨大不确定性。尽管目前仅4%的创作者使用受影响的旧计费模式，且用户仍可通过网页绕过苹果抽成，但此举再次引发对苹果“应用商店税”垄断行为的争议。文章还提及苹果近期其他争议，包括删除举报ICE的App与放任深度伪造性侵内容。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/ikUrmfaF3nY5CAIWmOHj3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/uu/api/res/1.2/rnQ_g6pZzXahdPnkx7nMYQ--~B/aD0xMDM3O3c9MTg0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/patreon.jpg",
+            "url": "https://www.engadget.com/big-tech/patreon-creators-have-to-switch-to-subscription-billing-by-november-thanks-to-apple-203759852.html",
+            "category": "社交"
+        },
+        {
+            "title": "《Ted Lasso》第四季将于夏季登陆Apple TV",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "Apple TV+确认《Ted Lasso》第四季将于今年夏季上线，故事将聚焦主角Ted Lasso接手AFC里士满新成立的女子足球队。本季将回归原班人马包括Jason Sudeikis、Hannah Waddingham等，并加入新演员如Tanya Reynolds和Jude Mack。制片团队新增《30 Rock》和《摩登家庭》编剧Jack Burditt担任执行制片人。此举是Apple TV+扩大流媒体影响力战略的一部分，继品牌重塑和引入《Pluribus》等重磅剧集后，重启热门喜剧以巩固用户基础。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/unnamed.png?quality=90&strip=all&crop=0%2C0.27195027195027%2C100%2C99.456099456099&w=2400",
+            "url": "https://www.theverge.com/streaming/869239/ted-lasso-season-4-apple-tv-date",
+            "category": "社交"
+        },
+        {
+            "title": "Halide联合创始人加入苹果设计团队",
+            "time": "2026-01-28",
+            "source": "Engadget",
+            "summary": "苹果公司近日迎来一位重要设计人才——iPhone摄影应用Halide的联合创始人Sebastiaan de With。他通过Threads宣布加入苹果，并表示期待与全球顶尖团队合作。de With曾参与iCloud、MobileMe等苹果核心应用的设计，其创立的Lux公司旗下多款摄影应用深获用户喜爱。此次加入被视为苹果在创意工具设计领域的重要布局，但其离开是否影响Halide及旗下Kino、Spectre等应用尚不明确。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/bDtPyNa3dx4IfZkXZWRJGA--~B/aD0xMTczO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Halide_app.png",
+            "url": "https://www.engadget.com/big-tech/halide-co-founder-joins-apples-design-team-235023416.html",
+            "category": "其他"
+        },
+        {
+            "title": "苹果第二代AirTag提供更远范围但仍无钥匙孔",
+            "time": "2026-01-28",
+            "source": "Engadget",
+            "summary": "苹果发布了第二代AirTag，售价29美元，搭载第二代超宽带芯片，定位范围提升50%，音量也提高50%，并配有新的提示音。新AirTag支持与Apple Watch Series 9、Ultra 2及后续型号的精准查找功能，但仍延续了无钥匙孔的设计，用户需借助第三方配件固定。该产品通过Find My网络实现蓝牙定位，延续了其作为iPhone用户首选蓝牙追踪器的地位。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/0SPssj8kZ9WdDqTMQrLQGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTExNjk-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-01/a0306be0-fac3-11f0-bf75-60455910936b",
+            "url": "https://www.engadget.com/wearables/apples-second-generation-airtag-offers-greater-range-but-still-doesnt-have-a-keyring-hole-150540407.html",
             "category": "其他"
         },
         {
@@ -4008,6 +4242,33 @@
     ],
     "阿里巴巴": [
         {
+            "title": "刚刚，阿里AI芯片“真武810E”来了，已实现多个万卡集群部署",
+            "time": "2026-01-29",
+            "source": "36氪",
+            "summary": "阿里巴巴旗下平头哥公司正式发布自研AI训推一体芯片真武810E，采用96GB HBM2e内存和自研ICN片间互联技术，片间带宽达700GB/s，已成功部署多个万卡集群，服务国家电网、中科院、小鹏汽车等400多家客户。该芯片广泛应用于千问大模型训练、自动驾驶、AI推理及多模态模型场景，性能超越英伟达A800，与H20相当，部分升级版甚至强于A100。真武810E与通义实验室、阿里云共同构成“通云哥”全栈AI体系，实现软硬件协同优化，推动AI算力普惠化。",
+            "image_url": "https://img.36krcdn.com/hsossms/20260129/v2_50e9e87242c44b41872afc58cdd5302c@5091053_oswg438962oswg1000oswg431_img_000?x-oss-process=image/format,jpg/interlace,1",
+            "url": "https://36kr.com/p/3659875869483649",
+            "category": "AI"
+        },
+        {
+            "title": "首批 H200 AI 芯片字节跳动、阿里、腾讯获采购资格",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "中国正式批准首批NVIDIA H200 AI芯片入境，字节跳动、阿里巴巴、腾讯成为首批获准采购企业，合计可购入超40万颗。此举被视为中美科技博弈中的阶段性妥协，既满足国内算力需求，又控制进口依赖。H200性能仅次于B200，约为中国特供版H20的6倍。审批虽开放，但附带未公开合规条件，部分企业仍无法立即下单。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012990008624.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996425.html",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro",
+            "time": "2026-01-28",
+            "source": "量子位",
+            "summary": "DeepSeek开源了新一代OCR模型DeepSeek-OCR 2，通过弃用CLIP、引入轻量级Qwen2-0.5B语言模型构建DeepEncoder V2，实现视觉标记的因果推理与语义重排，显著提升文档布局理解能力。该模型在OmniDocBench v1.5基准上性能提升3.73%，达到91.09%，媲美Gemini-3 Pro，同时保持高压缩率和轻量化设计。模型采用双流注意力机制，弥合2D视觉与1D语言建模鸿沟，并已开源至GitHub和Hugging Face。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/9ad349e8c6796e9d715acd233e1ed7aa.png",
+            "url": "https://www.qbitai.com/2026/01/373447.html",
+            "category": "AI"
+        },
+        {
             "title": "阿里入局核电，三股力量强推，全球核电迎来全面复兴",
             "time": "2026-01-27",
             "source": "钛媒体",
@@ -4199,6 +4460,15 @@
     ],
     "百度": [
         {
+            "title": "TTC 完成 A 轮千万美元融资，聚焦 AI Agent 与大模型研发，厚雪资本领投、百度战略投资",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "北京才多对信息技术有限公司（TTC）宣布完成千万美元级A轮融资，由厚雪资本领投、百度战略投资。公司聚焦AI Agent与大模型技术研发，核心产品「小麦招聘」通过将猎头专业逻辑转化为AI智能体，实现人才匹配智能化，已获百度“文心杯”等多项大奖。团队兼具资深猎头与AI技术背景，2025年服务超千家AI企业，营收同比增长超50%。融资将用于深化技术落地与人才服务生态建设。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/bf76fc4a-fcc2-11f0-be78-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22066",
+            "category": "AI"
+        },
+        {
             "title": "百度网盘要赚钱养家了？",
             "time": "2026-01-25",
             "source": "钛媒体",
@@ -4228,10 +4498,46 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊游戏工作室负责人离职",
+            "time": "2026-01-29",
+            "source": "The Verge",
+            "summary": "亚马逊游戏工作室负责人克里斯托夫·哈特曼已离职，此举发生在公司于2025年宣布放弃大型多人在线游戏（MMO）并转向开发派对游戏之后。此前，亚马逊已关闭了其主打MMO游戏《新世界》的服务器并下架该作，显示其游戏战略发生重大调整。此次人事变动进一步表明亚马逊在游戏领域的战略收缩。报道由记者Jay Peters撰写，并引用了Bloomberg记者Jason Schreier的消息。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869511/the-head-of-amazon-game-studios-is-leaving",
+            "category": "游戏"
+        },
+        {
+            "title": "前亚马逊华人高管融资1500万美元，Spangle让AI实时生成每个顾客的专属店铺",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "前亚马逊高管Maju Kuruvilla与联合创始人Fei Wang创立的Spangle AI完成1500万美元A轮融资，估值达1亿美元。该公司利用AI模型ProductGPT，实时为每位访客生成个性化电商店铺页面，无缝衔接社交媒体、AI聊天工具等渠道的购物意图，显著提升转化率和广告回报率。其技术不依赖用户历史数据，而是基于即时意图动态生成体验，已服务REVOLVE等9家头部品牌，推动电商从静态展示向AI驱动的动态旅程转型。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/dbf8d80a-fcb8-11f0-9807-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22057",
+            "category": "AI"
+        },
+        {
             "title": "亚马逊关闭所有实体Go和Fresh商店",
             "time": "2026-01-28",
             "source": "The Verge",
             "summary": "亚马逊宣布关闭其大部分Amazon Go和Amazon Fresh实体门店，并将部分门店改造为Whole Foods Market门店，以集中资源扩展Whole Foods业务。尽管线下门店将陆续关闭，但Amazon Fresh的在线订购和当日配送服务仍将继续，并计划在未来一年内扩展至更多城市。同时，亚马逊还计划在未来几年开设超过100家新的Whole Foods门店，并推出自有品牌Amazon Grocery，提供逾千种高性价比商品。前Amazon Fresh首席商人John Farrell已离职。亚马逊仍将继续测试新型实体零售体验，如芝加哥的Amazon Grocery店和宾夕法尼亚的Whole Foods概念店。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252647807.jpg?quality=90&strip=all&crop=0%2C5.7291666666667%2C100%2C88.541666666667&w=2400",
+            "url": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊再次裁员16000人",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "亚马逊宣布再次裁员16000名员工，这是继2025年10月裁减14000名公司职位后的又一次大规模裁员。公司称此次调整旨在精简组织结构、减少层级并消除官僚主义，此次裁员占其35万企业员工总数不到5%。此前曾有传闻和意外的日历邀请泄露此次裁员计划，而此前的裁员也被部分归因于人工智能技术的发展。此次裁员聚焦于企业部门，未涉及物流或仓储岗位。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196111/IMG_5981_2.0.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869164/amazon-is-cutting-another-16000-jobs",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊关闭所有实体Go和Fresh门店",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "亚马逊宣布关闭其大部分Amazon Go和Amazon Fresh实体门店，并将部分门店改造为Whole Foods Market。尽管线下门店将停业，但Amazon Fresh的在线购物和当日送达服务仍将继续，并计划扩展至更多城市。同时，亚马逊计划在未来几年开设100多家新的Whole Foods门店，并推出自有品牌Amazon Grocery，提供逾千种高性价比商品。公司仍将继续测试新型实体零售体验，如芝加哥的Amazon Grocery门店和宾夕法尼亚的Whole Foods概念店。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252647807.jpg?quality=90&strip=all&crop=0%2C5.7291666666667%2C100%2C88.541666666667&w=2400",
             "url": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
             "category": "其他"
@@ -4844,6 +5150,15 @@
     ],
     "卡普空": [
         {
+            "title": "卡普空股价大涨！《生化危机9》预购量超预期推动",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "卡普空股价单日飙升12%，创下18个月最大涨幅，主要得益于《生化危机9：安魂曲》预购量超出公司预期，以及《街头霸王6》等作品的稳定表现。公司预计财年利润和销售额将超越此前预测，过去九个月累计游戏销量达3464万份，同比增长13.5%。《生化危机9》将于2026年2月27日发售，全球版本将统一血腥内容，不再为日本市场推出和谐版。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012984219981.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996443.html",
+            "category": "游戏"
+        },
+        {
             "title": "卡普空宣布《怪物猎人：荒野》全球销量突破1100万份",
             "time": "2026-01-27",
             "source": "游侠网",
@@ -4857,6 +5172,15 @@
             "time": "2026-01-27",
             "source": "GamesIndustry.biz",
             "summary": "卡普空公布截至2025年12月31日的九个月财务报告，运营收入同比增长75.1%至3.526亿美元，净销售额增长29.8%至7.488亿美元。主要增长动力来自《生化危机》和《街头霸王》系列，其中《生化危机4》和《生化危机：村庄》销量受益于新作《生化危机：重述》的发布预告，移动游戏《生化危机：生存单位》下载量超300万；《街头霸王6》全球销量突破600万份，得益于Switch 2版本发布。此外，《鬼泣5》和《怪物猎人》系列也贡献显著，数字内容总销量达3464万份。",
+            "image_url": "https://assetsio.gnwcdn.com/resident-evil_tGHV5Ee.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/resident-evil-and-street-fighter-franchises-boost-capcoms-latest-financials",
+            "category": "游戏"
+        },
+        {
+            "title": "《生化危机》和《街头霸王》系列推动卡普空最新财务表现",
+            "time": "2026-01-27",
+            "source": "GamesIndustry.biz",
+            "summary": "卡普空公布截至2025年12月31日的九个月财务报告，运营收入同比增长75.1%至3.526亿美元，净销售额增长29.8%至7.488亿美元。主要增长动力来自《生化危机》和《街头霸王》系列，其中《生化危机4》和《生化危机：村庄》销量受益于新作《生化危机：重述》的发布预告，移动游戏《生化危机：生存单位》下载量突破300万；《街头霸王6》全球销量超600万份。此外，《鬼泣5》和《怪物猎人》系列也贡献显著，数字内容板块总销量达3464万份。",
             "image_url": "https://assetsio.gnwcdn.com/resident-evil_tGHV5Ee.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
             "url": "https://www.gamesindustry.biz/resident-evil-and-street-fighter-franchises-boost-capcoms-latest-financials",
             "category": "游戏"
@@ -4917,7 +5241,26 @@
         }
     ],
     "知乎": [],
-    "Patreon": [],
+    "Patreon": [
+        {
+            "title": "苹果要求Patreon在11月前将创作者迁移至应用内购买订阅系统",
+            "time": "2026-01-28",
+            "source": "TechCrunch",
+            "summary": "苹果要求Patreon在2026年11月1日前，将其所有仍使用旧版计费系统的创作者迁移至苹果应用内购买系统，以确保苹果收取30%的佣金。Patreon虽表示将遵守该规定，但批评苹果政策反复无常，过去18个月内已三次更改规则，给创作者带来巨大不确定性。Patreon已推出多项工具协助创作者过渡，包括计价调整、赠品和年度订阅选项，但强调苹果应提供更稳定的政策环境。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/28/apple-tells-patreon-to-move-creators-to-in-app-purchase-for-subscriptions-by-november/",
+            "category": "社交"
+        },
+        {
+            "title": "因苹果要求，Patreon创作者须在11月前切换至订阅计费系统",
+            "time": "2026-01-28",
+            "source": "Engadget",
+            "summary": "苹果公司要求Patreon所有创作者必须在2026年11月1日前切换至其App Store订阅计费系统，否则将面临应用下架风险。Patreon对此表示强烈反对，称这是过去18个月内苹果第三次政策反转，给创作者带来巨大不确定性。尽管目前仅4%的创作者使用受影响的旧计费模式，且用户仍可通过网页绕过苹果抽成，但此举再次引发对苹果“应用商店税”垄断行为的争议。文章还提及苹果近期其他争议，包括删除举报ICE的App与放任深度伪造性侵内容。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/ikUrmfaF3nY5CAIWmOHj3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/uu/api/res/1.2/rnQ_g6pZzXahdPnkx7nMYQ--~B/aD0xMDM3O3c9MTg0NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/patreon.jpg",
+            "url": "https://www.engadget.com/big-tech/patreon-creators-have-to-switch-to-subscription-billing-by-november-thanks-to-apple-203759852.html",
+            "category": "社交"
+        }
+    ],
     "Reddit": [
         {
             "title": "Reddit网友分享“PS5手柄”被自家狗狗撕咬后的惨状",
@@ -4966,6 +5309,15 @@
         }
     ],
     "特朗普": [
+        {
+            "title": "库克与特朗普就明尼阿波利斯局势进行“良好对话”",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "苹果CEO蒂姆·库克在致员工的备忘录中表示，他对明尼阿波利斯联邦执法人员射杀抗议者亚历克斯·普雷蒂的事件感到心碎，并呼吁缓和局势。他称自己与特朗普总统进行了“良好对话”，分享了对尊严、尊重与人性的立场。此举引发外界对其与特朗普关系的批评，因库克此前曾多次通过捐款和公开互动讨好特朗普政府，与其早年倡导社会正义的形象形成鲜明对比。此举也反映了科技巨头在政治压力下平衡道德与商业利益的困境。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951501/VRG_Illo_STK170_L_Normand_TimCook_Positive.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869155/apple-tim-cook-president-trump-deescalate-minneapolis",
+            "category": "其他"
+        },
         {
             "title": "特朗普攻击与制裁下，欧洲寻求减少对美国科技依赖",
             "time": "2026-01-27",
@@ -5076,6 +5428,24 @@
         }
     ],
     "马斯克": [
+        {
+            "title": "Karpathy：回不去了，被AI伤了自尊！自曝手写代码能力退化，公开与CC协作心得！马斯克：时代精神的总结！CC之父：不会出现垃圾代码末日",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "Andrej Karpathy自曝在使用Claude AI辅助编程后，其手写代码能力显著退化，编程方式已从80%手写转变为80%依赖AI代理，认为AI已彻底改变其工作流。他指出AI虽大幅提升效率与创造力，但易产生隐蔽的概念性错误与过度复杂代码，呼吁保持人工监督。CC之父Boris Cherny证实其团队99%代码由Claude Code生成，并认为AI将提升代码质量而非引发“垃圾代码末日”。马斯克称其观点总结了时代精神，引发业界对AI编程未来与工程师角色转变的广泛讨论。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/60f1e549-fcbe-11f0-a682-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22058",
+            "category": "AI"
+        },
+        {
+            "title": "特斯拉投资20亿美元支持马斯克旗下xAI",
+            "time": "2026-01-28",
+            "source": "TechCrunch",
+            "summary": "特斯拉宣布投资20亿美元支持埃隆·马斯克旗下的人工智能公司xAI，尽管该投资此前曾遭股东否决。特斯拉在致股东信中表示，此举旨在加强其在物理世界部署AI的战略，与xAI共同推进Grok大模型、Optimus人形机器人等项目。双方已签署合作框架，特斯拉此前已为xAI提供Megapack电池并集成Grok聊天机器人至车辆中。此次投资预计在第一季度完成，标志着特斯拉与xAI在AI与机器人领域的深度协同。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?w=1024",
+            "url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+            "category": "AI"
+        },
         {
             "title": "ChatGPT正在从埃隆·马斯克的Grokipedia获取答案",
             "time": "2026-01-25",
@@ -5582,6 +5952,24 @@
     ],
     "三星": [
         {
+            "title": "入门级三星Galaxy Buds FE降价30美元",
+            "time": "2026-01-29",
+            "source": "The Verge",
+            "summary": "三星入门级真无线耳机Galaxy Buds FE目前在亚马逊和沃尔玛售价69.99美元，直降30美元，为自去年8月以来的最佳价格。文章还提到JBL Flip 7蓝牙音箱和Kindle Paperwhite电子书阅读器同步打折。Galaxy Buds FE以舒适贴合的翼尖设计和易用的触控操作为亮点，虽缺乏无线充电和多点连接，但音质和降噪表现优异，适合预算有限的用户。此外，文章推荐了其他几款值得关注的科技产品优惠。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25071236/DSCF3929.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/868870/samsung-galaxy-buds-fe-kindle-paperwhite-deal-sale",
+            "category": "其他"
+        },
+        {
+            "title": "TCL即将取代三星成为电视市场第一",
+            "time": "2026-01-28",
+            "source": "The Verge",
+            "summary": "根据Counterpoint Research的数据，中国电视制造商TCL在全球电视出货量上实现了20%的同比增长，距离超越连续20年占据榜首的三星仅一步之遥。TCL与索尼的合作协议若顺利推进，将进一步巩固其市场领先地位。这一趋势反映了全球电视行业格局的深刻变化，中国品牌正加速崛起并重塑竞争版图。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/image-34.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869103/tcl-about-to-unseat-samsung-in-tvs",
+            "category": "其他"
+        },
+        {
             "title": "三星Trifold手机售价近三千美元",
             "time": "2026-01-27",
             "source": "The Verge",
@@ -5772,6 +6160,33 @@
         }
     ],
     "英伟达": [
+        {
+            "title": "首批 H200 AI 芯片字节跳动、阿里、腾讯获采购资格",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "中国正式批准首批NVIDIA H200 AI芯片入境，字节跳动、阿里巴巴、腾讯成为首批获准采购企业，合计可购入超40万颗。此举被视为中美科技博弈中的阶段性妥协，既满足国内算力需求，又控制进口依赖。H200性能仅次于B200，约为中国特供版H20的6倍。审批虽开放，但附带未公开合规条件，部分企业仍无法立即下单。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012990008624.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996425.html",
+            "category": "AI"
+        },
+        {
+            "title": "传苹果、英伟达考虑2028非核心芯片转单英特尔代工",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "受地缘政治风险、美国政府施压及台积电产能紧张影响，苹果与英伟达正考虑在2028年将部分非核心芯片交由英特尔美国工厂代工生产与封装。苹果拟将入门级M系列处理器转由英特尔18A或14A制程生产，以分散供应链风险；英伟达则计划在英特尔工厂生产Feynman GPU的部分I/O裸晶，并采用EMIB技术进行封装。目前两家公司尚未确认该计划，英特尔能否在2028年前实现量产、技术适配与性能达标仍是关键挑战。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012983819583.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/996421.html",
+            "category": "其他"
+        },
+        {
+            "title": "比人类专家快2倍，斯坦福联合英伟达发布TTT-Discover：用「测试时强化学习」攻克科学难题",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "斯坦福大学与英伟达联合提出TTT-Discover方法，通过在测试阶段对大语言模型进行强化学习，使其在解决单个科学问题时持续自我优化。该方法在数学、GPU内核优化、算法设计和生物去噪等任务中均超越人类专家与现有AI模型，如在A100 GPU内核竞赛中实现50%性能提升，并在Erdős最小重叠问题上刷新纪录。其核心创新在于自适应熵目标函数与PUCT状态复用策略，聚焦于寻找最高奖励解而非平均表现，计算成本低，仅需数百美元即可完成单个问题求解。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/3fece7e5-fc16-11f0-9430-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22032",
+            "category": "AI"
+        },
         {
             "title": "斯坦福英伟达推出测试时强化学习：微调开源模型胜过顶级闭源模型，仅需几百美元",
             "time": "2026-01-27",
@@ -6090,6 +6505,24 @@
     ],
     "deepseek": [
         {
+            "title": "Gemini 3「开眼」像素级操控！谷歌回应DeepSeek-OCR2",
+            "time": "2026-01-28",
+            "source": "AITNT",
+            "summary": "谷歌DeepMind推出Gemini 3 Flash的Agentic Vision新能力，通过「思考-行动-观察」闭环，使模型能主动编写Python代码对图像进行像素级操控，如裁剪、标注、视觉数学计算等，显著提升视觉理解准确率。该技术突破传统AI被动看图模式，实现主动交互式视觉推理，已在Google AI Studio和Vertex AI上线。文章推测此举是对DeepSeek-OCR2的回应，双方分别以「用手算」和「用心看」两种路径争夺视觉AI定义权。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/28/008042bd-fc31-11f0-b071-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22044",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro",
+            "time": "2026-01-28",
+            "source": "量子位",
+            "summary": "DeepSeek开源了新一代OCR模型DeepSeek-OCR 2，通过弃用CLIP、引入轻量级Qwen2-0.5B语言模型构建DeepEncoder V2，实现视觉标记的因果推理与语义重排，显著提升文档布局理解能力。该模型在OmniDocBench v1.5基准上性能提升3.73%，达到91.09%，媲美Gemini-3 Pro，同时保持高压缩率和轻量化设计。模型采用双流注意力机制，弥合2D视觉与1D语言建模鸿沟，并已开源至GitHub和Hugging Face。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/9ad349e8c6796e9d715acd233e1ed7aa.png",
+            "url": "https://www.qbitai.com/2026/01/373447.html",
+            "category": "AI"
+        },
+        {
             "title": "又是中国团队！一条链接出片，电商AI视频迎来「DeepSeek时刻」",
             "time": "2026-01-27",
             "source": "AITNT",
@@ -6352,6 +6785,24 @@
         }
     ],
     "字节跳动": [
+        {
+            "title": "字节跳动李航博士新作：AI智能体的通用框架",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "字节跳动李航博士在JCST期刊发表论文，提出AI智能体的通用框架，涵盖软件与硬件智能体，核心由多模态大语言模型（MLLM）驱动，结合工具调用、长期记忆与强化学习，实现任务导向的推理与行动。框架与人脑信息处理机制在功能层面具有类比性，强调神经符号混合处理的重要性，并指出未来研究方向包括扩大数据规模、自主学习与安全可控性，同时警示奖励函数设计可能带来的风险。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/46502bdb-fcb7-11f0-ac53-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22050",
+            "category": "AI"
+        },
+        {
+            "title": "首批 H200 AI 芯片字节跳动、阿里、腾讯获采购资格",
+            "time": "2026-01-29",
+            "source": "游侠网",
+            "summary": "中国正式批准首批NVIDIA H200 AI芯片入境，字节跳动、阿里巴巴、腾讯成为首批获准采购企业，合计可购入超40万颗。此举被视为中美科技博弈中的阶段性妥协，既满足国内算力需求，又控制进口依赖。H200性能仅次于B200，约为中国特供版H20的6倍。审批虽开放，但附带未公开合规条件，部分企业仍无法立即下单。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012990008624.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996425.html",
+            "category": "AI"
+        },
         {
             "title": "TikTok仍处于宕机状态，最新进展汇总",
             "time": "2026-01-28",
@@ -6962,6 +7413,24 @@
     ],
     "月之暗面": [
         {
+            "title": "月之暗面三位联创深夜回应一切！3小时答全球网友23问，杨植麟剧透Kimi K3提升巨大",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "月之暗面三位联合创始人杨植麟、周昕宇与吴育昕在Reddit上进行3小时AMA问答，回应全球网友23个关键问题。杨植麟澄清Kimi K2.5并非蒸馏自Claude，其性能在多项基准测试中已超越Claude；并透露Kimi K3将在Kimi Linear基础上进行架构优化，预计性能将显著提升，即使未达10倍也有巨大进步。团队强调“把事情真正做成并落地”的价值观，分享了在算力受限下推动创新、平衡短期迭代与长期研究的经验，并介绍了智能体蜂群、视频生代码等前沿技术进展。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/66747489-fcb2-11f0-bb3a-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22047",
+            "category": "AI"
+        },
+        {
+            "title": "Kimi这波更新，我看是不想给WPS留活路了",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "Kimi发布K2.5大模型升级，全面增强Office办公场景的AI代理能力，可直接通过自然语言指令自动生成Excel数据分析、PPT汇报文档和Word深度报告，并自动完成数据联动、排版美化与图表生成。测试显示其能处理53万行销售数据、还原财报内容并输出出版级文档，显著提升办公效率，被指有望颠覆传统WPS等办公软件的使用模式。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/20283e80-fcb7-11f0-9abb-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22049",
+            "category": "AI"
+        },
+        {
             "title": "录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了",
             "time": "2026-01-28",
             "source": "量子位",
@@ -7064,6 +7533,15 @@
         }
     ],
     "MiniMax": [
+        {
+            "title": "MiniMax发布最新音乐模型MiniMax Music 2.5: 格莱美级创作，不再需要录音棚",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "MiniMax正式发布音乐模型MiniMax Music 2.5，实现段落级精准控制与物理级高保真两大突破，支持14种音乐结构标签，可精准控制前奏、副歌等段落。模型深度优化华语音乐风格，提升人声咬字、转音、和声协同等真实感，并自动适配摇滚、爵士等风格混音，支持100+种乐器录音室级混音，显著提升AI音乐的专业质感，让非专业用户也能创作格莱美级作品。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/6e02755b-fcb8-11f0-9f97-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22056",
+            "category": "AI"
+        },
         {
             "title": "MiniMax 已经彻底沦为了打工人的牛马…",
             "time": "2026-01-24",
@@ -7168,12 +7646,48 @@
     ],
     "Anthropic": [
         {
+            "title": "斯坦福实测GPT-5与Claude 4.5“双盲实验”。AI编程，没有协作类产品的原因找到了",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "斯坦福大学发布CooperBench基准测试，揭示当前主流AI模型（如GPT-5、Claude 4.5）在AI编程协作中存在严重“协作诅咒”：双盲协作成功率较单兵作战下降30%-50%。研究发现，AI缺乏“心智理论”，无法进行语义协调，虽能避免代码行冲突，却无法理解逻辑依赖与意图，导致合并后功能错误。沟通无效、承诺失效与预期错位是三大失败主因，表明社会智能是独立于代码能力的另一关键维度。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/a901868a-fcb7-11f0-a1c2-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22054",
+            "category": "AI"
+        },
+        {
+            "title": "所有顶尖AI实验室都失去了联创，除了Anthropic！",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "本文分析了全球顶尖AI实验室的联合创始人离职潮，指出OpenAI、DeepMind、xAI等机构多名创始成员相继离开，而Anthropic成为唯一七位联合创始人全员留任的公司。其员工留存率达80%，远超其他巨头，原因包括长期股权激励、安全使命、优质福利（如美食）及稳定的企业文化。文章还详细梳理了OpenAI、Thinking Machines、SSI、DeepMind和xAI的创始人变动情况，揭示AI行业人才流动背后的组织管理与文化差异。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/8bd6bb39-fcbe-11f0-b493-fa163e47d677.webp",
+            "url": "https://www.aitntnews.com/newDetail.html?newId=22059",
+            "category": "AI"
+        },
+        {
             "title": "被Anthropic指控侵权，Clawdbot改名Moltbot",
             "time": "2026-01-28",
             "source": "AITNT",
             "summary": "AI开源项目Clawdbot因被AI巨头Anthropic指控商标侵权，被迫更名为Moltbot。项目开发者Peter Steinberger在GitHub上获得近7万星，但更名后遭遇平台故障、账号被抢注及币圈诈骗骚扰。尽管资金匮乏、安全风险高，项目仍获自闭症与ADHD用户认可，被视为个性化AI助手。一用户让Moltbot管理投资组合，虽执行高效却导致全盘亏损，成为AI代理盲目执行的典型案例。项目初衷是赋能非典型用户，突破大厂交互限制。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/28/a60ebb94-fbe8-11f0-92a3-fa163e47d677.webp",
             "url": "https://m.aitntnews.com/newDetail.html?newId=22013",
+            "category": "AI"
+        },
+        {
+            "title": "爆火Clawdbot被Claude公司强制要求改名",
+            "time": "2026-01-28",
+            "source": "量子位",
+            "summary": "AI智能体Clawdbot因名称与Anthropic公司Claude过于相似，遭其强制要求更名。开发者Peter Steinberger虽称该名称未注册商标，但仍妥协，将其更名为Moltbot，寓意龙虾蜕壳，同时更新吉祥物为Molty。该工具因功能强大、可本地部署、支持多模型接入并具备自我进化能力，在GitHub获超72.2k星，带动Mac Mini销量激增。网友批评Anthropic此举为自毁口碑，认为Clawdbot本是免费宣传，更名或将促使用户转向开源替代方案。",
+            "image_url": "https://i.qbitai.com/wp-content/uploads/2026/01/d3b56dc97e7f998b92b6d95e520ae430.webp",
+            "url": "https://www.qbitai.com/2026/01/373401.html",
+            "category": "AI"
+        },
+        {
+            "title": "我做出了给长视频AI配乐的Claude Code Skills，Mureka V8新模型上大分",
+            "time": "2026-01-28",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXmXibPvXWTFzOLE7aukZDSkyVEianuicQEVpPswThUTExvicPlxicYQem5egn7tnc2ouP7LXbbhNH7SvRA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/sw-Gr4dfFZPVX_vr271N7w",
             "category": "AI"
         },
         {
