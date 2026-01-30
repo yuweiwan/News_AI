@@ -1,6 +1,19 @@
 {
     "微软": [
         {
+            "title": "微软CFO：Xbox部门收入暴跌是因为第一方游戏阵容拉胯",
+            "time": "2026-01-30",
+            "source": "游侠网",
+            "summary": "微软CFO艾米·胡德在财报会议上指出，Xbox部门在2026财年第二季度收入下滑主要因第一方游戏阵容薄弱，多款新作如《忍者龙剑传4》《Keeper》等表现不佳，仅《使命召唤：黑色行动7》勉强达标，但销量仍被竞品超越。同时，Xbox放弃独占策略、主机涨价及XGP涨价50%进一步削弱用户吸引力，平台未来仍高度依赖强劲的第一方内容输出以维持竞争力。",
+            "image_url": [
+                "https://img2.ali213.net/picfile/News/2026/01/30/584_20260130100122604.png",
+                "https://img2.ali213.net/picfile/News/2026/01/30/584_20260130100122507.png",
+                "https://img2.ali213.net/picfile/News/2026/01/30/584_20260130100121566.jpg"
+            ],
+            "url": "https://www.ali213.net/news/html/2026-1/996637.html",
+            "category": "游戏"
+        },
+        {
             "title": "微软Q2财报：云业务强劲增长，游戏业务下滑",
             "time": "2026-01-29",
             "source": "The Verge",
@@ -17,6 +30,33 @@
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Best-Xbox-Controller.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s",
             "category": "游戏"
+        },
+        {
+            "title": "微软报告第二季度游戏收入下降9%",
+            "time": "2026-01-29",
+            "source": "GamesIndustry.biz",
+            "summary": "微软公布2025年第四季度（截至12月31日）游戏业务收入为6.23亿美元，同比下降9%，主要受第一方游戏内容表现疲软和Xbox硬件销售大幅下滑32%影响。公司指出，此前一年第一方游戏表现强劲，导致同比基数较高。尽管PC玩家和云游戏流媒体时长创纪录，但微软预计下一季度游戏内容与硬件收入将继续下滑。同时，微软正在开发下一代Xbox硬件，并计划更稳定地在PlayStation 5上发布第一方游戏。",
+            "image_url": "https://assetsio.gnwcdn.com/image004-04165e41841930c0754b-dd52b7ee8b2c45e09b17.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/microsoft-reports-9-decrease-in-games-revenue-for-q2",
+            "category": "游戏"
+        },
+        {
+            "title": "微软靠OpenAI，一季狂赚528亿",
+            "time": "2026-01-29",
+            "source": "智东西",
+            "summary": "微软2026财年第二季度财报显示，其净利润同比增长60%至385亿美元，主要得益于对OpenAI的投资收益，单季净赚76亿美元（约合528亿元人民币），扭转了去年同期亏损。微软云收入首次突破500亿美元，智能云业务增速创四年新高。OpenAI贡献了商业剩余履约义务的45%，微软亦投资Anthropic以拓展AI生态。尽管股价因资本支出激增和依赖OpenAI引发担忧而盘后下跌，但整体AI驱动的营收增长已超越传统业务，标志着AI成为核心增长引擎。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/fe0a92a5-fce3-11f0-8e5b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22082",
+            "category": "AI"
+        },
+        {
+            "title": "Windows 11用户突破10亿，速度超过Windows 10",
+            "time": "2026-01-29",
+            "source": "The Verge",
+            "summary": "微软宣布Windows 11在发布1576天后用户数突破10亿，比Windows 10达成相同里程碑的速度更快。这一增长主要得益于Windows 10支持终止推动的升级潮，以及微软在假日季度的强劲表现。微软CEO萨提亚·纳德拉在财报电话会上确认了这一数据，并指出Windows 11用户同比增长超45%。该系统在企业与消费市场的普及加速，反映了微软在操作系统生态上的持续成功。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1247086031.jpg?quality=90&strip=all&crop=5.21%2C0%2C89.58%2C100&w=2400",
+            "url": "https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users",
+            "category": "其他"
         },
         {
             "title": "微软获准在威斯康星州芒特普莱森特建造15个数据中心",
@@ -525,12 +565,30 @@
             "category": "游戏"
         },
         {
+            "title": "你问我当初为什么买 PS5，当然是为了《GTA 6》",
+            "time": "2026-01-29",
+            "source": "动点科技",
+            "summary": "文章探讨了当前主机世代缺乏定义性游戏的现状，指出《GTA 6》可能是唯一有望重新定义PS5和Xbox Series X/S的重磅作品。尽管Rockstar Games面临创意核心离职、开发泄密和延期等挑战，但其过往作品的影响力仍让玩家对其充满期待。文章对比了上世代《最后生还者》《塞尔达传说》等游戏如何定义硬件，认为本世代至今缺乏同样级别的技术与文化标杆，而《GTA 6》的发布或将成为玩家验证主机价值的关键节点。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/ss_c494372930ca791bdc6221eca134f2270fb2cb9f.1920x1080.jpg",
+            "url": "https://cn.technode.com/post/2026-01-29/gta-6-ps5-xsx-generation-define/",
+            "category": "游戏"
+        },
+        {
             "title": "PS5现已支持消息已读回执功能",
             "time": "2026-01-28",
             "source": "The Verge",
             "summary": "索尼今日开始为PlayStation 5推送系统更新，新增消息已读回执功能，允许玩家确认是否已阅读好友消息。此次更新还优化了好友动态小部件与欢迎中心之间的导航体验，并包含常规的性能与稳定性改进。该功能旨在提升社交互动体验，用户可在设置中自主开启或关闭。索尼官方已发布相关更新说明，适用于所有PS5主机。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Tom_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
             "url": "https://www.theverge.com/news/869151/sony-ps5-update-read-receipts-features",
+            "category": "游戏"
+        },
+        {
+            "title": "索尼秋后算账!PSN玩家免费领的《古墓丽影暗影》被收",
+            "time": "2026-01-28",
+            "source": "游侠网",
+            "summary": "索尼PlayStation亚洲区近日处理了一起技术漏洞事件，该漏洞曾导致大量用户免费领取原价299港币的《古墓丽影：暗影 终极版》。目前索尼已向相关账户发起0元退款并收回游戏授权，使此前通过漏洞获取游戏的玩家无法再下载或运行该游戏，相当于约两个月的“白嫖”体验被终止。《古墓丽影：暗影》为2018年发售的重启系列第三部作品，以玛雅传说为背景，讲述劳拉阻止末世危机的冒险故事。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/28/584_2026012890900861.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/996281.html",
             "category": "游戏"
         },
         {
@@ -877,6 +935,15 @@
         }
     ],
     "任天堂": [
+        {
+            "title": "Fami通新一周销量榜：《最终幻想7RE》NS2版卖疯了！",
+            "time": "2026-01-30",
+            "source": "游侠网",
+            "summary": "Fami通公布了2025年1月19日至25日的游戏软硬件销量榜，《最终幻想7 重制版 Intergrade》Switch 2版首周销量达23,428份，登顶软件榜冠军。任天堂Switch 2主机销量高达72,086台，成为硬件榜第一。《马里奥赛车：世界》《集合啦！动物森友会》NS2版等也表现强劲。榜单显示Switch 2平台首发游戏热销，且《最终幻想7》系列在新平台获得极高市场反响。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/30/584_2026013093556745.jpg",
+            "url": "https://www.ali213.net/news/html/2026-1/996647.html",
+            "category": "游戏"
+        },
         {
             "title": "还能打？XSS《最终幻想7 RE》纹理质量比Switch2更好",
             "time": "2026-01-29",
@@ -1439,6 +1506,51 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "刚刚，谷歌开放世界模型Genie 3，人人可以创造交互世界",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "谷歌正式开放世界模型Genie 3的体验入口Project Genie，允许美国地区Google AI Ultra订阅用户通过Web应用实时生成并交互式探索AI构建的虚拟世界。用户可通过文本提示和参考图设定环境与角色，系统能根据用户移动实时生成连贯场景，支持世界衍生与重混。实测显示其在复杂建筑、高速移动下保持稳定，虽分辨率仅为720p，但已展现世界模型从概念走向可体验的重要突破。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/ef7e2246-fd78-11f0-85c2-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22088",
+            "category": "AI"
+        },
+        {
+            "title": "刚刚，谷歌DeepMind登Nature封面！人类40亿年生命代码「开源」了",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "谷歌DeepMind发布新一代AI模型AlphaGenome，登顶《Nature》封面，首次实现对人类基因组98%非编码区的高精度功能预测。该模型可一次性分析百万级DNA碱基对，精准预测基因突变对表达、剪接、染色质状态等多维度生物过程的影响，准确率达90%，在癌症突变预测等实战中表现卓越。AlphaGenome已开源，被喻为「基因组版AlphaGo」，有望加速遗传病诊断与疾病治疗研究，推动生命科学进入AI驱动的新范式。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/0cfe6dcc-fcd7-11f0-a7f3-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22069",
+            "category": "AI"
+        },
+        {
+            "title": "国产模型开源封神，谷歌Genie3紧急开源？蚂蚁AGI撕开世界模型闭源防线",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "蚂蚁灵波科技发布开源世界模型LingBot-World，全面对标并部分超越谷歌闭源模型Genie 3，在可交互性、物理一致性、长视频生成（达10分钟）和时空记忆方面表现卓越。该模型开源了代码、权重与数据管线，为虚拟世界构建、游戏Agent训练和具身智能提供了高保真仿真底座，打破技术垄断。其与同期开源的VLA模型形成“感知-行动-认知”闭环，推动Physical AI发展，引发全球AI社区热议，甚至促使Genie 3宣布将开源。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/f3b8b8be-fd10-11f0-a996-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22087",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌地图允许用户在步行和骑行时使用Gemini",
+            "time": "2026-01-29",
+            "source": "TechCrunch",
+            "summary": "谷歌宣布在Google Maps中新增功能，允许用户在步行或骑行时通过语音与AI助手Gemini进行交互，无需手动输入。用户可询问周边环境、推荐餐厅、查找带洗手间的咖啡馆、查询ETA或发送消息等。该功能旨在提升导航体验的便捷性与安全性，现已在全球iOS端上线，Android端逐步推送。此更新是谷歌将Gemini深度整合至日常应用的又一举措，此前已应用于驾驶模式、Chrome浏览器及Gmail等产品。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2020/06/google-maps-ios-icon.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
+            "category": "AI"
+        },
+        {
+            "title": "谷歌将支付1.35亿美元解决非法数据收集诉讼",
+            "time": "2026-01-29",
+            "source": "Engadget",
+            "summary": "谷歌同意支付1.35亿美元，以解决一起由Android用户提起的集体诉讼，指控其在用户不知情的情况下收集手机数据，即使应用已关闭或位置功能被禁用。原告称谷歌将数据用于营销和产品开发，构成法律上的“侵占”。根据协议，每位受影响用户最高可获赔100美元，谷歌将新增数据传输关闭开关并修改服务条款，但否认存在不当行为。这是谷歌本周第二起隐私相关和解，此前还就语音助手误触发监听达成6800万美元和解。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/86JwJP6WGeA76Q6IeHyFoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/b8fe24a0-fd11-11f0-b7fe-32b125ecf2ca",
+            "url": "https://www.engadget.com/big-tech/google-will-pay-135-million-to-settle-illegal-data-collection-lawsuit-133012112.html",
+            "category": "其他"
+        },
         {
             "title": "谷歌搜索现在允许用户对AI概览提出后续问题",
             "time": "2026-01-28",
@@ -2107,6 +2219,24 @@
         }
     ],
     "Meta": [
+        {
+            "title": "1690 亿美元！拿出全部现金流，Meta 万亿豪赌「AI 未来」",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "Meta宣布2026年资本支出将达1150亿至1350亿美元，总运营费用高达1620亿至1690亿美元，几乎将全部自由现金流用于AI基础设施建设。尽管此前在AI竞赛中落后，但其第四季度财报超预期，股价应声上涨。公司正将原用于元宇宙的资源全面转向AI，通过提升广告推荐系统驱动营收增长，形成“投入—增长—再投入”的闭环。此举标志着AI竞赛已升级为资本耐力比拼，行业或将出现巨头与中小玩家的清晰分层。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/46a3d58e-fce0-11f0-8865-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22073",
+            "category": "AI"
+        },
+        {
+            "title": "Meta现实实验室部门FY25收入22亿美元，亏损192亿美元",
+            "time": "2026-01-29",
+            "source": "GamesIndustry.biz",
+            "summary": "Meta旗下专注于元宇宙的Reality Labs部门在2025财年（截至2025年12月31日）实现收入22亿美元，同比增长2%，但运营亏损高达192亿美元，较上年扩大8.3%。自2020年成立以来，该部门累计亏损已达836亿美元，仅产生118亿美元收入。CEO扎克伯格表示，未来将聚焦智能眼镜与可穿戴设备，并推动Horizon在移动端的成功，同时将VR与AI技术结合以扩大用户规模。近期，Meta已关闭三家VR工作室并裁员10%，引发行业对短期前景的担忧。",
+            "image_url": "https://assetsio.gnwcdn.com/Metas-Mark-Zuckerberg-1.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/metas-reality-labs-division-generated-22bn-lost-192bn-in-fy25",
+            "category": "其他"
+        },
         {
             "title": "WhatsApp推出全新‘严格账户设置’以增强对抗网络攻击的保护",
             "time": "2026-01-28",
@@ -2823,12 +2953,66 @@
     ],
     "OpenAI": [
         {
+            "title": "凭借 27 万小时真机数据，Generalist 可能是最接近“GPT-1 时刻”的顶级机器人团队",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "Generalist 是一家成立于2024年的机器人初创公司，凭借27万小时真实机器人操作数据，成为全球首个在数据规模上达到GPT-1量级的机器人团队。其核心团队来自OpenAI、Google DeepMind和Boston Dynamics，具备强大的算法与工程能力。公司发布的GEN-0模型展现出卓越的灵巧性与端到端控制能力，能完成复杂多步骤任务，并验证了机器人领域的scaling law。尽管面临数据成本高、商业化场景缺失等挑战，Generalist在数据规模、模型架构与团队背景上构建了显著技术壁垒，被视为具身智能领域的潜在领军者。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/577f7165-fd84-11f0-9ea9-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22097",
+            "category": "AI"
+        },
+        {
+            "title": "Anthropic遭遇OpenAI贴身肉搏，上市路多了个坎",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "Anthropic与OpenAI在AI科研与开发者工具领域展开激烈竞争，OpenAI推出Prism科研平台和Codex开发者生态，直接冲击Anthropic在深度智力工作场景中的优势。Anthropic正面临上市前最后一轮融资压力，融资目标升至200亿美元，估值逼近3500亿，但OpenAI则寻求高达1000亿美元融资，估值或达8300亿美元。双方在产品整合、用户体验与严谨性上全面交锋，Anthropic的上市进程因此受阻，市场竞争加剧使其生存空间被压缩。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/f36f9fac-fd7e-11f0-ad63-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22091",
+            "category": "AI"
+        },
+        {
             "title": "斯坦福实测GPT-5与Claude 4.5“双盲实验”。AI编程，没有协作类产品的原因找到了",
             "time": "2026-01-29",
             "source": "AITNT",
             "summary": "斯坦福大学发布CooperBench基准测试，揭示当前主流AI模型（如GPT-5、Claude 4.5）在AI编程协作中存在严重“协作诅咒”：双盲协作成功率较单兵作战下降30%-50%。研究发现，AI缺乏“心智理论”，无法进行语义协调，虽能避免代码行冲突，却无法理解逻辑依赖与意图，导致合并后功能错误。沟通无效、承诺失效与预期错位是三大失败主因，表明社会智能是独立于代码能力的另一关键维度。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/29/a901868a-fcb7-11f0-a1c2-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=22054",
+            "category": "AI"
+        },
+        {
+            "title": "微软靠OpenAI，一季狂赚528亿",
+            "time": "2026-01-29",
+            "source": "智东西",
+            "summary": "微软2026财年第二季度财报显示，其净利润同比增长60%至385亿美元，主要得益于对OpenAI的投资收益，单季净赚76亿美元（约合528亿元人民币），扭转了去年同期亏损。微软云收入首次突破500亿美元，智能云业务增速创四年新高。OpenAI贡献了商业剩余履约义务的45%，微软亦投资Anthropic以拓展AI生态。尽管股价因资本支出激增和依赖OpenAI引发担忧而盘后下跌，但整体AI驱动的营收增长已超越传统业务，标志着AI成为核心增长引擎。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/fe0a92a5-fce3-11f0-8e5b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22082",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推理第一人创业了：要造“活到老学到老”的AI，先来融它70个亿",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "前OpenAI推理模型核心人物Jerry Tworek离职后创立新公司Core Automation，致力于研发具备“持续学习”能力的新型AI模型，旨在让AI像人类一样在使用中不断吸收新经验而不遗忘旧知识。他计划构建非Transformer架构，实现模型在运行中持续训练，并寻求5亿至10亿美元融资。该方向与SSI、Google、DeepMind等机构的研究趋势一致，被视为通向AGI的关键路径，2026年或成持续学习元年。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/086b7d11-fcf0-11f0-9a76-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22085",
+            "category": "AI"
+        },
+        {
+            "title": "亚马逊据称正洽谈投资500亿美元于OpenAI",
+            "time": "2026-01-29",
+            "source": "TechCrunch",
+            "summary": "据《华尔街日报》报道，亚马逊正在与OpenAI就一项高达500亿美元的投资进行谈判，若交易达成，OpenAI估值或将攀升至8300亿美元。亚马逊CEO Andy Jassy正主导谈判，而OpenAI CEO Sam Altman参与其中。值得注意的是，亚马逊同时是OpenAI主要竞争对手Anthropic的长期投资方与云服务提供商，已向Anthropic投资至少80亿美元，并建设了110亿美元的专属AI数据中心，此举可能引发市场对其AI战略平衡的广泛关注。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+            "category": "AI"
+        },
+        {
+            "title": "比OpenAI更Manus，实测Kimi新上线多核Agent集群",
+            "time": "2026-01-29",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlNxhdZP3ibzA5S5LuZibpabyriaia5MrCPl6jEXP10wa5LrTAGG0e1viarVX2qlsmmJSgw3BojibdiaMv3w/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/EpOaCx6VvXS1GFJIjOU9MQ",
             "category": "AI"
         },
         {
@@ -3671,12 +3855,48 @@
     ],
     "苹果": [
         {
+            "title": "苹果据称以 20 亿美元收购了以色列 AI 初创公司 Q.ai",
+            "time": "2026-01-30",
+            "source": "动点科技",
+            "summary": "苹果公司 reportedly 以近20亿美元收购以色列AI初创公司Q.ai，此为苹果史上第二大收购案。Q.ai团队将加入苹果，其技术基于成像与机器学习，已应用于耳机或眼镜中，通过面部皮肤微动实现无声交流。此举被视为苹果加速AI研发、摆脱对谷歌等外部AI支持依赖的关键一步。此前创始人曾将PrimeSense出售给苹果，此次收购进一步强化苹果在可穿戴设备AI领域的布局。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/data-center-scott-rodgerson-PSpf_XgOM5w-unsplash-uai-1032x580.jpg",
+            "url": "https://cn.technode.com/post/2026-01-30/apple-acquires-qai/",
+            "category": "AI"
+        },
+        {
+            "title": "苹果创下iPhone季度营收新高",
+            "time": "2026-01-30",
+            "source": "The Verge",
+            "summary": "苹果公司公布2026年第一季度财报，iPhone营收突破853亿美元，创下历史最高纪录，同比增长23%。尽管Siri人工智能升级被推迟，但iPhone 17系列凭借将Pro级功能下放至基础款，推动了强劲销售。供应链受限导致供应紧张，苹果正与谷歌合作，将Gemini AI模型集成至Siri，并收购AI初创公司Q.ai以增强语音交互技术。此外，公司计划将Siri升级为AI聊天机器人，并开发AI驱动的网页搜索功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01706-1.jpg?quality=90&strip=all&crop=0%2C0.0097637180238195%2C100%2C99.980472563952&w=2400",
+            "url": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
+            "category": "其他"
+        },
+        {
+            "title": "iPhone炸场、Gemini助攻，苹果AI时代真来了？",
+            "time": "2026-01-30",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VF8XAWXFjOWe1ZmCKsjrXPdbrjVSPfEFh7GustIDbNBll8iaic3Xku01eoF3fl8lx2csoHngSMSwgEw/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/0obLIGdNEfA6QKqNaCVjsg",
+            "category": "其他"
+        },
+        {
             "title": "传苹果、英伟达考虑2028非核心芯片转单英特尔代工",
             "time": "2026-01-29",
             "source": "游侠网",
             "summary": "受地缘政治风险、美国政府施压及台积电产能紧张影响，苹果与英伟达正考虑在2028年将部分非核心芯片交由英特尔美国工厂代工生产与封装。苹果拟将入门级M系列处理器转由英特尔18A或14A制程生产，以分散供应链风险；英伟达则计划在英特尔工厂生产Feynman GPU的部分I/O裸晶，并采用EMIB技术进行封装。目前两家公司尚未确认该计划，英特尔能否在2028年前实现量产、技术适配与性能达标仍是关键挑战。",
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012983819583.jpg",
             "url": "https://www.ali213.net/news/html/2026-1/996421.html",
+            "category": "其他"
+        },
+        {
+            "title": "苹果报告有史以来最佳的iPhone销售季度",
+            "time": "2026-01-29",
+            "source": "Engadget",
+            "summary": "苹果公司公布了截至2025年12月27日的财季业绩，创下有史以来最高的iPhone销售额，达到852.7亿美元。尽管iPhone售价普遍超过1000美元，但市场需求依然强劲，CEO蒂姆·库克称这是公司历史上最强大且最受欢迎的iPhone产品线。此外，服务业务收入也创下新高，达到300亿美元，总营收接近1437.6亿美元，显示苹果整体业绩持续强劲增长。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/D_nKkj99QPPuLkkPMKQTUw--~B/aD0yMDAwO3c9MzMzMzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/iphone-17-family-3.jpg",
+            "url": "https://www.engadget.com/mobile/smartphones/apple-just-reported-its-best-ever-quarter-for-iphone-sales-234135513.html",
             "category": "其他"
         },
         {
@@ -4242,6 +4462,15 @@
     ],
     "阿里巴巴": [
         {
+            "title": "大模型学会拖进度条看视频了！阿里新研究让视频推理告别脑补，实现证据链思考 | ICLR 2026",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "阿里巴巴未来生活实验室提出ReWatch-R1模型与ReWatch数据集，通过引入“回看”机制和多智能体思维链，使大模型在视频推理中能像人类一样基于视频内容逐步验证证据，避免幻觉。该方法结合高保真时序字幕、高难度问答对和过程奖励强化学习，显著超越现有模型，在多个视频推理基准上达到SOTA。研究证明，强化学习是激发模型深度思考能力的关键。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/e580b4a4-fd7e-11f0-8c3d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22090",
+            "category": "AI"
+        },
+        {
             "title": "刚刚，阿里AI芯片“真武810E”来了，已实现多个万卡集群部署",
             "time": "2026-01-29",
             "source": "36氪",
@@ -4258,6 +4487,24 @@
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012990008624.png",
             "url": "https://www.ali213.net/news/html/2026-1/996425.html",
             "category": "AI"
+        },
+        {
+            "title": "先建“语义基座”，再谈运维智能！阿里云以 Operation Intelligence 定义 AIOps 新范式",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "阿里云提出Operation Intelligence新范式，推动AIOps从辅助工具演变为智能运维核心基础设施。通过构建统一可观测数据平台、UModel语义建模框架和AI Agent智能体，实现系统“能感知、会思考、可行动”的能力跃迁。该方案打破数据孤岛与语义鸿沟，支持自然语言交互与自动化运维闭环，已在6000余家企业落地，显著降低故障恢复时间。阿里云开源UModel与采集工具，推动行业技术平权，重塑运维人员角色为系统教练，释放创新价值。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/1ab155ac-fce3-11f0-9b3d-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22075",
+            "category": "AI"
+        },
+        {
+            "title": "阿里AI芯片“真武”突然上线！性能比肩英伟达H20",
+            "time": "2026-01-29",
+            "source": "智东西",
+            "summary": "阿里巴巴旗下平头哥公司正式上线自研AI训推一体芯片真武810E，采用96GB HBM2e内存和自研ICN片间互联技术，片间带宽达700GB/s，性能比肩英伟达H20，部分指标超越A800，已用于千问大模型训练与推理，并在阿里云部署多个万卡集群，服务国家电网、中科院等400多家客户。该芯片与通义实验室、阿里云组成“通云哥”全栈AI体系，具备全自研、高兼容、软硬协同等优势，广泛应用于自动驾驶、AI训练、推理及多模态模型场景。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/dba0cf9a-fcef-11f0-a742-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22083",
+            "category": "其他"
         },
         {
             "title": "DeepSeek开源全新OCR模型！弃用CLIP改用Qwen轻量小模型，性能媲美Gemini-3 Pro",
@@ -4498,6 +4745,15 @@
     ],
     "亚马逊": [
         {
+            "title": "亚马逊裁员16000人，员工竟用AI「算」出了裁员名单？",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "亚马逊计划裁员16000人，作为去年3万个岗位裁员计划的收尾。此次裁员波及AWS、Alexa、Prime Video、零售与供应链等多个部门。一名员工利用内部AI工具Pippin分析Slack聊天记录，生成了一份疑似受影响的团队名单，引发热议。外界普遍认为此次裁员与AI广泛应用、自动化取代人工密切相关。亚马逊CEO曾预测AI将减少员工总数，而员工自制裁员名单的事件更凸显了AI在企业内部决策中的渗透与讽刺性影响。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/0329c3e3-fd7f-11f0-98ed-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22092",
+            "category": "AI"
+        },
+        {
             "title": "亚马逊游戏工作室负责人离职",
             "time": "2026-01-29",
             "source": "The Verge",
@@ -4513,6 +4769,24 @@
             "summary": "前亚马逊高管Maju Kuruvilla与联合创始人Fei Wang创立的Spangle AI完成1500万美元A轮融资，估值达1亿美元。该公司利用AI模型ProductGPT，实时为每位访客生成个性化电商店铺页面，无缝衔接社交媒体、AI聊天工具等渠道的购物意图，显著提升转化率和广告回报率。其技术不依赖用户历史数据，而是基于即时意图动态生成体验，已服务REVOLVE等9家头部品牌，推动电商从静态展示向AI驱动的动态旅程转型。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/29/dbf8d80a-fcb8-11f0-9807-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=22057",
+            "category": "AI"
+        },
+        {
+            "title": "亚马逊游戏负责人哈特曼 reportedly离职，公司收缩PC与主机业务",
+            "time": "2026-01-29",
+            "source": "GamesIndustry.biz",
+            "summary": "亚马逊游戏工作室负责人克里斯托夫·哈特曼 reportedly将离职，亚马逊正逐步收缩其PC和主机游戏业务，转而聚焦Luna云游戏服务。此举与公司近期大规模裁员（16,000个岗位）相呼应，此前其在2025年10月已裁减14,000人，游戏部门在尔湾和圣地亚哥办公室也经历显著裁员。备受关注的大作《New World Aeternum》计划于2027年1月下线。哈特曼自2018年加入亚马逊，此前曾长期担任2K Games总裁，主导过多款知名游戏开发。",
+            "image_url": "https://assetsio.gnwcdn.com/amazon_game_studios.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/amazon-games-boss-hartmann-reportedly-leaving-as-firm-retreats-from-pc-and-console",
+            "category": "游戏"
+        },
+        {
+            "title": "亚马逊据称正洽谈投资500亿美元于OpenAI",
+            "time": "2026-01-29",
+            "source": "TechCrunch",
+            "summary": "据《华尔街日报》报道，亚马逊正在与OpenAI就一项高达500亿美元的投资进行谈判，若交易达成，OpenAI估值或将攀升至8300亿美元。亚马逊CEO Andy Jassy正主导谈判，而OpenAI CEO Sam Altman参与其中。值得注意的是，亚马逊同时是OpenAI主要竞争对手Anthropic的长期投资方与云服务提供商，已向Anthropic投资至少80亿美元，并建设了110亿美元的专属AI数据中心，此举可能引发市场对其AI战略平衡的广泛关注。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
             "category": "AI"
         },
         {
@@ -4540,6 +4814,15 @@
             "summary": "亚马逊宣布关闭其大部分Amazon Go和Amazon Fresh实体门店，并将部分门店改造为Whole Foods Market。尽管线下门店将停业，但Amazon Fresh的在线购物和当日送达服务仍将继续，并计划扩展至更多城市。同时，亚马逊计划在未来几年开设100多家新的Whole Foods门店，并推出自有品牌Amazon Grocery，提供逾千种高性价比商品。公司仍将继续测试新型实体零售体验，如芝加哥的Amazon Grocery门店和宾夕法尼亚的Whole Foods概念店。",
             "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252647807.jpg?quality=90&strip=all&crop=0%2C5.7291666666667%2C100%2C88.541666666667&w=2400",
             "url": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
+            "category": "其他"
+        },
+        {
+            "title": "亚马逊宣布进一步裁员，影响16000个岗位",
+            "time": "2026-01-28",
+            "source": "GamesIndustry.biz",
+            "summary": "亚马逊在两个月内第二次宣布大规模裁员，预计将影响全球16000个岗位，涉及AWS、零售、Prime Video和人力资源等部门。公司表示此举旨在减少层级、增强自主权并消除官僚主义，并重申将继续在战略领域招聘和投资。美国员工将获得90天内部转岗机会，未能转岗者可获得遣散费、职业安置服务及医疗保障等过渡支持。目前尚不清楚游戏部门是否受影响。",
+            "image_url": "https://assetsio.gnwcdn.com/Amazon-00.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+            "url": "https://www.gamesindustry.biz/amazon-announces-further-layoffs-16000-roles-impacted",
             "category": "其他"
         },
         {
@@ -4918,6 +5201,24 @@
         }
     ],
     "Rockstar Games": [
+        {
+            "title": "你问我当初为什么买 PS5，当然是为了《GTA 6》",
+            "time": "2026-01-29",
+            "source": "动点科技",
+            "summary": "文章探讨了当前主机世代缺乏定义性游戏的现状，指出《GTA 6》可能是唯一有望重新定义PS5和Xbox Series X/S的重磅作品。尽管Rockstar Games面临创意核心离职、开发泄密和延期等挑战，但其过往作品的影响力仍让玩家对其充满期待。文章对比了上世代《最后生还者》《塞尔达传说》等游戏如何定义硬件，认为本世代至今缺乏同样级别的技术与文化标杆，而《GTA 6》的发布或将成为玩家验证主机价值的关键节点。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/ss_c494372930ca791bdc6221eca134f2270fb2cb9f.1920x1080.jpg",
+            "url": "https://cn.technode.com/post/2026-01-29/gta-6-ps5-xsx-generation-define/",
+            "category": "游戏"
+        },
+        {
+            "title": "玩了8年才发现！《大镖客2》竟藏有《GTA6》的线索",
+            "time": "2026-01-28",
+            "source": "游侠网",
+            "summary": "据外媒Dexerto和知名爆料者GameRoll披露，玩家在《荒野大镖客2》的游戏文件中发现了一批未使用的船只纹理，其中名为“The Leonida”的船只名称与《GTA6》主要舞台“莱昂尼达州”高度关联，暗示R星早在2018年就已为《GTA6》埋下设定线索。该发现由玩家SonekaSpeedruns首次提出，可能影响了游戏世界的命名灵感。此外，社区仍在持续挖掘《大镖客2》中隐藏的“蜘蛛梦境之谜”等秘密任务，进一步印证该游戏仍存大量未解细节，引发玩家对《GTA6》丰富彩蛋的期待。",
+            "image_url": "https://img2.ali213.net/picfile/News/2026/01/28/584_20260128115648502.png",
+            "url": "https://www.ali213.net/news/html/2026-1/996349.html",
+            "category": "游戏"
+        },
         {
             "title": "舅舅党确信《大镖客 2》次世代版存在！或因GTA6改档",
             "time": "2026-01-26",
@@ -5429,6 +5730,24 @@
     ],
     "马斯克": [
         {
+            "title": "昆仑万维开源的SkyReels-V3，把马斯克请来带货了",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "昆仑万维旗下Skywork AI团队开源了多模态视频生成模型SkyReels-V3，支持参考图像转视频、视频延长和音频驱动虚拟形象三大功能。该模型可基于单张图片与文本提示生成高保真视频，实现马斯克等人物形象精准带货、电影级转场及多角色互动，且支持多种分辨率与宽高比。其统一架构与开源策略显著降低虚拟IP创作门槛，推动AI视频生成生态发展，技术已达到国内领先水平。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/ba0f17b9-fd7f-11f0-b6b7-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22089",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克可能将SpaceX与特斯拉或xAI合并",
+            "time": "2026-01-30",
+            "source": "The Verge",
+            "summary": "据报道，埃隆·马斯克旗下的SpaceX正与另一家由其领导的公司xAI探讨合并可能性，以支持其在太空中部署数据中心的计划。同时，SpaceX也被考虑与特斯拉合并，或采取其他替代性组合。尽管具体时间和估值尚不明确，但特斯拉已计划向xAI投资约20亿美元，并在2025年向其出售了4.3亿美元的Megapack电池。xAI此前已收购了X平台，而其AI模型Grok正面临欧盟关于深度伪造内容的调查。目前，三家公司均未就合并传闻置评。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24090210/STK171_VRG_Illo_12_Normand_ElonMusk_12.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/news/870380/elon-musk-space-x-xai-merger",
+            "category": "其他"
+        },
+        {
             "title": "Karpathy：回不去了，被AI伤了自尊！自曝手写代码能力退化，公开与CC协作心得！马斯克：时代精神的总结！CC之父：不会出现垃圾代码末日",
             "time": "2026-01-29",
             "source": "AITNT",
@@ -5436,6 +5755,24 @@
             "image_url": "https://www.aitntnews.com/pictures/2026/1/29/60f1e549-fcbe-11f0-a682-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=22058",
             "category": "AI"
+        },
+        {
+            "title": "刚刚，马斯克砍掉百万豪车！Model S/X「变身」擎天柱，特斯拉彻底转型机器人公司",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "马斯克宣布特斯拉将于2026年第二季度停产Model S和Model X，为人形机器人Optimus的生产腾出弗里蒙特工厂空间，标志着特斯拉从汽车制造商向人工智能机器人公司的战略转型。尽管特斯拉近期财务表现下滑，销量被比亚迪超越，但其FSD软件订阅用户增长显著，Robotaxi与Semi卡车等未来项目仍在推进。马斯克强调此举是生存所需，坚信AI与机器人将重塑特斯拉的未来价值。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/024ccd0b-fce0-11f0-a6b3-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22072",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克下令Model S/X绝版！特斯拉营收15年来首次下滑",
+            "time": "2026-01-29",
+            "source": "量子位",
+            "summary": "特斯拉2025年营收首次下滑，净利润近乎腰斩，马斯克宣布Model S和Model X将逐步停产，产能将转向Optimus人形机器人和Cybercab等新项目。公司重心全面转向AI与机器人，FSD付费用户达110万，Robotaxi已在美国多地开展无安全员测试。特斯拉计划投入超200亿美元用于AI芯片研发、数据中心建设和新工厂建设，同时承认中国在AI与规模化制造方面是其最强劲对手。",
+            "image_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+            "url": "https://www.qbitai.com/2026/01/374090.html",
+            "category": "其他"
         },
         {
             "title": "特斯拉投资20亿美元支持马斯克旗下xAI",
@@ -5961,6 +6298,15 @@
             "category": "其他"
         },
         {
+            "title": "三星AR眼镜今年将推出",
+            "time": "2026-01-29",
+            "source": "The Verge",
+            "summary": "三星移动营销负责人Seong Cho在季度财报电话会议中透露，公司计划于2026年推出下一代AR眼镜，这是首次明确发布窗口。该产品与谷歌合作开发，作为Galaxy XR的后续产品，旨在拓展XR设备形态。目前尚无具体发布日期和规格细节，但标志着三星在增强现实领域的关键进展。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/DOM_BLURPLE-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/869955/samsung-ar-glasses-are-coming-this-year",
+            "category": "其他"
+        },
+        {
             "title": "TCL即将取代三星成为电视市场第一",
             "time": "2026-01-28",
             "source": "The Verge",
@@ -6161,6 +6507,15 @@
     ],
     "英伟达": [
         {
+            "title": "核心AI场景首超英伟达，一场国产算力的“破局叙事”｜甲子光年",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "天数智芯发布四代国产AI算力架构路线图，其2025年推出的天数天枢架构在DeepSeek V3场景中性能超越英伟达Hopper约20%，成为首个实现实质性超越的国产方案。通过TPC Broadcast、Instruction Co-Exec等三大技术创新，提升算力效率与利用率，并构建“云+边+端”全场景产品矩阵，已服务超300家客户、完成超1000次部署。公司以高效率、可预期、可持续的高质量算力重构产业价值坐标，推动国产算力从对标走向自主定义。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/102a6742-fd7f-11f0-a9bc-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22093",
+            "category": "AI"
+        },
+        {
             "title": "首批 H200 AI 芯片字节跳动、阿里、腾讯获采购资格",
             "time": "2026-01-29",
             "source": "游侠网",
@@ -6176,6 +6531,24 @@
             "summary": "受地缘政治风险、美国政府施压及台积电产能紧张影响，苹果与英伟达正考虑在2028年将部分非核心芯片交由英特尔美国工厂代工生产与封装。苹果拟将入门级M系列处理器转由英特尔18A或14A制程生产，以分散供应链风险；英伟达则计划在英特尔工厂生产Feynman GPU的部分I/O裸晶，并采用EMIB技术进行封装。目前两家公司尚未确认该计划，英特尔能否在2028年前实现量产、技术适配与性能达标仍是关键挑战。",
             "image_url": "https://img2.ali213.net/picfile/News/2026/01/29/584_2026012983819583.jpg",
             "url": "https://www.ali213.net/news/html/2026-1/996421.html",
+            "category": "其他"
+        },
+        {
+            "title": "阿里AI芯片“真武”突然上线！性能比肩英伟达H20",
+            "time": "2026-01-29",
+            "source": "智东西",
+            "summary": "阿里巴巴旗下平头哥公司正式上线自研AI训推一体芯片真武810E，采用96GB HBM2e内存和自研ICN片间互联技术，片间带宽达700GB/s，性能比肩英伟达H20，部分指标超越A800，已用于千问大模型训练与推理，并在阿里云部署多个万卡集群，服务国家电网、中科院等400多家客户。该芯片与通义实验室、阿里云组成“通云哥”全栈AI体系，具备全自研、高兼容、软硬协同等优势，广泛应用于自动驾驶、AI训练、推理及多模态模型场景。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/dba0cf9a-fcef-11f0-a742-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22083",
+            "category": "其他"
+        },
+        {
+            "title": "不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "天数智芯发布其自研GPU架构路线图，提出以“不设限”和“高质量算力”为核心的设计哲学，通过TPC Broadcast、Instruction Co-Exec、Dynamic Warp Scheduling三大创新，使其天枢架构在DeepSeek V3场景中性能超越英伟达Hopper。公司规划未来三代架构持续超越Blackwell与Rubin，并推出IXAI++算力系统与IX-SIMU仿真平台，提升算力效率与可预期性。同时，其“彤央”系列边端产品已在机器人、交通、零售等场景落地，构建软硬件协同的国产AI生态闭环。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/50902c35-fce3-11f0-8bae-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22078",
             "category": "其他"
         },
         {
@@ -6504,6 +6877,15 @@
         }
     ],
     "deepseek": [
+        {
+            "title": "从 DeepSeek R1 看推理模型：更强、更贵、更慢？",
+            "time": "2026-01-30",
+            "source": "Fun AI Everyday",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRE5WCbF5N3c0Z9CYzjLLzk2tZUSkvib4vk9F15PsNuANaQlRuYVj31WrzByCLUMYhBub1X8UzhOjfA/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/utfYcofDuejkv1vf8m5IWg",
+            "category": "AI"
+        },
         {
             "title": "Gemini 3「开眼」像素级操控！谷歌回应DeepSeek-OCR2",
             "time": "2026-01-28",
@@ -7431,6 +7813,15 @@
             "category": "AI"
         },
         {
+            "title": "比OpenAI更Manus，实测Kimi新上线多核Agent集群",
+            "time": "2026-01-29",
+            "source": "卡尔的AI沃茨",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXlNxhdZP3ibzA5S5LuZibpabyriaia5MrCPl6jEXP10wa5LrTAGG0e1viarVX2qlsmmJSgw3BojibdiaMv3w/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/EpOaCx6VvXS1GFJIjOU9MQ",
+            "category": "AI"
+        },
+        {
             "title": "录屏扒代码、截图改网页！Kimi K2.5把「视觉x代码」玩明白了",
             "time": "2026-01-28",
             "source": "量子位",
@@ -7543,6 +7934,15 @@
             "category": "AI"
         },
         {
+            "title": "Moltbot作者被Claude刁难后：MiniMax M2.1是最优秀的开源模型",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "Moltbot作者Peter Steinberger分享了其开源AI智能体项目的发展历程，该智能体通过调用Claude、GPT等模型实现自动化任务，如编写代码、记录工时、控制智能家居等。他在使用Claude Code时遭遇品牌争议，被迫更名，随后在采访中盛赞MiniMax M2.1为当前最优秀的开源模型，并强调本地运行AI的潜力与开源社区的价值。项目虽为个人兴趣驱动，却引发广泛共鸣，推动了AI智能体生态的爆发。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/f77fdae7-fced-11f0-b63f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22080",
+            "category": "AI"
+        },
+        {
             "title": "MiniMax 已经彻底沦为了打工人的牛马…",
             "time": "2026-01-24",
             "source": "AITNT",
@@ -7646,6 +8046,15 @@
     ],
     "Anthropic": [
         {
+            "title": "Anthropic遭遇OpenAI贴身肉搏，上市路多了个坎",
+            "time": "2026-01-30",
+            "source": "AITNT",
+            "summary": "Anthropic与OpenAI在AI科研与开发者工具领域展开激烈竞争，OpenAI推出Prism科研平台和Codex开发者生态，直接冲击Anthropic在深度智力工作场景中的优势。Anthropic正面临上市前最后一轮融资压力，融资目标升至200亿美元，估值逼近3500亿，但OpenAI则寻求高达1000亿美元融资，估值或达8300亿美元。双方在产品整合、用户体验与严谨性上全面交锋，Anthropic的上市进程因此受阻，市场竞争加剧使其生存空间被压缩。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/30/f36f9fac-fd7e-11f0-ad63-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22091",
+            "category": "AI"
+        },
+        {
             "title": "斯坦福实测GPT-5与Claude 4.5“双盲实验”。AI编程，没有协作类产品的原因找到了",
             "time": "2026-01-29",
             "source": "AITNT",
@@ -7661,6 +8070,33 @@
             "summary": "本文分析了全球顶尖AI实验室的联合创始人离职潮，指出OpenAI、DeepMind、xAI等机构多名创始成员相继离开，而Anthropic成为唯一七位联合创始人全员留任的公司。其员工留存率达80%，远超其他巨头，原因包括长期股权激励、安全使命、优质福利（如美食）及稳定的企业文化。文章还详细梳理了OpenAI、Thinking Machines、SSI、DeepMind和xAI的创始人变动情况，揭示AI行业人才流动背后的组织管理与文化差异。",
             "image_url": "https://www.aitntnews.com/pictures/2026/1/29/8bd6bb39-fcbe-11f0-b493-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=22059",
+            "category": "AI"
+        },
+        {
+            "title": "Moltbot作者被Claude刁难后：MiniMax M2.1是最优秀的开源模型",
+            "time": "2026-01-29",
+            "source": "AITNT",
+            "summary": "Moltbot作者Peter Steinberger分享了其开源AI智能体项目的发展历程，该智能体通过调用Claude、GPT等模型实现自动化任务，如编写代码、记录工时、控制智能家居等。他在使用Claude Code时遭遇品牌争议，被迫更名，随后在采访中盛赞MiniMax M2.1为当前最优秀的开源模型，并强调本地运行AI的潜力与开源社区的价值。项目虽为个人兴趣驱动，却引发广泛共鸣，推动了AI智能体生态的爆发。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/1/29/f77fdae7-fced-11f0-b63f-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22080",
+            "category": "AI"
+        },
+        {
+            "title": "音乐出版商起诉Anthropic索赔30亿美元，指控其大规模盗版2万份作品",
+            "time": "2026-01-29",
+            "source": "TechCrunch",
+            "summary": "由Concord Music Group和Universal Music Group领衔的一批音乐出版商起诉AI公司Anthropic非法下载超过2万首受版权保护的音乐作品，包括乐谱、歌词和音乐创作，索赔金额超30亿美元，或成美国历史上最大非集体诉讼版权案之一。该诉讼团队曾参与Bartz诉Anthropic案，法官曾指出虽训练模型合法，但通过盗版获取内容违法。此次诉讼新增Anthropic首席执行官Dario Amodei与联合创始人Benjamin Mann为被告，Anthropic尚未回应置评请求。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+            "category": "AI"
+        },
+        {
+            "title": "Claude Code Opus 4.5 性能追踪：过去30天出现显著性能下降",
+            "time": "2026-01-29",
+            "source": "Marginlab",
+            "summary": "Marginlab发布对Claude Code Opus 4.5模型在SWE-Bench-Pro任务上的每日性能追踪报告。数据显示，过去30天的平均通过率从基线58%下降至54%，且统计显著（p<0.05），表明存在明显性能退化。尽管单日和七日变化未达显著水平，但30天聚合数据确认了持续性下降。该追踪基于真实CLI环境下的50次/日测试，无自定义框架干扰，旨在为社区提供独立的模型性能监测工具。",
+            "image_url": "https://marginlab.ai/logo.png",
+            "url": "https://marginlab.ai/trackers/claude-code/",
             "category": "AI"
         },
         {
