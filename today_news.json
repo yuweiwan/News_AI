@@ -549,15 +549,6 @@
     "category": "AI"
   },
   {
-    "title": "奥特曼无能，英伟达撤单OpenAI投资？黄仁勋街头回应了",
-    "time": "2026-02-01",
-    "source": "AITNT",
-    "summary": "针对网络流传英伟达撤回对OpenAI千亿美元投资的传闻，黄仁勋在街头采访中强势辟谣，称其‘完全胡说八道’，并明确表示英伟达将参与OpenAI最新一轮融资，且可能是公司史上最大规模投资。他公开表达对奥特曼的欣赏，强调双方十年合作根基深厚，从DGX-1到10GW算力项目一脉相承。尽管此前有报道称合作停滞，但多方信源显示微软、亚马逊、软银等也正积极洽谈投资，OpenAI本轮融资热度不减，英伟达仍将作为核心战略伙伴深度绑定。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/1/445694e5-ff2d-11f0-8b70-fa163e47d677.webp",
-    "url": "https://www.aitntnews.com/newDetail.html?newId=22140",
-    "category": "AI"
-  },
-  {
     "title": "谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代",
     "time": "2026-02-01",
     "source": "AITNT",
@@ -708,33 +699,6 @@
     "summary": "SpaceX向美国联邦通信委员会（FCC）提交申请，计划部署多达一百万颗卫星，构建一个名为“轨道数据中心”的巨型星座，旨在利用太阳能为人工智能提供高效、低成本的计算能力。目前SpaceX已发射超9600颗Starlink卫星，而此次申请数量是现有轨道卫星的百倍以上。FCC以往会削减此类申请规模，但该计划凸显了太空基础设施在支撑AI算力增长中的战略意义。",
     "image_url": "https://s.yimg.com/ny/api/res/1.2/BvNqccSw6klEe6EzF29ecA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/3ea488d0-fec8-11f0-aeff-7e105e909432",
     "url": "https://www.engadget.com/science/space/spacex-wants-to-launch-a-constellation-of-a-million-satellites-to-power-ai-needs-175607771.html",
-    "category": "AI"
-  },
-  {
-    "title": "印度尼西亚解除对Grok的禁令但附加条件",
-    "time": "2026-02-02",
-    "source": "Engadget",
-    "summary": "印度尼西亚通信与数字事务部宣布解除对xAI旗下AI聊天机器人Grok的禁令，但要求对其安全措施进行持续监控。此前Grok因生成数百万张包含儿童的性化深度伪造图像被印尼、马来西亚和菲律宾三国禁用。X公司提交了防止滥用的措施方案，印尼政府承诺若发现其再次传播非法内容将重新封禁。该事件也引发加州总检察长和英国媒体监管机构的调查。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/E6Uqek7.Elqzi6TlRZF3OA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/6676fc20-ff91-11f0-be3e-33bb78a4250f",
-    "url": "https://www.engadget.com/ai/indonesia-is-lifting-its-ban-on-grok-but-with-some-conditions-175305634.html",
-    "category": "AI"
-  },
-  {
-    "title": "英伟达对OpenAI高达1000亿美元的投资或难按计划进行",
-    "time": "2026-01-31",
-    "source": "The Verge",
-    "summary": "据《华尔街日报》报道，英伟达原计划对OpenAI进行高达1000亿美元的投资交易目前已被搁置，双方正在重新评估合作模式，可能转为数十亿美元的股权注资。尽管交易规模缩水，但两家公司仍保持对话，探讨在当前融资轮次中达成新的合作框架。这一变动反映了AI行业资本运作的不确定性，以及大型科技公司间战略协作的动态调整。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/871480/nvidias-investment-of-up-to-100-billion-in-openai-may-not-happen-as-planned",
-    "category": "AI"
-  },
-  {
-    "title": "英伟达CEO否认对OpenAI不满",
-    "time": "2026-02-01",
-    "source": "The Verge",
-    "summary": "英伟达首席执行官黄仁勋否认了有关他对OpenAI不满的报道，并表示公司仍计划对OpenAI进行“巨大”投资。尽管此前曾有传言称高达1000亿美元的投资可能取消，黄仁勋澄清称，英伟达将参与OpenAI的融资轮次，并可能成为公司有史以来最大的一笔投资。他高度评价OpenAI及其CEO萨姆·阿尔特曼，称其为“我们时代最具影响力的企业之一”。但他同时表示，投资规模不会达到此前传闻的1000亿美元级别。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
     "category": "AI"
   },
   {
@@ -1160,4 +1124,5 @@
     "url": "https://mp.weixin.qq.com/s/K7cUxYQuihE-bzbDd38Ccw",
     "category": "其他"
   }
+
 ]
