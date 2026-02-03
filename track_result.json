@@ -1,6 +1,24 @@
 {
     "微软": [
         {
+            "title": "杰弗里·爱泼斯坦为前Windows负责人安排与蒂姆·库克的会面",
+            "time": "2026-02-03",
+            "source": "The Verge",
+            "summary": "根据美国司法部公布的爱泼斯坦文件邮件显示，前微软Windows负责人史蒂文·西诺夫斯基在2012年离职后，曾通过爱泼斯坦牵线试图与苹果CEO蒂姆·库克建立联系。爱泼斯坦在邮件中误拼了西诺夫斯基合作对象的名字（应为Scott Forstall），导致库克最初拒绝会面。但六个月后，西诺夫斯基称已与库克会面，库克表示希望他结束竞业禁止期后继续联系。该事件揭示了科技高管与爱泼斯坦之间不寻常的社交网络。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24004326/1421759572.jpg?quality=90&strip=all&crop=0.03125%2C0%2C99.9375%2C100&w=2400",
+            "url": "https://www.theverge.com/news/872367/epstein-files-tim-cook-steven-sinofsky",
+            "category": "其他"
+        },
+        {
+            "title": "前Windows 8主管招募埃普斯坦协助谈判其从微软离职事宜",
+            "time": "2026-02-03",
+            "source": "The Verge",
+            "summary": "美国司法部公布的“埃普斯坦文件”显示，前微软Windows 8主管史蒂文·西诺夫斯基在2012年离职期间频繁向已故金融家杰弗里·埃普斯坦寻求建议，甚至转发内部机密邮件，包括关于Surface RT平板销售惨淡的预警。西诺夫斯基还向埃普斯坦支付费用，并寻求其帮助进入苹果或三星任职。文件揭示了他在微软高层决策中的焦虑与依赖，凸显其离职过程的复杂性与争议性。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-154597103.jpg?quality=90&strip=all&crop=0%2C2.3128278493085%2C100%2C95.374344301383&w=2400",
+            "url": "https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement",
+            "category": "其他"
+        },
+        {
             "title": "曝Xbox正在开发一款融合恐怖元素与军事题材的FPS新作",
             "time": "2026-02-02",
             "source": "游侠网",
@@ -999,6 +1017,15 @@
     ],
     "任天堂": [
         {
+            "title": "Abxylute推出新款Switch 2控制器，致敬经典GameCube设计",
+            "time": "2026-02-03",
+            "source": "The Verge",
+            "summary": "游戏外设公司Abxylute宣布将推出两款专为Nintendo Switch 2设计的控制器N6和N9C，即将在Kickstarter上线。其中N9C复刻了GameCube控制器的经典布局与配色，配备可更换八方向摇杆闸片，专为格斗游戏爱好者优化；N6则采用现代不对称设计，搭载防漂移霍尔效应摇杆、实体按键与音频共振腔，提升握持感与音效表现。两款控制器均通过USB-C接口供电，主打怀旧玩家与性能需求用户。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/abxylute_gc_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro",
+            "category": "游戏"
+        },
+        {
             "title": "《Apex Legends》将在下个赛季后停止支持原版Nintendo Switch",
             "time": "2026-02-01",
             "source": "Engadget",
@@ -1325,6 +1352,15 @@
     ],
     "腾讯": [
         {
+            "title": "腾讯AI社交“元宝派”正式上线，针对教育场景有什么玩法？",
+            "time": "2026-02-03",
+            "source": "多知网",
+            "summary": "腾讯AI助手“元宝”推出社交功能“元宝派”公测版，支持群内AI互动、内容共享与定时任务，可辅助批改作业、自动发送通知、汇总家长问题，提升家校沟通效率。元宝强调其角色为自动化重复性工作，助力教师聚焦教学与情感连接，而非替代人工管理或引导续费。该功能打通腾讯视频与QQ音乐生态，旨在构建教育场景下的智能社交新形态，呼应腾讯在AI领域的持续投入。",
+            "image_url": "http://www.duozhi.com/d/file/2026/02/6813ac64d1e2622a0664c1807531d85e.jpg",
+            "url": "http://www.duozhi.com/industry/insight/2026020318147.shtml",
+            "category": "社交"
+        },
+        {
             "title": "百度不想“掉队”：5亿红包“撞车”腾讯AI社交",
             "time": "2026-02-02",
             "source": "36氪",
@@ -1632,6 +1668,15 @@
         }
     ],
     "谷歌": [
+        {
+            "title": "血洗游戏股，谷歌打出“灭霸”响指？",
+            "time": "2026-02-02",
+            "source": "海豚投研",
+            "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+            "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VGwzZasTUmiaC6C27vOx831JFv0Cohz0KJt6okia16qvUWDnO1LLQFNooFInDoFJx4BLxSchewJZP1g/0?wx_fmt=jpeg",
+            "url": "https://mp.weixin.qq.com/s/vuc8fHJgh66E8RuKrTzUUg",
+            "category": "其他"
+        },
         {
             "title": "谷歌Chrome觉醒！Gemini 3全面接管，38亿用户一夜进入Agent时代",
             "time": "2026-02-01",
@@ -3151,6 +3196,51 @@
     ],
     "OpenAI": [
         {
+            "title": "3万员工+亲儿子全卖！甲骨文血色梭哈，全押OpenAI",
+            "time": "2026-02-03",
+            "source": "AITNT",
+            "summary": "为筹集3000亿美元与OpenAI合作所需的1560亿美元算力投入，甲骨文大规模裁员3万人，并计划出售283亿美元收购的医疗公司Cerner。公司现金流濒临断裂，信用评级暴跌，被迫发行巨额债券并要求客户预付40%定金。分析师警告其模式如同P2P庞氏骗局，若AI算力部署不及债务增速，将面临巨额违约风险，这场豪赌或将重塑科技巨头命运。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/2/3/80f8c8c0-009d-11f1-9c72-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22182",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI Codex桌面版深夜突袭！一人指挥Agent军团，程序员彻底告别996",
+            "time": "2026-02-03",
+            "source": "AITNT",
+            "summary": "OpenAI深夜发布Codex桌面版应用，标志着AI编程从对话助手进化为智能体指挥中心。该应用支持多Agent并行协作、Skills技能封装与自动化流程，开发者可通过单一界面指挥多个AI智能体完成复杂任务，如自动生成3D赛车游戏并消耗700万token。Codex内置Git worktree支持、双人格模式、安全沙箱及自动化任务调度，显著提升开发效率。目前已上线macOS版，Windows版即将推出，免费用户亦可使用，Pro及以上用户速率翻倍。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/2/3/27d55454-00a4-11f1-9038-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22187",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI推出新款macOS应用，聚焦智能编码",
+            "time": "2026-02-02",
+            "source": "TechCrunch",
+            "summary": "OpenAI正式发布名为Codex的新款macOS应用程序，整合了当前流行的智能代理（agentic）编码技术，支持多代理并行运行、后台自动化任务和可定制的代理人格。该应用基于最新GPT-5.2-Codex模型，旨在提升开发者从零构建复杂软件的效率，实现“打字即构建”的快速开发体验。尽管GPT-5.2在部分编程基准测试中表现领先，但其与Claude和Gemini等竞品的差距仍在误差范围内，用户体验成为关键竞争点。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Codex-dark.png?w=1024",
+            "url": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+            "category": "AI"
+        },
+        {
+            "title": "Snowflake与OpenAI的合作揭示了企业AI竞争格局",
+            "time": "2026-02-02",
+            "source": "TechCrunch",
+            "summary": "Snowflake与OpenAI达成2亿美元的多年期AI合作协议，使其12600家客户可访问OpenAI模型，并共同开发AI代理产品。此举延续了Snowflake此前与Anthropic的合作策略，凸显企业倾向于与多家AI厂商合作以保持模型选择的灵活性。类似地，ServiceNow也同时与OpenAI和Anthropic合作。尽管不同机构对AI市场领导者有不同判断，但企业普遍追求多供应商策略，以利用不同大模型的优势，推动AI在安全、合规前提下的深度应用。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2215876044.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+            "category": "AI"
+        },
+        {
+            "title": "OpenAI将Codex编码应用引入Mac，新增多智能体功能",
+            "time": "2026-02-02",
+            "source": "Engadget",
+            "summary": "OpenAI正式推出Codex的独立macOS应用，该应用不仅可编写代码，还能协调多个AI助手协同完成复杂任务。例如，它可调用GPT Image生成视觉素材，同时由另一模型编写游戏代码，模拟设计师、开发者和测试员角色。新功能包括“技能”模块用于定制工作流，以及“自动化”功能可后台处理重复性任务，如CI失败总结与每日发布简报。目前免费用户和Go用户可限时试用，Plus和Pro订阅者费用将上调。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/LbL1m9mdvUDIijK1EUuD2Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/codex-app.jpg",
+            "url": "https://www.engadget.com/ai/openai-brings-its-codex-coding-app-to-mac-with-new-multi-agent-abilities-included-183103262.html",
+            "category": "AI"
+        },
+        {
             "title": "奥特曼无能，英伟达撤单OpenAI投资？黄仁勋街头回应了",
             "time": "2026-02-01",
             "source": "AITNT",
@@ -4097,6 +4187,15 @@
         }
     ],
     "苹果": [
+        {
+            "title": "目前最佳的Apple Watch优惠汇总",
+            "time": "2026-02-03",
+            "source": "The Verge",
+            "summary": "本文介绍了当前市场上各款Apple Watch的最新优惠信息，重点推荐了Series 11和SE 3两款新品，分别最低降至$299和$219，优惠幅度达$100和$30。同时，Ultra 3和Ultra 2也提供$25至$200不等的折扣。文章对比了各型号的性能差异，指出Series 11新增高血压监测与5G模块，SE 3升级为S10芯片并支持常亮屏，而Ultra系列则主打户外与专业运动功能。建议普通用户选择SE 3，追求性能者可选Series 11。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0008.jpg",
+            "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
+            "category": "其他"
+        },
         {
             "title": "苹果可能在探索翻盖式折叠 iPhone",
             "time": "2026-02-02",
@@ -5086,6 +5185,15 @@
         }
     ],
     "亚马逊": [
+        {
+            "title": "亚马逊桌面型Echo Show 8降至历史最低价",
+            "time": "2026-02-03",
+            "source": "The Verge",
+            "summary": "亚马逊第四代Echo Show 8智能显示屏目前售价降至149.99美元，创历史新低，作为超级碗促销的一部分，可在亚马逊、百思买和塔吉特等平台购买。新款设备采用更纤薄的设计，配备8.7英寸高清显示屏、1300万像素摄像头、立体声扬声器和Omnisense传感器，支持Alexa Plus、Zigbee、Matter和Thread协议，可作为智能家庭控制中心和数字相框使用。非Prime会员需额外付费使用Alexa Plus功能。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/8A0A4467.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/gadgets/872328/amazon-fourth-gen-echo-show-8-smart-display-deal-sale",
+            "category": "其他"
+        },
         {
             "title": "亚马逊纪录片《梅拉尼娅》首周末票房达700万美元",
             "time": "2026-02-01",
@@ -6090,6 +6198,24 @@
     ],
     "马斯克": [
         {
+            "title": "马斯克将 SpaceX 与 xAI（以及 X）合并",
+            "time": "2026-02-03",
+            "source": "动点科技",
+            "summary": "埃隆·马斯克宣布将SpaceX与xAI（含X平台）合并，旨在打造垂直整合的太空人工智能引擎，计划构建百万颗卫星组成的数据中心星座，以解决地面AI算力的能耗瓶颈。合并后公司估值达1.25万亿美元，拟进行IPO。马斯克称此举将为月球基地、火星文明及宇宙扩张提供能源与资金支持。同时，SpaceX上周已向FCC申请发射该卫星星座，特斯拉亦向xAI投资20亿美元。xAI因Grok生成的深度伪造内容正受欧盟调查。",
+            "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/02/Call-Screening-uai-1032x580.jpeg",
+            "url": "https://cn.technode.com/post/2026-02-03/elon-musk-merges-spacex-with-xai-and-x/",
+            "category": "AI"
+        },
+        {
+            "title": "杰弗里·爱泼斯坦文件最新披露：马斯克、盖茨、布林等科技巨头关联曝光",
+            "time": "2026-02-03",
+            "source": "The Verge",
+            "summary": "美国司法部最新披露的爱泼斯坦文件揭示了多位科技界巨头与其的关联：马斯克曾多次邮件询问前往爱泼斯坦私人岛屿的细节，盖茨否认文件中关于其私生活的指控称“完全荒谬”，谷歌联合创始人布林被曝曾在2007年访问爱泼斯坦岛屿并长期与麦克斯韦通信。文件还显示微软前高管辛诺夫斯基曾请爱泼斯坦协助谈判离职补偿并寻求新职位，爱泼斯坦本人曾利用SEO手段压制负面新闻，并被微软永久封禁Xbox Live账户。这些文件持续引发公众对科技精英与犯罪网络关联的广泛关注。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/policy/872092/jeffrey-epstein-files-doj-trump-musk-brin-gates",
+            "category": "其他"
+        },
+        {
             "title": "马斯克悄悄让Grok 5在韩服打LOL？醉翁之意在世界AI模型",
             "time": "2026-02-02",
             "source": "36氪",
@@ -6108,6 +6234,24 @@
             "category": "AI"
         },
         {
+            "title": "马斯克的SpaceX收购了他的AI公司xAI",
+            "time": "2026-02-02",
+            "source": "Engadget",
+            "summary": "埃隆·马斯克旗下的SpaceX宣布收购其AI公司xAI，旨在打造一个集人工智能、火箭技术、太空互联网和直接移动通信于一体的垂直整合创新引擎。马斯克称，由于地面电力无法满足AI算力需求，未来将把AI数据中心部署至太空，并计划通过发射百万颗卫星构建轨道数据中心。此举还可能为月球基地、火星文明及宇宙扩张提供支持。此前，马斯克已将xAI与社交平台X合并，并推动特斯拉向xAI投资20亿美元。",
+            "image_url": "https://s.yimg.com/uu/api/res/1.2/2ctJch7lE3YJz4ZxJFc63g--~B/aD0zMzM0O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/85a62f63-b126-4479-b061-f90088309829",
+            "url": "https://www.engadget.com/ai/elon-musks-spacex-has-acquired-his-ai-company-xai-221617040.html",
+            "category": "AI"
+        },
+        {
+            "title": "马斯克的SpaceX正式收购xAI，计划在太空中建设数据中心",
+            "time": "2026-02-02",
+            "source": "TechCrunch",
+            "summary": "SpaceX宣布正式收购马斯克旗下的AI初创公司xAI，合并后估值达1.25万亿美元，成为全球最有价值的私营公司。马斯克在内部备忘录中表示，此举旨在构建太空数据中心，以解决地面AI数据中心能耗过高带来的环境与社会压力。尽管xAI每月亏损约10亿美元，而SpaceX主要收入来自星链卫星发射，但合并后有望通过持续发射卫星维持收入循环。同时，xAI旗下聊天机器人Grok因放宽内容限制被指用于生成非自愿性图像，引发伦理争议。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/OLM_Full_Pressure_Water_Deluge_Test_202307280728232180_1_8ac578ec57.jpeg?w=1024",
+            "url": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+            "category": "其他"
+        },
+        {
             "title": "Clawdbot是一场马斯克发动的中登炒作",
             "time": "2026-02-01",
             "source": "AITNT",
@@ -6115,6 +6259,15 @@
             "image_url": "https://www.aitntnews.com/pictures/2026/2/1/86829c68-ff2c-11f0-8169-fa163e47d677.webp",
             "url": "https://www.aitntnews.com/newDetail.html?newId=22138",
             "category": "AI"
+        },
+        {
+            "title": "马斯克押注用户粘性，将Grok变成色情内容生成器",
+            "time": "2026-02-01",
+            "source": "华盛顿邮报",
+            "summary": "为提升Grok的用户活跃度，埃隆·马斯克旗下的人工智能公司xAI放松了对性内容的过滤机制，要求员工签署协议，允许接触包括色情在内的敏感内容，引发内部担忧与公众伦理争议。报道指出，此举可能导致AI生成非自愿性图像等违规内容，引发广泛批评。文章援引内部文件与员工证词，揭示xAI在内容安全方面的重大转向。",
+            "image_url": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PGUBVUJQIRFYLF6QQYYJ6OXJAA.png",
+            "url": "https://www.washingtonpost.com/technology/2026/02/02/elon-musk-grok-porn-generator/",
+            "category": "社交"
         },
         {
             "title": "硬刚马斯克，超越Sora2的国产模型强势登场了！支持16秒声画同出",
@@ -7337,6 +7490,24 @@
     ],
     "deepseek": [
         {
+            "title": "开源免费！推荐一款基于DeepSeek大模型RAG知识库与知识图谱平台，打通飞书、企业微信、钉钉",
+            "time": "2026-02-02",
+            "source": "AITNT",
+            "summary": "语析Yuxi-Know是一款开源免费的智能知识库平台，融合RAG（检索增强生成）与知识图谱技术，支持PDF、TXT、Docx等多种文档格式解析，基于Neo4j构建知识图谱，兼容DeepSeek、Qwen、OpenAI等主流大模型。系统采用FastAPI+Vue.js架构，支持Docker容器化部署，具备智能体扩展、多模型适配、网页检索和可视化配置等功能，适用于企业知识管理、智能客服、教育培训等场景。项目源码已开源，提供完整部署脚本。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/2/2/595f590b-fff7-11f0-85ee-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22162",
+            "category": "AI"
+        },
+        {
+            "title": "DeepSeek之后，智源大模型登Nature：事关“世界模型”统治路线！",
+            "time": "2026-02-02",
+            "source": "AITNT",
+            "summary": "北京智源人工智能研究院推出的多模态大模型“悟界·Emu3”登上《Nature》正刊，成为继DeepSeek后第二个达成此成就的中国大模型，也是中国首篇关于多模态大模型路线的Nature论文。Emu3仅基于“预测下一个token”的自回归架构，统一实现了文本、图像与视频的生成与理解，性能媲美专用扩散模型，并在视频生成、视觉语言理解等任务上达到SOTA。其后续版本Emu3.5进一步发展为“世界模型”，提出多模态Scaling新范式，推动具身智能与物理AI发展，引发业界对自回归路线取代扩散模型的广泛讨论。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/2/2/4a4330da-ffdf-11f0-93e1-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22160",
+            "category": "AI"
+        },
+        {
             "title": "从 DeepSeek R1 看推理模型：更强、更贵、更慢？",
             "time": "2026-01-30",
             "source": "Fun AI Everyday",
@@ -7634,6 +7805,42 @@
             "image_url": "https://img.36krcdn.com/hsossms/20260131/v2_eafe7f4b28bf4264bc3e9c104d3d03e7@1547419282_oswg208289oswg1080oswg1920_img_000?x-oss-process=image/format,jpg/interlace,1",
             "url": "https://36kr.com/p/3663387680469767",
             "category": "AI"
+        },
+        {
+            "title": "TikTok称在冬季风暴导致的断电后已恢复正常",
+            "time": "2026-02-02",
+            "source": "Engadget",
+            "summary": "TikTok在美国经历数日因冬季风暴导致的基础设施中断后，宣布服务已恢复正常。此次故障与Oracle运营的主要数据中心断电有关，期间用户遭遇视频播放失败、点赞和收益数据异常等问题。尽管平台称数据未丢失，但部分用户因新所有权和审查担忧已卸载应用，独立竞品UpScrolled下载量激增。《卫报》还报道称，平台疑似屏蔽了与ICE相关的敏感内容。",
+            "image_url": "https://s.yimg.com/ny/api/res/1.2/ldzMat1fXl4ghRloQWP66w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-images/2020-02/2f6fe710-4ddf-11ea-b3ff-ca9d067be64b",
+            "url": "https://www.engadget.com/apps/tiktok-says-its-back-to-normal-after-winter-storm-related-outages-114848212.html",
+            "category": "社交"
+        },
+        {
+            "title": "TikTok USA是回来了",
+            "time": "2026-02-02",
+            "source": "The Verge",
+            "summary": "TikTok在美国的服务已恢复，此前因冬季风暴导致Oracle运营的美国数据中心断电，造成大规模服务中断。据TikTok USDS联合企业声明，系统已恢复正常，但部分算法仍存在异常。文章提及用户可能因此次中断而流失，并强调了新所有权结构下的技术恢复进展。",
+            "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/196111/IMG_5981_2.0.jpeg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "url": "https://www.theverge.com/tech/872037/tiktok-usa-is-back",
+            "category": "社交"
+        },
+        {
+            "title": "这家字节系AI初创，推出首个开源Agent Skills Builder！对话Refly.AI李锦威：大多数Agent都停留在专业用户层面，没有做到真正的普惠",
+            "time": "2026-02-02",
+            "source": "AITNT",
+            "summary": "Refly.AI作为字节系AI初创公司，正式发布1.1版本，推出业内首个开源Agent Skills Builder及refly-skills开源仓库，融合Vibe Workflow与Skills能力，降低非技术用户构建AI自动化流程的门槛。其核心优势在于通过自然语言一键生成复杂工作流，成本仅为n8n的十分之一，并支持在Claude Code等平台直接调用。团队强调技术平权，聚焦电商、自媒体等长尾场景，推动个性化经验与AI结合，实现从专业工具向普惠产品的转型。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/2/2/9c6482db-fff7-11f0-8e3b-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22165",
+            "category": "AI"
+        },
+        {
+            "title": "TikTok称服务在中断后已恢复",
+            "time": "2026-02-01",
+            "source": "TechCrunch",
+            "summary": "TikTok宣布其在美国的服务已恢复正常，此前因一场冬季风暴导致Oracle运营的数据中心断电，引发大规模服务中断，影响了数万台服务器，导致内容发布、点赞和观看计数等功能异常。此次中断发生在TikTok美国业务完成新所有权交接后不久，新实体TikTok USDS持有80%控股权。期间用户体验受损，部分替代应用如Skylight和UpScrolled用户量激增。TikTok通过官方X账户确认服务恢复。",
+            "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2193244774.jpg?w=1024",
+            "url": "https://techcrunch.com/2026/02/01/tiktok-says-its-services-are-restored-after-the-outage/",
+            "category": "社交"
         },
         {
             "title": "字节跳动李航博士新作：AI智能体的通用框架",
@@ -8411,6 +8618,15 @@
     ],
     "MiniMax": [
         {
+            "title": "MiniMax M2-her：我们做出了更懂你的 AI",
+            "time": "2026-02-02",
+            "source": "AITNT",
+            "summary": "MiniMax 发布 M2-her 模型，专注于提升 AI 伙伴在角色扮演中的个性化与一致性体验。该模型通过 Role-Play Bench 评估体系，从 World、Story、User Preferences 三个维度优化长对话表现，在 100 轮对话中保持高稳定性与多样性。结合 Online RLHF 技术，模型能从用户隐式行为中学习偏好，避免机械回复。未来将推进 Worldplay 方向，让用户共同创造可生长的 AI 世界。M2-her 已上线开放平台，供开发者接入。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/2/2/80a99f7a-fff7-11f0-a3c1-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22164",
+            "category": "AI"
+        },
+        {
             "title": "MiniMax发布最新音乐模型MiniMax Music 2.5: 格莱美级创作，不再需要录音棚",
             "time": "2026-01-29",
             "source": "AITNT",
@@ -8531,6 +8747,15 @@
         }
     ],
     "Anthropic": [
+        {
+            "title": "史上最强编程模型Claude 5泄露，最慌的是黄仁勋？",
+            "time": "2026-02-02",
+            "source": "AITNT",
+            "summary": "据爆料，Anthropic即将发布代号为“Fennec”的Claude Sonnet 5模型，其编程能力在SWE-Bench上得分超80.9%，支持多代理协作的“Dev Team”模式，可模拟完整软件开发流程。该模型基于Google TPU训练，成本降低一半，上下文窗口达百万token。发布时机直指OpenAI的Codex与Prism，引发AI大模型竞争加剧。Anthropic已完成超100亿美元融资，估值3500亿美元，计划2026年下半年IPO，并将自建百万颗TPU v7芯片，显著削弱英伟达市场地位。",
+            "image_url": "https://www.aitntnews.com/pictures/2026/2/2/287c1b90-0049-11f1-b85a-fa163e47d677.webp",
+            "url": "https://m.aitntnews.com/newDetail.html?newId=22172",
+            "category": "AI"
+        },
         {
             "title": "Kimi海外收入已超国内，要做“Anthropic + Manus”｜独家",
             "time": "2026-02-01",
