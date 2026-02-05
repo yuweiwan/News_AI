@@ -466,30 +466,6 @@
     "category": "社交"
   },
   {
-    "title": "关于Clawdbot的理性看涨观点：AI助手如何重塑日常生活",
-    "time": "2026-02-03",
-    "source": "brandon.wang",
-    "summary": "作者分享了自己使用AI助手Clawdbot的深度体验，描述其如何通过读取短信、日历、图片和网页内容，自动化处理日程安排、购物清单、酒店比价、表单填写等日常事务。尽管给予Clawdbot极高权限（如访问2FA码和银行账户），作者认为其带来的效率提升远超风险，并强调AI的上下文记忆与自主学习能力是传统脚本无法比拟的。文章呼吁用户拥抱灵活性与持续训练，而非过度限制AI能力。",
-    "image_url": [
-      "https://brandon.wang/images/2026/clawdbot/upcoming-promise.png",
-      "https://brandon.wang/images/2026/clawdbot/detecting-new-meeting.png",
-      "https://brandon.wang/images/2026/clawdbot/coffee-options.png",
-      "https://brandon.wang/images/2026/clawdbot/check-hotel-booking.png",
-      "https://brandon.wang/images/2026/clawdbot/check-hotels.png",
-      "https://brandon.wang/images/2026/clawdbot/cron-to-check-hotels.png",
-      "https://brandon.wang/images/2026/clawdbot/package-tracking.png",
-      "https://brandon.wang/images/2026/clawdbot/chest-freezer.png",
-      "https://brandon.wang/images/2026/clawdbot/recipe-estimation.png",
-      "https://brandon.wang/images/2026/clawdbot/checking-resy-availability.png",
-      "https://brandon.wang/images/2026/clawdbot/finding-resy-slots.png",
-      "https://brandon.wang/images/2026/clawdbot/moving-dinner.png",
-      "https://brandon.wang/images/2026/clawdbot/form-filling.png",
-      "https://brandon.wang/images/2026/clawdbot/reminder-to-buy.png"
-    ],
-    "url": "https://brandon.wang/2026/clawdbot",
-    "category": "AI"
-  },
-  {
     "title": "OpenAI Codex桌面版深夜突袭！一人指挥Agent军团，程序员彻底告别996",
     "time": "2026-02-03",
     "source": "AITNT",
@@ -514,7 +490,7 @@
     "summary": "宝马罕见承认其按月收费的座椅加热订阅功能是一个错误，因消费者反感而于2023年取消。但宝马并未放弃订阅制模式，未来将重点转向驾驶辅助系统（ADAS）等高阶技术，所有新车均预装相关硬件，用户可事后在线解锁。宝马明确表示不会通过付费解锁提升动力或续航，强调技术应具备但非强制购买，以提升用户体验和灵活性。",
     "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
     "url": "https://cn.technode.com/post/2026-02-05/bmw-admits-heated-seat-subscriptions-were-a-mistake/",
-    "category": "AI"
+    "category": "其他"
   },
   {
     "title": "消息称英伟达拟向OpenAI注资200亿美元",
@@ -649,15 +625,6 @@
     "summary": "阿里开源新一代编程智能体模型Qwen3-Coder-Next，总参数80B，激活参数仅3B，在SWE-Bench Verified基准上实现超70%的问题解决率，性能媲美激活参数大10-20倍的模型。该模型采用混合专家架构，支持长推理、工具使用与环境交互，可无缝集成至IDE、CLI、浏览器等开发环境，实现自动生成代码、部署服务与测试。团队同步发布SWE-Universe框架，构建近百万级真实软件工程环境。模型已开源，支持研究与商业应用。",
     "image_url": "https://www.aitntnews.com/pictures/2026/2/4/5463ce9c-01ac-11f1-8b21-fa163e47d677.webp",
     "url": "https://m.aitntnews.com/newDetail.html?newId=22210",
-    "category": "AI"
-  },
-  {
-    "title": "Claude 5史诗级泄露，史上最强编程模型评测炸裂！核心秘密曝光",
-    "time": "2026-02-04",
-    "source": "AITNT",
-    "summary": "Anthropic即将发布代号为Fennec的Claude Sonnet 5，被指为史上最强编程模型，性能超越Claude Opus 4.5，在SWE-Bench测试中得分超80.9%，价格仅为后者的一半。该模型拥有100万token上下文窗口，并首次引入“自动开发团队”（Dev Team）模式，可自动生成多个AI智能体协同完成代码开发任务，实现自我组织与并行协作。泄露信息显示其已在谷歌TPU上部署，预计2026年2月3日发布，或将重塑软件工程范式。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/4/98bfbcd0-01ab-11f1-a04e-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22207",
     "category": "AI"
   },
   {
@@ -919,15 +886,6 @@
     "summary": "本文详细介绍了如何设置苹果AirTag蓝牙追踪器，包括激活电池、通过iPhone或iPad自动连接、命名标签、使用Find My应用手动添加等步骤。文章还提供了设置失败时的排查方法，如检查蓝牙、定位服务和系统版本，并建议使用CR2032电池更换。此外，提醒用户选择合适的配件（如钥匙扣、行李牌）以确保AirTag牢固附着，并可通过Precision Finding功能精确定位物品。",
     "image_url": "https://s.yimg.com/ny/api/res/1.2/BSvLH_yiT5S_JHT0zstHbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-11/7dd6fb30-478b-11ec-80bf-7ced6787d770",
     "url": "https://www.engadget.com/computing/accessories/how-to-set-up-an-airtag-120000789.html",
-    "category": "其他"
-  },
-  {
-    "title": "几内亚线虫有望成为第二种被根除的人类疾病；2025年仅10例病例",
-    "time": "2026-02-03",
-    "source": "Ars Technica",
-    "summary": "2025年全球仅报告10例人类几内亚线虫感染病例，创下历史最低纪录，距根除该疾病仅一步之遥。该病由寄生虫引起，通过污染水源传播，感染者会经历剧烈疼痛和长期残疾。自1986年根除计划启动以来，病例数已从350万例降至个位数。目前病例主要集中在乍得、埃塞俄比亚和南苏丹，动物感染病例仍需清除。该计划通过现金奖励、公众教育和水质处理等措施，已预防约1亿例感染。",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-594370432-640x425.jpg",
-    "url": "https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/",
     "category": "其他"
   },
   {
@@ -1308,4 +1266,5 @@
     "url": "https://mp.weixin.qq.com/s/eARbSLpukSrnMZE6hCCBXw",
     "category": "其他"
   }
+
 ]
