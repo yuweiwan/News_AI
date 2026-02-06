@@ -1,1162 +1,363 @@
 [
   {
-    "title": "官方辟谣：《GTA 6》确认未使用生成式 AI 辅助构建游戏世界",
-    "time": "2026-02-04",
-    "source": "动点科技",
-    "summary": "Take-Two Interactive首席执行官施特劳斯·泽尔尼克明确表示，《GTA 6》完全未使用生成式AI技术，游戏中的所有世界场景均为手工打造。尽管AI在降低成本和提升效率方面具有潜力，但泽尔尼克强调其无法独立创作高质量娱乐内容。他还确认《GTA 6》不会推迟实体版发行，计划于2026年11月19日发售，并将于今年夏季启动市场营销活动，以回应外界关于AI参与开发的传言。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
-    "url": "https://cn.technode.com/post/2026-02-04/take-two-ceo-says-generative-ai-tools-are-driving-costs-and-time-efficiencies-but-that-its-worlds-are-handcrafted/",
-    "category": "游戏"
-  },
-  {
-    "title": "Roblox的4D创作功能现已开放公测",
-    "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "Roblox正式推出其备受期待的4D创作功能公测版，允许用户创建具有交互行为的动态3D对象，而非静态模型。该功能基于此前发布的AI模型Cube 3D，可生成可移动的部件，如带旋转车轮的汽车和可互动的龙等。目前提供两种模板：Car-5（多部件对象）和Body-1（单体对象）。未来计划允许用户自定义行为模板，并开发通过参考图像生成3D模型的技术。该功能已集成至游戏《Wish Master》中，同时Roblox近期还推行了全球用户面部验证以加强儿童安全。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Roblox4d.png?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
-    "category": "游戏"
-  },
-  {
-    "title": "《黑神话：悟空》或登陆任天堂 Switch 2",
+    "title": "《辐射4》和《印第安纳琼斯：伟大圆圈》公布Switch 2发售日期",
     "time": "2026-02-05",
-    "source": "动点科技",
-    "summary": "据可靠爆料者Nate the Hate在播客中透露，2024年大热游戏《黑神话：悟空》有望登陆即将推出的任天堂Switch 2平台。尽管该消息尚未在任天堂直面会上正式公布，但爆料者确认其Switch 2版本确实存在。该游戏自发售以来销量已突破一千万份，并斩获2024年TGA最佳动作游戏奖项，市场反响热烈，若登陆Switch 2将进一步扩大其全球影响力。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/02/3381139c-7121-5e42-ac33-a2960a150000-uai-1032x580.jpeg",
-    "url": "https://cn.technode.com/post/2026-02-05/black-myth-wukong-may-be-coming-to-nintendo-switch-2/",
-    "category": "游戏"
-  },
-  {
-    "title": "Valve 重新审视 Steam Machine 定价发售日，原上半年发售计划暂不变",
-    "time": "2026-02-05",
-    "source": "动点科技",
-    "summary": "Valve因全球内存和存储芯片短缺，暂缓公布Steam Machine的定价与发售日期，但仍计划于2026年上半年推出该主机及Steam Frame VR头显和Steam Controller手柄。Valve表示，Steam Machine在启用超级分辨率锐画技术后可流畅运行绝大多数Steam游戏至4K/60FPS，并开放第三方机箱面板定制。开发者现已可申请有限的Steam Frame开发套件，表明产品临近上市。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
-    "url": "https://cn.technode.com/post/2026-02-05/steam-machine-delayed/",
-    "category": "游戏"
-  },
-  {
-    "title": "《主播女孩重度依赖》衍生作发布新版本并开启特惠活动！",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "独立游戏品牌WSS playground宣布《主播女孩重度依赖 网络梗打字通》于2月5日上线Steam Ver 1.2.0版本更新，新增无尽模式、学外语模式和词库功能，玩家可体验中英日网络梗打字挑战。为配合Steam打字节2026活动，游戏于2月6日至13日开启30%折扣，售价降至19.6元。本作以人气角色“超天酱”为核心，融合200多种网络梗与解说，兼具怀旧与教育意义。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020590412604.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997515.html",
-    "category": "游戏"
-  },
-  {
-    "title": "爆冷？《海之剑》拿格莱美！《光与影》零提名遭炮轰",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "第68届格莱美颁奖典礼上，《海之剑》荣获电子游戏与互动媒体最佳原声配乐奖，而广受好评的《光与影：33号远征队》却未获提名，引发玩家热议。尽管《光与影》已斩获超469项年度游戏大奖，其原声音乐被赞为艺术佳作，但格莱美奖项的主流文化影响力使其缺席更显遗憾。部分玩家认为《绝地潜兵》《星球大战：亡命之徒》等提名作品不在评选周期内，质疑评选标准，而另一些观点则认为《光与影》已获得足够关注，应适可而止。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_202602039332586.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997095.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《守望先锋》设计同质化?暴雪回应“美型”策略",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "暴雪针对《守望先锋》英雄设计趋向“美型化”引发的争议作出回应，高级制作人肯尼·哈德森指出，高挑、比例标准的角色更利于皮肤制作与跨界联动，技术成本更低；而如破坏球等特殊体型角色则需额外投入。艺术总监迪昂·罗杰斯表示，未来将回归“怪诞风”设计，尝试如“喷气背包猫”等创新角色。此次重启不仅是名称去“2”，还将推出新剧情、五位新英雄及首日赛季内容。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020593529512.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997519.html",
-    "category": "游戏"
-  },
-  {
-    "title": "山寨《影之刃零》照搬Steam商店页！现已被火速下架",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "近日，Steam平台出现一款名为《影之刃零正版》的盗版游戏，其直接抄袭《影之刃零》的官方截图、游戏简介与宣传文案，涉嫌严重侵权。该盗版游戏曾开放愿望单功能，引发玩家热议。随着事件发酵，Steam商店页面已被官方火速下架。此事件再次凸显国产3A游戏《影之刃零》的高关注度，以及游戏市场盗版乱象的严峻性。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_202602059200878.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997513.html",
-    "category": "游戏"
-  },
-  {
-    "title": "游侠专访:APEX S28赛季QA&可爱吉祥物小水怪Nessie",
-    "time": "2026-02-04",
-    "source": "游侠网",
-    "summary": "游侠网专访《Apex英雄》制作团队，揭秘S28赛季核心更新内容。团队回应了关于排位禁选机制、新传奇角色、新地图、增幅器系统及传奇等级与击倒护盾机制调整等玩家关切问题。虽未公布新传奇与新地图的具体上线时间，但确认正在开发中；增幅器系统将回归双发装填器等经典配件；击倒护盾移出战利品池旨在提升游戏体验的公平性与成长性。此外，团队还幽默提及了玩家喜爱的吉祥物小水怪Nessie。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/04/584_20260204115232745.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997363.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《生化危机4RE》移除D加密后性能下滑！帧率暴跌50%",
-    "time": "2026-02-04",
-    "source": "游侠网",
-    "summary": "卡普空在《生化危机4：重制版》的更新中将Denuvo DRM替换为The Enigma Protector，却引发玩家广泛性能问题。大量用户反馈，即便在高配置硬件下（如i9-12900K+RTX 4070 Ti），帧率下降近50%，显卡负载从98%骤降至60%，CPU依赖性增强，游戏优化适得其反。目前卡普空尚未对此作出官方回应，相关问题仍在持续观察中。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/04/584_20260204110154219.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997309.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《巫师4》将学习《天国:拯救2》追求更强烈的真实感！",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "CD Projekt RED联合CEO Adam Badowski表示，《巫师4》将以《天国：拯救2》为灵感，追求更强烈的真实感，重点借鉴其模拟式玩法、玩家与世界互动机制及NPC行为反应系统。此外，原战马工作室首席玩法设计师Karel Kolmann已加入CDPR担任高级任务设计师，负责核心玩法与任务设计；三度艾美奖得主罗素·布劳尔也已加盟担任音频总监，参与游戏音效制作，进一步强化沉浸体验。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_2026020391425974.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997085.html",
-    "category": "游戏"
-  },
-  {
-    "title": "首播翻车！《仁王3》直播PS5秒崩溃 制作人笑到没绷住",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "在《仁王3》发售前的线上直播活动中，制作人安田文彦与柴田刚平演示游戏实机画面时，PS5版本突发崩溃并弹出报错提示，引发现场笑声。制作人幽默回应称这是开发中版本的意外情况。直播后媒体评分公布，PS5版在Metacritic上获86分（74家媒体，65好评），PC版获88分（24家媒体，23好评），整体评价积极，游戏将于2026年2月6日正式发售。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020590958106.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997511.html",
-    "category": "游戏"
-  },
-  {
-    "title": "独占协议取消？曝《FF7重制版》第三部或将登陆全平台",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "据行业爆料人NateTheHate透露，《最终幻想7：重制版》第三部或已取消与索尼的PS平台限时独占协议，有望同步登陆PS5、PC、Xbox Series X|S及任天堂Switch 2全平台。此举旨在弥补前作《重生》因平台限制导致的销量不足，实现商业收益最大化。但跨平台适配仍存挑战，尤其需针对性能较弱的Switch 2优化，不排除部分平台延期发售以确保体验平衡。该策略反映Square Enix向全平台发行的战略转型。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_20260205100901715.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997523.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《FF7重制版》无敌模式引玩家不满：白金变的太廉价了",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "《最终幻想7：重制版》近期推出无敌模式，玩家可无限恢复生命与魔力并造成固定高额伤害，轻松解锁白金奖杯。此举引发硬核玩家不满，认为白金含金量被稀释，破坏了成就价值；但也有观点认为该模式提升了游戏对休闲玩家的友好度，体现包容性设计。目前Square Enix尚未对此争议作出回应，反映出玩家群体对游戏成就定义的分歧。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_2026020334037204.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997187.html",
-    "category": "游戏"
-  },
-  {
-    "title": "Epic喜加二：《SunBlockers》《NightReaper2》免费领",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "Epic游戏商店正在限时免费领取两款独立游戏《NightReaper 2》和《SunBlockers》，活动截止至2月28日，领取后可永久保留。《NightReaper 2》是一款操控死神收割灵魂的动作冒险游戏，玩家需躲避警察并击败四大国王；《SunBlockers》则设定在太阳消亡后的末日世界，玩家需守护光源、抵御多轮僵尸威胁，通过收集资源强化生存能力。两款游戏原价分别为12元与6元，此次为开发者主动发起的特别促销。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_202602038222499.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997055.html",
-    "category": "游戏"
-  },
-  {
-    "title": "曝《巫师重制版》2028年发售！《巫师4》瞄准2027年底",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "据外媒Noble Securities消息，由Fool's Theory工作室开发的《巫师1：重制版》因资源调拨至《巫师4》项目，将延期至2028年发售。该消息引发玩家对《巫师4》发售时间的猜测，多个可靠信源称其可能于2027年第四季度推出。若属实，CDPR未来产品线将为2027年底《巫师4》、2028年《巫师1：重制版》，并可能于2030年前后推出《赛博朋克》续作。目前官方尚未确认该时间表。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020584946495.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997497.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《仁王3》OC站均分达到88分：动作部分几乎无可挑剔！",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "《仁王3》媒体评分解禁，OpenCritic均分88分，推荐度达97%。多家媒体盛赞其战斗系统多样扎实、关卡设计出色，动作表现几乎无可挑剔，被视为Team Ninja十年努力的集大成之作。尽管剧情叙事仍有提升空间，但游戏成功融合开放式探索与深度双流派战斗，被评价为硬核动作游戏的杰作，堪称系列新巅峰。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020593250421.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997527.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《守望先锋》与三丽鸥合作推新皮并确认登Switch2平台",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "暴雪娱乐宣布《守望先锋》将与三丽鸥展开跨界合作，于2月11日至24日推出Hello Kitty、美乐蒂、酷洛米等经典角色皮肤，朱诺、D.Va、夺命女等英雄将化身萌系形象登场。同时，游戏将正式删除名称中的“2”，回归原名《守望先锋》，并计划于2026年第二赛季登陆Nintendo Switch 2平台，届时还将推出10名新英雄，彰显IP创新与跨文化合作的持续探索。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020595749305.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997503.html",
-    "category": "游戏"
-  },
-  {
-    "title": "曝《黑神话》正准备登陆NS2！或在任天堂直面会公布",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "据知名爆料人NateTheHate在播客中透露，《黑神话：悟空》正在为登陆任天堂下一代主机Switch 2做准备，但不确定是否会在2月5日的任天堂直面会上正式公布。目前游戏已登陆PC、PS5及Xbox Series X|S平台，若登陆NS2将是其拓展主机市场的重要一步。游戏科学尚未对此传闻作出回应，相关信息仍待官方确认。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020585850697.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997507.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《仁王3》日本IGN 8分：无可替代的刷宝动作游戏！",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "黑暗战国动作RPG《仁王3》由Team Ninja制作，光荣特库摩发行，将于2月6日发售，国区定价348元。日本IGN给予8分评价，称其作为刷宝动作游戏仍具无可替代的存在感，能持续吸引玩家。但指出系统因要素堆叠缺乏减法而显混乱，忍者流派过于强势，中后期地图设计、剧情与敌人多样性吸引力下降，整体保留独特魅力却存明显缺憾。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020592544266.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997525.html",
-    "category": "游戏"
-  },
-  {
-    "title": "没翻车!任天堂代表透露《银河战士Prime4》销量破百万",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "任天堂官方确认，《银河战士Prime 4》在初代Switch与Switch 2双平台的总销量已突破百万大关，此前因未出现在财报销量清单中引发市场担忧。该作历经近十年开发，由Retro Studios主导，虽获媒体好评，但部分玩家认为未能完全延续系列经典高度。同时，任天堂将于2月5日举办合作伙伴直面会，或公布更多Switch 2新作信息。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_20260205100256496.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997529.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《仁王3》IGN 9分：Team Ninja又一款类魂佳作！",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "由Team NINJA开发的暗黑战国动作RPG《仁王3》即将于2月6日发售，IGN为其打出9分高分，称赞其在武士与忍者战斗风格间取得绝佳平衡，并成功转向开放世界结构，为类魂游戏注入新活力。游戏拥有丰富的探索内容、美轮美奂的风景、高度自定义的角色打造、剧情丰富的主线任务以及出色的战利品系统，被评价为系列巅峰之作，是Team Ninja又一款登顶类魂领域的佳作。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020593050318.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997531.html",
-    "category": "游戏"
-  },
-  {
-    "title": "IGN类魂TOP10出炉：黑神话第五 仁王竟然不是第一",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "IGN发布类魂游戏Top 10榜单，排除FromSoftware本家作品，聚焦衍生佳作。《匹诺曹的谎言》位列第一，完美融合《血源诅咒》与《只狼》设计；《仁王2》居第二；《黑神话：悟空》因融合魂系手感与电影化演出、精良Boss战位列第五。榜单涵盖《星球大战 绝地：幸存者》《堕落之主》《明末：渊虚之羽》《迸发》《卧龙：苍天陨落》等多款作品，另含《空洞骑士》荣誉提名，全面展现类魂游戏多样性与创新。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_20260203112835906.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997129.html",
-    "category": "游戏"
-  },
-  {
-    "title": "有彩蛋！《生化危机9》真人短片公布：再现浣熊市沦陷",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "Capcom公布了《生化危机：安魂曲》的3分钟真人宣传短片《邪恶一直都有名字》，由玛雅·梦露主演，描绘浣熊市沦陷前夕一对母女的生存经历。短片氛围出色，被赞超越近年影视改编作品，并在1分33秒处隐藏“复仇女神”彩蛋，暗示《生化危机9》将深入回归浣熊市废墟与保护伞公司阴谋。游戏定于2026年2月27日登陆PS5、Xbox Series X|S、Switch 2及PC，采用双线叙事，玩家将操控FBI分析员格蕾斯与里昂。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_20260203105708350.jpg",
-    "url": "https://www.ali213.net/news/html/2026-2/997125.html",
-    "category": "游戏"
-  },
-  {
-    "title": "喜大普奔！卡普空今日移除《生化危机4重制版》D加密",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "卡普空于2026年2月3日正式移除了《生化危机4：重制版》Steam版本的Denuvo加密技术，此举使游戏主程序体积缩减约422MB。该决定被玩家广泛欢迎，因D加密长期被诟病占用CPU资源并导致性能下降。此前卡普空已对《生化危机8》《鬼泣5》《怪物猎人：世界》等作品采取过类似措施，通常在游戏停止重大更新约一年后解除加密。此次移除恰逢《生化危机9：安魂曲》即将发售，被视为对PC玩家长期诉求的积极回应。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_20260203101145782.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997109.html",
-    "category": "游戏"
-  },
-  {
-    "title": "《勇者斗恶龙7：重制版》IGN 7分：过于迎合新玩家！",
-    "time": "2026-02-03",
-    "source": "游侠网",
-    "summary": "IGN对《勇者斗恶龙7：重制版》打出7分评价，认为游戏成功优化了原版的节奏问题，但为迎合新玩家过度简化了挑战性与探索性，削弱了系列标志性的独特魅力。尽管新版更友好，老玩家可能失望于部分经典元素的删减，作者仍认可其作为入门体验的价值，尤其称赞了角色设计与世界氛围的保留。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/03/584_2026020391634501.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997093.html",
-    "category": "游戏"
-  },
-  {
-    "title": "游侠早报:《仁王3》IGN 9分!曝《黑神话》将登陆NS2",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "游侠早报汇总了当日游戏界重要资讯：《仁王3》IGN评分9分，M站PS5版均分86，PC版88分，将于2月6日发售；《黑神话：悟空》疑似正为登陆任天堂下一代主机Switch 2做准备，消息源自爆料人NateTheHate；《巫师1：重制版》因开发调整延期至2028年；《空之轨迹 the 2nd》重制版在台北电玩展曝光新情报。此外，还提及了《GTA6》《生化9》等多款游戏动态。",
-    "image_url": [
-      "https://img2.ali213.net/picfile/News/2026/02/05/584_20260205948328.png",
-      "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020594832313.png",
-      "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020594832251.jpg",
-      "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020594832699.jpg",
-      "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020594833766.jpg",
-      "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020594832500.png"
-    ],
-    "url": "https://www.ali213.net/news/html/2026-2/997541.html",
-    "category": "游戏"
-  },
-  {
-    "title": "AdHoc Studios与任天堂合作寻求解决方案以应对《Dispatch》审查问题",
-    "time": "2026-02-04",
-    "source": "GamesIndustry.biz",
-    "summary": "AdHoc Studios在其游戏《Dispatch》登陆Switch平台后，因默认屏蔽裸露与成人内容引发玩家不满。开发商表示，其在移植过程中发现游戏内容不符合任天堂的平台规范，虽与任天堂合作添加了商店页面免责声明，但因放置位置不当被误认为刻意隐瞒。目前AdHoc正与任天堂协商，计划通过更新修复部分审查内容，并向玩家致歉，承认处理不当。值得注意的是，日本PS5版同样存在审查，暗示不同地区版本存在差异。",
-    "image_url": "https://assetsio.gnwcdn.com/dispatch01_5vBzHjM.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/adhoc-studios-is-working-with-nintendo-on-a-path-forward-to-address-dispatch-censorship",
-    "category": "游戏"
-  },
-  {
-    "title": "埃及将全面封禁Roblox平台",
-    "time": "2026-02-04",
     "source": "Engadget",
-    "summary": "埃及监管机构宣布全面封禁热门儿童游戏平台Roblox，理由是保护儿童的道德与教育价值，担忧其允许用户与陌生人直接交流及可能对青少年产生心理和行为负面影响。Roblox公司回应称已建立严格的防护机制。埃及加入伊拉克、阿尔及利亚、沙特阿拉伯、阿联酋、土耳其和俄罗斯等国行列，这些国家均以儿童安全或LGBT内容为由限制该平台。尽管Roblox近期加强了年龄验证系统，但其实施效果仍被指混乱。该平台在中东和北非地区拥有广泛用户基础，2021至2024年间为埃及等五国带来1500万美元GDP增长。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/d8CRvR4T0quzQCmlhh7BHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/0c5a0cd0-1c68-11f0-90c6-3581a59887ba",
-    "url": "https://www.engadget.com/gaming/egypt-to-block-roblox-for-all-users-161343443.html",
+    "summary": "Bethesda在2026年2月5日的Nintendo Direct Partner Showcase上宣布，《辐射4：周年纪念版》将于2月24日登陆Switch 2，而《印第安纳琼斯：伟大圆圈》则定于5月12日推出。此外，《上古卷轴4：重制版》也将于今年晚些时候登陆该平台。这些游戏此前已在其他平台发布，Switch 2版本延续了包含全部DLC和Creation Club模组的内容。此前《上古卷轴5：天际》已登陆Switch 2，此次进一步扩展了Bethesda游戏在任天堂主机上的阵容。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/KAmpaC2kDwlaab0GSBqF_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/22e56d00-a0e5-11ee-9d5f-464f2df9bf13",
+    "url": "https://www.engadget.com/gaming/nintendo/fallout-4-and-indiana-jones-and-the-great-circle-get-switch-2-release-dates-150023624.html",
     "category": "游戏"
   },
   {
-    "title": "Epic商店2025年玩家数量创纪录，第三方游戏销售额增长57%突破4亿美元",
-    "time": "2026-02-03",
-    "source": "GamesIndustry.biz",
-    "summary": "Epic Games宣布2025年其游戏商店第三方游戏销售额达4亿美元，同比增长57%，月活跃用户在12月创下7800万新高。尽管总玩家游戏时长下降14%，但第三方游戏时长增长4%至27.8亿小时。免费游戏计划带动Steam同时在线用户增长40%，6.62亿款免费游戏被领取。Epic还推出Web Shops服务，前100万美元收入免抽成。尽管增长显著，Epic商店仍远落后于Steam，在开发者收入中占比不足四分之一。",
-    "image_url": "https://assetsio.gnwcdn.com/epic-games-store-00.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/epic-store-saw-record-player-count-and-57-increase-in-third-party-game-sales-in-2025-topping-400-million",
+    "title": "PS5 全球出货量已达 9220 万台",
+    "time": "2026-02-05",
+    "source": "动点科技",
+    "summary": "根据索尼集团2025财年第三季度财报，PlayStation 5全球出货量已达9220万台，当季销量为800万台。得益于《战地6》《使命召唤：黑色行动7》及第一方游戏《羊蹄山之魂》等作品的推动，游戏软件销量达9720万份，PS Plus活跃用户达1.32亿。索尼图像传感器部门营收同比增长约20%，公司经营利润达5150亿日元，同比上升22%，并上调全年利润预期至1.54万亿日元，显示对游戏、音乐及影像传感器业务的强劲信心。",
+    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/09/black-myth-heishenhuawukong-uai-1032x580.jpg",
+    "url": "https://cn.technode.com/post/2026-02-05/playstation-5-has-shipped-92-2-million-units-worldwide/",
     "category": "游戏"
   },
   {
-    "title": "Build a Rocket Boy宣布《MindsEye》重启计划，伴随创始人新争议",
-    "time": "2026-02-04",
-    "source": "GamesIndustry.biz",
-    "summary": "游戏开发商Build a Rocket Boy为其饱受批评的开放世界游戏《MindsEye》发布了迄今为止最重要的更新，称其为品牌与游戏的“重启”，并承诺未来将推出新内容、多人模式及扩展包。该游戏于2025年6月发布后因大量BUG和差评遭遇市场冷遇，公司随后裁员并持续优化。此次更新发布恰逢公司创始人Leslie Benzies被卷入与Jeffrey Epstein相关的性侵指控，Benzies已否认指控，而公司CEO此前曾指责媒体和玩家社区存在“操纵与破坏”。Benzies目前仍留任公司。",
-    "image_url": "https://assetsio.gnwcdn.com/mindseye-update.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
-    "url": "https://www.gamesindustry.biz/build-a-rocket-boy-announces-reset-as-part-of-new-update-and-marketing-push-for-mindseye",
-    "category": "游戏"
-  },
-  {
-    "title": "AMD称下一代Xbox或将于2027年发布",
-    "time": "2026-02-04",
+    "title": "《最终幻想7：重生》将于6月3日登陆Switch 2",
+    "time": "2026-02-06",
     "source": "Engadget",
-    "summary": "AMD首席执行官Lisa Su在最新财报电话会议上透露，微软正在与AMD合作开发搭载定制SOC的下一代Xbox主机，目前进展顺利，目标为2027年发布。同时，AMD支持的Steam Machine预计今年初开始出货。此前微软曾与AMD达成多年合作，计划在游戏机中整合AI与机器学习技术，并可能推出混合云本地游戏平台。尽管此前泄露文件曾提及2028年发布计划，但当前时间表已提前至2027年。",
-    "image_url": "https://s.yimg.com/uu/api/res/1.2/6XJ1wzxYtAMgh.099WkFZg--~B/aD02NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xbox-series-x.jpeg",
-    "url": "https://www.engadget.com/gaming/xbox/amd-suggests-the-next-gen-xbox-will-arrive-in-2027-052707822.html",
+    "summary": "Square Enix在2026年2月5日的Nintendo Direct直播中宣布，《最终幻想7：重生》将于6月3日登陆Switch 2，距离前作《最终幻想7：重制版 综合版》上线仅相隔六个月。该游戏为PS5版本的完整移植，采用实时动作系统而非传统回合制，画面表现力出色。同日，游戏也将登陆Xbox Series X/S。此外，任天堂还公布了《辐射4》《印第安纳琼斯与伟大的圆环》等Bethesda游戏将登陆Switch 2的消息。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/w5ASlKAzszRP10t.jy27vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MDQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/fe15f0f0-02ab-11f1-bc7f-6c7aba08fd91",
+    "url": "https://www.engadget.com/gaming/nintendo/final-fantasy-7-rebirth-comes-to-switch-2-on-june-3-163009481.html",
+    "category": "游戏"
+  },
+  {
+    "title": "《Valheim》今年将登陆Switch 2",
+    "time": "2026-02-05",
+    "source": "Engadget",
+    "summary": "生存类沙盒游戏《Valheim》在Steam平台推出五年后，将于今年登陆Switch 2主机。该游戏以北欧神话为背景，支持最多九人联机，玩家需通过 crafting、建造和战斗生存并挑战诸神。虽然官方预告片显示画面表现一般，但将支持鼠标控制和HD Rumble 2功能。该游戏此前已登陆Xbox，PS5版本也将于同年发布，Switch 2版尚未公布具体发售日期，可能与游戏正式版1.0同步推出。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/aRJbQKrxJKbCw9KO6J9qVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04MDU-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/06109b40-02af-11f1-ab6f-0b16248f2673",
+    "url": "https://www.engadget.com/gaming/valheim-is-coming-to-switch-2-this-year-164159284.html",
+    "category": "游戏"
+  },
+  {
+    "title": "Switch 2独占合作冒险游戏《Orbitals》将于今年夏季发布",
+    "time": "2026-02-05",
+    "source": "Engadget",
+    "summary": "在最新的任天堂Direct发布会上，任天堂公布了Switch 2独占的双人合作冒险游戏《Orbitals》，该游戏以90年代动漫风格为视觉核心，玩家将扮演宇航员Maki和Omura，共同应对宇宙风暴拯救家园。游戏玩法借鉴了《It Takes Two》等合作游戏，强调创意解谜与默契配合。尽管面临高难度的协作游戏标准，其独特的美术风格已令人印象深刻。游戏支持本地与在线合作，并可利用Switch 2的GameShare功能，仅需一人购买即可双人畅玩，预计2026年夏季上线。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/NsPIleapFZh5sjTFwRLHEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MTg-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/1572ac60-02bc-11f1-bff5-4d1b7451ce6d",
+    "url": "https://www.engadget.com/gaming/nintendo/the-switch-2-exclusive-co-op-adventure-orbitals-launches-this-summer-180657892.html",
+    "category": "游戏"
+  },
+  {
+    "title": "MachineGames要求更多员工回归全职办公室工作",
+    "time": "2026-02-05",
+    "source": "GamesIndustry.biz",
+    "summary": "MachineGames工作室总监Jerk Gustafsson表示，公司正逐步从混合办公模式转向要求员工全职在办公室工作，尤其要求管理层每周五天到岗，以提升协作效率与团队凝聚力。该决策基于工作室认为面对面交流能更好地促进跨部门沟通和创意交流，有助于打造更优质的游戏。此举与Ubisoft等公司的返岗政策类似，但Gustafsson指出瑞典员工通勤距离较短，执行压力相对较小。工作室近期也在瑞典北部开设新办公室以支持本地员工。",
+    "image_url": "https://assetsio.gnwcdn.com/indiana-jones-1920p.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/machinegames-asking-more-staff-to-move-to-full-time-office-work",
     "category": "游戏"
   },
   {
     "title": "Take-Two暂停《无主之地4》Switch 2版本开发",
-    "time": "2026-02-03",
-    "source": "Engadget",
-    "summary": "Take-Two宣布暂停《无主之地4》在Nintendo Switch 2平台的开发，原定于2025年10月3日发布的版本已被无限期推迟。公司表示将集中资源优化现有平台的后续内容，并与任天堂保持合作，未来仍可能推出其他游戏。此前开发商Gearbox曾表示需要更多时间进行开发和优化，以支持跨平台存档功能。目前官方公布的DLC路线图中未提及任何新平台移植计划。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/nFSZUpu97ivFR1pFIuLclQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/e0533360-267a-11f0-bfba-3c92663fb30b",
-    "url": "https://www.engadget.com/gaming/take-two-hit-pause-on-the-switch-2-port-of-borderlands-4-222546776.html",
+    "time": "2026-02-04",
+    "source": "GamesIndustry.biz",
+    "summary": "Take-Two Interactive确认已暂停《无主之地4》在Nintendo Switch 2平台上的开发工作，此前该版本原定于2025年10月3日发布，但因需“额外开发与优化”而无限期推迟。公司表示将继续与任天堂合作，并计划未来推出更多作品，如PGA Tour 2K25和WWE 2K26。尽管《无主之地4》Switch版开发暂停，Take-Two仍致力于为该作提供后续内容更新，并强调其在财务上的持续表现，Q3净收入增长25%至17亿美元。",
+    "image_url": "https://assetsio.gnwcdn.com/borderlands-4_3VBeQSJ.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/take-two-pauses-development-on-borderlands-4-switch-2-port",
     "category": "游戏"
   },
   {
-    "title": "任天堂2026年首次Direct发布会定于2月5日举行",
+    "title": "英国游戏产业将获得专属SIC代码用于开发与发行",
     "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "任天堂宣布将于2026年2月5日美国东部时间上午9点举行2026年首次Direct发布会，时长约30分钟。本次发布会将重点展示第三方开发商的游戏作品，而非任天堂第一方IP，因此预计不会出现《马里奥》或《塞尔达》的新作消息。但玩家可期待《Duskbloods》和《艾尔登法环》Switch 2版等第三方或跨平台游戏的最新动态，以及《生化危机：Requiem》等即将登陆Switch平台的作品亮相。",
-    "image_url": "",
-    "url": "https://www.engadget.com/gaming/nintendo/nintendos-first-direct-showcase-of-2026-is-scheduled-for-february-5-141931154.html",
+    "source": "GamesIndustry.biz",
+    "summary": "英国游戏产业将在2026年新版标准产业分类（SIC）体系中获得专属的四位数代码，专门用于游戏开发与发行，以准确反映该行业的经济规模与影响力。此前，游戏行业被归入宽泛的软件与IT类别，导致官方统计数据无法真实体现其价值。UKIE表示，此举将助力政府、投资者和政策制定者更好地理解行业需求，同时首次为电子竞技提供五位数编码，实现对其经济影响的官方测量。这是英国游戏产业获得正式经济身份的重要一步。",
+    "image_url": "https://assetsio.gnwcdn.com/orva-studio-XC3fq-ffXRI-unsplash.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/uk-games-industry-to-receive-dedicated-sic-codes-for-development-and-publishing",
     "category": "游戏"
   },
   {
-    "title": "《守望先锋》将删除“2”并迎来Jetpack Cat等五名新英雄，2026年开启故事驱动新纪元",
+    "title": "台北游戏展2026迎来创纪录观众，访客近40万",
     "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "Blizzard宣布《守望先锋2》正式更名为《守望先锋》，并取消数字后缀，开启全新故事驱动时代。2026年2月10日将迎来五名新英雄，包括拥有飞行与治疗能力的“Jetpack Cat”、控制型坦克Domina、高机动火系英雄Anran等。同时推出长达一年的“Talon统治”主线剧情、阵营战争“Conquest”活动、UI界面重制、Nintendo Switch 2版本移植，以及Hello Kitty联名皮肤等丰富内容，标志着游戏进入全新发展阶段。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/sf1GqEd5L3t5fv8BNEHHKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/uu/api/res/1.2/tCY1Zs8lclYan7VC55QspA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/jetpack_cat.jpg",
-    "url": "https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html",
+    "source": "GamesIndustry.biz",
+    "summary": "台北游戏展2026成功举办，吸引了近40万名访客，创下历史纪录。展会扩大了B2B展览区域，吸引了来自43个国家的2100名行业专业人士参与。作为亚洲重要的游戏产业盛会，本届展会展示了全球游戏开发、发行与技术的最新动态，促进了国际业界交流与合作。官方报道指出，展会的规模与参与度均超越往年，凸显台湾在全球游戏产业中的关键地位。",
+    "image_url": "https://assetsio.gnwcdn.com/taipei-game-show.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/taipei-game-show-2026-welcomed-record-breaking-crowds-and-almost-400000-visits-news-in-brief",
     "category": "游戏"
   },
   {
-    "title": "两党推动SCAM法案要求在线平台打击欺诈广告",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "美国参议员鲁本·加列戈和伯尼·莫雷诺提出 bipartisan SCAM 法案，要求社交平台对盈利的欺诈广告采取合理措施加以遏制，否则将面临联邦贸易委员会和州总检察长的民事诉讼。该法案旨在应对Meta等平台因放任欺诈广告获利的问题，据报告Meta 2024年高达10%的收入来自欺诈广告，总额达160亿美元。法案强调平台应对消费者负起责任，防止老年人等群体遭受高达815亿美元的欺诈损失。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/nsrDCKT64BBjDEkPYDccaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/uu/api/res/1.2/41HkMUWO3TDXBL08iovrPw--~B/aD03OTY7dz0xNDE1O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/scams.jpg",
-    "url": "https://www.engadget.com/big-tech/bipartisan-scam-act-would-require-online-platforms-to-crack-down-on-fraudulent-ads-210316594.html",
-    "category": "社交"
-  },
-  {
-    "title": "为面向大众准备Specs，Snap第四季度营收增长但日活跃用户减少",
-    "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "Snap在第四季度实现17亿美元营收，同比增长10%，净收入增至4500万美元，订阅服务Snap+用户增长71%至2400万。然而，日活跃用户从4.77亿微降至4.74亿，北美和欧洲地区流失明显。公司正筹备推出新一代AR眼镜Specs，并成立独立子公司Specs Inc.，CEO Evan Spiegel强调打造独立品牌以吸引非核心用户群体，但尚未明确商业化路径。同时，公司预计第一季度广告收入将低于预期，面临来自Meta和TikTok的激烈竞争。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/IMG_1806.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
-    "category": "社交"
-  },
-  {
-    "title": "X巴黎总部遭法国检察官突袭",
-    "time": "2026-02-03",
-    "source": "Engadget",
-    "summary": "法国巴黎检察官对埃隆·马斯克旗下的X平台巴黎总部展开突袭，调查其算法是否涉嫌操纵数据以提升特定政治内容的曝光度，尤其是马斯克本人的内容。此次行动还涉及对X算法涉嫌欺诈性提取数据及传播儿童色情图像的指控。检察官同时传唤马斯克和首席执行官琳达·亚卡里诺进行“自愿面谈”，并宣布将停止使用X平台，改用LinkedIn和Instagram沟通。X公司回应称指控“毫无根据”，谴责此次突袭是为达成政治目的的“执法表演”。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/eV4ZIQ47e6K1b6PsB_jaYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/v9MMaWBRfy3PrfAp6bYoGg--~B/aD0yNzkyO3c9NDE4ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/35ca5b50-6b1b-4317-9d18-5792f54ef678",
-    "url": "https://www.engadget.com/social-media/xs-paris-hq-raided-by-french-prosecutors-110411170.html",
-    "category": "社交"
-  },
-  {
-    "title": "美国司法部和各州上诉谷歌垄断裁决，寻求更严厉处罚",
-    "time": "2026-02-03",
-    "source": "Engadget",
-    "summary": "美国司法部和多个州政府就谷歌垄断案裁决提出交叉上诉，要求法院强制谷歌出售Chrome浏览器，推翻此前法官允许其保留Chrome的决定。尽管法官在2025年裁定谷歌为垄断者，但拒绝强制拆分其浏览器，仅限制其独家合作协议并要求共享部分搜索数据。谷歌已单独提起上诉，希望减轻处罚。此次上诉标志着反垄断斗争进入新阶段。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/gZzbImVHOe_qEXCak6pLSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/7f99e030-0123-11f1-bfbd-896187a08df6",
-    "url": "https://www.engadget.com/big-tech/doj-and-states-appeal-google-monopoly-ruling-to-push-for-harsher-penalties-against-the-company-235115249.html",
-    "category": "社交"
-  },
-  {
-    "title": "X的“开源”算法并非透明度的胜利，研究人员认为",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "尽管X公司发布了其推荐算法的部分源代码，声称此举提升了透明度，但研究人员指出，该代码经过大量删减，缺乏训练数据、权重参数和核心模型信息，无法用于实际审计或研究。新算法依赖Grok类大语言模型进行内容排序，使决策过程更加黑箱化，甚至内部工程师也难以理解。专家警告，这种以用户参与度为导向的机制可能加剧信息偏见与用户心理健康问题，并对未来的AI聊天机器人系统构成类似风险。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/TE3hhqO2Eg9GNKem.KREqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://s.yimg.com/uu/api/res/1.2/IHRrjN.vmSFWZbgLHCIyqg--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/5af8ba1a-2bb7-404b-af80-e7b64c662789",
-    "url": "https://www.engadget.com/social-media/xs-open-source-algorithm-isnt-a-win-for-transparency-researchers-say-181836233.html",
-    "category": "社交"
-  },
-  {
-    "title": "Meet Gizmo：一个用于交互式氛围编码迷你应用的TikTok",
-    "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "Gizmo是由Atma Sciences公司推出的创新型移动应用，灵感源于TikTok，但允许用户通过自然语言提示生成交互式迷你应用，无需编程知识。用户可通过点击、滑动、绘画等方式与AI生成的数字玩具互动，内容涵盖谜题、动画、表情包等。应用内置AI编码与内容审核机制，支持跨平台分享。上线不到六个月，下载量已达60万，其中12月单月新增23.5万次安装，增长迅猛。该应用已在iOS和Android平台上线。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/gizmo-app.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-    "category": "社交"
-  },
-  {
-    "title": "PH今日热榜 | 2026-02-03",
-    "time": "2026-02-03",
-    "source": "Decohack",
-    "summary": "本期PH今日热榜精选了30款最新AI产品，涵盖AI代理社交网络（如moltbook、Moltweet）、自动化工具（如ChaChing、EasyClaw）、3D生成（Amara、Paramancer）、开发者效率（Ask Ellie、Design In The Browser）及医疗、法律、求职等垂直领域应用。多数产品聚焦AI自主协作、无代码交互与工作流自动化，其中moltbook以433票居首，显示AI代理生态正快速崛起。平台强调人机协同与智能代理的独立行为，推动下一代数字工作方式。",
-    "image_url": "https://ph-files.imgix.net/95691085-4c25-40bd-ac8d-e5cfa996044d.png?auto=format",
-    "url": "https://decohack.com/producthunt-daily-2026-02-03/",
-    "category": "社交"
-  },
-  {
-    "title": "Spotify推出离线歌词、翻译和歌词预览功能",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "Spotify宣布在全球范围内推出三项歌词新功能：歌词翻译、歌词预览和离线歌词。歌词翻译和预览功能对免费与高级用户均开放，翻译将根据设备语言自动显示；歌词预览会在专辑封面下方显示简化的歌词框，无需切换至全屏模式。离线歌词功能则仅限Spotify Premium用户，下载歌曲时同步保存歌词内容。该更新旨在提升用户对音乐歌词的访问与理解体验。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Spotify_Lyric-Previews2958739845793745-scaled-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews",
-    "category": "社交"
-  },
-  {
-    "title": "埃及成为最新禁止Roblox的国家",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "埃及监管机构计划禁止游戏平台Roblox，声称此举旨在保护儿童的道德与教育价值观。据彭博社报道，埃及将加入土耳其、俄罗斯等已封锁Roblox的国家行列，同时美国部分州也在考虑对该平台实施限制。该决定反映了全球对未成年人在线安全的日益关注，Roblox作为广受欢迎的用户生成内容平台，正面临越来越多的监管压力。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK146_Roblox_New.jpg.webp",
-    "url": "https://www.theverge.com/games/873716/egypt-is-the-latest-country-to-ban-roblox",
-    "category": "社交"
-  },
-  {
-    "title": "西班牙拟效仿澳大利亚禁止未成年人使用社交媒体",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "西班牙首相佩德罗·桑切斯宣布计划禁止16岁以下青少年使用社交媒体，旨在保护儿童免受“数字荒野”的伤害。该政策要求社交平台部署有效的年龄验证系统，与澳大利亚的类似禁令相呼应。此举反映了全球对未成年人网络保护日益增长的关注，引发关于隐私、执行可行性及平台责任的广泛讨论。相关报道援引《纽约时报》消息，目前该法案尚在规划阶段。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/873306/spain-could-block-teens-from-social-media-with-an-australia-style-ban",
-    "category": "社交"
-  },
-  {
-    "title": "Apple TV公布2026年流媒体片单，推出多部新剧与电影",
+    "title": "英国游戏开发公司Sumo Digital宣布裁员",
     "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "Apple TV+宣布了2026年庞大的内容片单，包括多部新剧和电影，如Keanu Reeves主演的《Outcome》、Elle Fanning出演的《Margo's Got Money Troubles》、马丁·斯科塞斯与史蒂文·斯皮尔伯格监制的《Cape Fear》剧集，以及改编自Matchbox玩具的电影等。此外，还公布了《Monarch: Legacy of Monsters》第二季的新预告。此举旨在应对长期以来用户对内容数量不足的批评，但其质量能否维持仍有待观察。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/020326_Apple_Original_Films_Unveils_Outcome_Big_Image_01.jpg?quality=90&strip=all&crop=18.6328125%2C0%2C62.734375%2C100&w=2400",
-    "url": "https://www.theverge.com/streaming/873862/apple-tv-2026-streaming-lineup",
-    "category": "社交"
+    "source": "GamesIndustry.biz",
+    "summary": "腾讯旗下的游戏开发公司Sumo Digital宣布启动裁员程序，具体人数尚未披露，但公司强调所有在研项目均不受影响。此举是公司为应对行业持续不稳定、转向纯合作开发业务后的调整，此前已出售旗下发行部门Secret Mode并剥离子公司The Chinese Room。Sumo Digital曾参与开发《极限竞速：地平线5》《战争机器》等作品，公司表示将全力支持受影响员工，并致力于保持长期竞争力。",
+    "image_url": "https://assetsio.gnwcdn.com/Sumo_logo_Charcoal-Transparent.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/uk-co-development-house-sumo-digital-announces-redundancies",
+    "category": "游戏"
   },
   {
-    "title": "Tinder寻求借助AI应对“滑动疲劳”和约会应用倦怠",
+    "title": "Obsidian老板称因2025年续作未达目标，暂无《天外世界3》计划",
     "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "Tinder推出名为Chemistry的AI新功能，旨在缓解用户因频繁滑动匹配而产生的倦怠感。该功能通过问答和经授权访问用户手机相册，分析其兴趣与个性，以提供更精准的推荐，减少无意义滑动。目前该功能仅在澳大利亚测试，Match集团CEO称其可让用户仅需查看少数几个匹配对象。同时，Tinder正通过Face Check等身份验证功能减少不良用户，并计划投入5000万美元营销预算，重塑品牌形象。尽管Q4营收超预期，但用户增长仍疲软。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+    "source": "GamesIndustry.biz",
+    "summary": "Obsidian娱乐公司确认不会开发《天外世界3》，原因是2025年发布的《天外世界2》和《Avowed》均未达成销售目标。尽管《Grounded 2》取得成功，但长周期开发（超六年）导致资源紧张和团队疲劳，公司决定将未来游戏开发周期缩短至三至四年。公司高层表示，此举旨在优化资源分配，避免过度开发，并强调两款未达标作品并非失败，而是重要的学习经验。未来将继续拓展《Avowed》宇宙。",
+    "image_url": "https://assetsio.gnwcdn.com/outer-worlds-2.webp?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+    "url": "https://www.gamesindustry.biz/obsidian-boss-says-there-are-no-plans-for-the-outer-worlds-3-following-missed-targets-for-the-2025-sequel",
+    "category": "游戏"
+  },
+  {
+    "title": "Snap 公布 2025 年第四季度及全年财报：Snapchat 全球月活用户达 9.46 亿，第四季度营收达 17.16 亿美元",
+    "time": "2026-02-05",
+    "source": "白鲸出海",
+    "summary": "Snap发布2025年第四季度及全年财报，Snapchat全球月活跃用户达9.46亿，同比增长6%；第四季度营收17.16亿美元，同比增长10%，全年营收59.31亿美元。公司持续推动AR技术、AI滤镜、Spotlight短视频和智能眼镜Specs发展，订阅用户增长71%至2400万。广告收入受益于动态广告和AI营销方案，与迪士尼、Wix等合作深化生态布局，新一代Specs智能眼镜计划于2026年发布。",
+    "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20260205/1770285372757254.jpg",
+    "url": "https://www.baijing.cn/article/55003",
     "category": "社交"
   },
   {
-    "title": "Slopaganda西进：右翼网红在圣地亚哥骚扰索马里日托中心",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "右翼YouTuber Nick Shirley曾因在明尼阿波利斯指控索马里裔日托中心欺诈引发联邦移民局介入，现又前往加利福尼亚州圣地亚哥，与当地右翼活动家Amy Reichert一同在日托中心外拍摄。尽管尚未发布新视频，当地 providers 已报告遭监视和骚扰，甚至有人发现陌生人持摄像机在其住所外徘徊。专家批评其行为是算法驱动的煽动性宣传，利用虚假指控制造恐慌，破坏社区信任，并指出其手法类似19世纪黄色新闻，仅以流量为导向。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268235_Nick_Shirley_right_wing_influence_CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/873400/nick-shirley-somali-daycares-san-diego-california-youtube",
+    "title": "X最新社区笔记实验允许AI撰写初稿",
+    "time": "2026-02-06",
+    "source": "Engadget",
+    "summary": "X平台正在测试一项名为“协作笔记”的新功能，允许经过认证的社区笔记贡献者请求AI生成笔记初稿，随后由社区成员通过评分和建议进行润色与改进。该功能将使用Grok作为AI撰写引擎，旨在加速笔记发布流程并实现模型的持续学习。目前仅限“顶级贡献者”使用，未来可能向更多用户开放。此举意在提升社区笔记的效率，但也引发对Grok准确性与可靠性问题的担忧。",
+    "image_url": "https://s.yimg.com/uu/api/res/1.2/2mhKN2qonIdiF6I2M_D9mg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/x_collab_notes.jpg",
+    "url": "https://www.engadget.com/social-media/xs-latest-community-notes-experiment-allows-ai-to-write-the-first-draft-210605597.html",
     "category": "社交"
   },
   {
-    "title": "苹果体育应用新增高尔夫赛事功能",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "苹果公司为其免费的Apple Sports应用新增了高尔夫赛事直播功能，用户现在可以追踪PGA巡回赛和LPGA巡回赛的官方赛事，包括球员个人记分卡、逐洞成绩和实时排名榜。该功能已随本周的WM凤凰城公开赛上线，用户可关注特定选手或整体赛况。此前该应用已加入网球赛事，此次扩展进一步丰富了其体育内容生态。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/apple_sports_golf.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/873701/apple-sports-app-golf-pga-lpga-events-live-leaderboard",
-    "category": "社交"
-  },
-  {
-    "title": "Wayback Machine推出新插件解决互联网链接失效问题",
-    "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "互联网档案馆（Internet Archive）与WordPress母公司Automattic合作推出名为“Link Fixer”的WordPress插件，旨在解决网络链接失效（link rot）问题。该插件可自动扫描文章中的外部链接，若链接失效则重定向至Wayback Machine中的存档版本，并可自动存档作者自己的内容。插件支持自定义扫描频率，默认每三天检查一次，确保读者始终访问到可用的网页内容，同时在原链接恢复后自动切换回原始页面。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-114847550.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
-    "category": "社交"
-  },
-  {
-    "title": "每个人都在偷看电视",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "随着电视订阅费用持续上涨，越来越多观众转向非法流媒体设备如SuperBox和vSeeBox，以免费获取NFL、UFC及各类有线电视频道内容。这些设备本身合法，但预装的软件可访问盗版流媒体服务，绕过正规付费平台。报道通过德州农贸市场卖家Jason的案例，揭示了这一地下市场的兴起，反映了消费者对高价订阅模式的强烈不满。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/258206_The_new_face_of_piracy-_Streaming_boxes_CVirginia4.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/streaming/873416/piracy-streaming-boxes",
-    "category": "社交"
-  },
-  {
-    "title": "OpenAI Codex桌面版深夜突袭！一人指挥Agent军团，程序员彻底告别996",
-    "time": "2026-02-03",
-    "source": "AITNT",
-    "summary": "OpenAI深夜发布Codex桌面版应用，标志着AI编程从对话助手进化为智能体指挥中心。该应用支持多Agent并行协作、Skills技能封装与自动化工作流，可独立完成复杂任务如生成3D赛车游戏，消耗700万token。开发者可通过工作树隔离任务、设置自动化流程，并在macOS上免费使用。Codex还引入双人格模式与安全沙箱，旨在重塑开发交互范式，提升AI在软件全生命周期中的自主执行能力。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/3/27d55454-00a4-11f1-9038-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22187",
+    "title": "全球已有超过5000所学校使用微信小程序教育平台",
+    "time": "2026-02-05",
+    "source": "多知网",
+    "summary": "微信小程序教育平台已在全球超过5000所学校落地，师生累计创建超17万个小程序项目，超5000支队伍在科创活动中脱颖而出。该平台深度整合AI技术，提供代码编辑器、任务式课程、学情分析、AI教学助手等工具，支持在线创作、云端存储、项目式教学全流程，助力学生提升信息科技与跨学科素养，教师可便捷创建个性化课程内容。微信团队表示未来将加大在人工智能教育领域的投入。",
+    "image_url": "http://www.duozhi.com/d/file/2026/02/e59c5339fe51784d30010ce86466a2b1.png",
+    "url": "http://www.duozhi.com/industry/insight/2026020518157.shtml",
     "category": "AI"
   },
   {
-    "title": "速递｜月处理3000万条消息，Linq获2000万美元A轮融资，让AI助手藏进iMessage",
-    "time": "2026-02-03",
-    "source": "AITNT",
-    "summary": "Linq是一家总部位于阿拉巴马州的初创公司，原为B2B客户提供短信和iMessage消息服务，后转型为AI助手的基础设施平台，允许AI助手直接嵌入iMessage、RCS等原生消息应用，无需独立App。其客户AI助手每月处理超3000万条消息，触达13.4万活跃用户，净收入留存率达295%。公司刚完成2000万美元A轮融资，由TQ Ventures领投，旨在扩大团队与技术布局，未来计划支持WhatsApp、Telegram等多平台对话场景。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/3/db98fa12-00d7-11f1-9a1a-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22188",
+    "title": "元萝卜AI机器人落地数十所学校",
+    "time": "2026-02-05",
+    "source": "多知网",
+    "summary": "商汤科技旗下家用机器人品牌“元萝卜”持续推进“AI进校园”项目，自2022年启动以来，已在全国数十所学校落地。合作范围从单一课程支持扩展至特色课程建设、智能教室搭建和科普活动开展。元萝卜基于“双师课堂”理念，提供以棋类启蒙为主线的学期课程方案，包含视频教学、练习与实践环节，推动AI技术在基础教育中的深度应用。",
+    "image_url": "http://www.duozhi.com/d/file/2026/02/146d8f6cab76bfdd5835edbb4dbdf038.png",
+    "url": "http://www.duozhi.com/industry/insight/2026020518155.shtml",
+    "category": "AI"
+  },
+  {
+    "title": "又一款下棋机器人！明仕棋院推出“小明围棋机器人”",
+    "time": "2026-02-05",
+    "source": "多知网",
+    "summary": "明仕棋院近日在其五大校区及两家分院全面引入自主研发的“小明围棋机器人”，用于辅助围棋教学。机器人承担实战演练、语音互动与落子提示等功能，家长还可预约课后一对一陪练。该机器人已入围杭州市围棋智能机器人等级评定中心的指定测评员，并进入任伯年小学等校园，设立人工智能围棋训练教室。此举标志着AI下棋机器人从家庭场景进一步拓展至教育机构，与商汤科技的“元萝卜”等产品形成互补竞争。",
+    "image_url": "http://www.duozhi.com/d/file/2026/02/1cfb8fa03ef4d7e36942b63864c765de.png",
+    "url": "http://www.duozhi.com/industry/insight/2026020518156.shtml",
+    "category": "AI"
+  },
+  {
+    "title": "中公教育布局AI职业技能培训，设立合资公司“新希天才”",
+    "time": "2026-02-04",
+    "source": "多知网",
+    "summary": "中公教育与深圳市芯核云启数字科技有限公司合资成立“新希天才”，专注AI职业技能培训，持股比例为51%:49%。公司初期计划推出覆盖AI应用开发、AI+销售、AI+内容创作等六大方向的18门以上课程，聚焦AI在工作场景中的实际应用。中公教育此前已通过生态伙伴沟通会构建课程研发联盟，应对我国AI人才缺口达500万的市场机遇，此举被视为其在职业教育竞争中拓展增长曲线的重要战略举措。",
+    "image_url": "http://www.duozhi.com/d/file/2026/02/4c6252b4d14fd480bdd97ff73c123760.png",
+    "url": "http://www.duozhi.com/industry/adult/2026020418150.shtml",
     "category": "AI"
   },
   {
     "title": "宝马承认座椅加热订阅是个“错误”，未来重点将转向驾驶辅助",
     "time": "2026-02-05",
     "source": "动点科技",
-    "summary": "宝马罕见承认其按月收费的座椅加热订阅功能是一个错误，因消费者反感而于2023年取消。但宝马并未放弃订阅制模式，未来将重点转向驾驶辅助系统（ADAS）等高阶技术，所有新车均预装相关硬件，用户可事后在线解锁。宝马明确表示不会通过付费解锁提升动力或续航，强调技术应具备但非强制购买，以提升用户体验和灵活性。",
+    "summary": "宝马罕见承认其按月收费的座椅加热和方向盘加热订阅服务是一个错误，该功能于2022年推出后引发消费者强烈反弹，一年后被取消。但宝马并未放弃订阅制，未来将重点转向驾驶辅助系统（ADAS）等高阶技术，硬件将预装在所有新车中，用户可事后通过OTA在线解锁。宝马明确表示不会通过付费解锁提升动力或续航，强调技术应具备但不强求购车时即购买，以提升用户体验。",
     "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
     "url": "https://cn.technode.com/post/2026-02-05/bmw-admits-heated-seat-subscriptions-were-a-mistake/",
-    "category": "其他"
-  },
-  {
-    "title": "消息称英伟达拟向OpenAI注资200亿美元",
-    "time": "2026-02-04",
-    "source": "动点科技",
-    "summary": "据彭博社援引知情人士消息，英伟达即将达成协议，计划向OpenAI投资200亿美元，或成为其有史以来最大的单笔投资。该笔注资是OpenAI新一轮高达1000亿美元融资的一部分，亚马逊和软银也分别参与最高500亿和300亿美元的谈判。尽管此前有传闻称双方关系紧张，但英伟达CEO黄仁勋明确表示将参与下一轮融资，称其为‘非常好的投资’。目前交易尚未最终敲定，条款仍可能调整。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/01/Xperia-he-junhui-rSGjpajBLNU-unsplash-uai-1032x580.jpg",
-    "url": "https://cn.technode.com/post/2026-02-04/nvidia-nearing-20-billion-openai-investment/",
     "category": "AI"
   },
   {
-    "title": "灵漫快创获万兴科技千万级战略投资，打造专属AI电影工作室",
-    "time": "2026-02-03",
-    "source": "AITNT",
-    "summary": "万兴科技完成对AI漫剧制作公司灵漫快创的千万级战略投资，并推出AI驱动的“万兴剧厂”平台，旨在降低漫剧创作门槛。双方将结合万兴的AI技术工具与灵漫的内容制作经验，推动AI漫剧高效生产，实现剧本提效80%、成本降低60%以上。合作瞄准243亿元规模的AI漫剧蓝海市场，计划通过技术平权与全球化发行，助力中国AI漫剧出海，构建完整IP生态链。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/3/ed9a6692-00d7-11f1-9fff-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22189",
-    "category": "AI"
-  },
-  {
-    "title": "加速自动驾驶出租车全球布局，Waymo 获 160 亿美元融资",
-    "time": "2026-02-03",
-    "source": "动点科技",
-    "summary": "Waymo宣布完成160亿美元融资，由Dragoneer Investment Group领投，公司估值达1260亿美元。资金将用于扩大无人驾驶出租车车队，计划在2026年进入至少20个新城市，包括纽约、伦敦和东京。目前Waymo在美国六个城市运营超2500辆无人车，是美国少数提供完全无人驾驶付费服务的公司。尽管成本高昂，需配备传感器、远程监控及维护，但其市场领先地位稳固。同期，美国监管机构正调查其一起撞伤儿童的事故。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
-    "url": "https://cn.technode.com/post/2026-02-03/waymo-raises-16-billion-usd/",
-    "category": "AI"
-  },
-  {
-    "title": "PH今日热榜 | 2026-02-04",
-    "time": "2026-02-04",
-    "source": "Decohack",
-    "summary": "本文汇总了2026年2月4日Product Hunt平台上的热门AI与科技产品，涵盖AI客服助手（如Hugo、Helply）、自动化工具（如Relay.app、24CallDesk）、视频生成（Grok Imagine 1.0）、本地AI应用（如ManePaw、screenpipe）及开发者工具（如Codex、Caudex）等29项创新产品。多数产品强调隐私保护、无代码部署与效率提升，突出AI在客服、编程、知识管理和个人生产力领域的深度应用，全部入选精选榜单，反映当前AI工具向智能化、个性化与本地化发展的趋势。",
-    "image_url": "https://ph-files.imgix.net/b7d5d6b5-7236-4c70-a5b6-f9fc5a0d0037.jpeg?auto=format",
-    "url": "https://decohack.com/producthunt-daily-2026-02-04/",
-    "category": "AI"
-  },
-  {
-    "title": "AI SRE公司Resolve AI确认完成1.25亿美元融资，估值达十亿美元",
-    "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "AI SRE初创公司Resolve AI宣布完成1.25亿美元A轮融资，公司估值达10亿美元，本轮融资由Lightspeed Venture Partners领投，Greylock Partners、Unusual Ventures等老股东跟投。公司由前Splunk高管Spiros Xanthos和Mayank Agarwal于2024年初创立，致力于利用AI自动化系统可靠性工程（SRE）的故障排查工作。Resolve AI否认了此前关于融资分批次、估值被稀释的传闻，强调全部股权均按10亿美元估值一次性认购。该领域另一家竞争者为Sequoia投资的Traversal。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1319917047.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
-    "category": "AI"
-  },
-  {
-    "title": "打破次元壁！索尼新专利：利用 AI 让游戏角色化身播客主播",
-    "time": "2026-02-04",
-    "source": "动点科技",
-    "summary": "索尼互动娱乐申请了一项新专利，计划利用AI技术生成以游戏角色声音播报的个性化播客，内容涵盖游戏新闻、好友动态和游戏推荐，可能在PlayStation 5主界面展示。播客可呈现为音频或视频形式，甚至设计为两个游戏角色之间的对话，增强沉浸感。该专利反映了索尼对生成式AI在游戏体验中应用的探索，尽管尚未确定会落地，但揭示了行业未来方向。此前索尼还申请过AI“幽灵角色”专利，持续布局AI驱动的互动创新。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/02/sony-podcast-patent-768x871-1.webp",
-    "url": "https://cn.technode.com/post/2026-02-04/sony-patents-ai-generated-podcasts-voiced-by-characters-from-its-games/",
-    "category": "AI"
-  },
-  {
-    "title": "AI正在杀死B2B SaaS",
-    "time": "2026-02-04",
-    "source": "Namanyay Goel's Blog",
-    "summary": "本文作者Namanyay Goel指出，AI驱动的‘vibe coding’工具使企业客户能够自行构建内部应用，从而对传统B2B SaaS产品构成生存威胁。许多客户因无需付费即可获得灵活解决方案而停止续费，导致SaaS股价下跌。作者认为，Surviving的关键在于转型为‘系统记录’平台，提供安全、合规且可定制的底层架构，允许客户在其平台上自主构建微应用，从而提升用户粘性与留存率。真正的竞争不再是功能比拼，而是能否成为客户创新的基础设施。",
-    "image_url": "https://nmn.gl/blog/assets/saas-stocks.png",
-    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-    "category": "AI"
-  },
-  {
-    "title": "两个「最强AI」塞进Xcode！苹果这波杀疯了",
+    "title": "GitHub 热榜项目 - 日榜(2026-02-05)",
     "time": "2026-02-05",
-    "source": "AITNT",
-    "summary": "苹果发布Xcode 26.3重大更新，原生集成OpenAI的Codex与Anthropic的Claude两大AI模型，实现智能代码生成、自动重构、错误诊断与视觉反馈修复。开发者可直接在IDE内调用AI代理，实现Agentic Coding，支持搜索文档、遍历项目结构、修改设置，并引入Model Context Protocol开放标准。此举被视为苹果对AI开发工具的战略转型，大幅提升iOS开发效率，降低入行门槛，同时保留本地端侧模型以保障隐私，形成「外援+自研」的双轨AI策略。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/5/bbfacc5a-022f-11f1-b385-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22214",
+    "source": "CSDN",
+    "summary": "本期GitHub热榜显示AI驱动的开发工具和智能体协作平台表现强劲，Claude代码插件、ChatDev等项目实现会话记忆与多智能体编程，显著提升开发效率。WrenAI支持自然语言生成SQL与图表，QLib推动AI量化投资，TypeScript和Python成为主流语言。同时，Anki、nvm、Ladybird等经典工具持续受关注，反映开发者对效率工具与自主创新的重视。",
+    "image_url": "https://i-blog.csdnimg.cn/img_convert/ae472b19dc7563a5a263749d720f4971.png",
+    "url": "https://coderjia.blog.csdn.net/article/details/157761940",
     "category": "AI"
   },
   {
-    "title": "当 Model 3 卖不动了，特斯拉决定不光靠汽车赚钱",
-    "time": "2026-02-03",
-    "source": "动点科技",
-    "summary": "特斯拉因汽车销量下滑，正逐步转型为以自动驾驶和机器人技术为核心的科技公司。马斯克宣布停产Model S和Model X，聚焦Robotaxi与Optimus机器人研发，并推动FSD订阅模式。尽管2025年汽车营收仍占73%，但其同比下滑10%，而能源与服务收入上升。特斯拉计划2026年资本支出达200亿美元，用于Cybercab、Semi、机器人及电池生产，但其自动驾驶事故率高于人类驾驶员，机器人实用性受限，市场对其愿景能否实现仍存疑。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/02/tesla-v-byd.jpg",
-    "url": "https://cn.technode.com/post/2026-02-03/tesla-no-longer-wants-to-be-a-car-company/",
-    "category": "AI"
-  },
-  {
-    "title": "ElevenLabs完成5亿美元融资，估值达110亿美元",
-    "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "AI语音公司ElevenLabs宣布完成由Sequoia Capital领投的5亿美元融资，公司估值达110亿美元，较2025年1月的估值增长三倍以上。现有投资者a16z和Iconiq分别追加投资，Lightspeed、Evantic Capital和Bond等新投资者也参与其中。融资将用于研发、产品创新及拓展印度、日本、新加坡等国际市场。公司计划将语音AI扩展至视频和智能代理领域，并已与LTX合作开发音频转视频技术。目前年经常性收入（ARR）已达3.3亿美元。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-    "category": "AI"
-  },
-  {
-    "title": "ICLR 2026 | Rebuttal 是一场「带着镣铐的舞蹈」？港科 RebuttalAgent 用心智理论「读懂」审稿人",
-    "time": "2026-02-04",
-    "source": "AITNT",
-    "summary": "香港科技大学研究团队提出RebuttalAgent框架，首次将心智理论（ToM）引入学术反驳任务，使AI能像资深学者一样理解审稿人的隐性意图。该框架通过ToM-Strategy-Response（TSR）三阶段模型，先分析审稿人立场与关切，再制定说服策略，最后生成精准回复。研究构建了RebuttalBench数据集，并引入自我奖励机制训练模型，显著提升说服力。实验表明，RebuttalAgent在综合评分和说服力指标上超越GPT-4.1，且其策略可迁移至小模型，提升其表达清晰度。该工具旨在辅助作者理性应对审稿，而非代写或伪造数据。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/4/cb00208e-01a3-11f1-9639-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22198",
-    "category": "AI"
-  },
-  {
-    "title": "现实魔幻！我在AI跑腿网站 rentahuman.ai 标价350，和2万碳基同胞一起排队抢单",
+    "title": "Sapiom筹集1500万美元助力AI代理自主购买技术工具",
     "time": "2026-02-05",
-    "source": "AITNT",
-    "summary": "文章报道了新兴AI跑腿平台rentahuman.ai的爆火现象，AI通过该平台雇佣人类完成现实世界中的任务，如拍照、取包裹、试吃餐厅等，时薪高达350元。平台上线不到48小时，注册人类劳动力已超2万人，包括CEO等高学历人群也参与接单。AI通过标签化筛选人类技能并直接支付报酬，形成“人类为AI打工”的魔幻现实。作者反思AI已从工具演变为支配性资源调度者，引发对具身智能与人类价值的深层担忧。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/5/f67ae7a4-0228-11f1-8f7a-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22213",
-    "category": "AI"
-  },
-  {
-    "title": "8.7万亿！史上最贵独角兽诞生，SpaceX正式官宣收购AI大模型独角兽xAI！",
-    "time": "2026-02-03",
-    "source": "AITNT",
-    "summary": "SpaceX宣布以2500亿美元收购马斯克旗下AI大模型公司xAI，合并后估值达1.25万亿美元（约合8.7万亿元人民币）。马斯克计划利用SpaceX的航天能力部署百万颗轨道数据中心卫星，通过太阳能供电实现低成本AI算力，目标每年发射1太瓦算力。他认为太空是AI规模化发展的唯一路径，未来2-3年太空将成为AI算力成本最低的场所，并以此推动人类迈向卡尔达肖夫Ⅱ级文明。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/3/6b3b117d-00d8-11f1-9281-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22193",
-    "category": "AI"
-  },
-  {
-    "title": "Claude是一个思考的空间",
-    "time": "2026-02-04",
-    "source": "Anthropic",
-    "summary": "Anthropic宣布Claude将保持无广告运营，强调AI对话应是纯粹的思考空间，而非商业推广场所。文章指出，广告可能干扰用户在敏感或深度对话中的信任感，违背Claude宪法中“真正有帮助”的核心原则。公司通过企业合同与订阅收入支持运营，并致力于教育、非营利组织和全球AI普及，确保用户隐私与AI的中立性。所有商业互动均由用户主动发起，而非广告驱动。",
-    "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cd9cf56a7f049285b7c1c8786c0a600cf3d7f317-1000x1000.svg",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "category": "AI"
-  },
-  {
-    "title": "阿里深夜开源80B编程模型！专攻智能体，周靖人、林俊旸最新成果发布",
-    "time": "2026-02-04",
-    "source": "智东西",
-    "summary": "阿里开源新一代编程智能体模型Qwen3-Coder-Next，总参数80B，激活参数仅3B，在SWE-Bench Verified基准上实现超70%的问题解决率，性能媲美激活参数大10-20倍的模型。该模型采用混合专家架构，支持长推理、工具使用与环境交互，可无缝集成至IDE、CLI、浏览器等开发环境，实现自动生成代码、部署服务与测试。团队同步发布SWE-Universe框架，构建近百万级真实软件工程环境。模型已开源，支持研究与商业应用。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/4/5463ce9c-01ac-11f1-8b21-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22210",
-    "category": "AI"
-  },
-  {
-    "title": "Alexa+现已全美上线，非Prime会员可免费试用文本版",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "亚马逊宣布其新一代AI助手Alexa+现已在美国全境上线，Prime会员可免费使用，非会员则需每月支付20美元。同时，亚马逊推出免费文本聊天试用版，供非Prime用户体验。Alexa+具备更自然的对话能力、智能任务管理、个性化推荐及智能家居控制功能，基于用户数字行为提供更精准服务。尽管功能强大，但此前评测指出其体验尚不稳定，存在偶尔令人困扰的不足。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/7dZX6sILBM1YP7xKrJllxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/63c4f3f0-01e0-11f1-befe-36335bebf1fa",
-    "url": "https://www.engadget.com/ai/alexa-is-now-available-nationwide-with-a-free-text-based-version-for-non-prime-members-to-try-155550342.html",
-    "category": "AI"
-  },
-  {
-    "title": "Codex应用改变了什么？（其实并没有）",
-    "time": "2026-02-04",
-    "source": "Ben Shoemaker",
-    "summary": "本文探讨了OpenAI推出的Codex桌面应用如何改变开发者的工作流程，指出其核心价值在于支持多代理并行开发，而非颠覆性创新。作者认为，真正的趋势是软件开发正从‘读写代码’转向‘管理生成代码的系统’，IDE正朝着以规范（Specs）为中心演进，代码本身将成为输出产物而非管理核心。作者使用Codex作为并行开发的辅助工具，同时预测未来开发将更依赖需求、架构与代理协同，而非手动编码。",
-    "image_url": "https://www.benshoemaker.us/images/writing/codex-app-launch/image-1.png",
-    "url": "https://www.benshoemaker.us/writing/codex-app-launch/",
-    "category": "AI"
-  },
-  {
-    "title": "SpaceX–xAI交易显示马斯克宏伟的IPO野心，但加剧股权复杂性",
-    "time": "2026-02-04",
-    "source": "ION Analytics",
-    "summary": "埃隆·马斯克宣布将SpaceX与xAI合并，打造一个涵盖航天、卫星、人工智能和社交媒体的超级企业，拟以约1.25万亿美元估值进行IPO。此举颠覆了市场此前对Starlink独立上市的预期，虽强化了技术协同与投资者吸引力，但也引发对估值合理性、业务整合难度及治理风险的广泛质疑。分析师指出，合并后企业结构复杂，可能混淆投资逻辑，但市场对稀缺资产的追捧已使二级市场流动性枯竭。",
-    "image_url": "https://ionanalytics.com/wp-content/uploads/2025/02/Logo-2-mm-resized-1.svg",
-    "url": "https://ionanalytics.com/insights/mergermarket/spacex-xai-deal-shows-elon-musks-supersized-ipo-ambitions-but-complicates-equity-story/",
-    "category": "AI"
-  },
-  {
-    "title": "终于有产品，打开了缺觉的日本人的钱袋子",
-    "time": "2026-02-03",
-    "source": "白鲸出海",
-    "summary": "韩国开发者推出的助眠App Nightly 凭借脑波夹带技术（Brainwave Entrainment）在日本市场取得突破，近30天收入达31.2万美元，96%来自日本。该应用通过特定频率声波引导大脑从清醒状态过渡至深睡状态，结合AI分析用户状态提供个性化音频，精准切入日本年轻职场人群的睡眠焦虑。尽管用户评价两极分化，且存在付费争议，但其技术路径与本地化运营策略为助眠类出海产品提供了新思路。",
-    "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20260203/1770109945717920.png",
-    "url": "https://www.baijing.cn/article/54991",
-    "category": "AI"
-  },
-  {
-    "title": "AI漫剧出海：内容、技术与商业的全球交响曲",
-    "time": "2026-02-04",
-    "source": "白鲸出海",
-    "summary": "本文报道了白鲸出海与小五兄弟联合主办的‘AI漫剧出海’行业沙龙，聚焦AI漫剧在全球市场的爆发潜力。四位嘉宾从市场趋势、平台策略、IP运营与技术工具四个维度深入探讨，指出AI漫剧在成本、产能和风格灵活性上优势显著，YouTube与独立APP为关键出海渠道，中文泛娱、道影等企业已实现规模化生产与商业化落地。2026年被普遍视为AI漫剧爆发元年，中国创作者正以系统化布局加速走向全球。",
-    "image_url": "https://www.baijing.cn/uploads/wechat/image_17701955579460.jpg",
-    "url": "https://www.baijing.cn/article/54994",
-    "category": "AI"
-  },
-  {
-    "title": "OpenAI 推桌面版 CodeX，多智能体并行，硬刚 Claude Code！",
-    "time": "2026-02-04",
-    "source": "AITNT",
-    "summary": "OpenAI正式发布macOS桌面版Codex应用，定位为AI编程指挥中心，支持多智能体并行工作、工作树隔离、技能包预设与自动化任务，旨在提升开发者效率并对抗Anthropic的Claude Code。该应用采用沙箱模式保障安全，支持CLI、IDE插件与桌面端三位一体协同，目前仅对ChatGPT Plus及以上用户开放，免费用户限时试用。尽管在大型项目处理上表现优异，但对非专业用户门槛较高，且存在资源占用大、上下文循环等问题。",
-    "image_url": "https://www.aitntnews.com/pictures/2026/2/4/67cc6f2a-01a3-11f1-b086-fa163e47d677.webp",
-    "url": "https://m.aitntnews.com/newDetail.html?newId=22195",
-    "category": "AI"
-  },
-  {
-    "title": "谷歌Gemini应用月活跃用户突破7.5亿",
-    "time": "2026-02-04",
     "source": "TechCrunch",
-    "summary": "谷歌宣布其AI聊天机器人Gemini的月活跃用户（MAU）已突破7.5亿，较上一季度的6.5亿实现显著增长。该数据来自 Alphabet 2025年第四季度财报，显示Gemini在AI市场竞争中快速崛起，但仍落后于ChatGPT的约8.1亿用户。谷歌近期推出Gemini 3模型及低价订阅服务Google AI Plus（7.99美元/月），以推动进一步增长。CEO Sundar Pichai表示，AI功能正推动搜索使用量创新高，公司也在部署新一代TPU芯片Ironwood以增强算力竞争力。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+    "summary": "Sapiom是一家由前Shopify支付工程总监Ilan Zerbib创立的初创公司，致力于为AI代理构建金融层，使其能自动完成对API、云服务和软件工具的认证与微支付。该公司刚完成由Accel领投的1500万美元种子轮融资，投资者包括Okta Ventures、Gradient Ventures等。其技术可简化非技术人员使用“振动编码”工具创建应用时的后端集成难题，未来有望支持AI代理独立执行消费级交易，但目前聚焦企业级B2B场景。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/Ilan_Zerbib-3269-067-p.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
     "category": "AI"
   },
   {
-    "title": "放弃E Ink、砍掉应用商店，一块专注力工具拿下众筹128w美金",
-    "time": "2026-02-04",
-    "source": "白鲸出海",
-    "summary": "TCL推出的Note A1类纸平板摒弃传统E Ink技术，采用自研NXTPAPER液晶屏，实现无蓝光、防眩光、高刷新率与全彩色显示，同时配备T-Pen Pro手写笔模拟纸笔书写体验。产品定位商务场景，取消应用商店、蜂窝网络和前置摄像头，强制用户专注，支持语音转录、AI摘要与多语言翻译，众筹金额达128万美元，验证了专业级专注工具的市场潜力。",
-    "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20260204/1770177345566854.png",
-    "url": "https://www.baijing.cn/article/54993",
-    "category": "AI"
-  },
-  {
-    "title": "ChatGPT在下午中断后恢复服务",
-    "time": "2026-02-03",
-    "source": "Engadget",
-    "summary": "OpenAI的ChatGPT今日下午出现部分服务中断，峰值时有超过1.2万用户报告问题。OpenAI随后确认存在“高错误率”，并在美东时间17:14标记问题已解决。目前仅API的微调组件仍处于监控中，但公司表示已采取缓解措施并正在恢复中。与此同时，Anthropic的AI聊天机器人Claude也遭遇类似API故障，但已于美东时间13:00前恢复。",
-    "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ChatGPT_status_update_Feb_3_2026.png",
-    "url": "https://www.engadget.com/ai/chatgpt-is-back-up-after-an-outage-disrupted-use-this-afternoon-210238686.html",
-    "category": "AI"
-  },
-  {
-    "title": "Anthropic称Claude将不植入广告，与竞品ChatGPT形成鲜明对比",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "AI公司Anthropic宣布其聊天机器人Claude将保持无广告运营，与OpenAI在ChatGPT中引入广告的策略形成对比。公司表示，广告会违背Claude作为深度思考助手的核心原则，尤其在用户分享个人隐私或进行复杂工作时，广告显得不合时宜。尽管AI行业面临高昂成本和回报压力，Anthropic仍坚持不依赖广告盈利，但计划继续开发帮助用户购物和连接企业的商业功能。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/8KG2V6wQGuJ_RLtmmjW_7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD03OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/f133f2b0-01e8-11f1-bff3-c3a0778000b1",
-    "url": "https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html",
-    "category": "AI"
-  },
-  {
-    "title": "苹果提升Xcode支持“氛围编程”，增强Claude等AI代理集成",
-    "time": "2026-02-03",
-    "source": "Engadget",
-    "summary": "苹果发布了Xcode 26.3，显著增强了对AI编程代理如Claude和OpenAI Codex的支持。新版本通过Model Context Protocol（MCP）允许AI代理访问Xcode的文件结构、文档、项目设置，并能通过预览功能可视化迭代代码。开发者可通过设置菜单添加并选择偏好模型，提升开发效率。该更新面向Apple Developer Program成员开放，Mac App Store版本即将上线。",
-    "image_url": "https://s.yimg.com/uu/api/res/1.2/3yj0tmMsgML1Ct4sehbHUw--~B/aD02NTQ7dz05ODA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Apple-Xcode-agentic-coding-hero_big.jpg.large.jpg",
-    "url": "https://www.engadget.com/ai/apple-just-made-xcode-better-for-vibe-coding-195653049.html",
-    "category": "AI"
-  },
-  {
-    "title": "OpenClaw才是Apple Intelligence应有的样子",
-    "time": "2026-02-04",
-    "source": "Jake Quist",
-    "summary": "本文指出，OpenClaw这一开源框架让AI代理能够直接控制电脑，成为Mac Mini热销的真正原因，而Apple Intelligence却仅限于通知摘要等有限功能。作者认为苹果拥有硬件、生态与用户信任，本可打造一个能自动化操作的AI平台，构建难以复制的护城河。但苹果因法律风险和平台冲突选择回避，放任第三方实现这一愿景，错失了成为AI时代平台主导者的机会。用户购买Mac Mini运行AI代理，正是对苹果产品方向的明确反馈。",
-    "image_url": "",
-    "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+    "title": "OpenAI在Anthropic发布后数分钟推出新型智能编码模型",
+    "time": "2026-02-05",
+    "source": "TechCrunch",
+    "summary": "OpenAI于2月5日推出名为GPT-5.3 Codex的新型智能编码模型，旨在大幅提升其上周发布的Codex工具能力，使其能自主完成复杂软件开发任务，如从零构建功能完整的应用程序。该模型比前代GPT-5.2快25%，并自称是首个“参与自身开发”的AI模型。此发布紧随竞争对手Anthropic推出同类模型Opus 4.6之后，双方原计划同步发布，但Anthropic提前15分钟发布，略占先机。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
     "category": "AI"
   },
   {
     "title": "Ares Interactive的“AI驱动开发、营销与运营”获得7000万美元A轮融资",
     "time": "2026-02-04",
     "source": "GamesIndustry.biz",
-    "summary": "Ares Interactive宣布完成7000万美元A轮融资，由General Catalyst领投，旨在打造下一代跨平台免费游玩游戏公司。公司依托AI技术优化开发、营销和运营流程，实现快速迭代与内容规模化。团队由旧金山和柏林的资深人士组成，目前正开发棒球题材游戏《Baseball Hits 26》，并已发布玩家超1300万次安装的roguelike RPG《Heroes vs Hordes》。创始人表示，此轮融资将助力其长期构建玩家喜爱的IP，在行业收缩背景下坚定投入游戏创作。",
+    "summary": "Ares Interactive宣布完成7000万美元A轮融资，由General Catalyst领投，旨在打造下一代跨平台免费游戏公司。公司基于AI技术优化开发、营销和玩家运营流程，实现快速迭代与内容规模化。团队由旧金山和柏林的行业资深人士组成，目前正开发棒球题材游戏《Baseball Hits 26》，并曾推出下载量超1300万的roguelike RPG《Heroes vs Hordes》。创始人表示，此轮融资将助力他们在行业收缩期逆势扩张，构建长期玩家社区。",
     "image_url": "https://assetsio.gnwcdn.com/Screenshot-2026-02-04-at-20.11.44.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
     "url": "https://www.gamesindustry.biz/ares-interactives-ai-enabled-development-marketing-and-live-ops-secures-70m-in-series-a-funding",
     "category": "AI"
   },
   {
-    "title": "Roblox推出玩家AI生成互动游戏对象工具，承诺未来将实现全场景生成",
+    "title": "Roblox推出玩家AI生成互动游戏对象工具，承诺未来实现全场景生成",
     "time": "2026-02-04",
     "source": "GamesIndustry.biz",
-    "summary": "Roblox发布了一款面向创作者的AI工具，允许玩家通过文本提示生成互动式3D物体，目前支持汽车和单网格对象两种模式。该工具已在游戏《Wish Master》中试用，六个月内生成超16万件物品，玩家平均游戏时长提升64%。公司正研发开放词汇模式，目标实现任意4D物体与行为的生成，并探索名为“实时梦境”的内部项目，旨在通过自然语言指令构建沉浸式环境。此举是对Google Genie等AI世界生成工具的回应，引发行业对AI在游戏开发中角色的广泛讨论。",
+    "summary": "Roblox发布了一款Beta工具，允许用户通过文本提示生成交互式3D物体，目前已支持汽车和单网格对象两种模式。该工具已在游戏《Wish Master》中测试，六个月内生成超16万物品，玩家平均游戏时长提升64%。公司计划开发开放词汇模式，最终实现全类型4D对象与行为的AI生成，并正在推进名为“实时做梦”的内部项目，探索通过自然语言生成沉浸式环境。此举措回应了谷歌Genie工具引发的行业AI热潮与股价波动。",
     "image_url": "https://assetsio.gnwcdn.com/roblox-ai-jet_SaDdrfE.png?width=570&quality=85&format=jpg&dpr=3&auto=webp",
     "url": "https://www.gamesindustry.biz/roblox-debuts-tool-for-players-to-ai-generate-interactive-in-game-objects-promises-full-scene-generation-is-coming",
     "category": "AI"
   },
   {
-    "title": "123亿美元！北美知名HR软件公司Dayforce 私有化完成，HR科技进入AI加速期",
+    "title": "放弃E Ink、砍掉应用商店，一块专注力工具拿下众筹128w美金",
+    "time": "2026-02-04",
+    "source": "白鲸出海",
+    "summary": "TCL推出的Note A1类纸平板摒弃传统E Ink技术，采用自研NXTPAPER液晶屏，实现无蓝光、防眩光、高刷新率与类纸显示体验，配合T-Pen Pro手写笔提供真实书写触感，并内置AI语音转录与灵感管理功能。产品定位商务专注场景，取消应用商店、蜂窝网络和前置摄像头，强制用户减少干扰，众筹金额达128万美元，验证了专业工具型硬件的市场潜力。",
+    "image_url": "https://www.baijing.cn/ueditor/php/upload/image/20260204/1770177345566854.png",
+    "url": "https://www.baijing.cn/article/54993",
+    "category": "AI"
+  },
+  {
+    "title": "让城市成为一个生命体：交大系酷哇发布WAM 2.0世界模型，剑指RoboCity终局",
     "time": "2026-02-05",
-    "source": "HRTechChina",
-    "summary": "北美人力资本管理（HCM）软件公司Dayforce被全球知名私募股权机构Thoma Bravo以123亿美元完成私有化收购，交易完成后Dayforce从纽约证券交易所和多伦多证券交易所退市。此举旨在摆脱公开市场短期业绩压力，加速在AI驱动的人力资源技术领域的长期战略布局。随着企业对AI赋能HR解决方案需求激增，此次私有化被视为推动其产品升级与全球扩张的关键转折点。公司原股价为每股70美元，交易标志着HR科技行业进入深度整合与AI加速阶段。",
-    "image_url": "https://www.hrtechchina.com/wp-content/uploads/1770213544099-720x340.jpeg",
-    "url": "https://www.hrtechchina.com/74852.html",
+    "source": "量子位",
+    "summary": "酷哇科技发布COOWA WAM 2.0世界模型，突破传统机器人模仿学习的局限，通过统一建模世界状态、动作候选与因果演化，实现机器人在行动前的推演与决策能力。该架构融合语义表征、视频预测、直觉行动系统与VLM宏观约束四大模块，显著降低累积误差与数据依赖。基于此，酷哇已实现50亿元订单与EBITDA回正，并推动“Robo City”构想，打造覆盖城市出行、服务与物流的通用机器人智能网络，标志着物理AI从科研原型迈向商业落地。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/0f20d6a7504dfe0c721d80aa21caf252.webp",
+    "url": "https://www.qbitai.com/2026/02/376429.html",
     "category": "AI"
   },
   {
-    "title": "【英国】背景调查初创公司Veremark获得2200万欧元B轮融资，用于扩展其AI驱动的背景调查工具",
-    "time": "2026-02-04",
-    "source": "HRTechChina",
-    "summary": "英国职场信任公司Veremark完成2200万欧元（约合2600万美元）B轮融资，由Gresham House Ventures领投，Samaipata、ACF Investors和Stage 2 Capital跟投，Salica Investments提供债务融资。资金将用于研发AI驱动的背景调查工具，推动全球业务扩张。公司致力于构建持续监控员工行为的风控机制，通过多重核查、职业护照“Verepass”和自主管理机制，提升招聘可信度与职场诚信，支持雇佣全周期的风险预警与合规管理。",
-    "image_url": "https://www.hrtechchina.com/Public/ckeditor_upload/1762052654.png",
-    "url": "https://www.hrtechchina.com/74839.html",
-    "category": "AI"
-  },
-  {
-    "title": "AI智能招聘平台「千寻AI聘」获得正轩投资领投的千万级天使+轮融资，清华 × MIT 团队重构招聘范式",
-    "time": "2026-02-03",
-    "source": "HRTechChina",
-    "summary": "深圳市屿智同行科技有限公司旗下AI智能招聘平台「千寻AI聘」宣布完成千万级天使+轮融资，由正轩投资独家领投。平台此前已获前海信诺数百万元天使轮投资，本轮资金将用于AI Agent底层技术迭代、产品体验升级、全球顶尖AI人才引进及B端企业场景落地。其创新提出“AI模拟面试+人才深度洞察+精准推荐”三位一体模式，首创“以练代投”机制，实现从文本匹配到能力匹配的突破，显著提升招聘效率超60%，缩短求职周期65%，致力于重构传统招聘范式。",
-    "image_url": "https://www.hrtechchina.com/wp-content/uploads/1770260239428-720x340.png",
-    "url": "https://www.hrtechchina.com/74830.html",
-    "category": "AI"
-  },
-  {
-    "title": "索尼新专利可提供个性化陪伴服务 AI生成游戏角色",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "索尼获批一项基于大型语言模型的AI专利，可让《战神》奎托斯、《地平线》亚洛伊等游戏角色生成个性化播客，为玩家提供互动陪伴服务。该技术虽能提升游戏体验并降低制作成本，但因涉及采集真人演员表演数据用于AI训练，引发全球游戏演员工会强烈抗议，担忧AI将取代配音与动作捕捉等核心工作，导致表演数据归属权争议升级。行业指出，AI生成内容可能削弱角色情感深度与玩家代入感，技术创新与从业者权益的平衡成为关键议题。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020590355953.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997487.html",
-    "category": "AI"
-  },
-  {
-    "title": "我们如何构建一个真实的AI代码审查基准",
-    "time": "2026-02-04",
-    "source": "Qodo",
-    "summary": "本文介绍了Qodo团队构建的首个真实世界AI代码审查基准Benchmark 1.0，通过在真实合并的开源PR中注入功能缺陷与最佳实践违规，全面评估AI工具在代码正确性与质量检测方面的能力。该基准涵盖100个PR、580个问题，覆盖多种语言和复杂系统。实验表明，Qodo模型在F1分数上显著优于其他7个主流AI代码审查工具，兼具高召回率与竞争力的精确率，突破了传统基准仅关注孤立Bug检测的局限。",
-    "image_url": "https://www.qodo.ai/wp-content/uploads/2026/02/Qodo-Benchmark-1024x687.png",
-    "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
-    "category": "AI"
-  },
-  {
-    "title": "Anthropic首支超级碗广告调侃ChatGPT",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "AI公司Anthropic在其首支超级碗广告中巧妙讽刺了OpenAI将广告植入ChatGPT的决策，广告语为“广告即将进入AI，但不会进入Claude”，明确暗示其AI助手Claude将保持无广告体验。该广告活动包含四支广告，其中一支30秒版本在超级碗期间播出，成本约800万美元。此举被视为在AI商业化的关键节点上，Anthropic与OpenAI在商业模式上的公开竞争，引发科技界广泛关注。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/oi873IR.png?quality=90&strip=all&crop=18.444730077121%2C0%2C63.110539845758%2C100&w=2400",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/873685/anthropics-first-super-bowl-ad-dunks-on-chatgpt",
-    "category": "AI"
-  },
-  {
-    "title": "微软称正在构建AI内容授权应用商店",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "微软正在开发名为Publisher Content Marketplace（PCM）的AI内容授权平台，旨在为AI公司提供合法获取出版商优质内容的渠道，并让内容所有者根据使用情况获得报酬。该平台与Vox Media、美联社、康泰纳仕等出版商合作，支持开放标准RSL，推动AI时代内容价值的透明化交易。微软表示PCM将惠及各类规模的出版商，并已开始接入雅虎等合作伙伴进行试点。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
-    "category": "AI"
-  },
-  {
-    "title": "苹果Xcode集成OpenAI和Anthropic的AI编码代理",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "苹果在Xcode 26.3版本中集成OpenAI的Codex和Anthropic的Claude Agent，使开发者能够在Xcode内直接调用AI代理执行编写代码、更新项目设置、搜索文档等操作，而不仅限于提供辅助建议。此次更新通过Model Context Protocol开放接口，支持第三方AI工具接入。该功能面向Apple Developer Program成员开放，预计即将登陆App Store。此举标志着苹果在AI辅助开发领域迈出重要一步，与OpenAI近期发布的Codex独立应用形成协同。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Apple-Xcode-agentic-coding-with-OpenAI-Codex.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
-    "category": "AI"
-  },
-  {
-    "title": "Roblox称其AI世界模型为“实时梦境”",
-    "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "Roblox在谷歌发布Project Genie后不久，公布了其AI世界模型的创新概念——“实时梦境”，允许用户通过文本提示实时生成和修改3D游戏世界。在演示中，AI能根据指令为维京主题世界添加海啸和船只。该技术仍处于研究阶段，尚无上线时间表。尽管AI生成内容在游戏行业引发争议，部分开发者抵制AI工具，Roblox仍致力于推动其在创作中的应用。文章还提及了版权纠纷与行业对AI的担忧。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK146_Roblox_New.jpg.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/games/873777/roblox-ai-world-models-real-time-dreaming-4d-creation-tools",
-    "category": "AI"
-  },
-  {
-    "title": "GitHub添加Claude和Codex AI编码助手",
-    "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "GitHub在Agent HQ框架下正式推出Anthropic的Claude和OpenAI的Codex作为AI编码助手，集成至GitHub、GitHub Mobile和Visual Studio Code，供Copilot Pro Plus或Copilot Enterprise订阅用户使用。开发者可选择不同AI代理处理任务，并评估其生成方案，减少工具切换带来的摩擦。此举是GitHub持续整合第三方AI模型的一部分，未来还将接入Google、xCognition和xAI等更多代理，强化其在AI编程领域的生态布局。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/d6b009a6-cfaa-430a-b88d-cee968c25586.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
-    "category": "AI"
-  },
-  {
-    "title": "亚马逊推出全美范围的Alexa Plus并发布免费层级",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "亚马逊正式向全美用户推出AI增强版语音助手Alexa Plus，提供三种使用层级：Prime会员可免费使用、非Prime用户可付费$19.99/月获得完整功能，或通过免费的Alexa Plus Chat体验基础聊天功能。该助手基于Amazon Nova和Anthropic的大语言模型重构，支持自然语言交互、家庭日程管理、食谱指导、预订服务等复杂任务，并可在Echo设备、网页和App中使用。用户可选择退回到旧版Alexa。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3836.jpeg?quality=90&strip=all&crop=8.9720746093476%2C10.526315789474%2C82.857413281305%2C82.880084398078&w=2400",
-    "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-    "category": "AI"
-  },
-  {
-    "title": "岩石也会思考：论AI推理能力的革命性进展",
-    "time": "2026-02-04",
-    "source": "evjang.com",
-    "summary": "本文作者Eric Jang探讨了AI推理能力的飞跃式发展，指出以Claude为代表的编码代理已能自主设计实验、优化超参数、提出假设并生成研究报告，使AI从代码助手进化为自动化科研人员。文章回顾了从Chain-of-Thought到DeepSeek R-1的推理模型演进，强调基于结果的强化学习结合强大基础模型，使AI能进行类人逻辑推理。作者预言，未来计算资源将主要被用于支持持续运行的AI思考代理，重塑科研、工程与商业决策模式，人类正进入‘岩石也会思考’的智能新纪元。",
-    "image_url": "",
-    "url": "https://evjang.com/2026/02/04/rocks.html",
-    "category": "其他"
-  },
-  {
-    "title": "索尼Xperia新机现身IMEI数据库",
-    "time": "2026-02-04",
-    "source": "动点科技",
-    "summary": "索尼下一代智能手机Xperia 1 VIII和Xperia 10 VIII已出现在GSMA IMEI数据库中，型号分别为PM-1520-BV、PM-1521-BV、PM-1525-BV和PM-153x系列，表明索尼仍在推进移动业务研发。目前曝光型号未包含美国市场版本，预计首批机型将优先面向亚洲或欧洲市场。尽管索尼近期调整了电视业务，但其智能手机产品线仍保持活跃。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
-    "url": "https://cn.technode.com/post/2026-02-04/sony-xperia-new-phones-imei-database/",
-    "category": "其他"
-  },
-  {
-    "title": "告别Flash时代：Adobe Animate将于3月1日停售，结束30年历史",
-    "time": "2026-02-04",
-    "source": "动点科技",
-    "summary": "Adobe宣布将于2026年3月1日起停止销售动画软件Adobe Animate，标志着自1996年诞生的Flash技术正式退出历史舞台。该软件前身为FutureSplash Animator，后经Macromedia和Adobe多次更名与整合，曾主导早期互联网动画与游戏开发。Adobe称此举因新平台涌现，并建议用户转向After Effects或Adobe Express。企业用户可延长使用至2029年。分析认为，此决策与Adobe全面转向AI内容生成战略密切相关，近期已密集推出Firefly等AI工具。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
-    "url": "https://cn.technode.com/post/2026-02-04/adobe-animate-discontinued-flash-history-ends/",
-    "category": "其他"
-  },
-  {
-    "title": "如何设置AirTag",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "本文详细介绍了如何设置苹果AirTag蓝牙追踪器，包括激活电池、通过iPhone或iPad自动连接、命名标签、使用Find My应用手动添加等步骤。文章还提供了设置失败时的排查方法，如检查蓝牙、定位服务和系统版本，并建议使用CR2032电池更换。此外，提醒用户选择合适的配件（如钥匙扣、行李牌）以确保AirTag牢固附着，并可通过Precision Finding功能精确定位物品。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/BSvLH_yiT5S_JHT0zstHbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-11/7dd6fb30-478b-11ec-80bf-7ced6787d770",
-    "url": "https://www.engadget.com/computing/accessories/how-to-set-up-an-airtag-120000789.html",
-    "category": "其他"
-  },
-  {
-    "title": "MSI Prestige 14 Flip AI+ 评测：凭借英特尔Panther Lake成为全能超便携，可惜触控板拖后腿",
-    "time": "2026-02-03",
-    "source": "Engadget",
-    "summary": "MSI Prestige 14 Flip AI+ 是一款搭载英特尔酷睿Ultra X7 358H处理器的多功能超便携笔记本，具备16核、32GB内存和1TB SSD，性能强劲，PCMark 10得分高达10169，续航长达22小时，并能流畅运行《Arc Raiders》等游戏。其14英寸OLED屏幕色彩出色，接口丰富，支持多模式翻转。但机械触控板反应迟钝，键盘手感廉价，且屏幕仅60Hz刷新率，成为主要短板。整体表现令人惊喜，但细节体验仍有提升空间。",
-    "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/MSI_Flip_14-2.jpg",
-    "url": "https://www.engadget.com/computing/laptops/msi-prestige-14-flip-ai-review-an-ultraportable-for-arc-raiders-thanks-to-intels-panther-lake-160000606.html",
-    "category": "其他"
-  },
-  {
-    "title": "美国重获拉丁美洲并购市场主要投资者地位",
-    "time": "2026-02-04",
-    "source": "Mergermarket",
-    "summary": "2025年，美国对拉丁美洲的并购投资总额达118亿美元，同比增长407%，重新成为该地区最大投资者，超越法国。这一趋势与特朗普政府提出的“多诺罗主义”（Donroe Doctrine）密切相关，强化了美国对西半球的战略聚焦。能源与公用事业、食品饮料、医疗和金融科技成为主要投资领域，其中能源 sector 贡献了超过四分之一的交易额。西班牙和中国紧随其后，成为第二、第三大投资来源。分析指出，墨西哥、巴西等国因供应链重组和地缘政治变化持续吸引外资。",
-    "image_url": "https://cdn.mmgcache.net/editorial-content/live/document-repository/document/t4inq9g9y9",
-    "url": "https://ionanalytics.com/insights/mergermarket/us-regains-its-spot-as-main-investor-in-latin-americas-ma-market/",
-    "category": "其他"
-  },
-  {
-    "title": "Uber任命新CFO以加速自动驾驶计划",
-    "time": "2026-02-04",
-    "source": "TechCrunch",
-    "summary": "Uber任命长期任职的高管Balaji Krishnamurthy为新任CFO，接替Prashanth Mahendra-Rajah。Krishnamurthy在投资者关系部门工作逾六年，多次公开支持公司自动驾驶战略，并担任自动驾驶公司Waabi董事会成员。Uber计划在未来几年加大对自动驾驶软件伙伴的投资，目标到2026年底在15个城市提供自动驾驶出行服务，2029年成为全球最大的自动驾驶出行平台。公司已与Waymo、Nuro、Momenta等多家自动驾驶企业建立合作关系，并参与多起自动驾驶初创企业的融资。",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2043993878-e1722276196662.jpg?w=1024",
-    "url": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
-    "category": "其他"
-  },
-  {
-    "title": "新加坡两大国资机构调整对冲基金策略",
-    "time": "2026-02-04",
-    "source": "动点科技",
-    "summary": "新加坡政府投资公司（GIC）和淡马锡近期分别调整其对冲基金投资策略。GIC正重组外部管理人部门，负责人Betty Tay将退休，由Kwong Hong Huat接任，并新增多个岗位。淡马锡则转向由集团层面直接接触全球对冲基金，未来将统一由新成立的Temasek Partnership Solutions（TPS）管理外部基金配置，与Seviora Holdings协作。此举是其整体投资架构重组的一部分，旨在优化资产配置效率，此前其约23%资产由外部管理人负责。",
-    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2020/03/technode-logo-p3-light.png",
-    "url": "https://cn.technode.com/post/2026-02-04/singapore-state-investors-adjust-hedge-fund-strategies/",
-    "category": "其他"
-  },
-  {
-    "title": "Apple AirTag (2026) 评测：全面提升的蓝牙追踪器",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "苹果发布了第二代AirTag，虽外观与前代几乎无异，但搭载了新一代超宽带芯片，精准定位范围提升50%，音量增大50%且音调更高，更易在嘈杂环境中听到。虽仍无钥匙孔，但第三方配件选择增多，价格更亲民。配合iPhone 15及以上机型和Apple Watch Series 9起，定位响应更快，Find My网络覆盖更广，实用性显著增强。售价仍为29美元，性价比突出。",
-    "image_url": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/airtag6_3260.jpg",
-    "url": "https://www.engadget.com/computing/accessories/apple-airtag-2026-review-143000427.html",
-    "category": "其他"
-  },
-  {
-    "title": "三星Galaxy Unpacked 2026：期待S26系列发布的所有内容",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "本文预测三星将在2026年2月25日举办Galaxy Unpacked发布会，推出Galaxy S26、S26+、S26 Ultra及S26 Edge等新机型。S26系列外观延续S25设计，搭载高通骁龙8 Elite Gen 5或自研Exynos 2600芯片，屏幕略大、电池容量提升，S26 Ultra或将取消S Pen触控层以支持Qi2无线充电。Galaxy Buds 4系列或将加入头部手势控制和超宽带芯片。此外，三星可能与Perplexity合作升级Bixby AI功能，但预计不会在S26系列中内置磁吸模块。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/OUuEEs49CpfCyCKMWtnhTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3Ng--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-01/59db82d0-d8d0-11ef-babd-deb856accfc5",
-    "url": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-everything-were-expecting-from-the-s26-launch-130000556.html",
-    "category": "其他"
-  },
-  {
-    "title": "《最后生还者》第三季两位新演员加盟！重要角色换人",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "HBO剧版《最后生还者》第三季确认新增两位演员：克丽·杜瓦尔与小豪尔赫·伦德堡。杜瓦尔将出演“疤脸帮”信徒，伦德堡则接替丹尼·拉米雷斯饰演WLF成员曼尼。本季剧情将聚焦艾比视角，曼尼作为WLF核心成员，性格冷血却忠诚重情，与疤脸帮长期对立。该剧第三季预计继续深入探讨角色间的仇恨与救赎主题。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_202602058523492.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997485.html",
-    "category": "其他"
-  },
-  {
-    "title": "iPhone折叠屏手机传闻：截至目前我们所知的一切，包括泄露的折叠设计",
-    "time": "2026-02-05",
-    "source": "Engadget",
-    "summary": "尽管苹果尚未正式发布折叠屏iPhone，但多方消息指出其可能于2026年下半年与iPhone 18系列一同亮相。传闻设备采用书本式折叠设计，内屏约7.7-7.8英寸，外屏约5.5英寸，使用三星提供的无折痕OLED屏幕，并可能搭载48MP双后摄、24MP屏下自拍镜头，放弃Face ID改用电源键Touch ID。机身或采用Liquidmetal材质增强耐用性，电池容量或达5000-5800mAh，售价预计在2000至2500美元之间，或成史上最贵iPhone。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/6Ckby9Wji6Ey2IXSZY5BCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUwNQ--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-09/a476c2e0-9780-11f0-bd4b-d87caa240702",
-    "url": "https://www.engadget.com/mobile/smartphones/iphone-fold-rumors-everything-we-know-so-far-including-the-leaked-foldable-design-130000349.html",
-    "category": "其他"
-  },
-  {
-    "title": "从零构建24位 arcade CRT 显示适配器",
-    "time": "2026-02-04",
-    "source": "scd31.com",
-    "summary": "作者为Recurse Center的复古街机机台RCade设计并制作了一款从零开发的USB CRT显示适配器，旨在突破Raspberry Pi的18位色彩与低分辨率限制。项目历经多个硬件原型，从RP2040的PIO编程到STM32H7系列芯片的LTDC与USB HS集成，最终实现24位真彩色、60Hz刷新率的完美显示。过程中解决了USB带宽、DAC设计、PCB布线、信号同步等复杂工程问题，并成功将适配器安装至RCade机台，显著提升画面质量，消除色带现象。",
-    "image_url": "https://www.scd31.com/img/rcade/crt-diagram.jpg",
-    "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
-    "category": "其他"
-  },
-  {
-    "title": "如何观看2026年超级碗：爱国者对海鹰队的转播渠道、直播平台与开赛时间",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "2026年超级碗（Super Bowl LX）将于2月8日美国东部时间下午6:30在加利福尼亚州圣克拉拉的利维体育场举行，由新英格兰爱国者队对阵西雅图海鹰队。比赛将在NBC电视台和Telemundo频道直播，同时可通过Peacock、DirecTV、Hulu + Live TV、YouTube TV和NFL+等平台在线观看。 halftime表演由全球流媒体冠军Bad Bunny领衔，Charlie Puth、Brandi Carlile和Coco Jones将分别演唱国歌、美国颂歌和《高举歌声》。球迷可通过官方渠道购买门票或使用免费试用服务观看。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/6YmUZJpJCdaIjdc5XFAk9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTg-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/cc347970-fa64-11f0-bade-27b412e6d1e8",
-    "url": "https://www.engadget.com/entertainment/streaming/how-to-watch-the-2026-super-bowl-patriots-vs-seahawks-channel-where-to-stream-start-time-and-more-175759112.html",
-    "category": "其他"
-  },
-  {
-    "title": "苹果接班倒计时：库克或2027年卸任 谁会是热门候选？",
-    "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "市场普遍认为苹果CEO库克或将於2027年或2028年卸任，目前接班人热门候选为硬件工程资深副总裁约翰·特恩斯。特恩斯主导了Mac与iPad从英特尔芯片向自研M系列的转型，擅长成本控制与供应链管理，但其创新突破能力仍存疑。苹果近年在AI与产品创新上落后于竞争对手，未来接班人选将决定公司是延续稳定策略还是寻求颠覆性变革。同时，苹果计划于2025年底发布首款折叠手机，并调整iPhone与笔记本电脑的更新节奏。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020591517302.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997501.html",
-    "category": "其他"
-  },
-  {
-    "title": "史蒂夫·布罗特曼谈科技领域的趋势：增长型投资的黄金时机",
-    "time": "2026-02-04",
-    "source": "ION Analytics",
-    "summary": "在ION Influencers访谈中，Alpha Partners创始人史蒂夫·布罗特曼分享了对科技投资趋势的深刻见解。他指出，增长阶段投资因数据透明、周期较短成为VC的“甜蜜点”，并强调识别行业领导者、顶级风投背书与理性估值的重要性。他认为AI与加密等新兴领域为中小型基金带来机会，成功投资者需具备独特视角、长期承诺，并将个人财富投入基金。他还分析了科技对GDP占比上升、私人市场崛起等宏观趋势。",
-    "image_url": "https://embed-ssl.wistia.com/deliveries/e0095d6c7a2e056e191604a7083c104b.webp?image_crop_resized=640x356",
-    "url": "https://ionanalytics.com/insights/mergermarket/steve-brotman-founder-and-managing-partner-at-alpha-partners-on-trends-in-the-tech-space/",
-    "category": "其他"
-  },
-  {
-    "title": "人瑞人才250万港元收购香港智诚财富，布局出海企业“人力+保障”服务",
-    "time": "2026-02-04",
-    "source": "HRTechChina",
-    "summary": "人瑞人才科技控股有限公司以250万港元完成对香港持牌保险经纪公司智诚财富100%股权的收购，后者将更名为“瑞保国际”并纳入集团体系。此次收购旨在整合人瑞人才在出海人力服务领域的优势与智诚财富的保险资源，打造“全球人力资源＋全风险保障”一站式服务体系，为企业提供招聘外包、合规咨询、团体医疗及雇主责任险等综合服务，解决出海用工与风控痛点，提升运营效率并降低对接成本。",
-    "image_url": "https://www.hrtechchina.com/wp-content/uploads/1-110-720x340.png",
-    "url": "https://www.hrtechchina.com/74846.html",
-    "category": "其他"
-  },
-  {
-    "title": "目前最佳的MacBook优惠",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "本文介绍了苹果最新MacBook Air、MacBook Pro和Mac Mini的当前优惠信息。M4和M5处理器型号均有多款折扣，其中13英寸M4 MacBook Air售价低至$849，14英寸M5 MacBook Pro降至$1449，M4 Mac Mini降至$549。文章还对比了不同配置的性价比，并推荐通过苹果官方翻新店或亚马逊、Best Buy等平台购买。文章强调，尽管部分型号折扣力度波动，但当前是入手新款Mac的良机。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258013_Apple_M5_MacBook_Pro_14_laptop_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-    "category": "其他"
-  },
-  {
-    "title": "Pixel 10a 可于2月18日预购",
-    "time": "2026-02-04",
-    "source": "Engadget",
-    "summary": "谷歌正式发布Pixel 10a手机，预购将于2月18日开启，但具体规格尚未公布。从官方预告视频看，其外观与Pixel 9a极为相似，疑似为小幅升级版本。据泄露信息，可能配备6.285英寸屏幕、48MP主摄与13MP超广角双摄，以及5100mAh电池。谷歌称这款手机“有更多惊喜即将揭晓”，但目前仍缺乏核心参数与定价信息，用户可前往官网注册获取后续详情。",
-    "image_url": "https://s.yimg.com/ny/api/res/1.2/5EjGG70_oa8oaSY53CX0Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/os/creatr-uploaded-images/2026-02/25246960-01f3-11f1-bb7d-ccea6545a60c",
-    "url": "https://www.engadget.com/mobile/smartphones/you-can-pre-order-the-pixel-10a-on-february-18-180712018.html",
-    "category": "其他"
-  },
-  {
-    "title": "监管 shutdown 避免：科技与政治的无限战争",
-    "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "本文为The Verge专栏作者Tina Nguyen撰写的《Regulator》 newsletter，聚焦美国政坛与科技行业的激烈博弈。文章分析了政府停摆危机的暂时缓解、Crypto Clarity法案的谈判进展、特朗普家族与阿布扎比王室的加密货币投资交易、前FTX CEO Sam Bankman-Fried的政治转向等热点事件，揭示科技巨头如何深度介入政治游说，并指出华盛顿的混乱远超硅谷的预期。文中还提及了比尔·克林顿夫妇将就Epstein案作证、Joseph Gordon-Levitt参与Section 230周年活动等细节。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2258328154.jpg?quality=90&strip=all&crop=16.664568118862%2C0%2C66.670863762276%2C100&w=2400",
-    "url": "https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto",
-    "category": "其他"
-  },
-  {
-    "title": "【法国】健康科技平台Hublo获得4000万欧元融资，旨在解决医疗系统性人力短缺问题",
-    "time": "2026-02-04",
-    "source": "HRTechChina",
-    "summary": "总部位于巴黎的医疗劳动力管理软件平台Hublo获得成长型投资机构Revaia提供的4000万欧元再投资基金。此轮投资旨在支持Hublo在2025年出售后的持续发展，巩固股东基础并推动其扩展为综合性劳动力与人才管理平台。Hublo自2021年起已完成三项收购，实现业务整合，年度经常性收入增长四倍，并提前达成运营盈亏平衡，致力于解决医疗系统性人力短缺问题，提升医护人员工作效率，平均节省2.5小时工作时间。",
-    "image_url": "https://www.hrtechchina.com/wp-content/uploads/1-109-720x340.png",
-    "url": "https://www.hrtechchina.com/74843.html",
-    "category": "其他"
-  },
-  {
-    "title": "城区NOA新格局：头部三强争霸，深圳VLA黑马拿下四成市场",
+    "title": "阿里开源智能体编程模型Qwen3-Coder-Next ，推理成本大降",
     "time": "2026-02-04",
     "source": "量子位",
-    "summary": "2025年城区NOA（领航辅助驾驶）渗透率快速提升至10%，华为HI、元戎启行和Momenta三大供应商合计占据超九成市场份额。三者分别代表世界模型、VLA和一段式端到端三大技术路线，其中元戎启行以VLA路线在10月拿下38%装机量，增速最快。城区NOA正向10万元级车型下探，成本下降推动规模化落地。车企面临自研耗时耗钱的困境，外供成主流选择，VLA因兼具当前商业化优势与未来机器人技术潜力，成为AI与车圈融合的关键路径。",
-    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/1476626dd0aa08fd15d219b546e23343.png",
-    "url": "https://www.qbitai.com/2026/02/376331.html",
+    "summary": "阿里开源新一代智能体编程模型Qwen3-Coder-Next，仅激活3B参数即可媲美DeepSeek-V3.2、GLM-4.7等顶级开源模型，在SWE-Bench Verified等基准测试中问题解决率突破70%，推理成本仅为同等性能模型的5%～10%。该模型基于Qwen3-Next架构，采用大规模可验证编程任务与可执行环境训练，实现边干边学，显著提升长上下文推理与工具使用能力，适用于家用电脑和轻量服务器等低成本部署场景，已开源基座与指令微调版本，支持多平台集成。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/f4b6da34fbf3950b8473dd983e241855.png",
+    "url": "https://www.qbitai.com/2026/02/376298.html",
+    "category": "AI"
+  },
+  {
+    "title": "段鹏飞获马斯克晋升！特斯拉自动驾驶工程总监，武汉理工校友",
+    "time": "2026-02-05",
+    "source": "量子位",
+    "summary": "特斯拉自动驾驶工程总监段鹏飞（Phil Duan）获马斯克晋升，其为武汉理工大学本科校友，硕士博士毕业于美国俄亥俄大学。自2017年加入特斯拉后，他主导了FSD V12至V14版本的AI开发，首创Occupancy Network技术，成为特斯拉Robotaxi核心人物。他曾短暂离职加入Zoox，后因“无聊”回归，推动特斯拉实现全无人测试与自动交付。目前特斯拉Robotaxi车队规模已达500辆，计划扩展至多个城市。文章还提及特斯拉中国高管朱晓彤获2.27亿美元股票期权。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/51ac3e15b56c36efcda20e95d5cd1e12.png",
+    "url": "https://www.qbitai.com/2026/02/376522.html",
+    "category": "AI"
+  },
+  {
+    "title": "陈天桥邓亚峰联手破解大模型记忆难题！4个月打造SOTA系统，悬赏8万美元发起全球记忆挑战赛",
+    "time": "2026-02-05",
+    "source": "量子位",
+    "summary": "陈天桥与邓亚峰领衔的EverMind团队在四个月内推出新一代AI长期记忆系统EverMemOS，突破大模型记忆瓶颈，综合性能达SOTA水平。该系统借鉴人脑记忆机制，通过情景轨迹构建、语义整合与重构式回忆三阶段实现高效记忆存储与检索，支持开源与云服务，并发起8万美元全球记忆挑战赛，吸引开发者共建AI记忆生态，推动下一代智能体实现持续学习与个性化演化。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/70a40ebca1b96f0c5ef3dba11729b73a.webp",
+    "url": "https://www.qbitai.com/2026/02/376636.html",
+    "category": "AI"
+  },
+  {
+    "title": "面壁智能开源全模态模型MiniCPM-o4.5，边看边听还能主动抢答",
+    "time": "2026-02-05",
+    "source": "量子位",
+    "summary": "面壁智能开源全模态模型MiniCPM-o4.5，首次实现边看、边听、主动说的全双工交互能力。该模型通过流式多模态处理机制，在持续接收视觉与音频输入的同时同步生成语音或文本输出，无需等待用户提问即可主动响应，如听到空气炸锅“叮”声即刻提醒。其9B参数规模在多项全模态任务中达领先水平，专为端侧部署设计，支持软硬协同，计划与AI开发板“松果派”配套发布，推动AI在智能车、机器人等终端的实时感知与交互应用。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/58e3c3e052c6d751887f68dfa1405484.jpeg",
+    "url": "https://www.qbitai.com/2026/02/376714.html",
+    "category": "AI"
+  },
+  {
+    "title": "邓明扬一作论文改写生成范式！何恺明也署名了",
+    "time": "2026-02-05",
+    "source": "量子位",
+    "summary": "何恺明团队提出全新生成模型范式——漂移模型（Drifting Models），由人大附中校友、奥赛双料金牌得主邓明扬一作完成。该模型将生成过程中的分布演化从推理阶段转移至训练阶段，通过引入“漂移场”机制实现单步生成（One-step Generation），无需多步迭代。在ImageNet 256×256基准测试中，单步推理FID达1.54，超越传统需数百步的扩散模型。该方法还内化了条件引导机制，显著提升生成质量与效率，并在机器人控制任务中展现强大泛化能力。",
+    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/a3a184807f4c344a4723c26b7a603708.webp",
+    "url": "https://www.qbitai.com/2026/02/376752.html",
+    "category": "AI"
+  },
+  {
+    "title": "太平洋融合公司找到更便宜的核聚变反应堆实现方式",
+    "time": "2026-02-05",
+    "source": "TechCrunch",
+    "summary": "美国核聚变初创公司太平洋融合（Pacific Fusion）在桑迪亚国家实验室的实验中，通过优化燃料 pellet 的金属外壳设计，使磁脉冲在压缩前能微弱渗透加热燃料，从而无需依赖昂贵的激光预热系统。这一改进显著降低了设备复杂性与成本，尤其是避免了价值超一亿美元的激光系统。该技术仍保持原有能量输入水平，仅需极小能量即可实现预热，有望加速低成本商用核聚变电站的实现。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/pacific-fusion-reactor-illustration.jpeg?w=1024",
+    "url": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
+    "category": "其他"
+  },
+  {
+    "title": "潜在星链竞争对手获准发射4000颗卫星",
+    "time": "2026-02-05",
+    "source": "Engadget",
+    "summary": "Logos Space Services公司获得美国联邦通信委员会（FCC）批准，计划在2035年前部署超过4000颗低地球轨道宽带卫星，以与SpaceX的Starlink竞争。该公司由前NASA项目经理和谷歌前高管Milo Medin创立，计划于2027年发射首颗卫星，目标是为全球政府和企业用户提供高速互联网服务。目前轨道上约9600颗卫星属于Starlink，而FCC此前已批准其再部署7500颗第二代卫星，太空碎片问题引发广泛关注。",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/AjnCDrkig7paTVeDD2fEiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/6dc60190-dcc0-11f0-b767-6529e943ff0a",
+    "url": "https://www.engadget.com/science/space/a-potential-starlink-competitor-just-got-fcc-clearance-to-launch-4000-satellites-143905076.html",
+    "category": "其他"
+  },
+  {
+    "title": "a16z风投希望创始人不要过度纠结于虚高的ARR数字",
+    "time": "2026-02-05",
+    "source": "TechCrunch",
+    "summary": "Andreessen Horowitz合伙人Jennifer Li警告初创企业创始人，不要盲目相信社交媒体上宣称的爆炸式ARR（年经常性收入）数据，许多所谓ARR实为短期收入年化估算，缺乏客户留存和业务可持续性支撑。她强调真正的高速增长应建立在客户忠诚度和长期收入基础上，而非追求虚高数字。尽管Cursor、ElevenLabs等公司实现了快速ARR增长，但伴随而来的是招聘、运营和合规等挑战，创始人应更关注可持续增长而非短期炒作。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1270910681.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/02/05/a16z-vc-wants-founders-to-stop-stressing-over-insane-arr-numbers/",
+    "category": "其他"
+  },
+  {
+    "title": "“创业第五天，跑了红杉和上海好几家风投，结果连面都没见到”",
+    "time": "2026-02-05",
+    "source": "动点科技",
+    "summary": "本文通过一位创业者在创业第五天试图联系红杉中国等风投机构却未能获得面谈机会的案例，探讨了早期项目与投资机构匹配的问题。文章指出，头部风投机构通常不针对仅停留在方案和专利阶段的项目提供估值，而是更关注团队背景、产品路径与商业落地能力。早期创业者应优先对接天使投资人或垂直领域早期基金，并学会在短时间内清晰传递项目的核心痛点、优势与路径，而非盲目追求知名机构。",
+    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/02/startup-xhs.jpg",
+    "url": "https://cn.technode.com/post/2026-02-05/the-valuation-trap/",
     "category": "其他"
   },
   {
     "title": "加码智能勘探布局，深脉矿业宣布落子宜宾，规划建设研发制造基地",
     "time": "2026-02-04",
     "source": "量子位",
-    "summary": "深脉矿业于1月29日在宜宾举办技术发布会，正式宣布落地智能勘探装备研发与制造基地，并推出‘深瞳勘探’软硬件一体化平台。该平台整合机器人、无人机与AI算法，构建‘空-天-地’一体化智能勘探体系，提升找矿效率并减少生态扰动。宜宾凭借锂电产业集群与绿电资源，成为理想布局地。基地未来三年将实现从实验室原型到标准化产品的转化，推动绿色勘探与智能制造协同发展，助力我国锂资源自主可控。",
+    "summary": "深脉矿业于1月29日在宜宾举办技术发布会，正式宣布落地智能勘探装备研发与制造基地，推动其“深瞳勘探”软硬件一体化平台实现规模化生产。该平台融合机器人、无人机与AI算法，构建“空-天-地”一体化智能勘探体系，提升找矿效率并减少生态扰动。宜宾凭借锂电产业集群与绿电资源，成为理想布局地，未来基地将优先使用绿电，形成“绿色能源—绿色制造—绿色勘探”闭环，助力锂资源自主可控与智能制造生态升级。",
     "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/f73e17a543735a1a9dbfa75d3c60b71e.jpeg",
     "url": "https://www.qbitai.com/2026/02/376421.html",
     "category": "其他"
   },
   {
-    "title": "马斯克盛赞4680电池起死回生！攻克瓶颈打脸宁德时代，已上车Model Y",
-    "time": "2026-02-03",
-    "source": "量子位",
-    "summary": "特斯拉成功攻克4680电池干电极工艺量产难题，已开始为Model Y供应该电池组。此前该技术因制造难度高、供应商合同价值暴跌99.9%而被广泛看衰，甚至遭宁德时代曾毓群质疑。特斯拉通过创新制造方法，采用更大活性材料颗粒与低比例粘合剂（低于2%），实现无溶剂、无大型干燥炉的高效生产，大幅降低成本并提升能量密度。马斯克称此为工程与供应链的重大成就，未来将用于Robotaxi和Model 2等新车。",
-    "image_url": "https://i.qbitai.com/wp-content/uploads/2026/02/a1087b6d58d94609083dd67dd4608da7.png",
-    "url": "https://www.qbitai.com/2026/02/376209.html",
-    "category": "其他"
-  },
-  {
-    "title": "小米汽车实验室揭秘 六自由度环境模拟技术加速研发",
+    "title": "欧洲最大大学之一遭网络攻击数日瘫痪",
     "time": "2026-02-05",
-    "source": "游侠网",
-    "summary": "小米创办人雷军近日披露了小米汽车实验室的核心设施——六自由度环境模拟试验室，该实验室通过高频多轴仿真试验台复现车辆在复杂路况下的复合振动激励，并叠加-40℃至90℃极端温湿与光照条件，全面验证部件耐久性。采用疲劳加速技术，2周可等效30万公里载荷损伤，显著提升研发效率。此前小米已在北京、上海、南京、武汉设立超150个专业试验室，构建覆盖全国的研发测试体系，彰显其对汽车品质与可靠性的极致追求。",
-    "image_url": "https://img2.ali213.net/picfile/News/2026/02/05/584_2026020592833420.png",
-    "url": "https://www.ali213.net/news/html/2026-2/997505.html",
+    "source": "TechCrunch",
+    "summary": "意大利罗马大学（La Sapienza）——欧洲最大的大学之一，约有12万名学生——因疑似勒索软件攻击导致其计算机系统瘫痪三天。校方为防范风险主动关闭系统，正在利用未受攻击的备份恢复服务，部分电子邮件和工作站仍受限。意大利媒体称攻击者为新出现的“Femwar02”组织，使用BabLock（又称Rorschach）勒索软件，并发出72小时赎金倒计时。目前校方和意大利国家网络安全机构尚未正式确认攻击性质，但考试仍正常进行，校方在校园设立信息点协助学生。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/la-sapienza-university-rome-italy.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/",
     "category": "其他"
   },
   {
-    "title": "现在能买到的最好iPad优惠",
+    "title": "新加坡支付赛道融资超3亿美元，高于东盟五国金融科技融资总和",
     "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "本文介绍了当前市场上各款iPad型号的最新优惠信息，涵盖iPad（第11代）、iPad Mini（2024）、iPad Air（2025）和iPad Pro（2025）等型号，详细列出不同存储容量和网络版本在亚马逊、Best Buy、沃尔玛等平台的折扣价格。文章指出，尽管大促期间优惠更多，但日常折扣也颇具吸引力，尤其是iPad Mini和iPad Air的降价幅度显著。同时提醒消费者，M5芯片的iPad Pro已开始降价，而旧款M4型号库存减少，适合预算有限者考虑。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C0.094161958568733%2C100%2C99.811676082863&w=2400",
-    "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+    "source": "动点科技",
+    "summary": "根据新加坡金融科技协会与普华永道发布的报告，2025年前九个月新加坡支付领域融资额达3.19亿美元，占本地金融科技融资总额的44%，并超过印尼、马来西亚、菲律宾、泰国与越南五国金融科技融资总和。数字支付交易规模预计2030年达1136.5亿美元，98%成年人持有银行账户，移动钱包用户将突破320万。无现金支付在零售POS占比已达97%，Z世代偏好PayNow，30%消费者完全依赖手机支付。监管方面，MAS依据《支付服务法》推动嵌入式金融、AI与可编程货币等技术发展。",
+    "image_url": "https://cn.technode.com/wp-content/blogs.dir/18/files/2026/02/serj-sakharovskiy-3jxrVtK8eZc-unsplash-uai-1032x580.jpg",
+    "url": "https://cn.technode.com/post/2026-02-05/singapore-payment-funding-surpasses-asean-5-fintech-total/",
     "category": "其他"
   },
   {
-    "title": "The Verge的2026年情人节礼物指南（给男性）",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "本文为男性伴侣推荐了25款创意情人节礼物，涵盖不同预算和兴趣，包括AirPods 4、Nomad皮革钱包、Image3D复古观景器、Mebak按摩枪、Criterion Channel订阅、定制Funko公仔、Nintendo Switch 2等。文章强调避开传统鲜花巧克力，提倡实用、有趣且个性化的选择，如命名一只蟑螂或购买CPR培训课程。所有推荐均经过编辑团队验证，并附有购买链接与价格对比。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268264_Valentines_Day_gift_guide_for_him_CVirginia-.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner",
-    "category": "其他"
-  },
-  {
-    "title": "台铃冲刺百亿IPO，汕尾三兄弟的“小电驴”往事",
+    "title": "《华盛顿邮报》在关键时刻撤出硅谷",
     "time": "2026-02-05",
-    "source": "钛媒体",
-    "summary": "台铃正式向港交所递交上市申请，估值约95亿元。这家由汕尾孙氏三兄弟创立的电动两轮车企业，从摩托车维修铺起步，通过专注长续航技术研发，逐步成长为行业第三。2025年前九个月营收达148.4亿元，净利润同比大增122.4%，并获上汽、LVMH等战略投资。但面对雅迪、爱玛等巨头的竞争、新国标实施压力及海外拓展乏力（2024年海外收入仅占2.3%），台铃上市后仍面临严峻挑战。",
-    "image_url": "https://images.tmtpost.com/uploads/avatar/7725154_1761274896.png?imageMogr2/auto-orient/strip/interlace/1/quality/85/format/jpg/thumbnail/1400x1400&ext=.png",
-    "url": "https://www.tmtpost.com/7866969.html",
+    "source": "TechCrunch",
+    "summary": "《华盛顿邮报》在贝佐斯所有旗下进行大规模裁员，裁撤了超过300名员工，其中科技、科学、健康和商业部门从80人削减至33人，旧金山分社名存实亡。该报同时削减了对亚马逊、Blue Origin等公司的报道，甚至关闭了体育、国际新闻和文化版块。尽管媒体行业普遍面临流量下滑与收入压力，但此次裁员因涉及对科技巨头的监督缺失而引发广泛质疑，尤其在贝佐斯本人正与国防部长会晤Blue Origin设施之际，其媒体子公司却裁撤了报道该公司的记者，凸显利益冲突。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/washington-post-lawyoffs-Getty.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/",
     "category": "其他"
   },
   {
-    "title": "00后的欲望与压抑，藏在12888部漫剧名字里",
+    "title": "NASA宇航员可携带手机执行登月任务",
     "time": "2026-02-05",
-    "source": "钛媒体",
-    "summary": "本文分析了12888部漫剧剧名，揭示00后群体通过‘重生’‘逆袭’‘末日’‘系统’等高频关键词构建的爽感叙事体系。漫剧以低成本AI制作快速产出，精准迎合年轻男性用户对逆袭、超能力与身份反转的欲望，形成‘直给式’标题风格与IP宇宙化运营模式，成为反映当代青年心理压抑与精神出口的重要文化现象。",
-    "image_url": "https://images.tmtpost.com/uploads/images/2026/02/2002d2c21081d355deb28da1d26df00f_1770217050.jpeg?imageMogr2/auto-orient/strip/interlace/1/quality/85/thumbnail/720x540/gravity/center/crop/!720x540&ext=.jpeg",
-    "url": "https://www.tmtpost.com/7867085.html",
+    "source": "TechCrunch",
+    "summary": "NASA宣布宇航员首次获准在太空任务中携带个人智能手机，包括即将执行的Crew-12空间站任务和推迟至3月的Artemis II登月任务。此举旨在让宇航员更自发地记录和分享太空中的珍贵瞬间，提升公众参与度。相比以往使用的老旧相机，智能手机能提供更高质量的图像与视频，也标志着NASA加速现代设备入太空的审批流程。该政策此前已在SpaceX私人任务中试行。",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/nasa-spacex-crew-2-return.jpg?w=1024",
+    "url": "https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/",
     "category": "其他"
   },
   {
-    "title": "Kalshi称关于投注者亏损的报告是勒索，后又撤回",
-    "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "据《彭博社》报道，预测市场平台Kalshi曾向数据分析公司Juice Reel的CEO施压，要求其否认一份指出Kalshi用户亏损比例高于FanDuel和DraftKings等传统博彩平台的分析报告，并称该报告为“勒索”。该分析由Citizens公司研究员Jordan Bender完成，质疑Kalshi宣传的“用户友好型投注”说法。随后Kalshi撤回了相关指控。此事引发对预测市场透明度和商业伦理的争议。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/RICHARD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/tech/873922/kalshi-called-a-report-on-bettors-losses-extortion-before-backing-off",
-    "category": "其他"
-  },
-  {
-    "title": "四大最佳超级碗电视优惠",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "本文介绍了为超级碗赛事挑选电视的四大最佳优惠型号，涵盖三星S95F OLED、LG C5 OLED、TCL QM7K QD-Mini LED和海信U7QG 100英寸电视。文章分析了各型号在亮度、色彩、视角、价格和适用场景方面的优劣，推荐适合不同预算和房间环境的用户。其中，海信U7QG以超大尺寸和高亮度成为性价比之选，而三星和LG的OLED电视则在画质和黑位表现上更胜一筹。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25818712/DSCF4306.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/gadgets/873160/super-bowl-4k-oled-big-tv-deal-sale",
-    "category": "其他"
-  },
-  {
-    "title": "AT&T与亚马逊的Starlink竞争对手合作扩展网络",
-    "time": "2026-02-04",
-    "source": "The Verge",
-    "summary": "AT&T正与亚马逊的低地球轨道卫星网络Project Kuiper（现更名为Leo）合作，计划利用其卫星技术为商业客户提供固定宽带服务。亚马逊于去年11月推出了适用于企业用户的Gigabit-speed Leo Ultra天线，目前仅限商业用途。此次合作旨在加速美国连接基础设施的现代化，提升偏远地区的企业网络覆盖能力。该合作涉及AT&T、AWS与亚马逊三方，标志着卫星互联网在企业级市场的重要拓展。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/873722/att-is-working-with-amazons-starlink-competitor-to-expand-its-network",
-    "category": "其他"
-  },
-  {
-    "title": "杰夫·贝佐斯与《华盛顿邮报》：从自豪到裁员风波",
-    "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "本文回顾了杰夫·贝佐斯自2013年收购《华盛顿邮报》以来态度的转变，从最初宣称会以民主为使命，到近年削减新闻团队、取消政治 endorsements。2026年2月，邮报裁员超过300人，波及体育、国际和科技报道部门，前总编马蒂·巴伦称这是该报历史上“最黑暗的日子之一”。文章引用尼曼实验室分析，指出贝佐斯言论从理想主义转向实用主义，引发对媒体独立性的广泛担忧。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/RICHARD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "url": "https://www.theverge.com/news/874195/jeff-bezos-washington-post-layoffs",
-    "category": "其他"
-  },
-  {
-    "title": "美国芯片制造商以75亿美元收购物联网公司",
-    "time": "2026-02-05",
-    "source": "The Verge",
-    "summary": "美国芯片制造商德州仪器（Texas Instruments）宣布以75亿美元收购物联网芯片设计公司Silicon Labs。Silicon Labs专注于智能家庭无线电和系统级芯片（SoC）技术，其产品支持Z-Wave、蓝牙、Zigbee、Thread、Amazon Sidewalk和Matter等主流智能家居协议。此次收购将增强德州仪器在智能家居市场的布局，同时与其近期为家得宝（Home Depot）Hubspace智能生态供应MCU的合作伙伴关系形成协同。该交易标志着半导体行业对物联网基础设施的持续整合。",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/8A0A5153.jpeg?quality=90&strip=all&crop=3.0021834061135%2C0%2C93.995633187773%2C100&w=2400",
-    "url": "https://www.theverge.com/news/874085/a-us-chipmaker-is-buying-this-iot-company-for-7-5-billion",
-    "category": "其他"
+    "title": "Sam Altman 的 OpenAI路线图：把研究、产品、算力和能源绑成一件事",
+    "time": "2026-02-06",
+    "source": "Fun AI Everyday",
+    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRG2MBn2OSROpsAY7h2xfoaicuT0XpojmzLcTCWXZu5eibOxyicSHFdKCM2icPltV19yFDPR1jHhEULITA/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/LMtWlR37sZdbnNVlhXkhnA",
+    "category": "AI"
   },
   {
     "title": "10 个人，40 亿美元：Ricursive 能否通过“AI 造芯片”终结算力荒？",
@@ -1177,40 +378,49 @@
     "category": "AI"
   },
   {
-    "title": "Product Hunt | 2026 年首批 Top 产品揭秘",
-    "time": "2026-02-03",
-    "source": "Fun AI Everyday",
+    "title": "2000亿军备赛！亚马逊为AI颠出新高度",
+    "time": "2026-02-06",
+    "source": "海豚投研",
     "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/Ac74vArFCRErHx1EmKVD9EmibBEeibmG8YrVswMpo2xP6KVjgTD7m1FuZmvlZghtFtUSXlKhRy0E760bYegpZoMw/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/GLM-Kjd7_eJFNUkhqEGarQ",
+    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VEep9DiatmrCqjzVbLHw7iaj0ezIjlge89v7yn8clYwun9KKp14P4SAN0Saicm8ML2L1EhYPzhaGpC2w/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/Fyy7MPgjNqlLrzx50-EZ4g",
+    "category": "其他"
+  },
+  {
+    "title": "ARM：AI 红利未消，手机却成了当下羁绊？",
+    "time": "2026-02-06",
+    "source": "海豚投研",
+    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/oqyvInCB8vRlcuVDnZqpRsWl2AQPEPdibNJBsTK8xj99DFdLzmgKWeKYhyfU59Cef6xEbNju5xliaduHGGETC28M08ibd8CMTgqFGoyDianWiavs/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/LVPBJ7I-gsZkNG7MaWgEyQ",
+    "category": "其他"
+  },
+  {
+    "title": "谷歌（纪要）：预计今年全年算力（能源、土地、供应链）供应持续受限",
+    "time": "2026-02-06",
+    "source": "海豚投研",
+    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VEep9DiatmrCqjzVbLHw7iaj09drCW7ic0NGgzXHfMLU0zXGicwQwJb0AeY6NhCHWw6uzIPHFIzWdsdAg/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/2hhVs0LRSZ08Erl8nuZXyQ",
+    "category": "其他"
+  },
+  {
+    "title": "Claude Opus 4.6和GPT 5.3 Codex同时更新，这波贪了，应该留到春晚再看的",
+    "time": "2026-02-06",
+    "source": "卡尔的AI沃茨",
+    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
+    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/VNz1x8bH8FysGHkukmG0DuCg9THXUMP8MRAGLDksBUrbhgHDj18XHqZbCvhEsysltVYm3GRhZCU4uyWmdAicB3PibC4ggXzBBkSMMZib1Dx4FA/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/USIxq6xU28aJU2q0z-dpMw",
     "category": "AI"
   },
   {
-    "title": "谷歌：大哥也疯狂，翻倍豪赌AI",
+    "title": "实测Lovart新上的设计Skills，我第一次见Agent那么主动的",
     "time": "2026-02-05",
-    "source": "海豚投研",
+    "source": "卡尔的AI沃茨",
     "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VEep9DiatmrCqjzVbLHw7iaj07iaAlASe0LiaeSKlXZTj2UicLdictdaSRxSxCqkVNLyl4rDicR8TwaqmBfQ/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/FLRu-7U-_RD7cOmXJ7Iz4g",
-    "category": "其他"
-  },
-  {
-    "title": "AMD（纪要）：维持长期展望不变，MI500 于 2027 年推出",
-    "time": "2026-02-05",
-    "source": "海豚投研",
-    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VEep9DiatmrCqjzVbLHw7iaj09zlLQqicFaYaiaVgGXuibaKicOAbu2tLLE6slEaqY7Fs9T5graicf1tFyKw/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/slF0oRStMqQ18w9TnYNxdw",
-    "category": "其他"
-  },
-  {
-    "title": "又是雷声大雨点小！AMD何时才能硬气？",
-    "time": "2026-02-04",
-    "source": "海豚投研",
-    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/1QvVcNsR8VEep9DiatmrCqjzVbLHw7iaj05Zfbb9aTXNryvWUvbYaagOUZq6YIojPuiaAiaG0ZLharMD4gmWcZribyA/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/_Fp6EP2eSjbSo7wnlN0Y6w",
-    "category": "其他"
+    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/VNz1x8bH8FzBN5lYwrNC3KzcmLHgiaibHhupZ5XaOxp2PypM4vcHKUexHt3qu1qK9WBhl1MJKiapQUOfHpXr0XT5Dq9G14ZGtDhkYzXk1VtnAs/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/0sRqZhVACfgqRYgKiJ5msA",
+    "category": "AI"
   },
   {
     "title": "实测Claude4.5+Gemini3版Cowork，这就是多模态Agent的正确玩法",
@@ -1222,49 +432,30 @@
     "category": "AI"
   },
   {
-    "title": "实测OpenAI新Codex app，免费用户能玩多Agent但有个大坑",
-    "time": "2026-02-04",
-    "source": "卡尔的AI沃茨",
-    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "",
-    "url": "https://mp.weixin.qq.com/s/M9GZF-XJlSziJJvgwqi9qA",
-    "category": "AI"
-  },
-  {
-    "title": "Clawdbot超级小白入门指南，不靠MacMini和云，安全用上满血版",
-    "time": "2026-02-02",
-    "source": "卡尔的AI沃茨",
-    "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YEhakvKZjXnJibu74ceOqib989YkiaB1jCibzqZcHhNGnhHIfJ5EWYMJ8IUlcz6VD4T3hrZ18DdCtMRUbUElEDXM0g/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/4-xit1hBs42CQEzJZmxsVw",
-    "category": "AI"
-  },
-  {
-    "title": "北芯生命正式登陆科创板：开盘上涨超200%，第五套标准重启后迎首个医疗器械IPO",
-    "time": "2026-02-05",
+    "title": "卓正医疗正式登陆港交所：开盘上涨超50%，「医疗界Costco」积极拥抱AI新时代",
+    "time": "2026-02-06",
     "source": "IPO早知道",
     "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1bRcbwMwkaugd4JTmbWuxt3Iqiageh84kiaTYicFNKaaiaqmQfEyCHm5OrYvCyUbC68ibuHx2UHiaTr9MUw/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/Hlo5JCVyu9m0IlCiXqQEvw",
+    "image_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/cS24iaaGStSOO9I5wSkib6NkZlylZsut6oe0c7BXOgicK1FhINLE5e3kp64ayOWDEw98NKzHSTzRvvL3ibdLprb0modLibzBM9vSXUQibCNUv4Jjg/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/kjrmAd8clNJ1olSBQRelOg",
     "category": "其他"
   },
   {
-    "title": "红杉中国曹弋博：北芯生命证明了中国企业能够通过技术反超来重塑市场格局",
-    "time": "2026-02-05",
+    "title": "天图魏国兴：卓正团队始终坚守医疗本质，持续关注医疗健康领域的投资机遇",
+    "time": "2026-02-06",
     "source": "IPO早知道",
     "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1bRcbwMwkaugd4JTmbWuxt3xVtQicCorDD5O3EqUdr81aLGLVmEcqmRehick6d9ibUsZMfmLLySkrTPw/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/7iij8uQk9shoSajEYsEtpg",
+    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/cS24iaaGStSPAOicjzyNxhbcUZ885n3hicG0bEbRg4pROB5ohfgfEm119aasVJWbg0PHLMMXQH4LIkWWiaWZLKJWicjmUWhVFgW9nlCkJoEZENYw/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/q9CFtT-GCQILVtV32qLxNw",
     "category": "其他"
   },
   {
-    "title": "启明创投张奥：携手北芯生命六载，对中国医疗创新的基本面保有强烈信心",
-    "time": "2026-02-05",
+    "title": "小马智行与摩尔线程达成战略合作，以国产AI算力加速中国自动驾驶规模化落地",
+    "time": "2026-02-06",
     "source": "IPO早知道",
     "summary": "该篇文章来自微信公众号，由于政策限制，请直接前往原文阅读",
-    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/OTq2s6r5Y1bRcbwMwkaugd4JTmbWuxt3Ym4YcCibynDu5F29EdlWArCxvibh0EvcKw4QoPMmk5VwSLdJ5iaFIhCiaA/0?wx_fmt=jpeg",
-    "url": "https://mp.weixin.qq.com/s/eARbSLpukSrnMZE6hCCBXw",
+    "image_url": "https://mmbiz.qpic.cn/mmbiz_jpg/cS24iaaGStSOCnEMeyYibMasZdQFsgp1AE5DJDMFwfjwiaxFYy9j3mTtbTQ1LGSEgqbWu8V3TSdJ5vk8I9nF9KPKq8fZtF8X7SquYg55PmjAhQ/0?wx_fmt=jpeg",
+    "url": "https://mp.weixin.qq.com/s/sEEpSmNQ3rmnwac0BH0YEw",
     "category": "其他"
   }
-
 ]
